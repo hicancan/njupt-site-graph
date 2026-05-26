@@ -1,0 +1,15 @@
+[project]
+name = "njupt-site-graph"
+version = "0.1.0"
+description = "NJUPT instance project for static-site-graph"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.setuptools]
+py-modules = []

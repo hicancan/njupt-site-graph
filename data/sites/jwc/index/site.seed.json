@@ -1,0 +1,9 @@
+{
+  "site_id": "jwc",
+  "name": "本科生院 / 教务处",
+  "base_url": "https://jwc.njupt.edu.cn/",
+  "domain": "jwc.njupt.edu.cn",
+  "adapter": "njupt_wp",
+  "created_at": "seed",
+  "notes": "Seed model generated from initial web research; final manifest must be generated locally."
+}
