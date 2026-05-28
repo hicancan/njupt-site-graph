@@ -22,16 +22,10 @@ D:\code\github\hicancan\njupt-site-graph
 D:\code\github\hicancan\njupt-search
 ```
 
-## First command for Claude Code
+## Repository boundary
 
-Open this repository in Claude Code with Chrome enabled:
-
-```powershell
-cd D:\code\github\hicancan\njupt-site-graph
-claude --chrome
-```
-
-Then paste the command from `prompts/GOAL_PROMPT.md`.
+Only product-facing configuration, tests, workflows, and generated site packages are tracked here.
+Local research notes, audit reports, prompts, and agent/Claude/Codex configuration are intentionally ignored.
 
 ## Human setup
 
@@ -52,5 +46,5 @@ Complete state means:
 2. Every discovered URL is classified into a manifest outcome.
 3. Chrome has verified each distinct page family.
 4. `data/sites/jwc/index/` contains the required structured package.
-5. Export contract for `njupt-search` is documented and tested.
+5. Export contract for `njupt-search` is enforced by tests and generated package manifests.
 6. Reusable patterns are backfed into `D:\code\github\hicancan\static-site-graph`.

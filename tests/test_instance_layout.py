@@ -5,7 +5,7 @@ from site_package_assertions import read_json
 
 def test_jwc_config_exists():
     assert Path('configs/sites/jwc/site.yaml').exists()
-    assert Path('docs/research/jwc_deep_audit.md').exists()
+    assert Path('data/sites/jwc/index/manifest.json').exists()
 
 
 def test_jwc_manifest_remains_complete():

@@ -41,8 +41,6 @@ def read_jsonl(path: Path) -> list[dict]:
 def assert_required_site_package(site_id: str) -> None:
     root = Path('data/sites') / site_id / 'index'
     assert (Path('configs/sites') / site_id / 'site.yaml').exists()
-    assert (Path('docs/research') / f'{site_id}_deep_audit.md').exists()
-    assert (Path('data/sites') / site_id / 'reports' / 'audit_report.md').exists()
     for filename in PACKAGE_FILES:
         assert (root / filename).exists(), f'{site_id} missing {filename}'
 
