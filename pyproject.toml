@@ -2,6 +2,7 @@
 name = "njupt-site-graph"
 version = "0.1.0"
 description = "NJUPT instance project for static-site-graph"
+license = { file = "LICENSE" }
 requires-python = ">=3.10"
 dependencies = []
 
