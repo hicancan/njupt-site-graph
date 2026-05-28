@@ -1,0 +1,426 @@
+{
+  "site_id": "xsc",
+  "generated_at": "2026-05-28T07:31:55.001995+00:00",
+  "nodes": [
+    {
+      "node_id": "fb4883409229486f5e86",
+      "site_id": "xsc",
+      "label": "网站首页",
+      "url": "https://xsc.njupt.edu.cn/main.htm",
+      "nav_path": [
+        "网站首页"
+      ],
+      "depth": 1,
+      "target_type": "homepage",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 0
+    },
+    {
+      "node_id": "23ce376d5284ebb319f5",
+      "site_id": "xsc",
+      "label": "部门概况",
+      "url": "https://xsc.njupt.edu.cn/1146/list.htm",
+      "nav_path": [
+        "部门概况"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 1
+    },
+    {
+      "node_id": "e04c05f96fa907a2bc16",
+      "site_id": "xsc",
+      "label": "工作职责",
+      "url": "https://xsc.njupt.edu.cn/1147/list.htm",
+      "nav_path": [
+        "工作职责"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "23ce376d5284ebb319f5",
+      "position": 2
+    },
+    {
+      "node_id": "2684148ca16d791c42ca",
+      "site_id": "xsc",
+      "label": "联系方式",
+      "url": "https://xsc.njupt.edu.cn/1149/list.htm",
+      "nav_path": [
+        "联系方式"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "23ce376d5284ebb319f5",
+      "position": 3
+    },
+    {
+      "node_id": "5cb01f4537782b4ca35b",
+      "site_id": "xsc",
+      "label": "综合管理",
+      "url": "https://xsc.njupt.edu.cn/1153/list.htm",
+      "nav_path": [
+        "综合管理"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 4
+    },
+    {
+      "node_id": "7994d8f8de64527488b2",
+      "site_id": "xsc",
+      "label": "学风建设",
+      "url": "https://xsc.njupt.edu.cn/xfjs/list.htm",
+      "nav_path": [
+        "学风建设"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "5cb01f4537782b4ca35b",
+      "position": 5
+    },
+    {
+      "node_id": "9c71afe0c2b4ca181c86",
+      "site_id": "xsc",
+      "label": "服务指南",
+      "url": "https://xsc.njupt.edu.cn/1154/list.htm",
+      "nav_path": [
+        "服务指南"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "5cb01f4537782b4ca35b",
+      "position": 6
+    },
+    {
+      "node_id": "3d37e834da798fc62f95",
+      "site_id": "xsc",
+      "label": "工作参考",
+      "url": "https://xsc.njupt.edu.cn/1155/list.htm",
+      "nav_path": [
+        "工作参考"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "5cb01f4537782b4ca35b",
+      "position": 7
+    },
+    {
+      "node_id": "625fd78da81726adf5d2",
+      "site_id": "xsc",
+      "label": "违纪处理",
+      "url": "https://xsc.njupt.edu.cn/1157/list.htm",
+      "nav_path": [
+        "违纪处理"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "5cb01f4537782b4ca35b",
+      "position": 8
+    },
+    {
+      "node_id": "2894443f9db06fb70e7e",
+      "site_id": "xsc",
+      "label": "思政专题",
+      "url": "https://xsc.njupt.edu.cn/1150/list.htm",
+      "nav_path": [
+        "思政专题"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 9
+    },
+    {
+      "node_id": "6de41cd5294b7795997a",
+      "site_id": "xsc",
+      "label": "主题教育活动",
+      "url": "https://xsc.njupt.edu.cn/1151/list.htm",
+      "nav_path": [
+        "主题教育活动"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "2894443f9db06fb70e7e",
+      "position": 10
+    },
+    {
+      "node_id": "331788b583101e384388",
+      "site_id": "xsc",
+      "label": "辅导员队伍建设",
+      "url": "https://xsc.njupt.edu.cn/1152/list.htm",
+      "nav_path": [
+        "辅导员队伍建设"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "2894443f9db06fb70e7e",
+      "position": 11
+    },
+    {
+      "node_id": "fc70ecfadaee2fdb9ac2",
+      "site_id": "xsc",
+      "label": "资助工作",
+      "url": "https://xsc.njupt.edu.cn/1158/list.htm",
+      "nav_path": [
+        "资助工作"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 12
+    },
+    {
+      "node_id": "0edcbfe6dcf5f816ab44",
+      "site_id": "xsc",
+      "label": "政策规定",
+      "url": "https://xsc.njupt.edu.cn/_s24/_t3618/1160 /list.psp",
+      "nav_path": [
+        "政策规定"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "fc70ecfadaee2fdb9ac2",
+      "position": 13
+    },
+    {
+      "node_id": "c54066f1bb8fd1422bcb",
+      "site_id": "xsc",
+      "label": "服务指南",
+      "url": "https://xsc.njupt.edu.cn/fwzn/list.htm",
+      "nav_path": [
+        "服务指南"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "fc70ecfadaee2fdb9ac2",
+      "position": 14
+    },
+    {
+      "node_id": "137456a3765954391589",
+      "site_id": "xsc",
+      "label": "心理健康",
+      "url": "http://xl.njupt.edu.cn",
+      "nav_path": [
+        "心理健康"
+      ],
+      "depth": 1,
+      "target_type": "external_link",
+      "same_domain": false,
+      "parent_id": null,
+      "position": 15
+    },
+    {
+      "node_id": "3ee681c6cdce52e71c4e",
+      "site_id": "xsc",
+      "label": "宿舍管理",
+      "url": "https://xsc.njupt.edu.cn/17670/list.htm",
+      "nav_path": [
+        "宿舍管理"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 16
+    },
+    {
+      "node_id": "e1281f2fc89625597e62",
+      "site_id": "xsc",
+      "label": "就业指导",
+      "url": "https://njupt.91job.org.cn/sub-station/home/10293",
+      "nav_path": [
+        "就业指导"
+      ],
+      "depth": 1,
+      "target_type": "external_link",
+      "same_domain": false,
+      "parent_id": null,
+      "position": 17
+    },
+    {
+      "node_id": "ca8816dd6eabe712955c",
+      "site_id": "xsc",
+      "label": "人民武装",
+      "url": "https://rwb.njupt.edu.cn/",
+      "nav_path": [
+        "人民武装"
+      ],
+      "depth": 1,
+      "target_type": "external_link",
+      "same_domain": false,
+      "parent_id": null,
+      "position": 18
+    },
+    {
+      "node_id": "40eaa579be7c02ed3eca",
+      "site_id": "xsc",
+      "label": "支部建设",
+      "url": "https://xsc.njupt.edu.cn/djgz/list.htm",
+      "nav_path": [
+        "支部建设"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 19
+    },
+    {
+      "node_id": "447e0f8e5afb6ecaaa34",
+      "site_id": "xsc",
+      "label": "支部介绍",
+      "url": "https://xsc.njupt.edu.cn/16749/list.htm",
+      "nav_path": [
+        "支部介绍"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "40eaa579be7c02ed3eca",
+      "position": 20
+    },
+    {
+      "node_id": "324f36fefd0fe488b4c5",
+      "site_id": "xsc",
+      "label": "支部动态",
+      "url": "https://xsc.njupt.edu.cn/16750/list.htm",
+      "nav_path": [
+        "支部动态"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "40eaa579be7c02ed3eca",
+      "position": 21
+    },
+    {
+      "node_id": "7a05b37c34a72d19da2b",
+      "site_id": "xsc",
+      "label": "“一站式”学生社区",
+      "url": "https://xsc.njupt.edu.cn/wyzswxssq_18521/list.htm",
+      "nav_path": [
+        "“一站式”学生社区"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 22
+    },
+    {
+      "node_id": "22f43a716b91dfc48b85",
+      "site_id": "xsc",
+      "label": "下载专区",
+      "url": "https://xsc.njupt.edu.cn/1169/list.htm",
+      "nav_path": [
+        "下载专区"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 23
+    },
+    {
+      "node_id": "a365c139bc7e4778779b",
+      "site_id": "xsc",
+      "label": "奖助管理",
+      "url": "https://xsc.njupt.edu.cn/jzgl/list.htm",
+      "nav_path": [
+        "奖助管理"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "22f43a716b91dfc48b85",
+      "position": 24
+    },
+    {
+      "node_id": "065c2d46a2e4dd533753",
+      "site_id": "xsc",
+      "label": "学籍管理",
+      "url": "https://xsc.njupt.edu.cn/xjgl/list.htm",
+      "nav_path": [
+        "学籍管理"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "22f43a716b91dfc48b85",
+      "position": 25
+    },
+    {
+      "node_id": "8fb09a2d9530c162b30a",
+      "site_id": "xsc",
+      "label": "教学管理",
+      "url": "https://xsc.njupt.edu.cn/jxgl/list.htm",
+      "nav_path": [
+        "教学管理"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "22f43a716b91dfc48b85",
+      "position": 26
+    },
+    {
+      "node_id": "4479e278687b96c42b67",
+      "site_id": "xsc",
+      "label": "日常管理",
+      "url": "https://xsc.njupt.edu.cn/rcgl/list.htm",
+      "nav_path": [
+        "日常管理"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "22f43a716b91dfc48b85",
+      "position": 27
+    },
+    {
+      "node_id": "8b0ccbb2038a22bfb0c0",
+      "site_id": "xsc",
+      "label": "工作表格",
+      "url": "https://xsc.njupt.edu.cn/1170/list.htm",
+      "nav_path": [
+        "工作表格"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "22f43a716b91dfc48b85",
+      "position": 28
+    },
+    {
+      "node_id": "7365969cd7244c630680",
+      "site_id": "xsc",
+      "label": "宣传视频",
+      "url": "https://xsc.njupt.edu.cn/xcsp/list.htm",
+      "nav_path": [
+        "宣传视频"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "22f43a716b91dfc48b85",
+      "position": 29
+    }
+  ]
+}

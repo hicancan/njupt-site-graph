@@ -1,0 +1,137 @@
+site:
+  id: xsc
+  name: 学生工作部（处）
+  base_url: https://xsc.njupt.edu.cn/
+  domain: xsc.njupt.edu.cn
+  adapter: njupt_wp
+  owner_unit: 南京邮电大学党委学生工作部 / 学生工作处
+  notes: Browser-audited WebPlus site for NJUPT student affairs public content.
+
+crawl_policy:
+  timeout_seconds: 20
+  max_pages_safety: 500
+  same_domain_only_for_content: true
+  external_link_policy: record_only
+  attachment_policy: metadata_only
+  chrome_required_for_modeling: true
+  auto_discover_sections_from_homepage: true
+
+selectors:
+  homepage:
+    nav: "#nav a, .wp-menu a"
+    module_links: "a[href]"
+    module_labels:
+      - 学工要闻
+      - 通知公告
+      - 下载专区
+      - 学工之家
+      - 学院风采
+      - 榜样力量
+      - 光荣使命
+      - 学工荣誉
+      - 校内链接
+      - 校外链接
+    module_container_selectors:
+      - ".index_left"
+      - ".index_right"
+      - ".m3left"
+      - ".m3right"
+      - ".links-wrap"
+  list:
+    item_container: ".news_list2.list2, .news_list.list2"
+    item: null
+    title: null
+    date: null
+    link: null
+    pagination_next_text: "下一页"
+  detail:
+    title_candidates: [".arti_title", ".articleTitle", ".news_title", "h1", "title"]
+    meta_text: "body"
+    content_candidates: [".wp_articlecontent", ".article", ".entry", ".read", ".article_content", ".news_content", ".v_news_content", "#wp_content_w6_0", ".content", "main", "body"]
+    attachments: "a[href]"
+
+page_classification:
+  list_patterns:
+    - "/list.htm"
+    - "/list[0-9]+.htm"
+    - "/list.psp"
+    - "/list[0-9]+.psp"
+  detail_patterns:
+    - "/20*/**/page.htm"
+    - "/20*/**/page.psp"
+  attachment_extensions: [pdf, doc, docx, xls, xlsx, ppt, pptx, zip, rar]
+
+link_classification:
+  external_system_labels:
+    - 心理健康
+    - 就业指导
+    - 人民武装
+    - 全国征兵网
+    - 全国高校思想政治工作网
+    - 中国大学生在线
+    - 易班网
+  external_policy_domains:
+    - moe.gov.cn
+    - gov.cn
+    - jiangsu.gov.cn
+    - jyt.jiangsu.gov.cn
+
+homepage_modules:
+  - name: 学工要闻
+    list_url: https://xsc.njupt.edu.cn/1176/list.htm
+    container_selector: ".index_left"
+    source: browser_audit
+  - name: 通知公告
+    list_url: https://xsc.njupt.edu.cn/1173/list.htm
+    container_selector: ".m3left"
+    source: browser_audit
+  - name: 下载专区 / 奖助管理
+    list_url: https://xsc.njupt.edu.cn/1169/list.htm
+    container_selector: ".m3right"
+    source: browser_audit
+  - name: 学工之家
+    list_url: https://xsc.njupt.edu.cn/17674/list.htm
+    container_selector: ".main4 .m3left"
+    source: browser_audit
+  - name: 学院风采
+    list_url: https://xsc.njupt.edu.cn/1175/list.htm
+    container_selector: ".main4 .m3right"
+    source: browser_audit
+  - name: 榜样力量
+    list_url: https://xsc.njupt.edu.cn/17675/list.htm
+    container_selector: ".main5 .m3left"
+    source: browser_audit
+  - name: 光荣使命
+    list_url: https://xsc.njupt.edu.cn/17676/list.htm
+    container_selector: ".main5 .m3right"
+    source: browser_audit
+  - name: 学工荣誉
+    list_url: https://xsc.njupt.edu.cn/ryq/list.htm
+    source: browser_audit
+
+sections:
+  - section_id: xsc_policy_aid_rules
+    site_id: xsc
+    name: 资助工作政策规定
+    url: https://xsc.njupt.edu.cn/1160/list.htm
+    section_type: list
+    nav_path: [资助工作, 政策规定]
+    crawlable: true
+    business_tags: [policy, aid]
+    pagination:
+      type: next_link
+      max_pages_safety: 500
+    item_container_selector: ".news_list2.list2, .news_list.list2"
+
+  - section_id: xsc_download_forms
+    site_id: xsc
+    name: 下载专区工作表格
+    url: https://xsc.njupt.edu.cn/1170/list.htm
+    section_type: resource_list
+    nav_path: [下载专区, 工作表格]
+    crawlable: true
+    business_tags: [resource, download, forms]
+    pagination:
+      type: next_link
+      max_pages_safety: 500
+    item_container_selector: ".news_list2.list2, .news_list.list2"

@@ -1,0 +1,9 @@
+{
+  "site_id": "xsc",
+  "name": "学生工作部（处）",
+  "base_url": "https://xsc.njupt.edu.cn/",
+  "domain": "xsc.njupt.edu.cn",
+  "adapter": "njupt_wp",
+  "created_at": "2026-05-28T07:31:54.879934+00:00",
+  "notes": "Browser-audited WebPlus site for NJUPT student affairs public content."
+}

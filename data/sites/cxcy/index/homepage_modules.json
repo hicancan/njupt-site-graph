@@ -1,0 +1,64 @@
+{
+  "site_id": "cxcy",
+  "generated_at": "2026-05-28T07:34:03.648914+00:00",
+  "modules": [
+    {
+      "module_id": "cxcy_home_module_824f590b522f",
+      "site_id": "cxcy",
+      "name": "新闻资讯",
+      "url": "https://cxcy.njupt.edu.cn/",
+      "list_url": "https://cxcy.njupt.edu.cn/xwzx/list.htm",
+      "container_selector": ".post-21",
+      "link_count": null,
+      "position": 0,
+      "source": "browser_audit",
+      "notes": null
+    },
+    {
+      "module_id": "cxcy_home_module_b3b0e005b420",
+      "site_id": "cxcy",
+      "name": "通知公告",
+      "url": "https://cxcy.njupt.edu.cn/",
+      "list_url": "https://cxcy.njupt.edu.cn/tzgg/list.htm",
+      "container_selector": ".post-23",
+      "link_count": null,
+      "position": 1,
+      "source": "browser_audit",
+      "notes": null
+    },
+    {
+      "module_id": "cxcy_home_module_52b0f85f6c15",
+      "site_id": "cxcy",
+      "name": "双创项目",
+      "url": "https://cxcy.njupt.edu.cn/",
+      "list_url": "https://cxcy.njupt.edu.cn/scxm/list.htm",
+      "container_selector": ".post-244",
+      "link_count": null,
+      "position": 2,
+      "source": "browser_audit",
+      "notes": null
+    },
+    {
+      "module_id": "cxcy_home_module_b9ace8091620",
+      "site_id": "cxcy",
+      "name": "竞赛成果",
+      "url": "https://cxcy.njupt.edu.cn/",
+      "list_url": "https://cxcy.njupt.edu.cn/jscx/list.htm",
+      "container_selector": ".post-26",
+      "link_count": null,
+      "position": 3,
+      "source": "browser_audit",
+      "notes": null
+    },
+    {
+      "module_id": "25f77881049012515946",
+      "site_id": "cxcy",
+      "name": "友情链接",
+      "url": "https://cxcy.njupt.edu.cn/",
+      "list_url": null,
+      "container_selector": ".wrapper.footer",
+      "link_count": 5,
+      "position": 5
+    }
+  ]
+}

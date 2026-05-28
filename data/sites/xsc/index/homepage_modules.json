@@ -1,0 +1,122 @@
+{
+  "site_id": "xsc",
+  "generated_at": "2026-05-28T07:31:55.002466+00:00",
+  "modules": [
+    {
+      "module_id": "xsc_home_module_fb968cc9b802",
+      "site_id": "xsc",
+      "name": "学工要闻",
+      "url": "https://xsc.njupt.edu.cn/",
+      "list_url": "https://xsc.njupt.edu.cn/1176/list.htm",
+      "container_selector": ".index_left",
+      "link_count": null,
+      "position": 0,
+      "source": "browser_audit",
+      "notes": null
+    },
+    {
+      "module_id": "xsc_home_module_e0099f26794a",
+      "site_id": "xsc",
+      "name": "通知公告",
+      "url": "https://xsc.njupt.edu.cn/",
+      "list_url": "https://xsc.njupt.edu.cn/1173/list.htm",
+      "container_selector": ".m3left",
+      "link_count": null,
+      "position": 1,
+      "source": "browser_audit",
+      "notes": null
+    },
+    {
+      "module_id": "xsc_home_module_47da1da6286a",
+      "site_id": "xsc",
+      "name": "下载专区 / 奖助管理",
+      "url": "https://xsc.njupt.edu.cn/",
+      "list_url": "https://xsc.njupt.edu.cn/1169/list.htm",
+      "container_selector": ".m3right",
+      "link_count": null,
+      "position": 2,
+      "source": "browser_audit",
+      "notes": null
+    },
+    {
+      "module_id": "xsc_home_module_25b13dca42b2",
+      "site_id": "xsc",
+      "name": "学工之家",
+      "url": "https://xsc.njupt.edu.cn/",
+      "list_url": "https://xsc.njupt.edu.cn/17674/list.htm",
+      "container_selector": ".main4 .m3left",
+      "link_count": null,
+      "position": 3,
+      "source": "browser_audit",
+      "notes": null
+    },
+    {
+      "module_id": "xsc_home_module_6c9d38d56d8b",
+      "site_id": "xsc",
+      "name": "学院风采",
+      "url": "https://xsc.njupt.edu.cn/",
+      "list_url": "https://xsc.njupt.edu.cn/1175/list.htm",
+      "container_selector": ".main4 .m3right",
+      "link_count": null,
+      "position": 4,
+      "source": "browser_audit",
+      "notes": null
+    },
+    {
+      "module_id": "xsc_home_module_4e3c5f668e64",
+      "site_id": "xsc",
+      "name": "榜样力量",
+      "url": "https://xsc.njupt.edu.cn/",
+      "list_url": "https://xsc.njupt.edu.cn/17675/list.htm",
+      "container_selector": ".main5 .m3left",
+      "link_count": null,
+      "position": 5,
+      "source": "browser_audit",
+      "notes": null
+    },
+    {
+      "module_id": "xsc_home_module_87f9a3656913",
+      "site_id": "xsc",
+      "name": "光荣使命",
+      "url": "https://xsc.njupt.edu.cn/",
+      "list_url": "https://xsc.njupt.edu.cn/17676/list.htm",
+      "container_selector": ".main5 .m3right",
+      "link_count": null,
+      "position": 6,
+      "source": "browser_audit",
+      "notes": null
+    },
+    {
+      "module_id": "xsc_home_module_e8c9a73ea72b",
+      "site_id": "xsc",
+      "name": "学工荣誉",
+      "url": "https://xsc.njupt.edu.cn/",
+      "list_url": "https://xsc.njupt.edu.cn/ryq/list.htm",
+      "container_selector": null,
+      "link_count": null,
+      "position": 7,
+      "source": "browser_audit",
+      "notes": null
+    },
+    {
+      "module_id": "dcc263c11c2d0d45d061",
+      "site_id": "xsc",
+      "name": "校内链接",
+      "url": "https://xsc.njupt.edu.cn/",
+      "list_url": null,
+      "container_selector": ".links-wrap",
+      "link_count": 9,
+      "position": 8
+    },
+    {
+      "module_id": "181454e773dbca4cc139",
+      "site_id": "xsc",
+      "name": "校外链接",
+      "url": "https://xsc.njupt.edu.cn/",
+      "list_url": null,
+      "container_selector": ".links-wrap",
+      "link_count": 6,
+      "position": 9
+    }
+  ]
+}
