@@ -1,6 +1,6 @@
 {
   "site_id": "cxcy",
-  "generated_at": "2026-05-28T07:34:02.931919+00:00",
+  "generated_at": "2026-05-28T14:21:13.579255+00:00",
   "totals": {
     "sections": 39,
     "nav_nodes": 29,
@@ -8,9 +8,9 @@
     "list_pages": 83,
     "detail_pages": 612,
     "low_content_detail_pages": 82,
-    "attachments": 205,
+    "attachments": 204,
     "external_links": 60,
-    "edges": 1101,
+    "edges": 1085,
     "url_outcomes": 1311
   },
   "outcomes": {
@@ -1805,7 +1805,8 @@
         "https://cxcy.njupt.edu.cn/2026/0210/c15464a297040/page.htm"
       ],
       "section_ids": [
-        "cxcy_home_module_52b0f85f6c15"
+        "cxcy_home_module_52b0f85f6c15",
+        "cxcy_home_link_041b5f6f073d"
       ]
     },
     "https://cxcy.njupt.edu.cn/_upload/article/files/83/7a/2b5bfbe94587af046f5275c29786/d59ce730-a0b7-43e1-af0b-78051cbfabad.xls": {
@@ -1819,7 +1820,8 @@
         "https://cxcy.njupt.edu.cn/2026/0210/c15464a297052/page.htm"
       ],
       "section_ids": [
-        "cxcy_home_module_52b0f85f6c15"
+        "cxcy_home_module_52b0f85f6c15",
+        "cxcy_home_link_041b5f6f073d"
       ]
     },
     "https://cxcy.njupt.edu.cn/_ueditor/themes/default/images/icon_xls.gif": {
@@ -1875,7 +1877,8 @@
       ],
       "section_ids": [
         "cxcy_home_module_52b0f85f6c15",
-        "cxcy_home_module_b3b0e005b420"
+        "cxcy_home_module_b3b0e005b420",
+        "cxcy_home_link_041b5f6f073d"
       ]
     },
     "https://cxcy.njupt.edu.cn/_upload/article/files/c2/a2/8697dcfd4399979cff0afd013abf/9e39df25-4823-49ff-8162-80c22114bf96.xls": {
@@ -2456,7 +2459,8 @@
       ],
       "section_ids": [
         "cxcy_home_link_5c1f1d62069f",
-        "cxcy_home_module_824f590b522f"
+        "cxcy_home_module_824f590b522f",
+        "cxcy_home_link_393be12910a3"
       ]
     },
     "https://cxcy.njupt.edu.cn/_upload/article/images/51/83/005d1e624268bbb0f509a9a3de13/84cb6263-575b-46e9-ad09-05646ff531d7.png": {
@@ -2470,7 +2474,8 @@
       ],
       "section_ids": [
         "cxcy_home_link_5c1f1d62069f",
-        "cxcy_home_module_824f590b522f"
+        "cxcy_home_module_824f590b522f",
+        "cxcy_home_link_393be12910a3"
       ]
     },
     "https://cxcy.njupt.edu.cn/2022/0711/c15496a223920/page.htm": {
@@ -2501,7 +2506,8 @@
       ],
       "section_ids": [
         "cxcy_home_link_5c1f1d62069f",
-        "cxcy_home_module_824f590b522f"
+        "cxcy_home_module_824f590b522f",
+        "cxcy_home_link_393be12910a3"
       ]
     },
     "https://cxcy.njupt.edu.cn/2022/0711/c15496a223922/page.htm": {

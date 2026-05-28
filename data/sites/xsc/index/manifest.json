@@ -1,11 +1,11 @@
 {
   "site_id": "xsc",
-  "generated_at": "2026-05-28T07:31:54.880198+00:00",
+  "generated_at": "2026-05-28T14:02:02.569835+00:00",
   "totals": {
     "sections": 34,
     "nav_nodes": 30,
     "homepage_modules": 10,
-    "list_pages": 233,
+    "list_pages": 232,
     "detail_pages": 1589,
     "low_content_detail_pages": 112,
     "attachments": 17,
@@ -3963,7 +3963,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/bb/0e/b7f4a23f4f92b195fbb0969b50b9/a81ecc09-6085-4b3a-8afc-714c0618c703.jpg": {
@@ -3977,7 +3978,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/bb/0e/b7f4a23f4f92b195fbb0969b50b9/8a4925f3-c0c6-431f-99b7-6a8102c24d07.jpg": {
@@ -3991,7 +3993,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/bb/0e/b7f4a23f4f92b195fbb0969b50b9/7c2894f7-4718-47ab-b71c-9ebe0088dfe0.jpg": {
@@ -4005,7 +4008,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/2024/1212/c1151a276177/page.htm": {
@@ -4036,7 +4040,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/a5/1c/99b086de4585853c1c5dfc07a156/eb663853-f102-4230-855d-44dd2a4179c4.jpg": {
@@ -4050,7 +4055,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/a5/1c/99b086de4585853c1c5dfc07a156/9fba5d50-4677-4359-9197-1ee59560ff48.jpg": {
@@ -4064,7 +4070,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/2024/1106/c1151a273657/page.htm": {
@@ -4095,7 +4102,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/ed/44/43eef8e846aebac5cac985ff1491/2963002f-651f-47d6-ba75-259ed1b8595a.jpg": {
@@ -4109,7 +4117,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/ed/44/43eef8e846aebac5cac985ff1491/0d748cde-e460-4904-bafc-0717de44c4be.jpg": {
@@ -4123,7 +4132,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/ed/44/43eef8e846aebac5cac985ff1491/bf731a32-c97c-4e66-a0cc-486eae218ade.jpg": {
@@ -4137,7 +4147,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/ed/44/43eef8e846aebac5cac985ff1491/665943c3-df0c-4104-8717-340294156aad.jpg": {
@@ -4151,7 +4162,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/2024/1106/c1151a273638/page.htm": {
@@ -4182,7 +4194,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/e9/9a/5be1af1e443cbbbd886bdd5ce8db/344d7504-297c-4d42-b91a-45b4478d9f57.jpg": {
@@ -4196,7 +4209,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/e9/9a/5be1af1e443cbbbd886bdd5ce8db/ed8500ad-76f6-46dd-bc72-17c5712e2a14.jpg": {
@@ -4210,7 +4224,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/2024/1106/c1151a273581/page.htm": {
@@ -4241,7 +4256,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/78/77/25fed4a14d45b20cfe64f5701b6a/75bf8e9e-5851-4242-8f44-a97ee9c0f5ba.jpg": {
@@ -4255,7 +4271,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/78/77/25fed4a14d45b20cfe64f5701b6a/bf075b91-98cf-4b16-af8a-24b789a22a03.jpg": {
@@ -4269,7 +4286,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/78/77/25fed4a14d45b20cfe64f5701b6a/e4b41c3c-61b2-410a-85fa-cc72fc252ea0.jpg": {
@@ -4283,7 +4301,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/78/77/25fed4a14d45b20cfe64f5701b6a/e91ff156-9b43-4853-897d-0a95291005a7.jpg": {
@@ -4297,7 +4316,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/78/77/25fed4a14d45b20cfe64f5701b6a/a7c9b601-f6d9-4f99-89c3-2c1ab275c9a7.jpg": {
@@ -4311,7 +4331,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/78/77/25fed4a14d45b20cfe64f5701b6a/ac13736a-5be5-417b-9121-14131915510c.jpg": {
@@ -4325,7 +4346,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/78/77/25fed4a14d45b20cfe64f5701b6a/aaffb37f-44f6-4318-912b-b40b590c1b6c.jpg": {
@@ -4339,7 +4361,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/78/77/25fed4a14d45b20cfe64f5701b6a/66d9306d-5add-4be5-9e56-94d4e712e49b.jpg": {
@@ -4353,7 +4376,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/78/77/25fed4a14d45b20cfe64f5701b6a/93c7b1c2-3229-4f21-b311-bc07bce6c552.jpg": {
@@ -4367,7 +4391,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/2024/0613/c1151a265742/page.htm": {
@@ -4398,7 +4423,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/c3/58/f0ed484d4d7b860b1529e131c8ee/d540f773-454e-4549-b763-b199d4c82719.jpg": {
@@ -4412,7 +4438,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/2024/0608/c1151a265394/page.htm": {
@@ -4443,7 +4470,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/0c/35/4e607d1242b4ad728224df8ebcef/5550518d-ea40-4818-bf04-d189fe53ea6b.jpg": {
@@ -4457,7 +4485,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/0c/35/4e607d1242b4ad728224df8ebcef/7d3a5e2d-63ac-4c74-8266-9aaa8748e95b.jpg": {
@@ -4471,7 +4500,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/0c/35/4e607d1242b4ad728224df8ebcef/3b00238c-4056-4316-ae7d-16f8f38262b6.jpg": {
@@ -4485,7 +4515,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/2024/0606/c1151a265236/page.htm": {
@@ -4516,7 +4547,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/1150/list2.htm": {
@@ -4562,7 +4594,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/00/aa/4da7250e493491aa734f1afdfb9b/2ac4040f-64fd-4f2b-8c20-88c27f5dd4ed.jpg": {
@@ -4576,7 +4609,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/00/aa/4da7250e493491aa734f1afdfb9b/fcaea411-a177-4202-86e1-a15816012e57.png": {
@@ -4590,7 +4624,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/00/aa/4da7250e493491aa734f1afdfb9b/61fe8707-7dc8-42c5-86f6-003270a89e05.jpg": {
@@ -4604,7 +4639,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/00/aa/4da7250e493491aa734f1afdfb9b/88ad9c93-9ff0-489e-9189-648163e38de4.jpg": {
@@ -4618,7 +4654,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/00/aa/4da7250e493491aa734f1afdfb9b/eec85f8c-554a-4d02-a9fc-68a36a559e99.jpg": {
@@ -4632,7 +4669,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/00/aa/4da7250e493491aa734f1afdfb9b/7f4dca83-c038-432c-b6d5-4b694e125d71.jpg": {
@@ -4646,7 +4684,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/00/aa/4da7250e493491aa734f1afdfb9b/64425d5f-4e8c-43c2-84ae-b627c393b19c.jpg": {
@@ -4660,7 +4699,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/00/aa/4da7250e493491aa734f1afdfb9b/56d9cfa1-8ea9-4e7f-bd46-87420c45761d.jpg": {
@@ -4674,7 +4714,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/00/aa/4da7250e493491aa734f1afdfb9b/f98dcade-7ada-4232-8a46-f0504b084bea.jpg": {
@@ -4688,7 +4729,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/00/aa/4da7250e493491aa734f1afdfb9b/51eddaca-33ba-4037-9597-8cff1754fd03.jpg": {
@@ -4702,7 +4744,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/00/aa/4da7250e493491aa734f1afdfb9b/c5789715-0819-4985-905d-6388aea346a9.jpg": {
@@ -4716,7 +4759,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/2024/0430/c1151a261599/page.htm": {
@@ -4747,7 +4791,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/2024/0429/c1151a261480/page.htm": {
@@ -4778,7 +4823,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/73/a2/ff18fd5f47ca913241f06edfa70a/73b2037d-3339-4933-977f-4b8a8f615d53.png": {
@@ -4792,7 +4838,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/73/a2/ff18fd5f47ca913241f06edfa70a/550cf514-d2e9-4535-8ca9-5da63289f2c4.jpg": {
@@ -4806,7 +4853,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/2024/0428/c1151a261406/page.htm": {
@@ -4837,7 +4885,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/25/e8/5c2dffd0411cbaa4361e5fb2ae88/6d6e05ad-b667-42de-b2bc-20c7013bc1f2.jpg": {
@@ -4851,7 +4900,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/25/e8/5c2dffd0411cbaa4361e5fb2ae88/7b5a636e-eaf1-4294-b0b8-5e336858004a.jpg": {
@@ -4865,7 +4915,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/2024/0425/c1151a261081/page.htm": {
@@ -4896,7 +4947,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/47/39/d4749baf4ebfa10b44a5d75b7804/3e03972f-177a-43ef-9518-f2dae3a93d13.jpg": {
@@ -4910,7 +4962,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/47/39/d4749baf4ebfa10b44a5d75b7804/a16733f1-50fa-427e-ba2b-47c6ff53a482.jpg": {
@@ -4924,7 +4977,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/2024/0419/c1151a260420/page.htm": {
@@ -4955,7 +5009,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/8e/f5/3bb9e2094ed496a2847f4bafdc98/098b9e13-bdfe-469e-a529-b1800ab8fa81.jpg": {
@@ -4969,7 +5024,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/8e/f5/3bb9e2094ed496a2847f4bafdc98/e59c5f41-6a17-444c-a5fb-4fb309f6c1cb.jpg": {
@@ -4983,7 +5039,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/2023/1214/c1151a252649/page.htm": {
@@ -5014,7 +5071,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/88/78/5b5ce04842ce98017979dcd893ff/c150cbb2-19e9-450d-8cf2-e74be0f8e67a.jpg": {
@@ -5028,7 +5086,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/88/78/5b5ce04842ce98017979dcd893ff/46e223fa-de7d-48d0-b8a2-45f1d13c8136.jpg": {
@@ -5042,7 +5101,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/88/78/5b5ce04842ce98017979dcd893ff/ecb15aed-7772-462f-a60e-c92e95d901b0.jpg": {
@@ -5056,7 +5116,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/88/78/5b5ce04842ce98017979dcd893ff/df54638e-4d09-403d-b8d2-bc51abc5a6f5.jpg": {
@@ -5070,7 +5131,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/88/78/5b5ce04842ce98017979dcd893ff/fc27d137-64f0-4dcd-bb3b-02dba4f4e5f8.jpg": {
@@ -5084,7 +5146,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/2023/0602/c1151a242394/page.htm": {
@@ -5115,7 +5178,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/5b/2a/9beed9244fd1b5854ae16f1d1e62/a018e876-52e1-4805-a0d8-1fe532b6a6ec.jpg": {
@@ -5129,7 +5193,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/_upload/article/images/5b/2a/9beed9244fd1b5854ae16f1d1e62/46735ca7-cb13-4c31-a726-a90664a222c9.jpg": {
@@ -5143,7 +5208,8 @@
       ],
       "section_ids": [
         "xsc_home_link_8c1ecf533e23",
-        "xsc_home_module_6c9d38d56d8b"
+        "xsc_home_module_6c9d38d56d8b",
+        "xsc_home_link_0a2f5bec18d3"
       ]
     },
     "https://xsc.njupt.edu.cn/1150/list3.htm": {

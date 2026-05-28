@@ -1,6 +1,6 @@
 {
   "site_id": "jwc",
-  "generated_at": "2026-05-26T11:33:22.065260+00:00",
+  "generated_at": "2026-05-28T13:59:08.531842+00:00",
   "modules": [
     {
       "module_id": "0a183561b31a75dd46ea",
@@ -38,69 +38,49 @@
       "name": "教改动态",
       "url": "https://jwc.njupt.edu.cn/",
       "list_url": "https://jwc.njupt.edu.cn/1598/list.htm",
-      "container_selector": ".ml",
+      "container_selector": ".post-tt.post-33.mbox",
       "link_count": 10,
       "position": 3
     },
     {
-      "module_id": "868f7d2ec70297f5bed6",
-      "site_id": "jwc",
-      "name": "教改动态",
-      "url": "https://jwc.njupt.edu.cn/",
-      "list_url": "https://jwc.njupt.edu.cn/1598/list.htm",
-      "container_selector": ".post-tt.post-33.mbox",
-      "link_count": 10,
-      "position": 4
-    },
-    {
-      "module_id": "e017ce197085cc08245a",
-      "site_id": "jwc",
-      "name": "八面来风",
-      "url": "https://jwc.njupt.edu.cn/",
-      "list_url": "https://jwc.njupt.edu.cn/1600/list.htm",
-      "container_selector": ".mr",
-      "link_count": 5,
-      "position": 5
-    },
-    {
-      "module_id": "e138190242771e22c342",
+      "module_id": "57c4942cf57979604d27",
       "site_id": "jwc",
       "name": "八面来风",
       "url": "https://jwc.njupt.edu.cn/",
       "list_url": "https://jwc.njupt.edu.cn/1600/list.htm",
       "container_selector": ".post-tt.post-39.mbox",
       "link_count": 5,
-      "position": 6
+      "position": 4
     },
     {
-      "module_id": "61326653d4212ed203e6",
+      "module_id": "1b386ec7ed7e8dd5a745",
       "site_id": "jwc",
       "name": "综合信息服务",
       "url": "https://jwc.njupt.edu.cn/",
       "list_url": "https://jwc.njupt.edu.cn/1608/list.htm",
       "container_selector": ".post-tt.post-44.mbox",
       "link_count": 19,
-      "position": 7
+      "position": 5
     },
     {
-      "module_id": "709d4815cb2626f35d82",
+      "module_id": "df53c80bf2644f28e4f8",
       "site_id": "jwc",
       "name": "校内链接",
       "url": "https://jwc.njupt.edu.cn/",
       "list_url": null,
       "container_selector": ".links-wrap",
       "link_count": 18,
-      "position": 8
+      "position": 6
     },
     {
-      "module_id": "de9a38d3b8851a00c573",
+      "module_id": "5f6b96d1b2f15c054e9a",
       "site_id": "jwc",
       "name": "校外链接",
       "url": "https://jwc.njupt.edu.cn/",
       "list_url": null,
       "container_selector": ".links-wrap",
       "link_count": 15,
-      "position": 9
+      "position": 7
     }
   ]
 }
