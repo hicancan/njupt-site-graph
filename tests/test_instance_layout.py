@@ -1,6 +1,12 @@
 from pathlib import Path
 
-from site_package_assertions import read_json
+from site_package_assertions import (
+    assert_attachment_policy,
+    assert_counts_match_files,
+    assert_external_policy,
+    assert_manifest_complete,
+    assert_required_site_package,
+)
 
 
 def test_jwc_config_exists():
@@ -9,9 +15,8 @@ def test_jwc_config_exists():
 
 
 def test_jwc_manifest_remains_complete():
-    manifest = read_json(Path('data/sites/jwc/index/manifest.json'))
-    assert manifest['site_id'] == 'jwc'
-    assert manifest['quality']['all_discovered_urls_have_outcomes'] is True
-    assert manifest['quality']['errors'] == 0
-    assert manifest['quality']['attachment_policy'] == 'metadata_only'
-    assert manifest['quality']['external_link_policy'] == 'record_only'
+    assert_required_site_package('jwc')
+    manifest = assert_manifest_complete('jwc')
+    assert_counts_match_files('jwc', manifest)
+    assert_attachment_policy('jwc', manifest)
+    assert_external_policy('jwc', manifest)

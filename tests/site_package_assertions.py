@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 
 
@@ -16,6 +17,8 @@ PACKAGE_FILES = [
     'manifest.json',
     'homepage_modules.json',
 ]
+
+UNKNOWN_ALLOWLIST_FILE = 'unknown_url_allowlist.json'
 
 BINARY_ATTACHMENT_SUFFIXES = {
     '.pdf',
@@ -55,12 +58,63 @@ def assert_manifest_complete(site_id: str) -> dict:
     assert manifest['quality']['external_link_policy'] == 'record_only'
     assert manifest['errors'] == []
     assert manifest['url_outcomes']
-    assert not [
+    assert_unknown_outcomes_allowlisted(site_id, manifest)
+    return manifest
+
+
+def unknown_outcomes(manifest: dict) -> list[tuple[str, dict]]:
+    return [
         (url, record)
         for url, record in manifest['url_outcomes'].items()
         if 'unknown' in record.get('target_type', '') or 'unknown' in record.get('outcome', '')
     ]
-    return manifest
+
+
+def assert_unknown_outcomes_allowlisted(site_id: str, manifest: dict) -> None:
+    unknown = unknown_outcomes(manifest)
+    if not unknown:
+        return
+
+    allowlist_path = Path('data/sites') / site_id / 'index' / UNKNOWN_ALLOWLIST_FILE
+    assert allowlist_path.exists(), f'{site_id} has unknown URL outcomes but no {UNKNOWN_ALLOWLIST_FILE}'
+    allowlist = read_json(allowlist_path)
+    assert isinstance(allowlist, dict)
+    assert allowlist.get('site_id') == site_id
+    rules = allowlist.get('allowed_unknowns')
+    assert isinstance(rules, list) and rules
+
+    compiled_rules = []
+    for rule in rules:
+        assert isinstance(rule, dict)
+        assert rule.get('reason')
+        pattern = rule.get('url_pattern')
+        assert isinstance(pattern, str) and pattern
+        compiled_rules.append((rule, re.compile(pattern)))
+
+    unexpected = []
+    matched_rules: set[int] = set()
+    for url, record in unknown:
+        matched = False
+        for index, (rule, pattern) in enumerate(compiled_rules):
+            if not pattern.search(url):
+                continue
+            if rule.get('target_type') and rule['target_type'] != record.get('target_type'):
+                continue
+            if rule.get('outcome') and rule['outcome'] != record.get('outcome'):
+                continue
+            matched = True
+            matched_rules.add(index)
+            break
+        if not matched:
+            unexpected.append((url, record))
+
+    assert unexpected == []
+    stale_rules = [
+        rule.get('url_pattern')
+        for index, (rule, _pattern) in enumerate(compiled_rules)
+        if index not in matched_rules
+    ]
+    assert stale_rules == []
 
 
 def assert_counts_match_files(site_id: str, manifest: dict) -> None:
