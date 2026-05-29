@@ -19,6 +19,11 @@ def test_update_sitegraph_workflow_dispatches_search_after_success():
     assert 'sitegraph-data-updated' in text
     assert 'NJUPT_SEARCH_DISPATCH_TOKEN' in text
     assert 'git rev-parse HEAD' in text
+    assert 'force_downstream_dispatch' in text
+    assert "steps.commit_sitegraph_data.outputs.changed == 'true' || github.event.inputs.force_downstream_dispatch == 'true'" in text
+    assert 'client_payload[source_repo]' in text
+    assert 'client_payload[source_run_id]' in text
+    assert 'client_payload[dispatch_reason]' in text
 
 
 def test_ci_workflow_validates_three_site_configs():

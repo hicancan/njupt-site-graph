@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: '0 */6 * * *'
   workflow_dispatch:
+    inputs:
+      force_downstream_dispatch:
+        description: 'Trigger njupt-search even when sitegraph data did not change'
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -85,17 +91,22 @@ jobs:
           fi
 
       - name: Trigger downstream collection index update
-        if: steps.commit_sitegraph_data.outputs.changed == 'true'
+        if: steps.commit_sitegraph_data.outputs.changed == 'true' || github.event.inputs.force_downstream_dispatch == 'true'
         env:
           GH_TOKEN: ${{ secrets.NJUPT_SEARCH_DISPATCH_TOKEN }}
           SITEGRAPH_REF: ${{ steps.commit_sitegraph_data.outputs.sitegraph_ref }}
+          SITEGRAPH_CHANGED: ${{ steps.commit_sitegraph_data.outputs.changed }}
+          DISPATCH_REASON: ${{ steps.commit_sitegraph_data.outputs.changed == 'true' && 'data_changed' || 'manual_force' }}
         run: |
           if [ -z "$GH_TOKEN" ]; then
             echo "::error::NJUPT_SEARCH_DISPATCH_TOKEN is required to trigger hicancan/njupt-search after sitegraph data changes."
             exit 1
           fi
+          echo "Triggering hicancan/njupt-search for sitegraph_ref=$SITEGRAPH_REF reason=$DISPATCH_REASON"
           gh api repos/hicancan/njupt-search/dispatches \
             -f event_type=sitegraph-data-updated \
             -F client_payload[sitegraph_ref]="$SITEGRAPH_REF" \
             -F client_payload[source_repo]="${{ github.repository }}" \
-            -F client_payload[source_run_id]="${{ github.run_id }}"
+            -F client_payload[source_run_id]="${{ github.run_id }}" \
+            -F client_payload[sitegraph_changed]="$SITEGRAPH_CHANGED" \
+            -F client_payload[dispatch_reason]="$DISPATCH_REASON"
