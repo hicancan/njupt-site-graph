@@ -10,6 +10,16 @@ on:
         required: false
         type: boolean
         default: false
+      dispatch_only:
+        description: 'Skip crawling and only trigger njupt-search for a sitegraph ref'
+        required: false
+        type: boolean
+        default: false
+      dispatch_sitegraph_ref:
+        description: 'Optional njupt-site-graph ref for dispatch_only; defaults to the workflow ref'
+        required: false
+        type: string
+        default: ''
 
 permissions:
   contents: write
@@ -19,7 +29,44 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  dispatch-downstream-only:
+    if: github.event_name == 'workflow_dispatch' && github.event.inputs.dispatch_only == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout njupt-site-graph
+        uses: actions/checkout@v4
+
+      - name: Resolve sitegraph ref
+        id: resolve_sitegraph_ref
+        env:
+          DISPATCH_SITEGRAPH_REF: ${{ github.event.inputs.dispatch_sitegraph_ref }}
+        run: |
+          if [ -n "$DISPATCH_SITEGRAPH_REF" ]; then
+            echo "sitegraph_ref=$DISPATCH_SITEGRAPH_REF" >> "$GITHUB_OUTPUT"
+          else
+            echo "sitegraph_ref=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Trigger downstream collection index update
+        env:
+          GH_TOKEN: ${{ secrets.NJUPT_SEARCH_DISPATCH_TOKEN }}
+          SITEGRAPH_REF: ${{ steps.resolve_sitegraph_ref.outputs.sitegraph_ref }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::error::NJUPT_SEARCH_DISPATCH_TOKEN is required to trigger hicancan/njupt-search."
+            exit 1
+          fi
+          echo "Triggering hicancan/njupt-search for sitegraph_ref=$SITEGRAPH_REF reason=manual_dispatch_only"
+          gh api repos/hicancan/njupt-search/dispatches \
+            -f event_type=sitegraph-data-updated \
+            -F client_payload[sitegraph_ref]="$SITEGRAPH_REF" \
+            -F client_payload[source_repo]="${{ github.repository }}" \
+            -F client_payload[source_run_id]="${{ github.run_id }}" \
+            -F client_payload[sitegraph_changed]="false" \
+            -F client_payload[dispatch_reason]="manual_dispatch_only"
+
   update-sitegraph-data:
+    if: github.event_name != 'workflow_dispatch' || github.event.inputs.dispatch_only != 'true'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout njupt-site-graph
