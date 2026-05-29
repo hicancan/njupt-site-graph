@@ -27,6 +27,12 @@ D:\code\github\hicancan\njupt-search
 Only product-facing configuration, tests, workflows, and generated site packages are tracked here.
 Local research notes, audit reports, prompts, and agent/Claude/Codex configuration are intentionally ignored.
 
+## Downstream automation contract
+
+`Update Sitegraph Data` dispatches `sitegraph-data-updated` to `hicancan/njupt-search` after sitegraph data changes. Manual `workflow_dispatch` can set `dispatch_only=true` to verify the downstream trigger without running a live crawl.
+
+The `NJUPT_SEARCH_DISPATCH_TOKEN` secret must be a valid GitHub token with write access to repository contents on `hicancan/njupt-search`, which is the permission GitHub requires for creating a repository dispatch event. A `Bad credentials (HTTP 401)` failure in the trigger step means the secret value is invalid or expired; rotate the secret rather than changing payload code.
+
 ## Human setup
 
 ```powershell
