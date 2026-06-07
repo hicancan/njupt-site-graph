@@ -53,10 +53,11 @@ def assert_manifest_complete(site_id: str) -> dict:
     manifest = read_json(root / 'manifest.json')
     assert manifest['site_id'] == site_id
     assert manifest['quality']['all_discovered_urls_have_outcomes'] is True
-    assert manifest['quality']['errors'] == 0
+    errors = manifest['errors']
+    assert manifest['quality']['errors'] == 0, json.dumps(errors[:10], ensure_ascii=False, indent=2)
     assert manifest['quality']['attachment_policy'] == 'metadata_only'
     assert manifest['quality']['external_link_policy'] == 'record_only'
-    assert manifest['errors'] == []
+    assert errors == []
     assert manifest['url_outcomes']
     assert_unknown_outcomes_allowlisted(site_id, manifest)
     return manifest
