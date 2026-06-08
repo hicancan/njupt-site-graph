@@ -1,0 +1,902 @@
+{
+  "site_id": "tyb",
+  "generated_at": "2026-06-08T05:43:29.293814+00:00",
+  "nodes": [
+    {
+      "node_id": "a2d6aa814d883771932a",
+      "site_id": "tyb",
+      "label": "部门概况",
+      "url": "https://tyb.njupt.edu.cn/7211/list.htm",
+      "nav_path": [
+        "部门概况"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 1
+    },
+    {
+      "node_id": "c319464d8718e8587252",
+      "site_id": "tyb",
+      "label": "部门简介",
+      "url": "https://tyb.njupt.edu.cn/7212/list.htm",
+      "nav_path": [
+        "部门简介"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "a2d6aa814d883771932a",
+      "position": 2
+    },
+    {
+      "node_id": "0873de0a7083b72dbbbb",
+      "site_id": "tyb",
+      "label": "现任领导",
+      "url": "https://tyb.njupt.edu.cn/7214/list.htm",
+      "nav_path": [
+        "现任领导"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "a2d6aa814d883771932a",
+      "position": 3
+    },
+    {
+      "node_id": "3b597e6e96d910f0906d",
+      "site_id": "tyb",
+      "label": "组织机构",
+      "url": "https://tyb.njupt.edu.cn/7213/list.htm",
+      "nav_path": [
+        "组织机构"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "a2d6aa814d883771932a",
+      "position": 4
+    },
+    {
+      "node_id": "9e2ee11f61d5a13c3f84",
+      "site_id": "tyb",
+      "label": "场馆设施",
+      "url": "https://tyb.njupt.edu.cn/7215/list.htm",
+      "nav_path": [
+        "场馆设施"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "a2d6aa814d883771932a",
+      "position": 5
+    },
+    {
+      "node_id": "0ad67d71c5f2fa374b74",
+      "site_id": "tyb",
+      "label": "师资队伍",
+      "url": "https://tyb.njupt.edu.cn/7217/list.htm",
+      "nav_path": [
+        "师资队伍"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "a2d6aa814d883771932a",
+      "position": 6
+    },
+    {
+      "node_id": "76a213f47b339032dc5b",
+      "site_id": "tyb",
+      "label": "荣誉墙",
+      "url": "https://tyb.njupt.edu.cn/ryq/list.htm",
+      "nav_path": [
+        "荣誉墙"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "a2d6aa814d883771932a",
+      "position": 7
+    },
+    {
+      "node_id": "40b15e07c6c17d326d46",
+      "site_id": "tyb",
+      "label": "党群天地",
+      "url": "https://tyb.njupt.edu.cn/dztd/list.htm",
+      "nav_path": [
+        "党群天地"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 8
+    },
+    {
+      "node_id": "939a73125131dd8ad580",
+      "site_id": "tyb",
+      "label": "党总支概况",
+      "url": "https://tyb.njupt.edu.cn/dzzgk/list.htm",
+      "nav_path": [
+        "党总支概况"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "40b15e07c6c17d326d46",
+      "position": 9
+    },
+    {
+      "node_id": "5822dbb809e48403b289",
+      "site_id": "tyb",
+      "label": "规章制度",
+      "url": "https://tyb.njupt.edu.cn/8540/list.htm",
+      "nav_path": [
+        "规章制度"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "40b15e07c6c17d326d46",
+      "position": 10
+    },
+    {
+      "node_id": "2ac291c423c90b9e75db",
+      "site_id": "tyb",
+      "label": "党务活动",
+      "url": "https://tyb.njupt.edu.cn/8541/list.htm",
+      "nav_path": [
+        "党务活动"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "40b15e07c6c17d326d46",
+      "position": 11
+    },
+    {
+      "node_id": "31cc351a720dac7a9a9a",
+      "site_id": "tyb",
+      "label": "师德师风建设",
+      "url": "https://tyb.njupt.edu.cn/sdsfjs/list.htm",
+      "nav_path": [
+        "师德师风建设"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "40b15e07c6c17d326d46",
+      "position": 12
+    },
+    {
+      "node_id": "f751e86475323137af25",
+      "site_id": "tyb",
+      "label": "学习园地",
+      "url": "https://tyb.njupt.edu.cn/8546/list.htm",
+      "nav_path": [
+        "学习园地"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "40b15e07c6c17d326d46",
+      "position": 13
+    },
+    {
+      "node_id": "e09e0981c8f0324298b4",
+      "site_id": "tyb",
+      "label": "学习贯彻习近平新时代中国特色社会主义思想主题教育",
+      "url": "https://tyb.njupt.edu.cn/xxgcxjpxsdzgtsshzysxztjy/list.htm",
+      "nav_path": [
+        "学习贯彻习近平新时代中国特色社会主义思想主题教育"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "40b15e07c6c17d326d46",
+      "position": 14
+    },
+    {
+      "node_id": "5f9b57216dde4b83fdd2",
+      "site_id": "tyb",
+      "label": "教学科研",
+      "url": "https://tyb.njupt.edu.cn/jxky/list.htm",
+      "nav_path": [
+        "教学科研"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 15
+    },
+    {
+      "node_id": "82cfd5d47d9c0022386a",
+      "site_id": "tyb",
+      "label": "教学活动",
+      "url": "https://tyb.njupt.edu.cn/7226/list.htm",
+      "nav_path": [
+        "教学活动"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "5f9b57216dde4b83fdd2",
+      "position": 16
+    },
+    {
+      "node_id": "a0e1f85991aff61a6665",
+      "site_id": "tyb",
+      "label": "科研动态",
+      "url": "https://tyb.njupt.edu.cn/7236/list.htm",
+      "nav_path": [
+        "科研动态"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "5f9b57216dde4b83fdd2",
+      "position": 17
+    },
+    {
+      "node_id": "a657ad59864539ca5bee",
+      "site_id": "tyb",
+      "label": "本科教育教学审核评估",
+      "url": "https://tyb.njupt.edu.cn/bkjyjxshpg/list.htm",
+      "nav_path": [
+        "本科教育教学审核评估"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "5f9b57216dde4b83fdd2",
+      "position": 18
+    },
+    {
+      "node_id": "e660271f86ce4520e638",
+      "site_id": "tyb",
+      "label": "体育课程表",
+      "url": "https://tyb.njupt.edu.cn/7228/list.htm",
+      "nav_path": [
+        "体育课程表"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "5f9b57216dde4b83fdd2",
+      "position": 19
+    },
+    {
+      "node_id": "dabef521776a61ea1633",
+      "site_id": "tyb",
+      "label": "规章制度",
+      "url": "https://tyb.njupt.edu.cn/7224/list.htm",
+      "nav_path": [
+        "规章制度"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "5f9b57216dde4b83fdd2",
+      "position": 20
+    },
+    {
+      "node_id": "85878f633edf071f482c",
+      "site_id": "tyb",
+      "label": "群体动态",
+      "url": "https://tyb.njupt.edu.cn/7257/list.htm",
+      "nav_path": [
+        "群体动态"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 21
+    },
+    {
+      "node_id": "8ca0e14bbfc3e74972e8",
+      "site_id": "tyb",
+      "label": "群体运动",
+      "url": "https://tyb.njupt.edu.cn/7234/list.htm",
+      "nav_path": [
+        "群体运动"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "85878f633edf071f482c",
+      "position": 22
+    },
+    {
+      "node_id": "2d2b1358414dfd84e7e0",
+      "site_id": "tyb",
+      "label": "校运动会",
+      "url": "https://tyb.njupt.edu.cn/7231/list.htm",
+      "nav_path": [
+        "校运动会"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "85878f633edf071f482c",
+      "position": 23
+    },
+    {
+      "node_id": "de278ae4fe1e01ed817d",
+      "site_id": "tyb",
+      "label": "运动竞赛",
+      "url": "https://tyb.njupt.edu.cn/7229/list.htm",
+      "nav_path": [
+        "运动竞赛"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 24
+    },
+    {
+      "node_id": "27f7afa0c7b3f0f5e064",
+      "site_id": "tyb",
+      "label": "赛事战况",
+      "url": "https://tyb.njupt.edu.cn/ssxw/list.htm",
+      "nav_path": [
+        "赛事战况"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "de278ae4fe1e01ed817d",
+      "position": 25
+    },
+    {
+      "node_id": "6eca9bf639642a41f0e7",
+      "site_id": "tyb",
+      "label": "普通生运动队",
+      "url": "https://tyb.njupt.edu.cn/ptsydd/list.htm",
+      "nav_path": [
+        "普通生运动队"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "de278ae4fe1e01ed817d",
+      "position": 26
+    },
+    {
+      "node_id": "4bfc4855f8a556410772",
+      "site_id": "tyb",
+      "label": "男子篮球队",
+      "url": "https://tyb.njupt.edu.cn/ptsnzlqd/list.htm",
+      "nav_path": [
+        "男子篮球队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 27
+    },
+    {
+      "node_id": "e64772372e5908f83e58",
+      "site_id": "tyb",
+      "label": "女子篮球队",
+      "url": "https://tyb.njupt.edu.cn/ptsnzlqd_17972/list.htm",
+      "nav_path": [
+        "女子篮球队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 28
+    },
+    {
+      "node_id": "77b09556195fa04b99cf",
+      "site_id": "tyb",
+      "label": "男子排球队",
+      "url": "https://tyb.njupt.edu.cn/pqd/list.htm",
+      "nav_path": [
+        "男子排球队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 29
+    },
+    {
+      "node_id": "39aff0af5027390a0a16",
+      "site_id": "tyb",
+      "label": "女子排球队",
+      "url": "https://tyb.njupt.edu.cn/nzpqd/list.htm",
+      "nav_path": [
+        "女子排球队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 30
+    },
+    {
+      "node_id": "6d9275f7f5c048d074fd",
+      "site_id": "tyb",
+      "label": "男子足球队",
+      "url": "https://tyb.njupt.edu.cn/nzzqd_18505/list.htm",
+      "nav_path": [
+        "男子足球队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 31
+    },
+    {
+      "node_id": "c8698feb5012080df4df",
+      "site_id": "tyb",
+      "label": "龙狮团",
+      "url": "https://tyb.njupt.edu.cn/lst/list.htm",
+      "nav_path": [
+        "龙狮团"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 32
+    },
+    {
+      "node_id": "ec5fe280cde3cd02d480",
+      "site_id": "tyb",
+      "label": "乒乓球队",
+      "url": "https://tyb.njupt.edu.cn/ppqd/list.htm",
+      "nav_path": [
+        "乒乓球队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 33
+    },
+    {
+      "node_id": "17545d3a9da613887def",
+      "site_id": "tyb",
+      "label": "羽毛球队",
+      "url": "https://tyb.njupt.edu.cn/ymqd/list.htm",
+      "nav_path": [
+        "羽毛球队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 34
+    },
+    {
+      "node_id": "f6c3b8f9981e1ea21dbc",
+      "site_id": "tyb",
+      "label": "网球队",
+      "url": "https://tyb.njupt.edu.cn/wqd/list.htm",
+      "nav_path": [
+        "网球队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 35
+    },
+    {
+      "node_id": "0fd02a22efadffe58f02",
+      "site_id": "tyb",
+      "label": "田径队",
+      "url": "https://tyb.njupt.edu.cn/tjd/list.htm",
+      "nav_path": [
+        "田径队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 36
+    },
+    {
+      "node_id": "3a77b477dc74f6e39e2e",
+      "site_id": "tyb",
+      "label": "武术队",
+      "url": "https://tyb.njupt.edu.cn/wsd/list.htm",
+      "nav_path": [
+        "武术队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 37
+    },
+    {
+      "node_id": "f25706792a82220a25f2",
+      "site_id": "tyb",
+      "label": "跆拳道队",
+      "url": "https://tyb.njupt.edu.cn/tqdd/list.htm",
+      "nav_path": [
+        "跆拳道队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 38
+    },
+    {
+      "node_id": "35dbde098d0b81659904",
+      "site_id": "tyb",
+      "label": "体育舞蹈队",
+      "url": "https://tyb.njupt.edu.cn/tywdd/list.htm",
+      "nav_path": [
+        "体育舞蹈队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 39
+    },
+    {
+      "node_id": "eb52bc4310200c3ced83",
+      "site_id": "tyb",
+      "label": "排舞队",
+      "url": "https://tyb.njupt.edu.cn/pwd/list.htm",
+      "nav_path": [
+        "排舞队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 40
+    },
+    {
+      "node_id": "6a5e3517e80b572003a6",
+      "site_id": "tyb",
+      "label": "飞镖队",
+      "url": "https://tyb.njupt.edu.cn/fbd/list.htm",
+      "nav_path": [
+        "飞镖队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 41
+    },
+    {
+      "node_id": "ca99af2e67f33718112a",
+      "site_id": "tyb",
+      "label": "飞盘队",
+      "url": "https://tyb.njupt.edu.cn/fpd/list.htm",
+      "nav_path": [
+        "飞盘队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 42
+    },
+    {
+      "node_id": "36bb9ca0dd626f54c15c",
+      "site_id": "tyb",
+      "label": "棒垒球队",
+      "url": "https://tyb.njupt.edu.cn/blq/list.htm",
+      "nav_path": [
+        "棒垒球队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 43
+    },
+    {
+      "node_id": "e510b1c38b7d8cecaeaa",
+      "site_id": "tyb",
+      "label": "匹克球队",
+      "url": "https://tyb.njupt.edu.cn/pkq/list.htm",
+      "nav_path": [
+        "匹克球队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 44
+    },
+    {
+      "node_id": "330b9b9a57ebbfe2fe74",
+      "site_id": "tyb",
+      "label": "游泳队",
+      "url": "https://tyb.njupt.edu.cn/yyd/list.htm",
+      "nav_path": [
+        "游泳队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 45
+    },
+    {
+      "node_id": "7419900915819701782e",
+      "site_id": "tyb",
+      "label": "啦啦操队",
+      "url": "https://tyb.njupt.edu.cn/llcd/list.htm",
+      "nav_path": [
+        "啦啦操队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 46
+    },
+    {
+      "node_id": "b64f5b7e31f23c5a44ed",
+      "site_id": "tyb",
+      "label": "轮滑队",
+      "url": "https://tyb.njupt.edu.cn/lh/list.htm",
+      "nav_path": [
+        "轮滑队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 47
+    },
+    {
+      "node_id": "3f282fa5242eed22d714",
+      "site_id": "tyb",
+      "label": "毽球队",
+      "url": "https://tyb.njupt.edu.cn/jqd/list.htm",
+      "nav_path": [
+        "毽球队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "6eca9bf639642a41f0e7",
+      "position": 48
+    },
+    {
+      "node_id": "76cc04eb4750bb3b71c4",
+      "site_id": "tyb",
+      "label": "高水平运动队",
+      "url": "https://tyb.njupt.edu.cn/gspyddjs/list.htm",
+      "nav_path": [
+        "高水平运动队"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "de278ae4fe1e01ed817d",
+      "position": 49
+    },
+    {
+      "node_id": "d6251a470b7a050a53f7",
+      "site_id": "tyb",
+      "label": "女子篮球队",
+      "url": "https://tyb.njupt.edu.cn/nzlqd/list.htm",
+      "nav_path": [
+        "女子篮球队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "76cc04eb4750bb3b71c4",
+      "position": 50
+    },
+    {
+      "node_id": "a616840bd158526dbcd4",
+      "site_id": "tyb",
+      "label": "男子篮球队",
+      "url": "https://tyb.njupt.edu.cn/nzlqd_11755/list.htm",
+      "nav_path": [
+        "男子篮球队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "76cc04eb4750bb3b71c4",
+      "position": 51
+    },
+    {
+      "node_id": "b925b41c6057488e2457",
+      "site_id": "tyb",
+      "label": "男子足球队",
+      "url": "https://tyb.njupt.edu.cn/nzzqd/list.htm",
+      "nav_path": [
+        "男子足球队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "76cc04eb4750bb3b71c4",
+      "position": 52
+    },
+    {
+      "node_id": "52c4f5e21d5d26b5d6c6",
+      "site_id": "tyb",
+      "label": "女子足球队",
+      "url": "https://tyb.njupt.edu.cn/nzzqd_18552/list.htm",
+      "nav_path": [
+        "女子足球队"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "76cc04eb4750bb3b71c4",
+      "position": 53
+    },
+    {
+      "node_id": "7b6bdb2b9682acd04cda",
+      "site_id": "tyb",
+      "label": "体质测试",
+      "url": "https://tyb.njupt.edu.cn/tzcs_11731/list.htm",
+      "nav_path": [
+        "体质测试"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 54
+    },
+    {
+      "node_id": "faab0e2d98f1e0fb0f79",
+      "site_id": "tyb",
+      "label": "体质测试信息",
+      "url": "https://tyb.njupt.edu.cn/tzcs/list.htm",
+      "nav_path": [
+        "体质测试信息"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "7b6bdb2b9682acd04cda",
+      "position": 55
+    },
+    {
+      "node_id": "5c94bd59d0cb9667a142",
+      "site_id": "tyb",
+      "label": "成绩录入系统",
+      "url": "https://tycj.njupt.edu.cn:9003/",
+      "nav_path": [
+        "成绩录入系统"
+      ],
+      "depth": 2,
+      "target_type": "external_link",
+      "same_domain": false,
+      "parent_id": "7b6bdb2b9682acd04cda",
+      "position": 56
+    },
+    {
+      "node_id": "650bf542ad4aee528952",
+      "site_id": "tyb",
+      "label": "晨跑锻炼",
+      "url": "https://tyb.njupt.edu.cn/zdlxx/list.htm",
+      "nav_path": [
+        "晨跑锻炼"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 57
+    },
+    {
+      "node_id": "122444650b017ccae18e",
+      "site_id": "tyb",
+      "label": "晨跑通知",
+      "url": "https://tyb.njupt.edu.cn/7233/list.htm",
+      "nav_path": [
+        "晨跑通知"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "650bf542ad4aee528952",
+      "position": 58
+    },
+    {
+      "node_id": "5c7652fb4c852e2f2c95",
+      "site_id": "tyb",
+      "label": "晨跑查询",
+      "url": "https://tyb.njupt.edu.cn/zdlxxcx/list.htm",
+      "nav_path": [
+        "晨跑查询"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "650bf542ad4aee528952",
+      "position": 59
+    },
+    {
+      "node_id": "f058d9897ec81a70ea05",
+      "site_id": "tyb",
+      "label": "文档中心",
+      "url": "https://tyb.njupt.edu.cn/7243/list.htm",
+      "nav_path": [
+        "文档中心"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 60
+    },
+    {
+      "node_id": "7a11423b03f932fc588a",
+      "site_id": "tyb",
+      "label": "信息公开",
+      "url": "https://tyb.njupt.edu.cn/xxgk/list.htm",
+      "nav_path": [
+        "信息公开"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "f058d9897ec81a70ea05",
+      "position": 61
+    },
+    {
+      "node_id": "95a2986b0a57cd84a22c",
+      "site_id": "tyb",
+      "label": "会议信息",
+      "url": "https://tyb.njupt.edu.cn/7256/list.htm",
+      "nav_path": [
+        "会议信息"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "f058d9897ec81a70ea05",
+      "position": 62
+    },
+    {
+      "node_id": "4639ef763359bbfced96",
+      "site_id": "tyb",
+      "label": "资料下载",
+      "url": "https://tyb.njupt.edu.cn/zlxz/list.htm",
+      "nav_path": [
+        "资料下载"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "f058d9897ec81a70ea05",
+      "position": 63
+    },
+    {
+      "node_id": "8cda80a1a1e5c616b9ab",
+      "site_id": "tyb",
+      "label": "学校发文",
+      "url": "https://tyb.njupt.edu.cn/xxfw/list.htm",
+      "nav_path": [
+        "学校发文"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "f058d9897ec81a70ea05",
+      "position": 64
+    }
+  ]
+}

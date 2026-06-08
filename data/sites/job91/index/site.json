@@ -1,0 +1,9 @@
+{
+  "site_id": "job91",
+  "name": "南京邮电大学就业信息网",
+  "base_url": "https://njupt.91job.org.cn/",
+  "domain": "njupt.91job.org.cn",
+  "adapter": "job91_api",
+  "created_at": "2026-06-08T05:43:21.672467+00:00",
+  "notes": "Chrome DevTools audited SPA/API source. Uses explicit job91_api adapter rather than WebPlus extraction."
+}

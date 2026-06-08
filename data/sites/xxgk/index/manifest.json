@@ -1,0 +1,1144 @@
+{
+  "site_id": "xxgk",
+  "generated_at": "2026-06-08T05:56:36.097129+00:00",
+  "totals": {
+    "sections": 8,
+    "nav_nodes": 15,
+    "homepage_modules": 4,
+    "list_pages": 7,
+    "detail_pages": 10,
+    "low_content_detail_pages": 8,
+    "attachments": 2,
+    "external_links": 74,
+    "edges": 121,
+    "url_outcomes": 75
+  },
+  "outcomes": {
+    "attachment_metadata_only": 2,
+    "crawled_detail_ok": 6,
+    "crawled_homepage_ok": 1,
+    "crawled_list_ok": 7,
+    "cross_domain_article_link_recorded": 4,
+    "external_link_recorded": 54,
+    "inline_image_recorded": 1
+  },
+  "errors": [],
+  "quality": {
+    "all_discovered_urls_have_outcomes": true,
+    "errors": 0,
+    "attachment_policy": "metadata_only",
+    "external_link_policy": "record_only"
+  },
+  "url_outcomes": {
+    "https://xxgk.njupt.edu.cn/": {
+      "url": "https://xxgk.njupt.edu.cn/",
+      "target_type": "homepage",
+      "outcome": "crawled_homepage_ok",
+      "labels": [
+        "首页",
+        "旧版查询",
+        "<a href='https://xxgk.njupt.edu.cn/' target='_self' title='.'><font style='color:#FFFFFC;'>.</font></a>",
+        ".",
+        "<a href='https://xxgk.njupt.edu.cn/' target='_self' title='''><font style='color:#FFFFFF;'>'</font></a>",
+        "'"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/",
+        "https://xxgk.njupt.edu.cn/xxgkgzndbg/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_module_77dfcc43ade1"
+      ],
+      "status_code": 200
+    },
+    "https://xxgk.njupt.edu.cn/xxgkzn/list.htm": {
+      "url": "https://xxgk.njupt.edu.cn/xxgkzn/list.htm",
+      "target_type": "section_list_page",
+      "outcome": "crawled_list_ok",
+      "labels": [
+        "信息公开指南"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/",
+        "https://xxgk.njupt.edu.cn/xxgkzn/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_ce70c6e835be"
+      ],
+      "status_code": 200
+    },
+    "https://xxgk.njupt.edu.cn/xxgkml/list.htm": {
+      "url": "https://xxgk.njupt.edu.cn/xxgkml/list.htm",
+      "target_type": "section_list_page",
+      "outcome": "crawled_list_ok",
+      "labels": [
+        "信息公开目录",
+        "1. 基本信息",
+        "2. 招生考试信息",
+        "3. 财务、资产及收费...",
+        "4. 人事师资信息",
+        "5. 教学质量信息",
+        "6. 学生管理服务信息",
+        "7. 学风建设信息",
+        "8. 学位、学科信息",
+        "9. 对外交流与合作信...",
+        "10. 其他"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/",
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ],
+      "status_code": 200
+    },
+    "https://xxgk.njupt.edu.cn/zxgkxx/list.htm": {
+      "url": "https://xxgk.njupt.edu.cn/zxgkxx/list.htm",
+      "target_type": "section_list_page",
+      "outcome": "crawled_list_ok",
+      "labels": [
+        "最新公开信息",
+        "更多"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/",
+        "https://xxgk.njupt.edu.cn/zxgkxx/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_latest"
+      ],
+      "status_code": 200
+    },
+    "https://xxgk.njupt.edu.cn/ysqgk/list.htm": {
+      "url": "https://xxgk.njupt.edu.cn/ysqgk/list.htm",
+      "target_type": "section_list_page",
+      "outcome": "crawled_list_ok",
+      "labels": [
+        "依申请公开"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/",
+        "https://xxgk.njupt.edu.cn/ysqgk/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_d57215095356"
+      ],
+      "status_code": 200
+    },
+    "http://yzb.njupt.edu.cn/": {
+      "url": "http://yzb.njupt.edu.cn/",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "<a href='http://yzb.njupt.edu.cn/' target='_blank' title='南京邮电大学研究生招生信息'>南京邮电大学研究生招生信息</a>",
+        "南京邮电大学研究生招生信息",
+        "研究生招生简章、招生专业目录、复试录取办法，各院（系、所）或学科、专业招收研究生人数",
+        "参加研究生复试的考生成绩",
+        "拟录取研究生名单",
+        "研究生招生咨询及申诉渠道"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/",
+        "https://xxgk.njupt.edu.cn/zxgkxx/list.htm",
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_latest",
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "https://zbb.njupt.edu.cn/zbgghwl/index.chtml": {
+      "url": "https://zbb.njupt.edu.cn/zbgghwl/index.chtml",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "<a href='https://zbb.njupt.edu.cn/zbgghwl/index.chtml' target='_blank' title='南京邮电大学校内集中采购信息'>南京邮电大学校内集中采购信息</a>",
+        "南京邮电大学校内集中采购信息"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/",
+        "https://xxgk.njupt.edu.cn/zxgkxx/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_latest"
+      ]
+    },
+    "https://zbb.njupt.edu.cn/cjgshwl/index.chtml": {
+      "url": "https://zbb.njupt.edu.cn/cjgshwl/index.chtml",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "<a href='https://zbb.njupt.edu.cn/cjgshwl/index.chtml' target='_blank' title='南京邮电大学校内集中采购结果公示'>南京邮电大学校内集中采购结果公示</a>",
+        "南京邮电大学校内集中采购结果公示"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/",
+        "https://xxgk.njupt.edu.cn/zxgkxx/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_latest"
+      ]
+    },
+    "https://zbb.njupt.edu.cn/fscgxx/index.chtml": {
+      "url": "https://zbb.njupt.edu.cn/fscgxx/index.chtml",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "<a href='https://zbb.njupt.edu.cn/fscgxx/index.chtml' target='_blank' title='南京邮电大学校内分散采购信息'>南京邮电大学校内分散采购信息</a>",
+        "南京邮电大学校内分散采购信息"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/",
+        "https://xxgk.njupt.edu.cn/zxgkxx/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_latest"
+      ]
+    },
+    "https://xxgk.njupt.edu.cn/xxgkgzndbg/list.htm": {
+      "url": "https://xxgk.njupt.edu.cn/xxgkgzndbg/list.htm",
+      "target_type": "section_list_page",
+      "outcome": "crawled_list_ok",
+      "labels": [
+        "更多",
+        "信息公开年度报告",
+        "信息公开工作年度报告"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/",
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm",
+        "https://xxgk.njupt.edu.cn/xxgkgzndbg/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_module_77dfcc43ade1"
+      ],
+      "status_code": 200
+    },
+    "https://xxgk.njupt.edu.cn/2025/1114/c13357a291992/page.htm": {
+      "url": "https://xxgk.njupt.edu.cn/2025/1114/c13357a291992/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "<a href='/2025/1114/c13357a291992/page.htm' target='_blank' title='南京邮电大学2024-2025学年度信息公开报告'>南京邮电大学2024-2025学年度信息公开报告</a>",
+        "南京邮电大学2024-2025学年度信息公开报告"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/",
+        "https://xxgk.njupt.edu.cn/xxgkgzndbg/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_module_77dfcc43ade1"
+      ],
+      "status_code": 200
+    },
+    "http://www.njupt.edu.cn/53/list.htm": {
+      "url": "http://www.njupt.edu.cn/53/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "南邮要闻"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "http://www.njupt.edu.cn/72/list.htm": {
+      "url": "http://www.njupt.edu.cn/72/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "通知公告"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://xxgk.njupt.edu.cn/xxgkzd/list.htm": {
+      "url": "https://xxgk.njupt.edu.cn/xxgkzd/list.htm",
+      "target_type": "section_list_page",
+      "outcome": "crawled_list_ok",
+      "labels": [
+        "信息公开制度",
+        "服务指南"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/",
+        "https://xxgk.njupt.edu.cn/xxgkzd/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_module_382e4f7de6de"
+      ],
+      "status_code": 200
+    },
+    "https://xxgk.njupt.edu.cn/2020/1113/c13359a174935/page.htm": {
+      "url": "https://xxgk.njupt.edu.cn/2020/1113/c13359a174935/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "信息公开意见箱"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/"
+      ],
+      "section_ids": [
+        "xxgk_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://xxgk.njupt.edu.cn/xxgksl/list.htm": {
+      "url": "https://xxgk.njupt.edu.cn/xxgksl/list.htm",
+      "target_type": "section_list_page",
+      "outcome": "crawled_list_ok",
+      "labels": [
+        "信息公开受理"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/",
+        "https://xxgk.njupt.edu.cn/xxgksl/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_82960fd62da4"
+      ],
+      "status_code": 200
+    },
+    "http://www.njupt.edu.cn/148/list.htm": {
+      "url": "http://www.njupt.edu.cn/148/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "作息时间表"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://zbb.njupt.edu.cn/fscgcjgg/index.chtml": {
+      "url": "https://zbb.njupt.edu.cn/fscgcjgg/index.chtml",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "南京邮电大学校内分散采购结果公示"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/zxgkxx/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_latest"
+      ]
+    },
+    "https://www.njupt.edu.cn/17220/list.htm": {
+      "url": "https://www.njupt.edu.cn/17220/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "办学规模、学校机构设置、学科情况、专业情况、各类在校生情况、教师和专业技术人员数量等办学基本情况"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "https://www.njupt.edu.cn/17226/list.htm": {
+      "url": "https://www.njupt.edu.cn/17226/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "校级领导班子简介及分工"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "https://www.njupt.edu.cn/17221/list.htm": {
+      "url": "https://www.njupt.edu.cn/17221/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "学校章程"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://gzzd.njupt.edu.cn/main.psp": {
+      "url": "http://gzzd.njupt.edu.cn/main.psp",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "制定的各项规章制度"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://gonghui.njupt.edu.cn/ldh/list.htm": {
+      "url": "http://gonghui.njupt.edu.cn/ldh/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "教职工代表大会相关制度、工作报告"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "https://kxjsc.njupt.edu.cn/xswyh_13598/list.htm": {
+      "url": "https://kxjsc.njupt.edu.cn/xswyh_13598/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "学术委员会相关制度、"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "https://kxjsc.njupt.edu.cn/xswyh_13591/list.htm": {
+      "url": "https://kxjsc.njupt.edu.cn/xswyh_13591/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "年度报告"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "https://fzghc.njupt.edu.cn/2022/0602/c4421a222332/page.psp": {
+      "url": "https://fzghc.njupt.edu.cn/2022/0602/c4421a222332/page.psp",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "学校发展规划"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://xb.njupt.edu.cn/2011/0329/c7965a89495/page.htm": {
+      "url": "http://xb.njupt.edu.cn/2011/0329/c7965a89495/page.htm",
+      "target_type": "external_link",
+      "outcome": "cross_domain_article_link_recorded",
+      "labels": [
+        "年度工作计划及重点工作安排"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://zs.njupt.edu.cn/2562/list.htm": {
+      "url": "http://zs.njupt.edu.cn/2562/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "招生章程及特殊类型招生办法"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://zs.njupt.edu.cn/2563/list.htm": {
+      "url": "http://zs.njupt.edu.cn/2563/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "分批次、分科类招生计划"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "https://zs.njupt.edu.cn/12721/list.htm": {
+      "url": "https://zs.njupt.edu.cn/12721/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "保送生 、 综合评价招生 、 高水平运动员 、 艺术类等特殊类型招生入选考生资格及测试结果"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://zs.njupt.edu.cn/2579/list.htm": {
+      "url": "http://zs.njupt.edu.cn/2579/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "考生个人录取信息查询渠道和办法"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://zs.njupt.edu.cn/2564/list.htm": {
+      "url": "http://zs.njupt.edu.cn/2564/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "分批次、分科类录取人数和录取最低分"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://zs.njupt.edu.cn/2581/list.htm": {
+      "url": "http://zs.njupt.edu.cn/2581/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "招生咨询及考生申诉渠道"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://zs.njupt.edu.cn/zdwgsjcljg/list.htm": {
+      "url": "http://zs.njupt.edu.cn/zdwgsjcljg/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新生复查期间有关举报、调查及处理结果"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://cwc.njupt.edu.cn/805/list.htm": {
+      "url": "http://cwc.njupt.edu.cn/805/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "财务管理制度"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://gzc.njupt.edu.cn/821/list.htm": {
+      "url": "http://gzc.njupt.edu.cn/821/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "资产管理制度"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://jijin.njupt.edu.cn/12925/list.htm": {
+      "url": "http://jijin.njupt.edu.cn/12925/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "受捐赠财产的使用与管理情况"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "https://zcgs.njupt.edu.cn/xxgkwxw/list.htm": {
+      "url": "https://zcgs.njupt.edu.cn/xxgkwxw/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "校办企业资产、负债、国有资产保值增值等信息"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "https://zbb.njupt.edu.cn/": {
+      "url": "https://zbb.njupt.edu.cn/",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "仪器设备、图书、药品等物资设备采购和重大基建工程的招投标"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://cwc.njupt.edu.cn/800/list.htm": {
+      "url": "http://cwc.njupt.edu.cn/800/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "收支预算总表、收入预算表、支出预算表、财政拨款支出预算表",
+        "收支决算总表、收入决算表、支出决算表、财政拨款支出决算表",
+        "收费项目、收费依据、收费标准及投诉方式"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://zzb.njupt.edu.cn/gbjz_16369/list.htm": {
+      "url": "http://zzb.njupt.edu.cn/gbjz_16369/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "校级领导干部社会兼职情况"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://exchange.njupt.edu.cn/xldygcgwjwqk/list.htm": {
+      "url": "http://exchange.njupt.edu.cn/xldygcgwjwqk/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "校级领导干部因公出国（境）情况"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://rsc.njupt.edu.cn/620/list.htm": {
+      "url": "http://rsc.njupt.edu.cn/620/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "岗位设置管理与聘用办法"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://rsc.njupt.edu.cn/585/list.htm": {
+      "url": "http://rsc.njupt.edu.cn/585/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "人员招聘信息"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://rsc.njupt.edu.cn/621/list.htm": {
+      "url": "http://rsc.njupt.edu.cn/621/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "教职工争议解决办法"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://jwc.njupt.edu.cn/p1770c1681/list.htm": {
+      "url": "http://jwc.njupt.edu.cn/p1770c1681/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "本科生占全日制在校生总数的比例、教师数量及结构",
+        "专业设置、当年新增专业、停招专业名单",
+        "全校开设课程总门数、实践教学学分占总学分比例、选修课学分占总学分比例",
+        "主讲本科课程的教授占教授总数的比例、教授授本科课程占课程总门次数的比例",
+        "本科教学质量报告"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "https://njupt.91job.org.cn/sub-station/notificationList?xxdm=10293&lmid=3597": {
+      "url": "https://njupt.91job.org.cn/sub-station/notificationList?xxdm=10293&lmid=3597",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "促进毕业生就业的政策措施和指导服务"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "https://njupt.91job.org.cn/sub-station/notificationList?xxdm=10293&lmid=43748BDAB0D4493FE0630100007FB3B8": {
+      "url": "https://njupt.91job.org.cn/sub-station/notificationList?xxdm=10293&lmid=43748BDAB0D4493FE0630100007FB3B8",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "毕业生的规模、结构、就业率、就业流向",
+        "高校毕业生就业质量年度报告"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://ac.njupt.edu.cn/ndbg/list.htm": {
+      "url": "http://ac.njupt.edu.cn/ndbg/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "艺术教育发展年度报告"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://pg.njupt.edu.cn/2017/0921/c1062a113438/page.htm": {
+      "url": "http://pg.njupt.edu.cn/2017/0921/c1062a113438/page.htm",
+      "target_type": "external_link",
+      "outcome": "cross_domain_article_link_recorded",
+      "labels": [
+        "研究生"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://jwc.njupt.edu.cn/1535/list.htm": {
+      "url": "http://jwc.njupt.edu.cn/1535/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "本科生"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://ygb.njupt.edu.cn/3786/list.htm": {
+      "url": "http://ygb.njupt.edu.cn/3786/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "研究生"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://xsc.njupt.edu.cn/1160/list.htm": {
+      "url": "http://xsc.njupt.edu.cn/1160/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "本科生"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "https://xsc.njupt.edu.cn/1169/list.htm": {
+      "url": "https://xsc.njupt.edu.cn/1169/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "本科生"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://xsc.njupt.edu.cn/1157/list.htm": {
+      "url": "http://xsc.njupt.edu.cn/1157/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "本科生"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://ygb.njupt.edu.cn/xskjsj/list.htm": {
+      "url": "http://ygb.njupt.edu.cn/xskjsj/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "研究生"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "https://xsc.njupt.edu.cn/xfjs/list.htm": {
+      "url": "https://xsc.njupt.edu.cn/xfjs/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "本科生"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://kxjsc.njupt.edu.cn/xswyh_13591/list.htm": {
+      "url": "http://kxjsc.njupt.edu.cn/xswyh_13591/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "学术规范制度"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://kxjsc.njupt.edu.cn/xswyh_13598/list.htm": {
+      "url": "http://kxjsc.njupt.edu.cn/xswyh_13598/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "学术不端行为查处机制"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "https://pg.njupt.edu.cn/2016/0707/c14020a14778/page.htm": {
+      "url": "https://pg.njupt.edu.cn/2016/0707/c14020a14778/page.htm",
+      "target_type": "external_link",
+      "outcome": "cross_domain_article_link_recorded",
+      "labels": [
+        "研究生"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://jwc.njupt.edu.cn/1537/list.htm": {
+      "url": "http://jwc.njupt.edu.cn/1537/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "本科生"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://pg.njupt.edu.cn/2011/0909/c14020a14636/page.htm": {
+      "url": "http://pg.njupt.edu.cn/2011/0909/c14020a14636/page.htm",
+      "target_type": "external_link",
+      "outcome": "cross_domain_article_link_recorded",
+      "labels": [
+        "拟授予硕士、博士学位同等学力人员资格审查和学力水平认定"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "https://xkb.njupt.edu.cn/xzbsssxwsqsh/list.htm": {
+      "url": "https://xkb.njupt.edu.cn/xzbsssxwsqsh/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新增硕士、博士学位授权学科或专业学位授权点审核办法"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://xkb.njupt.edu.cn/nxzxwsqxkhzyxwsqdcl/list.htm": {
+      "url": "http://xkb.njupt.edu.cn/nxzxwsqxkhzyxwsqdcl/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "拟新增学位授权学科或专业学位授权点的申报及论证材料"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "https://exchange.njupt.edu.cn/7458/list.htm": {
+      "url": "https://exchange.njupt.edu.cn/7458/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "中外合作办学情况"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://exchange.njupt.edu.cn/7463/list.htm": {
+      "url": "http://exchange.njupt.edu.cn/7463/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "来华留学生管理相关规定"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "http://xb.njupt.edu.cn/7965/list.htm": {
+      "url": "http://xb.njupt.edu.cn/7965/list.htm",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "巡视组反馈意见，落实反馈意见整改情况"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "https://xb.njupt.edu.cn/2017/1106/c7965a116563/page.psp": {
+      "url": "https://xb.njupt.edu.cn/2017/1106/c7965a116563/page.psp",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "自然灾害等突发事件的应急处理预案、预警信息和处置情况，涉及学校的重大事件的调查和处理情况"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_b4c93b6125ee"
+      ]
+    },
+    "https://xxgk.njupt.edu.cn/_upload/article/files/91/1f/bd63bcb04750b5edeba714750d98/ff6a310b-77bc-472c-a73e-d0cde8d789f3.doc": {
+      "url": "https://xxgk.njupt.edu.cn/_upload/article/files/91/1f/bd63bcb04750b5edeba714750d98/ff6a310b-77bc-472c-a73e-d0cde8d789f3.doc",
+      "target_type": "attachment_file",
+      "outcome": "attachment_metadata_only",
+      "labels": [
+        "南京邮电大学信息公开申请表.doc.doc"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/ysqgk/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_d57215095356"
+      ]
+    },
+    "https://xxgk.njupt.edu.cn/_ueditor/themes/default/images/icon_doc.gif": {
+      "url": "https://xxgk.njupt.edu.cn/_ueditor/themes/default/images/icon_doc.gif",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/ysqgk/list.htm",
+        "https://xxgk.njupt.edu.cn/xxgksl/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_d57215095356",
+        "xxgk_home_link_82960fd62da4"
+      ]
+    },
+    "https://xxgk.njupt.edu.cn/2020/1113/c13358a174943/page.htm": {
+      "url": "https://xxgk.njupt.edu.cn/2020/1113/c13358a174943/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "南京邮电大学信息公开实施细则"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkzd/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_module_382e4f7de6de"
+      ],
+      "status_code": 200
+    },
+    "https://xxgk.njupt.edu.cn/2020/1113/c13358a174942/page.htm": {
+      "url": "https://xxgk.njupt.edu.cn/2020/1113/c13358a174942/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "江苏省政府信息公开申请办理答复规范"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkzd/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_module_382e4f7de6de"
+      ],
+      "status_code": 200
+    },
+    "https://xxgk.njupt.edu.cn/2020/1113/c13358a174941/page.htm": {
+      "url": "https://xxgk.njupt.edu.cn/2020/1113/c13358a174941/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "高等学校信息公开办法"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkzd/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_module_382e4f7de6de"
+      ],
+      "status_code": 200
+    },
+    "https://xxgk.njupt.edu.cn/2020/1113/c13358a174940/page.htm": {
+      "url": "https://xxgk.njupt.edu.cn/2020/1113/c13358a174940/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "中华人民共和国政府信息公开条例"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgkzd/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_module_382e4f7de6de"
+      ],
+      "status_code": 200
+    },
+    "https://xxgk.njupt.edu.cn/_upload/article/files/0a/af/d76504474358a05076918acbc74e/d08d4b03-e891-4c99-af44-76e95bb71f11.doc": {
+      "url": "https://xxgk.njupt.edu.cn/_upload/article/files/0a/af/d76504474358a05076918acbc74e/d08d4b03-e891-4c99-af44-76e95bb71f11.doc",
+      "target_type": "attachment_file",
+      "outcome": "attachment_metadata_only",
+      "labels": [
+        "南京邮电大学信息公开申请表.doc"
+      ],
+      "sources": [
+        "https://xxgk.njupt.edu.cn/xxgksl/list.htm"
+      ],
+      "section_ids": [
+        "xxgk_home_link_82960fd62da4"
+      ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "site_id": "lib",
+  "name": "图书馆",
+  "base_url": "https://lib.njupt.edu.cn/",
+  "domain": "lib.njupt.edu.cn",
+  "adapter": "njupt_wp",
+  "created_at": "2026-06-08T05:36:02.674044+00:00",
+  "notes": "Chrome DevTools audited WebPlus source for library services and resources."
+}

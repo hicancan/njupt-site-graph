@@ -1,0 +1,804 @@
+{
+  "site_id": "scie",
+  "generated_at": "2026-06-08T05:58:34.623094+00:00",
+  "nodes": [
+    {
+      "node_id": "75f5d80893bb61f3c80f",
+      "site_id": "scie",
+      "label": "学院概况",
+      "url": "https://scie.njupt.edu.cn/2760/list.htm",
+      "nav_path": [
+        "学院概况"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 2
+    },
+    {
+      "node_id": "f7fdbbb2e94809532516",
+      "site_id": "scie",
+      "label": "学院简介",
+      "url": "https://scie.njupt.edu.cn/2761/list.htm",
+      "nav_path": [
+        "学院简介"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "75f5d80893bb61f3c80f",
+      "position": 3
+    },
+    {
+      "node_id": "73884dceba07d9f55c77",
+      "site_id": "scie",
+      "label": "学院院徽",
+      "url": "https://scie.njupt.edu.cn/xyyh/list.htm",
+      "nav_path": [
+        "学院院徽"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "75f5d80893bb61f3c80f",
+      "position": 4
+    },
+    {
+      "node_id": "b17c60dca776e6ebe713",
+      "site_id": "scie",
+      "label": "现任领导",
+      "url": "https://scie.njupt.edu.cn/2762/list.htm",
+      "nav_path": [
+        "现任领导"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "75f5d80893bb61f3c80f",
+      "position": 5
+    },
+    {
+      "node_id": "8f6cd3f30bc881cf6114",
+      "site_id": "scie",
+      "label": "组织机构",
+      "url": "https://scie.njupt.edu.cn/2763/list.htm",
+      "nav_path": [
+        "组织机构"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "75f5d80893bb61f3c80f",
+      "position": 6
+    },
+    {
+      "node_id": "43e93b47ef91e8d92adb",
+      "site_id": "scie",
+      "label": "历史沿革",
+      "url": "https://scie.njupt.edu.cn/2764/list.htm",
+      "nav_path": [
+        "历史沿革"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "75f5d80893bb61f3c80f",
+      "position": 7
+    },
+    {
+      "node_id": "bddb246e481805640143",
+      "site_id": "scie",
+      "label": "历任领导",
+      "url": "https://scie.njupt.edu.cn/2765/list.htm",
+      "nav_path": [
+        "历任领导"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "75f5d80893bb61f3c80f",
+      "position": 8
+    },
+    {
+      "node_id": "dc41917ae6dd9cb784cc",
+      "site_id": "scie",
+      "label": "学术委员会",
+      "url": "https://scie.njupt.edu.cn/2766/list.htm",
+      "nav_path": [
+        "学术委员会"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "75f5d80893bb61f3c80f",
+      "position": 9
+    },
+    {
+      "node_id": "eb1421d70040626380a2",
+      "site_id": "scie",
+      "label": "教学指导委员会",
+      "url": "https://scie.njupt.edu.cn/2768/list.htm",
+      "nav_path": [
+        "教学指导委员会"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "75f5d80893bb61f3c80f",
+      "position": 10
+    },
+    {
+      "node_id": "4112373d79e1a371b19e",
+      "site_id": "scie",
+      "label": "信息公开",
+      "url": "https://scie.njupt.edu.cn/2906/list.htm",
+      "nav_path": [
+        "信息公开"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 11
+    },
+    {
+      "node_id": "16fb29f0a8024ebe11b6",
+      "site_id": "scie",
+      "label": "人才培养",
+      "url": "https://scie.njupt.edu.cn/2800/list.htm",
+      "nav_path": [
+        "人才培养"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 12
+    },
+    {
+      "node_id": "254ab646b612ad074719",
+      "site_id": "scie",
+      "label": "本科教育",
+      "url": "https://scie.njupt.edu.cn/2801/list.htm",
+      "nav_path": [
+        "本科教育"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "16fb29f0a8024ebe11b6",
+      "position": 13
+    },
+    {
+      "node_id": "b4cde9f9727ddff1a804",
+      "site_id": "scie",
+      "label": "研究生教育",
+      "url": "https://scie.njupt.edu.cn/2806/list.htm",
+      "nav_path": [
+        "研究生教育"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "16fb29f0a8024ebe11b6",
+      "position": 14
+    },
+    {
+      "node_id": "a984a93ee75519de8d71",
+      "site_id": "scie",
+      "label": "教学动态",
+      "url": "https://scie.njupt.edu.cn/2802/list.htm",
+      "nav_path": [
+        "教学动态"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "16fb29f0a8024ebe11b6",
+      "position": 15
+    },
+    {
+      "node_id": "c588690d73fca531586b",
+      "site_id": "scie",
+      "label": "师资队伍",
+      "url": "https://scie.njupt.edu.cn/2769/list.htm",
+      "nav_path": [
+        "师资队伍"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 16
+    },
+    {
+      "node_id": "edacb0bc6efeadd51f52",
+      "site_id": "scie",
+      "label": "师资总览",
+      "url": "https://scie.njupt.edu.cn/2770/list.htm",
+      "nav_path": [
+        "师资总览"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "c588690d73fca531586b",
+      "position": 17
+    },
+    {
+      "node_id": "1bfa9f50b88d43eac6e4",
+      "site_id": "scie",
+      "label": "教师名录",
+      "url": "https://scie.njupt.edu.cn/2773/list.htm",
+      "nav_path": [
+        "教师名录"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "c588690d73fca531586b",
+      "position": 18
+    },
+    {
+      "node_id": "c68cbba11de9e313ef8c",
+      "site_id": "scie",
+      "label": "学科科研",
+      "url": "https://scie.njupt.edu.cn/2787/list.htm",
+      "nav_path": [
+        "学科科研"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 19
+    },
+    {
+      "node_id": "d5bcf1c7e882caee835c",
+      "site_id": "scie",
+      "label": "学科介绍",
+      "url": "https://scie.njupt.edu.cn/2788/list.htm",
+      "nav_path": [
+        "学科介绍"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "c68cbba11de9e313ef8c",
+      "position": 20
+    },
+    {
+      "node_id": "53e567080c736280eef1",
+      "site_id": "scie",
+      "label": "重点平台",
+      "url": "https://scie.njupt.edu.cn/2789/list.htm",
+      "nav_path": [
+        "重点平台"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "c68cbba11de9e313ef8c",
+      "position": 21
+    },
+    {
+      "node_id": "1f2e82402af370b18308",
+      "site_id": "scie",
+      "label": "学位点建设",
+      "url": "https://scie.njupt.edu.cn/2790/list.htm",
+      "nav_path": [
+        "学位点建设"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "c68cbba11de9e313ef8c",
+      "position": 22
+    },
+    {
+      "node_id": "a96ab9b3046e60a01aee",
+      "site_id": "scie",
+      "label": "导师团队",
+      "url": "https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfc.htm",
+      "nav_path": [
+        "导师团队"
+      ],
+      "depth": 2,
+      "target_type": "external_link",
+      "same_domain": false,
+      "parent_id": "c68cbba11de9e313ef8c",
+      "position": 23
+    },
+    {
+      "node_id": "324e0fe4791fbf51bd70",
+      "site_id": "scie",
+      "label": "科研动态",
+      "url": "https://scie.njupt.edu.cn/2824/list.htm",
+      "nav_path": [
+        "科研动态"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "c68cbba11de9e313ef8c",
+      "position": 24
+    },
+    {
+      "node_id": "dd2d46a84ab008a5a41b",
+      "site_id": "scie",
+      "label": "党群工作",
+      "url": "http://cpcscie.njupt.edu.cn/",
+      "nav_path": [
+        "党群工作"
+      ],
+      "depth": 1,
+      "target_type": "external_link",
+      "same_domain": false,
+      "parent_id": null,
+      "position": 25
+    },
+    {
+      "node_id": "88730e67bbcb0779807b",
+      "site_id": "scie",
+      "label": "党委概况",
+      "url": "https://scie.njupt.edu.cn/2832/list.htm",
+      "nav_path": [
+        "党委概况"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "dd2d46a84ab008a5a41b",
+      "position": 26
+    },
+    {
+      "node_id": "bff0531d49d4a07222d1",
+      "site_id": "scie",
+      "label": "党建制度",
+      "url": "https://scie.njupt.edu.cn/2833/list.htm",
+      "nav_path": [
+        "党建制度"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "dd2d46a84ab008a5a41b",
+      "position": 27
+    },
+    {
+      "node_id": "756f3c9be1eecd72f3a3",
+      "site_id": "scie",
+      "label": "党建动态",
+      "url": "https://scie.njupt.edu.cn/2834/list.htm",
+      "nav_path": [
+        "党建动态"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "dd2d46a84ab008a5a41b",
+      "position": 28
+    },
+    {
+      "node_id": "a3ee96ceb0419d40ec54",
+      "site_id": "scie",
+      "label": "统战工作",
+      "url": "https://scie.njupt.edu.cn/tzgz/list.htm",
+      "nav_path": [
+        "统战工作"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "dd2d46a84ab008a5a41b",
+      "position": 29
+    },
+    {
+      "node_id": "181856fa398b67347a87",
+      "site_id": "scie",
+      "label": "关工委",
+      "url": "https://scie.njupt.edu.cn/2868/list.htm",
+      "nav_path": [
+        "关工委"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "dd2d46a84ab008a5a41b",
+      "position": 30
+    },
+    {
+      "node_id": "01d4501401526eb1da13",
+      "site_id": "scie",
+      "label": "机构设置",
+      "url": "https://scie.njupt.edu.cn/2869/list.htm",
+      "nav_path": [
+        "机构设置"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "181856fa398b67347a87",
+      "position": 31
+    },
+    {
+      "node_id": "6f091cd28c780dd8508d",
+      "site_id": "scie",
+      "label": "工作动态",
+      "url": "https://scie.njupt.edu.cn/2871/list.htm",
+      "nav_path": [
+        "工作动态"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "181856fa398b67347a87",
+      "position": 32
+    },
+    {
+      "node_id": "abb5be030aedffee3b6d",
+      "site_id": "scie",
+      "label": "纪检工作",
+      "url": "https://scie.njupt.edu.cn/jjgz/list.htm",
+      "nav_path": [
+        "纪检工作"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "dd2d46a84ab008a5a41b",
+      "position": 33
+    },
+    {
+      "node_id": "8b11beaa6ab5272bcfcb",
+      "site_id": "scie",
+      "label": "组织机构",
+      "url": "https://scie.njupt.edu.cn/zzjg/list.htm",
+      "nav_path": [
+        "组织机构"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "abb5be030aedffee3b6d",
+      "position": 34
+    },
+    {
+      "node_id": "a4b0e84e7c4b1a5abd63",
+      "site_id": "scie",
+      "label": "纪律法规",
+      "url": "https://scie.njupt.edu.cn/jlfg/list.htm",
+      "nav_path": [
+        "纪律法规"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "abb5be030aedffee3b6d",
+      "position": 35
+    },
+    {
+      "node_id": "7f1c6e5e4d350eda6b78",
+      "site_id": "scie",
+      "label": "纪检动态",
+      "url": "https://scie.njupt.edu.cn/lzxw/list.htm",
+      "nav_path": [
+        "纪检动态"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "abb5be030aedffee3b6d",
+      "position": 36
+    },
+    {
+      "node_id": "52c51ba17ae696288c70",
+      "site_id": "scie",
+      "label": "工会",
+      "url": "https://scie.njupt.edu.cn/2835/list.htm",
+      "nav_path": [
+        "工会"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "dd2d46a84ab008a5a41b",
+      "position": 37
+    },
+    {
+      "node_id": "6df5b1eefcc8a25ea8c2",
+      "site_id": "scie",
+      "label": "工会概况",
+      "url": "https://scie.njupt.edu.cn/ghgk/list.htm",
+      "nav_path": [
+        "工会概况"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "52c51ba17ae696288c70",
+      "position": 38
+    },
+    {
+      "node_id": "7547f97dcbfb36970c40",
+      "site_id": "scie",
+      "label": "工会活动",
+      "url": "https://scie.njupt.edu.cn/2836/list.htm",
+      "nav_path": [
+        "工会活动"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "52c51ba17ae696288c70",
+      "position": 39
+    },
+    {
+      "node_id": "93dca22ee3e6d5b3d50c",
+      "site_id": "scie",
+      "label": "学生工作",
+      "url": "https://scie.njupt.edu.cn/2860/list.htm",
+      "nav_path": [
+        "学生工作"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 40
+    },
+    {
+      "node_id": "ef7a16038d0017dc17ff",
+      "site_id": "scie",
+      "label": "学工团队",
+      "url": "https://scie.njupt.edu.cn/xgtd/list.htm",
+      "nav_path": [
+        "学工团队"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "93dca22ee3e6d5b3d50c",
+      "position": 41
+    },
+    {
+      "node_id": "8a00db187cc3477981d8",
+      "site_id": "scie",
+      "label": "学生活动",
+      "url": "https://scie.njupt.edu.cn/2861/list.htm",
+      "nav_path": [
+        "学生活动"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "93dca22ee3e6d5b3d50c",
+      "position": 42
+    },
+    {
+      "node_id": "67eaf3ce05d209fea779",
+      "site_id": "scie",
+      "label": "招生就业",
+      "url": "https://scie.njupt.edu.cn/2864/list.htm",
+      "nav_path": [
+        "招生就业"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "93dca22ee3e6d5b3d50c",
+      "position": 43
+    },
+    {
+      "node_id": "aaadb614e8f271ce17f1",
+      "site_id": "scie",
+      "label": "奖助学金",
+      "url": "https://scie.njupt.edu.cn/2865/list.htm",
+      "nav_path": [
+        "奖助学金"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "93dca22ee3e6d5b3d50c",
+      "position": 44
+    },
+    {
+      "node_id": "b08899b722496e6d8439",
+      "site_id": "scie",
+      "label": "合作交流",
+      "url": "https://scie.njupt.edu.cn/2827/list.htm",
+      "nav_path": [
+        "合作交流"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 45
+    },
+    {
+      "node_id": "030d33fe02b3d1b25035",
+      "site_id": "scie",
+      "label": "学术讲座",
+      "url": "https://scie.njupt.edu.cn/2829/list.htm",
+      "nav_path": [
+        "学术讲座"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "b08899b722496e6d8439",
+      "position": 46
+    },
+    {
+      "node_id": "a8df2c2921517a0b0580",
+      "site_id": "scie",
+      "label": "国际交流",
+      "url": "https://scie.njupt.edu.cn/gjjl/list.htm",
+      "nav_path": [
+        "国际交流"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "b08899b722496e6d8439",
+      "position": 47
+    },
+    {
+      "node_id": "ed18781f3dfc338b11f3",
+      "site_id": "scie",
+      "label": "合作项目",
+      "url": "https://scie.njupt.edu.cn/hzxm/list.htm",
+      "nav_path": [
+        "合作项目"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "b08899b722496e6d8439",
+      "position": 48
+    },
+    {
+      "node_id": "bb5ba986fbf2b4445e52",
+      "site_id": "scie",
+      "label": "人才招聘",
+      "url": "https://scie.njupt.edu.cn/rczp/list.htm",
+      "nav_path": [
+        "人才招聘"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 49
+    },
+    {
+      "node_id": "a99650c833176c619472",
+      "site_id": "scie",
+      "label": "教师招聘",
+      "url": "https://scie.njupt.edu.cn/2772/list.htm",
+      "nav_path": [
+        "教师招聘"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "bb5ba986fbf2b4445e52",
+      "position": 50
+    },
+    {
+      "node_id": "f59331342274ec34dae4",
+      "site_id": "scie",
+      "label": "博士后招聘",
+      "url": "https://scie.njupt.edu.cn/bshzp/list.htm",
+      "nav_path": [
+        "博士后招聘"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "bb5ba986fbf2b4445e52",
+      "position": 51
+    },
+    {
+      "node_id": "cee4d6540e6101e60ee6",
+      "site_id": "scie",
+      "label": "校友之窗",
+      "url": "https://scie.njupt.edu.cn/2874/list.htm",
+      "nav_path": [
+        "校友之窗"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 52
+    },
+    {
+      "node_id": "19f850478f56fa6aaed8",
+      "site_id": "scie",
+      "label": "校友风采",
+      "url": "https://scie.njupt.edu.cn/2876/list.htm",
+      "nav_path": [
+        "校友风采"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "cee4d6540e6101e60ee6",
+      "position": 53
+    },
+    {
+      "node_id": "00c3d8fec1aa1d3d9598",
+      "site_id": "scie",
+      "label": "校友活动",
+      "url": "https://scie.njupt.edu.cn/2875/list.htm",
+      "nav_path": [
+        "校友活动"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "cee4d6540e6101e60ee6",
+      "position": 54
+    },
+    {
+      "node_id": "2c6f7bb09d9342c067f2",
+      "site_id": "scie",
+      "label": "校友基金",
+      "url": "https://scie.njupt.edu.cn/2877/list.htm",
+      "nav_path": [
+        "校友基金"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "cee4d6540e6101e60ee6",
+      "position": 55
+    },
+    {
+      "node_id": "c1beb5d17b96272b0584",
+      "site_id": "scie",
+      "label": "产教融合",
+      "url": "https://scie.njupt.edu.cn/2879/list.htm",
+      "nav_path": [
+        "产教融合"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 56
+    },
+    {
+      "node_id": "fe72b7d9c76db5c6913e",
+      "site_id": "scie",
+      "label": "校企活动",
+      "url": "https://scie.njupt.edu.cn/2880/list.htm",
+      "nav_path": [
+        "校企活动"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "c1beb5d17b96272b0584",
+      "position": 57
+    },
+    {
+      "node_id": "ca91fa341f2990aaadc5",
+      "site_id": "scie",
+      "label": "双高协同",
+      "url": "https://scie.njupt.edu.cn/2881/list.htm",
+      "nav_path": [
+        "双高协同"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "c1beb5d17b96272b0584",
+      "position": 58
+    }
+  ]
+}

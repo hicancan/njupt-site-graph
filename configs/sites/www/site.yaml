@@ -1,0 +1,74 @@
+site:
+  id: www
+  name: 南京邮电大学主站
+  base_url: https://www.njupt.edu.cn/
+  domain: www.njupt.edu.cn
+  adapter: njupt_wp
+  owner_unit: 南京邮电大学
+  notes: Chrome DevTools audited main university portal.
+
+crawl_policy:
+  timeout_seconds: 20
+  max_pages_safety: 3
+  same_domain_only_for_content: true
+  external_link_policy: record_only
+  attachment_policy: metadata_only
+  chrome_required_for_modeling: true
+  auto_discover_sections_from_homepage: false
+  follow_inline_section_links: false
+  direct_detail_backfill: false
+
+selectors:
+  homepage:
+    nav: ".nav a, .wp_nav a, .menu a, a[href]"
+    module_links: "a[href]"
+    module_labels: [南邮要闻, 通知通告, 学术活动, 媒体南邮, 综合新闻, 智慧校园]
+  list:
+    item_container: "body"
+    pagination_next_text: "下一页"
+  detail:
+    title_candidates: [".arti_title", ".articleTitle", ".col_title", ".news_title", "h1", "title"]
+    meta_text: "body"
+    content_candidates: [".wp_articlecontent", ".article", ".entry", ".read", ".article_content", ".news_content", ".v_news_content", "#wp_content_w6_0", ".col_news_con", ".content", "main", "body"]
+    attachments: "a[href]"
+
+page_classification:
+  list_patterns: ["/list.htm", "/list[0-9]+.htm", "/list.psp", "/list[0-9]+.psp"]
+  detail_patterns: ["/20*/**/page.htm", "/20*/**/page.psp"]
+  attachment_extensions: [pdf, doc, docx, xls, xlsx, ppt, pptx, zip, rar]
+
+link_classification:
+  external_system_labels: [电子邮件, 智慧校园, 旧版入口, ENGLISH]
+  external_policy_domains: [moe.gov.cn, gov.cn, jiangsu.gov.cn, jyt.jiangsu.gov.cn]
+
+sections:
+  - section_id: www_notice
+    site_id: www
+    name: 通知通告
+    url: https://www.njupt.edu.cn/72/list.htm
+    section_type: list
+    nav_path: [首页, 通知通告]
+    crawlable: true
+    business_tags: [notice, university]
+    pagination: {type: next_link, max_pages_safety: 3}
+    item_container_selector: "body"
+  - section_id: www_news
+    site_id: www
+    name: 南邮要闻
+    url: https://www.njupt.edu.cn/53/list.htm
+    section_type: list
+    nav_path: [首页, 南邮要闻]
+    crawlable: true
+    business_tags: [news, university]
+    pagination: {type: next_link, max_pages_safety: 3}
+    item_container_selector: "body"
+  - section_id: www_academic_events
+    site_id: www
+    name: 学术活动
+    url: https://www.njupt.edu.cn/yg/list.htm
+    section_type: list
+    nav_path: [首页, 学术活动]
+    crawlable: true
+    business_tags: [event, academic]
+    pagination: {type: next_link, max_pages_safety: 3}
+    item_container_selector: "body"

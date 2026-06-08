@@ -1,0 +1,40 @@
+site:
+  id: job91
+  name: 南京邮电大学就业信息网
+  base_url: https://njupt.91job.org.cn/
+  domain: njupt.91job.org.cn
+  adapter: job91_api
+  owner_unit: 南京邮电大学招生就业处
+  notes: Chrome DevTools audited SPA/API source. Uses explicit job91_api adapter rather than WebPlus extraction.
+
+crawl_policy:
+  timeout_seconds: 20
+  max_pages_safety: 1
+  job91_items_per_section: 120
+  same_domain_only_for_content: true
+  external_link_policy: record_only
+  attachment_policy: metadata_only
+  chrome_required_for_modeling: true
+  auto_discover_sections_from_homepage: false
+
+selectors:
+  homepage:
+    nav: ""
+    module_links: ""
+  list:
+    item_container: ""
+  detail:
+    title_candidates: []
+    content_candidates: []
+    attachments: ""
+
+page_classification:
+  list_patterns: []
+  detail_patterns: []
+  attachment_extensions: [pdf, doc, docx, xls, xlsx, ppt, pptx, zip, rar]
+
+link_classification:
+  external_system_labels: [学生登录, 单位登录, 学校登录, 91job, 智慧就业平台]
+  external_policy_domains: [moe.gov.cn, gov.cn, jiangsu.gov.cn, jyt.jiangsu.gov.cn, 91job.org.cn]
+
+sections: []

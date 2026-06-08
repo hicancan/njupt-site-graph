@@ -35,12 +35,23 @@ def test_update_sitegraph_workflow_dispatches_search_after_success():
     assert 'manual_dispatch_only' in text
 
 
-def test_ci_workflow_validates_three_site_configs():
+def test_ci_workflow_uses_site_registry():
     workflow = Path('.github/workflows/ci.yml')
     assert workflow.exists()
     text = workflow.read_text(encoding='utf-8')
-    for site_id in ('jwc', 'xsc', 'cxcy'):
-        assert f'configs/sites/{site_id}/site.yaml' in text
+    assert 'scripts/sitegraph_registry.py validate-configs' in text
+    assert 'scripts/sitegraph_registry.py dry-run --incremental' in text
+    assert 'configs/sites/jwc/site.yaml' not in text
+    assert 'configs/sites/xsc/site.yaml' not in text
+    assert 'configs/sites/cxcy/site.yaml' not in text
+
+
+def test_update_workflow_uses_site_registry():
+    workflow = Path('.github/workflows/update-sitegraph-data.yml')
+    text = workflow.read_text(encoding='utf-8')
+    assert 'scripts/sitegraph_registry.py validate-configs' in text
+    assert 'scripts/sitegraph_registry.py crawl --incremental --incremental-known-page-stop 2 --incremental-refresh-frontier 3' in text
+    assert 'scripts/sitegraph_registry.py summary' in text
 
 
 def test_generated_commit_helper_retries_push_after_rebase():

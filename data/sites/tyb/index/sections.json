@@ -1,0 +1,4867 @@
+[
+  {
+    "section_id": "tyb_notice",
+    "site_id": "tyb",
+    "name": "通知公告",
+    "url": "https://tyb.njupt.edu.cn/7254/list.psp",
+    "section_type": "list",
+    "nav_path": [
+      "通知公告"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "notice",
+      "sports"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "item_container_selector": ".news_list.list2, .news_list2.list2"
+  },
+  {
+    "section_id": "tyb_home_link_78d4ac54f710",
+    "site_id": "tyb",
+    "name": "部门概况",
+    "url": "https://tyb.njupt.edu.cn/7211/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "部门概况"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_f37506aef477",
+    "site_id": "tyb",
+    "name": "部门简介",
+    "url": "https://tyb.njupt.edu.cn/7212/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "部门简介"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_958230f93c0f",
+    "site_id": "tyb",
+    "name": "现任领导",
+    "url": "https://tyb.njupt.edu.cn/7214/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "现任领导"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_a53839efd1a5",
+    "site_id": "tyb",
+    "name": "组织机构",
+    "url": "https://tyb.njupt.edu.cn/7213/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "组织机构"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_70de98a372cd",
+    "site_id": "tyb",
+    "name": "场馆设施",
+    "url": "https://tyb.njupt.edu.cn/7215/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "场馆设施"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_470b232489eb",
+    "site_id": "tyb",
+    "name": "师资队伍",
+    "url": "https://tyb.njupt.edu.cn/7217/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "师资队伍"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_8723a61c7fa3",
+    "site_id": "tyb",
+    "name": "荣誉墙",
+    "url": "https://tyb.njupt.edu.cn/ryq/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "荣誉墙"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_1ec431c1ce9d",
+    "site_id": "tyb",
+    "name": "党群天地",
+    "url": "https://tyb.njupt.edu.cn/dztd/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "党群天地"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_6c0a9883b239",
+    "site_id": "tyb",
+    "name": "党总支概况",
+    "url": "https://tyb.njupt.edu.cn/dzzgk/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "党总支概况"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_dfac458d1209",
+    "site_id": "tyb",
+    "name": "规章制度",
+    "url": "https://tyb.njupt.edu.cn/8540/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "规章制度"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_cc710d56417e",
+    "site_id": "tyb",
+    "name": "党务活动",
+    "url": "https://tyb.njupt.edu.cn/8541/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "党务活动"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_04078cf0a649",
+    "site_id": "tyb",
+    "name": "师德师风建设",
+    "url": "https://tyb.njupt.edu.cn/sdsfjs/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "师德师风建设"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_b1575da6ee5d",
+    "site_id": "tyb",
+    "name": "学习园地",
+    "url": "https://tyb.njupt.edu.cn/8546/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "学习园地"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_3ca1ea7353f8",
+    "site_id": "tyb",
+    "name": "学习贯彻习近平新时代中国特色社会主义思想主题教育",
+    "url": "https://tyb.njupt.edu.cn/xxgcxjpxsdzgtsshzysxztjy/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "学习贯彻习近平新时代中国特色社会主义思想主题教育"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_4999e1116723",
+    "site_id": "tyb",
+    "name": "教学科研",
+    "url": "https://tyb.njupt.edu.cn/jxky/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "教学科研"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_357eba6d5fa5",
+    "site_id": "tyb",
+    "name": "教学活动",
+    "url": "https://tyb.njupt.edu.cn/7226/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "教学活动"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_7423b3e904e9",
+    "site_id": "tyb",
+    "name": "科研动态",
+    "url": "https://tyb.njupt.edu.cn/7236/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "科研动态"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_69216e00f9d7",
+    "site_id": "tyb",
+    "name": "本科教育教学审核评估",
+    "url": "https://tyb.njupt.edu.cn/bkjyjxshpg/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "本科教育教学审核评估"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_8a153cfd9e90",
+    "site_id": "tyb",
+    "name": "体育课程表",
+    "url": "https://tyb.njupt.edu.cn/7228/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "体育课程表"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_b9476c1780f3",
+    "site_id": "tyb",
+    "name": "规章制度",
+    "url": "https://tyb.njupt.edu.cn/7224/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "规章制度"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_0071bfd6f4e4",
+    "site_id": "tyb",
+    "name": "群体动态",
+    "url": "https://tyb.njupt.edu.cn/7257/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "群体动态"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_4d0acc855f92",
+    "site_id": "tyb",
+    "name": "群体运动",
+    "url": "https://tyb.njupt.edu.cn/7234/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "群体运动"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_92bff62d0e7e",
+    "site_id": "tyb",
+    "name": "校运动会",
+    "url": "https://tyb.njupt.edu.cn/7231/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "校运动会"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_478be54b47ce",
+    "site_id": "tyb",
+    "name": "运动竞赛",
+    "url": "https://tyb.njupt.edu.cn/7229/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "运动竞赛"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_633485fdc908",
+    "site_id": "tyb",
+    "name": "赛事战况",
+    "url": "https://tyb.njupt.edu.cn/ssxw/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "赛事战况"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_6ddd2c2be008",
+    "site_id": "tyb",
+    "name": "普通生运动队",
+    "url": "https://tyb.njupt.edu.cn/ptsydd/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "普通生运动队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_9b5521f7da6b",
+    "site_id": "tyb",
+    "name": "男子篮球队",
+    "url": "https://tyb.njupt.edu.cn/ptsnzlqd/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "男子篮球队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_a60d75a8cc57",
+    "site_id": "tyb",
+    "name": "女子篮球队",
+    "url": "https://tyb.njupt.edu.cn/ptsnzlqd_17972/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "女子篮球队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_11dff7c87f31",
+    "site_id": "tyb",
+    "name": "男子排球队",
+    "url": "https://tyb.njupt.edu.cn/pqd/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "男子排球队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_1de1d859b38c",
+    "site_id": "tyb",
+    "name": "女子排球队",
+    "url": "https://tyb.njupt.edu.cn/nzpqd/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "女子排球队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_6e85f9ad8209",
+    "site_id": "tyb",
+    "name": "男子足球队",
+    "url": "https://tyb.njupt.edu.cn/nzzqd_18505/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "男子足球队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_44ae8c09ba80",
+    "site_id": "tyb",
+    "name": "龙狮团",
+    "url": "https://tyb.njupt.edu.cn/lst/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "龙狮团"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_5915952544d6",
+    "site_id": "tyb",
+    "name": "乒乓球队",
+    "url": "https://tyb.njupt.edu.cn/ppqd/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "乒乓球队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_7dce3c713957",
+    "site_id": "tyb",
+    "name": "羽毛球队",
+    "url": "https://tyb.njupt.edu.cn/ymqd/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "羽毛球队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_cd839ad270f1",
+    "site_id": "tyb",
+    "name": "网球队",
+    "url": "https://tyb.njupt.edu.cn/wqd/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "网球队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_f4b6cbf0630f",
+    "site_id": "tyb",
+    "name": "田径队",
+    "url": "https://tyb.njupt.edu.cn/tjd/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "田径队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_316d52114118",
+    "site_id": "tyb",
+    "name": "武术队",
+    "url": "https://tyb.njupt.edu.cn/wsd/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "武术队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_058c761f1629",
+    "site_id": "tyb",
+    "name": "跆拳道队",
+    "url": "https://tyb.njupt.edu.cn/tqdd/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "跆拳道队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_8d0fc19e529a",
+    "site_id": "tyb",
+    "name": "体育舞蹈队",
+    "url": "https://tyb.njupt.edu.cn/tywdd/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "体育舞蹈队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_f542983d2ebd",
+    "site_id": "tyb",
+    "name": "排舞队",
+    "url": "https://tyb.njupt.edu.cn/pwd/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "排舞队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_42ca111542cc",
+    "site_id": "tyb",
+    "name": "飞镖队",
+    "url": "https://tyb.njupt.edu.cn/fbd/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "飞镖队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_4dd15d6bcea0",
+    "site_id": "tyb",
+    "name": "飞盘队",
+    "url": "https://tyb.njupt.edu.cn/fpd/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "飞盘队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_f22de68b4b1a",
+    "site_id": "tyb",
+    "name": "棒垒球队",
+    "url": "https://tyb.njupt.edu.cn/blq/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "棒垒球队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_608fbcd1ccee",
+    "site_id": "tyb",
+    "name": "匹克球队",
+    "url": "https://tyb.njupt.edu.cn/pkq/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "匹克球队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_23b8d4e5c48f",
+    "site_id": "tyb",
+    "name": "游泳队",
+    "url": "https://tyb.njupt.edu.cn/yyd/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "游泳队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_14ac58d92969",
+    "site_id": "tyb",
+    "name": "啦啦操队",
+    "url": "https://tyb.njupt.edu.cn/llcd/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "啦啦操队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_da483e12cbc0",
+    "site_id": "tyb",
+    "name": "轮滑队",
+    "url": "https://tyb.njupt.edu.cn/lh/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "轮滑队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_b1b03ea2e96f",
+    "site_id": "tyb",
+    "name": "毽球队",
+    "url": "https://tyb.njupt.edu.cn/jqd/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "毽球队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_c06e581fa2be",
+    "site_id": "tyb",
+    "name": "高水平运动队",
+    "url": "https://tyb.njupt.edu.cn/gspyddjs/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "高水平运动队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_53a659229265",
+    "site_id": "tyb",
+    "name": "女子篮球队",
+    "url": "https://tyb.njupt.edu.cn/nzlqd/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "女子篮球队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_d574e22048a4",
+    "site_id": "tyb",
+    "name": "男子篮球队",
+    "url": "https://tyb.njupt.edu.cn/nzlqd_11755/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "男子篮球队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_6fd146e52d06",
+    "site_id": "tyb",
+    "name": "男子足球队",
+    "url": "https://tyb.njupt.edu.cn/nzzqd/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "男子足球队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_2ad0122e8308",
+    "site_id": "tyb",
+    "name": "女子足球队",
+    "url": "https://tyb.njupt.edu.cn/nzzqd_18552/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "女子足球队"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_f9b5421b0d1a",
+    "site_id": "tyb",
+    "name": "体质测试",
+    "url": "https://tyb.njupt.edu.cn/tzcs_11731/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "体质测试"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_2e9b909355c2",
+    "site_id": "tyb",
+    "name": "体质测试信息",
+    "url": "https://tyb.njupt.edu.cn/tzcs/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "体质测试信息"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_78f0640ca95d",
+    "site_id": "tyb",
+    "name": "晨跑锻炼",
+    "url": "https://tyb.njupt.edu.cn/zdlxx/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "晨跑锻炼"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_5d2468e799ac",
+    "site_id": "tyb",
+    "name": "晨跑通知",
+    "url": "https://tyb.njupt.edu.cn/7233/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "晨跑通知"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_164e2c179d5a",
+    "site_id": "tyb",
+    "name": "晨跑查询",
+    "url": "https://tyb.njupt.edu.cn/zdlxxcx/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "晨跑查询"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_0420b8932f3e",
+    "site_id": "tyb",
+    "name": "文档中心",
+    "url": "https://tyb.njupt.edu.cn/7243/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "文档中心"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_694173f8727f",
+    "site_id": "tyb",
+    "name": "信息公开",
+    "url": "https://tyb.njupt.edu.cn/xxgk/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "信息公开"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_cec92b803968",
+    "site_id": "tyb",
+    "name": "会议信息",
+    "url": "https://tyb.njupt.edu.cn/7256/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "会议信息"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_4107d45dd14e",
+    "site_id": "tyb",
+    "name": "资料下载",
+    "url": "https://tyb.njupt.edu.cn/zlxz/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "资料下载"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_8941facec0f4",
+    "site_id": "tyb",
+    "name": "学校发文",
+    "url": "https://tyb.njupt.edu.cn/xxfw/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "学校发文"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_28e2e7079847",
+    "site_id": "tyb",
+    "name": "更多新闻 +",
+    "url": "https://tyb.njupt.edu.cn/7253/list.psp",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "更多新闻 +"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_6d60b65c0dcd",
+    "site_id": "tyb",
+    "name": "更多 +",
+    "url": "https://tyb.njupt.edu.cn/jxky/list.psp",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "更多 +"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_dfe7eeda4dd7",
+    "site_id": "tyb",
+    "name": "更多 +",
+    "url": "https://tyb.njupt.edu.cn/7257/list.psp",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "更多 +"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_home_link_6a90dd438015",
+    "site_id": "tyb",
+    "name": "更多 +",
+    "url": "https://tyb.njupt.edu.cn/lqfh/list.psp",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "更多 +"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "tyb_inline_section_d1b988cbf212",
+    "site_id": "tyb",
+    "name": "通知公告",
+    "url": "https://tyb.njupt.edu.cn/7254/list.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "通知公告"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7254/list.psp"
+  },
+  {
+    "section_id": "tyb_inline_section_50aae7d44c71",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7254/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7254/list.psp"
+  },
+  {
+    "section_id": "tyb_inline_section_e03c1db1108d",
+    "site_id": "tyb",
+    "name": "尾页",
+    "url": "https://tyb.njupt.edu.cn/7254/list13.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "尾页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7254/list.psp"
+  },
+  {
+    "section_id": "tyb_inline_section_270dd8fcc957",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/7254/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7254/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_c96e6cebef72",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7254/list3.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7254/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_24a68c08dcac",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7254/list4.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7254/list3.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_62b66ce61540",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7254/list5.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7254/list4.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_6ea2dcf6ccb7",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7254/list6.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7254/list5.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_2cfd8da5d19b",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7254/list7.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7254/list6.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_c76cd489893b",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7254/list8.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7254/list7.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_467aeff9aa94",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7254/list9.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7254/list8.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_37980ca6fb37",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7254/list10.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7254/list9.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_3a018e25a042",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7254/list11.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7254/list10.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_bd4781562f1e",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7254/list12.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7254/list11.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_504bd9598603",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/ryq/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/ryq/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_d2075700c439",
+    "site_id": "tyb",
+    "name": "尾页",
+    "url": "https://tyb.njupt.edu.cn/ryq/list7.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "尾页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/ryq/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_7ce0477484fd",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/ryq/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/ryq/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_07eda611bea1",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/ryq/list3.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/ryq/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_85f8326fc9a9",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/ryq/list4.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/ryq/list3.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_adda40caa730",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/ryq/list5.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/ryq/list4.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_9ae1e2a66132",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/ryq/list6.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/ryq/list5.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_670550726dfe",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/dztd/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/dztd/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_2b74a86dd4ca",
+    "site_id": "tyb",
+    "name": "尾页",
+    "url": "https://tyb.njupt.edu.cn/dztd/list5.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "尾页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/dztd/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_2a28d25cd64b",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/dztd/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/dztd/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_d2badb445257",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/dztd/list3.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/dztd/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_e868cf37f9d2",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/dztd/list4.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/dztd/list3.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_90d18d3824db",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/8541/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/8541/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_0c1b465211e1",
+    "site_id": "tyb",
+    "name": "尾页",
+    "url": "https://tyb.njupt.edu.cn/8541/list13.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "尾页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/8541/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_9641bfd66d9d",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/8541/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/8541/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_441420ae97b1",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/8541/list3.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/8541/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_44232ba1d58e",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/8541/list4.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/8541/list3.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_2f8ececf7b8f",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/8541/list5.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/8541/list4.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_9366fe12fce5",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/8541/list6.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/8541/list5.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_94ddbc4bf0aa",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/8541/list7.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/8541/list6.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_6dc35bcd2892",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/8541/list8.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/8541/list7.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_4c51362c5769",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/8541/list9.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/8541/list8.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_090c9031ce77",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/8541/list10.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/8541/list9.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_83c5d2f362b3",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/8541/list11.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/8541/list10.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_b16d905775de",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/8541/list12.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/8541/list11.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_c429597c336e",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/8546/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/8546/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_1354fea5a4bd",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/8546/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/8546/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_3c9ccf672843",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/jxky/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/jxky/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_797922d5ceb3",
+    "site_id": "tyb",
+    "name": "尾页",
+    "url": "https://tyb.njupt.edu.cn/jxky/list7.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "尾页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/jxky/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_04887b033b7b",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/jxky/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/jxky/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_039471c65211",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/jxky/list3.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/jxky/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_68b10ed4da1c",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/jxky/list4.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/jxky/list3.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_f02507b8f1d8",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/jxky/list5.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/jxky/list4.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_3118bf05f4f6",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/jxky/list6.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/jxky/list5.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_debcc757e7d7",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7226/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7226/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_3ed32cb4c979",
+    "site_id": "tyb",
+    "name": "尾页",
+    "url": "https://tyb.njupt.edu.cn/7226/list7.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "尾页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7226/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_2edb86702cce",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/7226/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7226/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_02fcb0751e96",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7226/list3.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7226/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_cebf99a2e648",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7226/list4.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7226/list3.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_f6693b9396c2",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7226/list5.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7226/list4.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_40b925546210",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7226/list6.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7226/list5.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_f1cd79911a6c",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7236/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7236/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_abb4c64072bc",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/7236/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7236/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_724f174dbb2c",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/bkjyjxshpg/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/bkjyjxshpg/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_b7f85efb84a5",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/bkjyjxshpg/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/bkjyjxshpg/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_4ce2dc98df4e",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7228/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7228/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_5fb4ceb0aa7b",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/7228/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7228/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_4ef17a2ef5a3",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7257/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7257/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_95a0cf1c63d3",
+    "site_id": "tyb",
+    "name": "尾页",
+    "url": "https://tyb.njupt.edu.cn/7257/list4.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "尾页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7257/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_ba175b72e88a",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/7257/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7257/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_f7a902073e4c",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7257/list3.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7257/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_da406ff8322a",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7234/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7234/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_342ff22c17fb",
+    "site_id": "tyb",
+    "name": "尾页",
+    "url": "https://tyb.njupt.edu.cn/7234/list6.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "尾页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7234/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_3c8ff8009965",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/7234/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7234/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_49891eb98cc3",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7234/list3.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7234/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_f9a166b9afef",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7234/list4.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7234/list3.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_231d4c5aa7a6",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7234/list5.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7234/list4.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_ce8b03638987",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7231/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7231/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_928352a5cf9c",
+    "site_id": "tyb",
+    "name": "尾页",
+    "url": "https://tyb.njupt.edu.cn/7231/list3.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "尾页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7231/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_d8b818635188",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/7231/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7231/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_bc36f7490744",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7229/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7229/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_1e46afe5a8b2",
+    "site_id": "tyb",
+    "name": "尾页",
+    "url": "https://tyb.njupt.edu.cn/7229/list9.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "尾页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7229/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_d34802f1879e",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/7229/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7229/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_a62fab54f99b",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7229/list3.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7229/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_9c31e373559b",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7229/list4.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7229/list3.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_ade904a1526b",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7229/list5.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7229/list4.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_7118ddc0a52a",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7229/list6.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7229/list5.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_9300e079a4c7",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7229/list7.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7229/list6.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_de68dc112525",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7229/list8.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7229/list7.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_1f7df141fa01",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/ssxw/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/ssxw/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_1b420f8e350e",
+    "site_id": "tyb",
+    "name": "尾页",
+    "url": "https://tyb.njupt.edu.cn/ssxw/list9.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "尾页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/ssxw/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_f2e868c272e4",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/ssxw/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/ssxw/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_94ba7c12a2a8",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/ssxw/list3.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/ssxw/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_b09aaa33f0c5",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/ssxw/list4.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/ssxw/list3.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_09c9e4bab3e7",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/ssxw/list5.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/ssxw/list4.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_ca10aff1cc8a",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/ssxw/list6.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/ssxw/list5.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_a884d2aae3e7",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/ssxw/list7.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/ssxw/list6.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_d70525cefbbf",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/ssxw/list8.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/ssxw/list7.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_96387b44b333",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/tzcs/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/tzcs/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_97f1a3373b34",
+    "site_id": "tyb",
+    "name": "尾页",
+    "url": "https://tyb.njupt.edu.cn/tzcs/list5.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "尾页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/tzcs/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_c95d37e380e0",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/tzcs/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/tzcs/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_688d84896b80",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/tzcs/list3.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/tzcs/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_59a3aae99ee5",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/tzcs/list4.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/tzcs/list3.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_702dd8462c75",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7233/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7233/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_90421d81517a",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/7233/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7233/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_14208abece44",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7243/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7243/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_e894f40e7443",
+    "site_id": "tyb",
+    "name": "尾页",
+    "url": "https://tyb.njupt.edu.cn/7243/list7.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "尾页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7243/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_69f7acf78e45",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/7243/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7243/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_355730ffa30b",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7243/list3.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7243/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_fd8e363e1c86",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7243/list4.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7243/list3.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_1038002235bb",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7243/list5.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7243/list4.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_17a19c1d2fd9",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7243/list6.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7243/list5.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_7608319aca7e",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/xxgk/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/xxgk/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_82a4c0d3e342",
+    "site_id": "tyb",
+    "name": "尾页",
+    "url": "https://tyb.njupt.edu.cn/xxgk/list7.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "尾页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/xxgk/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_4e3edc8fc1e0",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/xxgk/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/xxgk/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_7bebf7c1d041",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/xxgk/list3.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/xxgk/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_7261018f417a",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/xxgk/list4.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/xxgk/list3.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_1757cfa7ce01",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/xxgk/list5.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/xxgk/list4.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_52861096b721",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/xxgk/list6.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/xxgk/list5.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_d2ed1a0ec0b5",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7256/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7256/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_b28654f5a7ae",
+    "site_id": "tyb",
+    "name": "尾页",
+    "url": "https://tyb.njupt.edu.cn/7256/list8.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "尾页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7256/list.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_2808b8ae2ed4",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/7256/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7256/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_20495744d901",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7256/list3.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7256/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_057752062601",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7256/list4.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7256/list3.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_37aaf0d76914",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7256/list5.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7256/list4.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_8565791ce67f",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7256/list6.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7256/list5.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_2332f2605cb8",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7256/list7.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7256/list6.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_1077350aab46",
+    "site_id": "tyb",
+    "name": "新闻资讯",
+    "url": "https://tyb.njupt.edu.cn/7253/list.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "新闻资讯"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list.psp"
+  },
+  {
+    "section_id": "tyb_inline_section_92871b8c3a8d",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list.psp"
+  },
+  {
+    "section_id": "tyb_inline_section_ed0222023475",
+    "site_id": "tyb",
+    "name": "尾页",
+    "url": "https://tyb.njupt.edu.cn/7253/list38.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "尾页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list.psp"
+  },
+  {
+    "section_id": "tyb_inline_section_fae97615df13",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/7253/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_0e837eb59cd8",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list3.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_8bb540c0c3e2",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list4.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list3.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_3cab5c075bf7",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list5.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list4.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_af6c2277380a",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list6.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list5.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_23559817e756",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list7.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list6.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_a8500cf3efc1",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list8.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list7.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_034256d6afcd",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list9.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list8.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_42d6868379c4",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list10.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list9.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_f040640f5ce7",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list11.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list10.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_44151d0eeccb",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list12.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list11.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_2c77db76f179",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list13.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list12.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_b5d871953954",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list14.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list13.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_4fe99dd11422",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list15.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list14.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_c97714389878",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list16.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list15.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_14e850f623e0",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list17.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list16.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_de623de39aa7",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list18.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list17.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_7a083145d249",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list19.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list18.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_9d037d22d9ac",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list20.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list19.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_55693ef527ef",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list21.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list20.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_52d9a5022f52",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list22.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list21.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_dcfa9dce5e6e",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list23.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list22.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_605daeb6f3ca",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list24.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list23.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_54b04cc079b1",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list25.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list24.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_f429e4f19a37",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list26.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list25.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_c636dce2109c",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list27.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list26.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_8977af41025a",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list28.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list27.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_d2c6e20ae807",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list29.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list28.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_4046100070c1",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list30.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list29.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_3f9ac5aaf8ea",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list31.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list30.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_e98aa2ca6707",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list32.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list31.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_bc61f30cd3d6",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list33.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list32.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_1486a6e6b0d4",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list34.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list33.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_ed50b1b72893",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list35.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list34.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_1885a3149b36",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list36.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list35.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_5c8050b879ff",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/7253/list37.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/7253/list36.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_c2b915666de7",
+    "site_id": "tyb",
+    "name": "篮球分会",
+    "url": "https://tyb.njupt.edu.cn/lqfh/list.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "篮球分会"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/lqfh/list.psp"
+  },
+  {
+    "section_id": "tyb_inline_section_bbb087015747",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/lqfh/list2.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/lqfh/list.psp"
+  },
+  {
+    "section_id": "tyb_inline_section_357d4d927081",
+    "site_id": "tyb",
+    "name": "尾页",
+    "url": "https://tyb.njupt.edu.cn/lqfh/list5.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "尾页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/lqfh/list.psp"
+  },
+  {
+    "section_id": "tyb_inline_section_f6d7dea69f85",
+    "site_id": "tyb",
+    "name": "第一页",
+    "url": "https://tyb.njupt.edu.cn/lqfh/list1.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "第一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/lqfh/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_cfc874e95ec9",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/lqfh/list3.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/lqfh/list2.htm"
+  },
+  {
+    "section_id": "tyb_inline_section_51d786144598",
+    "site_id": "tyb",
+    "name": "下一页>>",
+    "url": "https://tyb.njupt.edu.cn/lqfh/list4.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "下一页>>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://tyb.njupt.edu.cn/lqfh/list3.htm"
+  },
+  {
+    "section_id": "tyb_direct_detail_links",
+    "site_id": "tyb",
+    "name": "Direct detail links",
+    "url": "https://tyb.njupt.edu.cn/",
+    "section_type": "direct_detail_links",
+    "nav_path": [
+      "首页",
+      "直接详情链接"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "direct_detail"
+    ],
+    "pagination": {
+      "type": "none"
+    },
+    "source": "manifest_backfill"
+  }
+]

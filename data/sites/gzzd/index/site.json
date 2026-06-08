@@ -1,0 +1,9 @@
+{
+  "site_id": "gzzd",
+  "name": "南京邮电大学规章制度",
+  "base_url": "https://gzzd.njupt.edu.cn/",
+  "domain": "gzzd.njupt.edu.cn",
+  "adapter": "njupt_wp",
+  "created_at": "2026-06-08T05:54:56.746345+00:00",
+  "notes": "Chrome DevTools audited main.psp source for university regulations."
+}

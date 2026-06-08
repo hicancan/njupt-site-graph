@@ -1,0 +1,46 @@
+{
+  "site_id": "xxgk",
+  "generated_at": "2026-06-08T05:56:36.208558+00:00",
+  "modules": [
+    {
+      "module_id": "f14c34d6619e32041929",
+      "site_id": "xxgk",
+      "name": "最新公开信息",
+      "url": "https://xxgk.njupt.edu.cn/",
+      "list_url": "https://xxgk.njupt.edu.cn/zxgkxx/list.htm",
+      "container_selector": ".post.post1.post-12",
+      "link_count": 8,
+      "position": 1
+    },
+    {
+      "module_id": "6de7239a19b5d6f190ed",
+      "site_id": "xxgk",
+      "name": "信息公开工作年度报告",
+      "url": "https://xxgk.njupt.edu.cn/",
+      "list_url": "https://xxgk.njupt.edu.cn/xxgkgzndbg/list.htm",
+      "container_selector": ".post.post1.post-21",
+      "link_count": 9,
+      "position": 2
+    },
+    {
+      "module_id": "377d11741fcbae910462",
+      "site_id": "xxgk",
+      "name": "服务指南",
+      "url": "https://xxgk.njupt.edu.cn/",
+      "list_url": null,
+      "container_selector": ".post.post1.post-22",
+      "link_count": 0,
+      "position": 3
+    },
+    {
+      "module_id": "226eb89a7de8939aa73b",
+      "site_id": "xxgk",
+      "name": "服务指南",
+      "url": "https://xxgk.njupt.edu.cn/",
+      "list_url": "https://xxgk.njupt.edu.cn/xxgkzd/list.htm",
+      "container_selector": ".mr",
+      "link_count": 6,
+      "position": 8
+    }
+  ]
+}

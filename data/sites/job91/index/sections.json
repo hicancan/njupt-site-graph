@@ -1,0 +1,782 @@
+[
+  {
+    "section_id": "job91_1a47ced34641",
+    "site_id": "job91",
+    "name": "新闻公告",
+    "url": "https://njupt.91job.org.cn/sub-station/list/EAB99994A44EB044E0530100007FB579",
+    "section_type": "api_list",
+    "nav_path": [
+      "新闻公告"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "EAB99994A44EB044E0530100007FB579",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_f79ac1b74a8f",
+    "site_id": "job91",
+    "name": "通知公告",
+    "url": "https://njupt.91job.org.cn/sub-station/list/3602",
+    "section_type": "api_list",
+    "nav_path": [
+      "新闻公告",
+      "通知公告"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "3602",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_7488d30cc301",
+    "site_id": "job91",
+    "name": "新闻速递",
+    "url": "https://njupt.91job.org.cn/sub-station/list/3603",
+    "section_type": "api_list",
+    "nav_path": [
+      "新闻公告",
+      "新闻速递"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "3603",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_54068010e125",
+    "site_id": "job91",
+    "name": "院系就业动态",
+    "url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9CCCED2E0530100007FB6E8",
+    "section_type": "api_list",
+    "nav_path": [
+      "新闻公告",
+      "新闻速递",
+      "院系就业动态"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "EA4183CAE9CCCED2E0530100007FB6E8",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_0d4d0da9e718",
+    "site_id": "job91",
+    "name": "访企拓岗促就业",
+    "url": "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B",
+    "section_type": "api_list",
+    "nav_path": [
+      "新闻公告",
+      "新闻速递",
+      "访企拓岗促就业"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "DCC4E74DFCE934C2E0530100007F739B",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_8a47e2520d1b",
+    "site_id": "job91",
+    "name": "校内公示",
+    "url": "https://njupt.91job.org.cn/sub-station/list/3604",
+    "section_type": "api_list",
+    "nav_path": [
+      "新闻公告",
+      "校内公示"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "3604",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_669d3decb9a4",
+    "site_id": "job91",
+    "name": "就业政策",
+    "url": "https://njupt.91job.org.cn/sub-station/list/3596",
+    "section_type": "api_list",
+    "nav_path": [
+      "就业政策"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "3596",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_db096d0b6cf3",
+    "site_id": "job91",
+    "name": "国家政策",
+    "url": "https://njupt.91job.org.cn/sub-station/list/3597",
+    "section_type": "api_list",
+    "nav_path": [
+      "就业政策",
+      "国家政策"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "3597",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_15496879b106",
+    "site_id": "job91",
+    "name": "省级政策",
+    "url": "https://njupt.91job.org.cn/sub-station/list/3598",
+    "section_type": "api_list",
+    "nav_path": [
+      "就业政策",
+      "省级政策"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "3598",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_53a42a405d1b",
+    "site_id": "job91",
+    "name": "校级政策",
+    "url": "https://njupt.91job.org.cn/sub-station/list/3599",
+    "section_type": "api_list",
+    "nav_path": [
+      "就业政策",
+      "校级政策"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "3599",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_0fc3fb795522",
+    "site_id": "job91",
+    "name": "就业信息",
+    "url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9D0CED2E0530100007FB6E8",
+    "section_type": "api_list",
+    "nav_path": [
+      "就业信息"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "EA4183CAE9D0CED2E0530100007FB6E8",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_81944a378e58",
+    "site_id": "job91",
+    "name": "招聘会",
+    "url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9D1CED2E0530100007FB6E8",
+    "section_type": "api_list",
+    "nav_path": [
+      "就业信息",
+      "招聘会"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "EA4183CAE9D1CED2E0530100007FB6E8",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_d6770d799451",
+    "site_id": "job91",
+    "name": "宣讲会",
+    "url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9D2CED2E0530100007FB6E8",
+    "section_type": "api_list",
+    "nav_path": [
+      "就业信息",
+      "宣讲会"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "EA4183CAE9D2CED2E0530100007FB6E8",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_312cdd9cb508",
+    "site_id": "job91",
+    "name": "招聘岗位",
+    "url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9D3CED2E0530100007FB6E8",
+    "section_type": "api_list",
+    "nav_path": [
+      "就业信息",
+      "招聘岗位"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "EA4183CAE9D3CED2E0530100007FB6E8",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_8c62d4700f1c",
+    "site_id": "job91",
+    "name": "实习专区",
+    "url": "https://njupt.91job.org.cn/sub-station/list/EA45DDCC961CED7AE0530100007F54C4",
+    "section_type": "api_list",
+    "nav_path": [
+      "就业信息",
+      "实习专区"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "EA45DDCC961CED7AE0530100007F54C4",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_3bac1206eb58",
+    "site_id": "job91",
+    "name": "选调动态",
+    "url": "https://njupt.91job.org.cn/sub-station/list/EA45DDCC961DED7AE0530100007F54C4",
+    "section_type": "api_list",
+    "nav_path": [
+      "就业信息",
+      "选调动态"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "EA45DDCC961DED7AE0530100007F54C4",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_2c7b16d904d7",
+    "site_id": "job91",
+    "name": "招聘公告",
+    "url": "https://njupt.91job.org.cn/sub-station/list/217E79FBC0335B79E0630100007FFFE7",
+    "section_type": "api_list",
+    "nav_path": [
+      "就业信息",
+      "招聘公告"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "217E79FBC0335B79E0630100007FFFE7",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_ac6fe35c1944",
+    "site_id": "job91",
+    "name": "地方引才专区",
+    "url": "https://njupt.91job.org.cn/sub-station/list/18006784DC636735E0630100007F40EF",
+    "section_type": "api_list",
+    "nav_path": [
+      "就业信息",
+      "地方引才专区"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "18006784DC636735E0630100007F40EF",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_50f148fb825d",
+    "site_id": "job91",
+    "name": "就业质量年度报告",
+    "url": "https://njupt.91job.org.cn/sub-station/list/43748BDAB0D4493FE0630100007FB3B8",
+    "section_type": "api_list",
+    "nav_path": [
+      "就业信息",
+      "就业质量年度报告"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "43748BDAB0D4493FE0630100007FB3B8",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_ffa1a5321f0c",
+    "site_id": "job91",
+    "name": "就业指导",
+    "url": "https://njupt.91job.org.cn/sub-station/list/EABAEA21A4B84FA6E0530100007F46B9",
+    "section_type": "api_list",
+    "nav_path": [
+      "就业指导"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "EABAEA21A4B84FA6E0530100007F46B9",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_0ad9a0f3e077",
+    "site_id": "job91",
+    "name": "职业课程",
+    "url": "https://njupt.91job.org.cn/sub-station/list/EABAEA21A4B94FA6E0530100007F46B9",
+    "section_type": "api_list",
+    "nav_path": [
+      "就业指导",
+      "职业课程"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "EABAEA21A4B94FA6E0530100007F46B9",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_38bc957178eb",
+    "site_id": "job91",
+    "name": "求职技巧",
+    "url": "https://njupt.91job.org.cn/sub-station/list/EABAEA21A4BA4FA6E0530100007F46B9",
+    "section_type": "api_list",
+    "nav_path": [
+      "就业指导",
+      "求职技巧"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "EABAEA21A4BA4FA6E0530100007F46B9",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_2072d7b0e93c",
+    "site_id": "job91",
+    "name": "行业知识",
+    "url": "https://njupt.91job.org.cn/sub-station/list/EABAEA21A4BB4FA6E0530100007F46B9",
+    "section_type": "api_list",
+    "nav_path": [
+      "就业指导",
+      "行业知识"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "EABAEA21A4BB4FA6E0530100007F46B9",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_bf52167e6353",
+    "site_id": "job91",
+    "name": "日常服务",
+    "url": "https://njupt.91job.org.cn/sub-station/list/3593",
+    "section_type": "api_list",
+    "nav_path": [
+      "日常服务"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "3593",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_97ab56116f3f",
+    "site_id": "job91",
+    "name": "联系我们",
+    "url": "https://njupt.91job.org.cn/sub-station/list/01BF5C824F3766F1E0630100007FC7C5",
+    "section_type": "api_list",
+    "nav_path": [
+      "日常服务",
+      "联系我们"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "01BF5C824F3766F1E0630100007FC7C5",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_0d0a4fcb7dff",
+    "site_id": "job91",
+    "name": "生源信息",
+    "url": "https://njupt.91job.org.cn/sub-station/list/3607",
+    "section_type": "api_list",
+    "nav_path": [
+      "日常服务",
+      "生源信息"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "3607",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_e576d823c743",
+    "site_id": "job91",
+    "name": "操作指南（用人单位）",
+    "url": "https://njupt.91job.org.cn/sub-station/list/3609",
+    "section_type": "api_list",
+    "nav_path": [
+      "日常服务",
+      "操作指南（用人单位）"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "3609",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_8fad75d9f559",
+    "site_id": "job91",
+    "name": "常用下载",
+    "url": "https://njupt.91job.org.cn/sub-station/list/1D7C2F3946AB655BE0630100007F848E",
+    "section_type": "api_list",
+    "nav_path": [
+      "日常服务",
+      "常用下载"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "1D7C2F3946AB655BE0630100007F848E",
+      "row": 120
+    }
+  },
+  {
+    "section_id": "job91_0143f585c4e5",
+    "site_id": "job91",
+    "name": "操作指南（毕业生）",
+    "url": "https://njupt.91job.org.cn/sub-station/list/1DBDE8795AF8F913E0630100007F12DE",
+    "section_type": "api_list",
+    "nav_path": [
+      "日常服务",
+      "操作指南（毕业生）"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "employment",
+      "job91",
+      "api"
+    ],
+    "pagination": {
+      "type": "api",
+      "max_pages_safety": 1
+    },
+    "source": "job91_api",
+    "api": {
+      "endpoint": "/web/wsjysc/wzsy/getLbsj",
+      "lmid": "1DBDE8795AF8F913E0630100007F12DE",
+      "row": 120
+    }
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "site_id": "tyb",
+  "name": "体育部",
+  "base_url": "https://tyb.njupt.edu.cn/",
+  "domain": "tyb.njupt.edu.cn",
+  "adapter": "njupt_wp",
+  "created_at": "2026-06-08T05:43:29.145805+00:00",
+  "notes": "Chrome DevTools audited WebPlus source for sports, competitions, physical tests, and morning exercise."
+}

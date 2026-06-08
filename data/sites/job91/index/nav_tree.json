@@ -1,0 +1,438 @@
+{
+  "site_id": "job91",
+  "generated_at": "2026-06-08T05:43:28.927286+00:00",
+  "nodes": [
+    {
+      "node_id": "a4b505881a0f094d6c70",
+      "site_id": "job91",
+      "label": "新闻公告",
+      "url": "https://njupt.91job.org.cn/sub-station/list/EAB99994A44EB044E0530100007FB579",
+      "nav_path": [
+        "新闻公告"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 0
+    },
+    {
+      "node_id": "8f19c2fad59e4ced950a",
+      "site_id": "job91",
+      "label": "通知公告",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3602",
+      "nav_path": [
+        "新闻公告",
+        "通知公告"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 1
+    },
+    {
+      "node_id": "96da3d5dd1145a486173",
+      "site_id": "job91",
+      "label": "新闻速递",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3603",
+      "nav_path": [
+        "新闻公告",
+        "新闻速递"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 2
+    },
+    {
+      "node_id": "e9eb5b8d0871ac62834d",
+      "site_id": "job91",
+      "label": "院系就业动态",
+      "url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9CCCED2E0530100007FB6E8",
+      "nav_path": [
+        "新闻公告",
+        "新闻速递",
+        "院系就业动态"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 3
+    },
+    {
+      "node_id": "6d7583148b4df27bcb3d",
+      "site_id": "job91",
+      "label": "访企拓岗促就业",
+      "url": "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B",
+      "nav_path": [
+        "新闻公告",
+        "新闻速递",
+        "访企拓岗促就业"
+      ],
+      "depth": 3,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 4
+    },
+    {
+      "node_id": "575b5966b748ce54d160",
+      "site_id": "job91",
+      "label": "校内公示",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3604",
+      "nav_path": [
+        "新闻公告",
+        "校内公示"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 5
+    },
+    {
+      "node_id": "a69bbddc46c5e266e2fd",
+      "site_id": "job91",
+      "label": "就业政策",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3596",
+      "nav_path": [
+        "就业政策"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 6
+    },
+    {
+      "node_id": "73c1f11fb5abae378167",
+      "site_id": "job91",
+      "label": "国家政策",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3597",
+      "nav_path": [
+        "就业政策",
+        "国家政策"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 7
+    },
+    {
+      "node_id": "fe2907f6d661ba605965",
+      "site_id": "job91",
+      "label": "省级政策",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3598",
+      "nav_path": [
+        "就业政策",
+        "省级政策"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 8
+    },
+    {
+      "node_id": "a66569a8ed81f03e5322",
+      "site_id": "job91",
+      "label": "校级政策",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3599",
+      "nav_path": [
+        "就业政策",
+        "校级政策"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 9
+    },
+    {
+      "node_id": "98e328f4adae549b5f3e",
+      "site_id": "job91",
+      "label": "就业信息",
+      "url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9D0CED2E0530100007FB6E8",
+      "nav_path": [
+        "就业信息"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 10
+    },
+    {
+      "node_id": "3ce4f732f6ea2562dde4",
+      "site_id": "job91",
+      "label": "招聘会",
+      "url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9D1CED2E0530100007FB6E8",
+      "nav_path": [
+        "就业信息",
+        "招聘会"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 11
+    },
+    {
+      "node_id": "e2915fe51c8ebfe01009",
+      "site_id": "job91",
+      "label": "宣讲会",
+      "url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9D2CED2E0530100007FB6E8",
+      "nav_path": [
+        "就业信息",
+        "宣讲会"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 12
+    },
+    {
+      "node_id": "a4f717183aac5fb6b866",
+      "site_id": "job91",
+      "label": "招聘岗位",
+      "url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9D3CED2E0530100007FB6E8",
+      "nav_path": [
+        "就业信息",
+        "招聘岗位"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 13
+    },
+    {
+      "node_id": "6626d57f5bec48b675a9",
+      "site_id": "job91",
+      "label": "实习专区",
+      "url": "https://njupt.91job.org.cn/sub-station/list/EA45DDCC961CED7AE0530100007F54C4",
+      "nav_path": [
+        "就业信息",
+        "实习专区"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 14
+    },
+    {
+      "node_id": "47a0fe2875b407204ca3",
+      "site_id": "job91",
+      "label": "选调动态",
+      "url": "https://njupt.91job.org.cn/sub-station/list/EA45DDCC961DED7AE0530100007F54C4",
+      "nav_path": [
+        "就业信息",
+        "选调动态"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 15
+    },
+    {
+      "node_id": "43862aa51627bbda0c3d",
+      "site_id": "job91",
+      "label": "招聘公告",
+      "url": "https://njupt.91job.org.cn/sub-station/list/217E79FBC0335B79E0630100007FFFE7",
+      "nav_path": [
+        "就业信息",
+        "招聘公告"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 16
+    },
+    {
+      "node_id": "8b248f1689ac61ebd7c4",
+      "site_id": "job91",
+      "label": "地方引才专区",
+      "url": "https://njupt.91job.org.cn/sub-station/list/18006784DC636735E0630100007F40EF",
+      "nav_path": [
+        "就业信息",
+        "地方引才专区"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 17
+    },
+    {
+      "node_id": "298877b8fc936d800f26",
+      "site_id": "job91",
+      "label": "就业质量年度报告",
+      "url": "https://njupt.91job.org.cn/sub-station/list/43748BDAB0D4493FE0630100007FB3B8",
+      "nav_path": [
+        "就业信息",
+        "就业质量年度报告"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 18
+    },
+    {
+      "node_id": "b5083ba88a932114b175",
+      "site_id": "job91",
+      "label": "就业指导",
+      "url": "https://njupt.91job.org.cn/sub-station/list/EABAEA21A4B84FA6E0530100007F46B9",
+      "nav_path": [
+        "就业指导"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 19
+    },
+    {
+      "node_id": "537ef4ffe7d89c1bafd9",
+      "site_id": "job91",
+      "label": "职业课程",
+      "url": "https://njupt.91job.org.cn/sub-station/list/EABAEA21A4B94FA6E0530100007F46B9",
+      "nav_path": [
+        "就业指导",
+        "职业课程"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 20
+    },
+    {
+      "node_id": "ca73705423dfdc50491e",
+      "site_id": "job91",
+      "label": "求职技巧",
+      "url": "https://njupt.91job.org.cn/sub-station/list/EABAEA21A4BA4FA6E0530100007F46B9",
+      "nav_path": [
+        "就业指导",
+        "求职技巧"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 21
+    },
+    {
+      "node_id": "08fec23c2bf1b4e04e15",
+      "site_id": "job91",
+      "label": "行业知识",
+      "url": "https://njupt.91job.org.cn/sub-station/list/EABAEA21A4BB4FA6E0530100007F46B9",
+      "nav_path": [
+        "就业指导",
+        "行业知识"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 22
+    },
+    {
+      "node_id": "688f7e4482a88c373b5d",
+      "site_id": "job91",
+      "label": "日常服务",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3593",
+      "nav_path": [
+        "日常服务"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 23
+    },
+    {
+      "node_id": "03e8c5c31a7dad1ef77d",
+      "site_id": "job91",
+      "label": "联系我们",
+      "url": "https://njupt.91job.org.cn/sub-station/list/01BF5C824F3766F1E0630100007FC7C5",
+      "nav_path": [
+        "日常服务",
+        "联系我们"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 24
+    },
+    {
+      "node_id": "612181426e36b32558fc",
+      "site_id": "job91",
+      "label": "生源信息",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3607",
+      "nav_path": [
+        "日常服务",
+        "生源信息"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 25
+    },
+    {
+      "node_id": "51856df2f8ca503706d7",
+      "site_id": "job91",
+      "label": "操作指南（用人单位）",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3609",
+      "nav_path": [
+        "日常服务",
+        "操作指南（用人单位）"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 26
+    },
+    {
+      "node_id": "21c687f1f5d065876b46",
+      "site_id": "job91",
+      "label": "常用下载",
+      "url": "https://njupt.91job.org.cn/sub-station/list/1D7C2F3946AB655BE0630100007F848E",
+      "nav_path": [
+        "日常服务",
+        "常用下载"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 27
+    },
+    {
+      "node_id": "bcb855e2705d259c9a9e",
+      "site_id": "job91",
+      "label": "操作指南（毕业生）",
+      "url": "https://njupt.91job.org.cn/sub-station/list/1DBDE8795AF8F913E0630100007F12DE",
+      "nav_path": [
+        "日常服务",
+        "操作指南（毕业生）"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 28
+    }
+  ]
+}

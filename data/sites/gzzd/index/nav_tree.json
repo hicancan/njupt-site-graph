@@ -1,0 +1,174 @@
+{
+  "site_id": "gzzd",
+  "generated_at": "2026-06-08T05:54:57.801612+00:00",
+  "nodes": [
+    {
+      "node_id": "d94adb1bfa2e0058f300",
+      "site_id": "gzzd",
+      "label": "通知公告",
+      "url": "https://gzzd.njupt.edu.cn/tzgg/list.htm",
+      "nav_path": [
+        "通知公告"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 0
+    },
+    {
+      "node_id": "24ea2b49246732d9f10e",
+      "site_id": "gzzd",
+      "label": "教职工",
+      "url": "https://gzzd.njupt.edu.cn/jzg/list.htm",
+      "nav_path": [
+        "教职工"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 1
+    },
+    {
+      "node_id": "a6db26bab1c7883f30ec",
+      "site_id": "gzzd",
+      "label": "学生",
+      "url": "https://gzzd.njupt.edu.cn/xs/list.htm",
+      "nav_path": [
+        "学生"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 2
+    },
+    {
+      "node_id": "89fd0bfc2858211659da",
+      "site_id": "gzzd",
+      "label": "组织建设",
+      "url": "https://gzzd.njupt.edu.cn/zzjs/list.htm",
+      "nav_path": [
+        "组织建设"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 3
+    },
+    {
+      "node_id": "202f6338b72a1ec9cb0c",
+      "site_id": "gzzd",
+      "label": "安全保卫",
+      "url": "https://gzzd.njupt.edu.cn/aqbw/list.htm",
+      "nav_path": [
+        "安全保卫"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 4
+    },
+    {
+      "node_id": "b9b1e259dab89a80466e",
+      "site_id": "gzzd",
+      "label": "宣传思想",
+      "url": "https://gzzd.njupt.edu.cn/xc/list.htm",
+      "nav_path": [
+        "宣传思想"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 5
+    },
+    {
+      "node_id": "02b87f22606fe967bcd5",
+      "site_id": "gzzd",
+      "label": "纪检监察",
+      "url": "https://gzzd.njupt.edu.cn/jwwjc/list.htm",
+      "nav_path": [
+        "纪检监察"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 6
+    },
+    {
+      "node_id": "ae798a2a6f2d49ef21ad",
+      "site_id": "gzzd",
+      "label": "群团组织",
+      "url": "https://gzzd.njupt.edu.cn/gh/list.htm",
+      "nav_path": [
+        "群团组织"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 7
+    },
+    {
+      "node_id": "203fcc5553d9397adb30",
+      "site_id": "gzzd",
+      "label": "科研管理",
+      "url": "https://gzzd.njupt.edu.cn/kygl/list.htm",
+      "nav_path": [
+        "科研管理"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 8
+    },
+    {
+      "node_id": "a7bdd6174dbb6a58f607",
+      "site_id": "gzzd",
+      "label": "本科生教育管理",
+      "url": "https://gzzd.njupt.edu.cn/bksjygl/list.htm",
+      "nav_path": [
+        "本科生教育管理"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 9
+    },
+    {
+      "node_id": "557a5a3c523854cf260a",
+      "site_id": "gzzd",
+      "label": "教学管理",
+      "url": "https://gzzd.njupt.edu.cn/jxgl/list.htm",
+      "nav_path": [
+        "教学管理"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 10
+    },
+    {
+      "node_id": "29a804149dc672cb67f6",
+      "site_id": "gzzd",
+      "label": "制度类别",
+      "url": "https://gzzd.njupt.edu.cn/zdlb/list.htm",
+      "nav_path": [
+        "制度类别"
+      ],
+      "depth": 1,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 11
+    }
+  ]
+}

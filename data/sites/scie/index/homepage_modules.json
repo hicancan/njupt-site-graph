@@ -1,0 +1,26 @@
+{
+  "site_id": "scie",
+  "generated_at": "2026-06-08T05:58:34.624093+00:00",
+  "modules": [
+    {
+      "module_id": "e493abd2951c087839c8",
+      "site_id": "scie",
+      "name": "人才培养",
+      "url": "https://scie.njupt.edu.cn/",
+      "list_url": null,
+      "container_selector": ".ml",
+      "link_count": 8,
+      "position": 0
+    },
+    {
+      "module_id": "bc27ab2208164a851386",
+      "site_id": "scie",
+      "name": "通知公告",
+      "url": "https://scie.njupt.edu.cn/",
+      "list_url": "https://scie.njupt.edu.cn/2890/list.htm",
+      "container_selector": ".mr.post9.white",
+      "link_count": 6,
+      "position": 5
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "site_id": "cs",
+  "generated_at": "2026-06-08T05:56:38.529963+00:00",
+  "modules": [
+    {
+      "module_id": "3a68df5dc92a0af93e13",
+      "site_id": "cs",
+      "name": "本科教学",
+      "url": "https://cs.njupt.edu.cn/",
+      "list_url": "https://cs.njupt.edu.cn/18731/list.htm",
+      "container_selector": ".post.post1.post-31",
+      "link_count": 7,
+      "position": 5
+    },
+    {
+      "module_id": "a77e6f3c6158090c24d8",
+      "site_id": "cs",
+      "name": "本科教学",
+      "url": "https://cs.njupt.edu.cn/",
+      "list_url": "https://cs.njupt.edu.cn/llxx/list.htm",
+      "container_selector": ".post.post1.post-41",
+      "link_count": 7,
+      "position": 7
+    }
+  ]
+}

@@ -31,16 +31,10 @@ jobs:
           python -m pip install -e .[dev]
 
       - name: Validate site configs
-        run: |
-          python -m sitegraph.cli validate-config configs/sites/jwc/site.yaml
-          python -m sitegraph.cli validate-config configs/sites/xsc/site.yaml
-          python -m sitegraph.cli validate-config configs/sites/cxcy/site.yaml
+        run: python scripts/sitegraph_registry.py validate-configs
 
       - name: Dry-run incremental crawls
-        run: |
-          python -m sitegraph.cli crawl-site configs/sites/jwc/site.yaml --out data/sites/jwc/index --incremental --dry-run
-          python -m sitegraph.cli crawl-site configs/sites/xsc/site.yaml --out data/sites/xsc/index --incremental --dry-run
-          python -m sitegraph.cli crawl-site configs/sites/cxcy/site.yaml --out data/sites/cxcy/index --incremental --dry-run
+        run: python scripts/sitegraph_registry.py dry-run --incremental
 
       - name: Run tests
         run: python -m pytest

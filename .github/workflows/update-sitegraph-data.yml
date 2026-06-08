@@ -91,34 +91,15 @@ jobs:
           python -m pip install -e .[dev]
 
       - name: Validate site configs
-        run: |
-          python -m sitegraph.cli validate-config configs/sites/jwc/site.yaml
-          python -m sitegraph.cli validate-config configs/sites/xsc/site.yaml
-          python -m sitegraph.cli validate-config configs/sites/cxcy/site.yaml
+        run: python scripts/sitegraph_registry.py validate-configs
 
       - name: Incrementally update sitegraph packages
-        run: |
-          python -m sitegraph.cli crawl-site configs/sites/jwc/site.yaml --out data/sites/jwc/index --incremental --incremental-known-page-stop 2 --incremental-refresh-frontier 3
-          python -m sitegraph.cli crawl-site configs/sites/xsc/site.yaml --out data/sites/xsc/index --incremental --incremental-known-page-stop 2 --incremental-refresh-frontier 3
-          python -m sitegraph.cli crawl-site configs/sites/cxcy/site.yaml --out data/sites/cxcy/index --incremental --incremental-known-page-stop 2 --incremental-refresh-frontier 3
+        run: python scripts/sitegraph_registry.py crawl --incremental --incremental-known-page-stop 2 --incremental-refresh-frontier 3
 
       - name: Validate generated packages
         run: |
           python -m pytest
-          python - <<'PY'
-          import json
-          from pathlib import Path
-
-          for site in ('jwc', 'xsc', 'cxcy'):
-              manifest = json.loads(Path(f'data/sites/{site}/index/manifest.json').read_text(encoding='utf-8'))
-              print(site, json.dumps({
-                  'detail_pages': manifest['totals']['detail_pages'],
-                  'attachments': manifest['totals']['attachments'],
-                  'external_links': manifest['totals']['external_links'],
-                  'url_outcomes': manifest['totals']['url_outcomes'],
-                  'errors': manifest['quality']['errors'],
-              }, ensure_ascii=False))
-          PY
+          python scripts/sitegraph_registry.py summary
 
       - name: Commit sitegraph data changes
         id: commit_sitegraph_data

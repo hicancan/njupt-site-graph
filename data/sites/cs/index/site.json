@@ -1,0 +1,9 @@
+{
+  "site_id": "cs",
+  "name": "计算机学院、软件学院、网络空间安全学院",
+  "base_url": "https://cs.njupt.edu.cn/",
+  "domain": "cs.njupt.edu.cn",
+  "adapter": "njupt_wp",
+  "created_at": "2026-06-08T05:56:38.315940+00:00",
+  "notes": "Chrome DevTools audited large WebPlus school source."
+}

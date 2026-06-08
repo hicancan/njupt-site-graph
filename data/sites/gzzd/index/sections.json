@@ -1,0 +1,262 @@
+[
+  {
+    "section_id": "gzzd_student",
+    "site_id": "gzzd",
+    "name": "学生",
+    "url": "https://gzzd.njupt.edu.cn/xs/list.htm",
+    "section_type": "list",
+    "nav_path": [
+      "学生"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "policy",
+      "student"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "item_container_selector": ".news_list.list2, .news_list2.list2, body"
+  },
+  {
+    "section_id": "gzzd_home_link_6d5a5d48c3da",
+    "site_id": "gzzd",
+    "name": "通知公告",
+    "url": "https://gzzd.njupt.edu.cn/tzgg/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "通知公告"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "gzzd_home_link_4d1f3ecb612e",
+    "site_id": "gzzd",
+    "name": "教职工",
+    "url": "https://gzzd.njupt.edu.cn/jzg/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "教职工"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "gzzd_home_link_33a5700482e1",
+    "site_id": "gzzd",
+    "name": "组织建设",
+    "url": "https://gzzd.njupt.edu.cn/zzjs/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "组织建设"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "gzzd_home_link_c799196aaddd",
+    "site_id": "gzzd",
+    "name": "安全保卫",
+    "url": "https://gzzd.njupt.edu.cn/aqbw/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "安全保卫"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "gzzd_home_link_c6bf64c6e817",
+    "site_id": "gzzd",
+    "name": "宣传思想",
+    "url": "https://gzzd.njupt.edu.cn/xc/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "宣传思想"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "gzzd_home_link_8bf1d081ba3c",
+    "site_id": "gzzd",
+    "name": "纪检监察",
+    "url": "https://gzzd.njupt.edu.cn/jwwjc/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "纪检监察"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "gzzd_home_link_5aaba1473d45",
+    "site_id": "gzzd",
+    "name": "群团组织",
+    "url": "https://gzzd.njupt.edu.cn/gh/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "群团组织"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "gzzd_home_link_88ac91785d29",
+    "site_id": "gzzd",
+    "name": "科研管理",
+    "url": "https://gzzd.njupt.edu.cn/kygl/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "科研管理"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "gzzd_home_link_17d835a98ed8",
+    "site_id": "gzzd",
+    "name": "本科生教育管理",
+    "url": "https://gzzd.njupt.edu.cn/bksjygl/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "本科生教育管理"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "gzzd_home_link_6b1a9581d6fd",
+    "site_id": "gzzd",
+    "name": "教学管理",
+    "url": "https://gzzd.njupt.edu.cn/jxgl/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "教学管理"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "gzzd_home_link_4cb5e249d60c",
+    "site_id": "gzzd",
+    "name": "制度类别",
+    "url": "https://gzzd.njupt.edu.cn/zdlb/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "制度类别"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  },
+  {
+    "section_id": "gzzd_home_link_f9a41606b7ca",
+    "site_id": "gzzd",
+    "name": "更多>",
+    "url": "https://gzzd.njupt.edu.cn/_s388/cyzd/list.psp",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "更多>"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
+  }
+]
