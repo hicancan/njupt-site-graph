@@ -1,13 +1,13 @@
 {
   "site_id": "job91",
-  "generated_at": "2026-06-08T05:43:28.939334+00:00",
+  "generated_at": "2026-06-08T06:42:23.127932+00:00",
   "totals": {
     "sections": 29,
     "nav_nodes": 29,
     "homepage_modules": 29,
     "list_pages": 29,
-    "detail_pages": 1001,
-    "low_content_detail_pages": 872,
+    "detail_pages": 977,
+    "low_content_detail_pages": 848,
     "attachments": 0,
     "external_links": 0,
     "edges": 1001,
@@ -457,9 +457,11 @@
         "南京邮电大学2026届毕业生生源基本信息及就业联系方式"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3602",
         "https://njupt.91job.org.cn/sub-station/list/3607"
       ],
       "section_ids": [
+        "job91_f79ac1b74a8f",
         "job91_0d0a4fcb7dff"
       ],
       "status_code": 200
@@ -622,9 +624,11 @@
         "南京邮电大学2025届毕业生生源信息及就业工作联系方式"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3602",
         "https://njupt.91job.org.cn/sub-station/list/3607"
       ],
       "section_ids": [
+        "job91_f79ac1b74a8f",
         "job91_0d0a4fcb7dff"
       ],
       "status_code": 200
@@ -832,9 +836,11 @@
         "南京邮电大学2024届毕业生生源基本信息及就业联系方式"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3602",
         "https://njupt.91job.org.cn/sub-station/list/3607"
       ],
       "section_ids": [
+        "job91_f79ac1b74a8f",
         "job91_0d0a4fcb7dff"
       ],
       "status_code": 200
@@ -1954,12 +1960,15 @@
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
+        "谢平副校长带队赴广东企业调研",
         "【访企拓岗】谢平副校长带队赴广东企业调研"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3603",
         "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B"
       ],
       "section_ids": [
+        "job91_7488d30cc301",
         "job91_0d4d0da9e718"
       ],
       "status_code": 200
@@ -2032,9 +2041,11 @@
         "【访企拓岗】郭宇锋书记率队走访调研中国铁塔无锡分公司和无锡校友联络平台"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3603",
         "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B"
       ],
       "section_ids": [
+        "job91_7488d30cc301",
         "job91_0d4d0da9e718"
       ],
       "status_code": 200
@@ -2047,9 +2058,11 @@
         "【访企拓岗】我校获浪潮集团卓越人才贡献单位"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3603",
         "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B"
       ],
       "section_ids": [
+        "job91_7488d30cc301",
         "job91_0d4d0da9e718"
       ],
       "status_code": 200
@@ -2062,9 +2075,11 @@
         "【访企拓岗】叶美兰校长率队赴青海电信调研交流"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3603",
         "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B"
       ],
       "section_ids": [
+        "job91_7488d30cc301",
         "job91_0d4d0da9e718"
       ],
       "status_code": 200
@@ -2077,9 +2092,11 @@
         "【访企拓岗】走进江苏共创人造草坪有限公司"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3603",
         "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B"
       ],
       "section_ids": [
+        "job91_7488d30cc301",
         "job91_0d4d0da9e718"
       ],
       "status_code": 200
@@ -2092,9 +2109,11 @@
         "【访企拓岗】我校应邀参加2024年“高校看临港”系列活动"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3603",
         "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B"
       ],
       "section_ids": [
+        "job91_7488d30cc301",
         "job91_0d4d0da9e718"
       ],
       "status_code": 200
@@ -2107,9 +2126,11 @@
         "【访企拓岗】刘青山副校长带队赴信息通信相关企业调研"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3603",
         "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B"
       ],
       "section_ids": [
+        "job91_7488d30cc301",
         "job91_0d4d0da9e718"
       ],
       "status_code": 200
@@ -2212,9 +2233,11 @@
         "【访企拓岗】郭宇锋书记率队赴中国电子科技集团公司第三十六研究所调研交流"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3603",
         "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B"
       ],
       "section_ids": [
+        "job91_7488d30cc301",
         "job91_0d4d0da9e718"
       ],
       "status_code": 200
@@ -2257,9 +2280,11 @@
         "【访企拓岗】叶美兰校长率队走访校友企业如果新能源"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3603",
         "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B"
       ],
       "section_ids": [
+        "job91_7488d30cc301",
         "job91_0d4d0da9e718"
       ],
       "status_code": 200
@@ -2272,9 +2297,11 @@
         "【访企拓岗】谢平副校长率队走访远东控股集团"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3603",
         "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B"
       ],
       "section_ids": [
+        "job91_7488d30cc301",
         "job91_0d4d0da9e718"
       ],
       "status_code": 200
@@ -2302,9 +2329,11 @@
         "【访企拓岗】叶美兰校长、刘陈会长率队走访校友企业江苏新纪元"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3603",
         "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B"
       ],
       "section_ids": [
+        "job91_7488d30cc301",
         "job91_0d4d0da9e718"
       ],
       "status_code": 200
@@ -2332,9 +2361,11 @@
         "【访企拓岗】叶美兰校长率队走访校友企业中互联动和华盛通信"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3603",
         "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B"
       ],
       "section_ids": [
+        "job91_7488d30cc301",
         "job91_0d4d0da9e718"
       ],
       "status_code": 200
@@ -2377,9 +2408,11 @@
         "【访企拓岗】叶美兰校长率队走访校友企业安讯科技和数族科技"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3603",
         "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B"
       ],
       "section_ids": [
+        "job91_7488d30cc301",
         "job91_0d4d0da9e718"
       ],
       "status_code": 200
@@ -2932,9 +2965,11 @@
         "【访企拓岗】叶美兰校长率队赴中兴通讯股份有限公司调研交流"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3603",
         "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B"
       ],
       "section_ids": [
+        "job91_7488d30cc301",
         "job91_0d4d0da9e718"
       ],
       "status_code": 200
@@ -2962,9 +2997,11 @@
         "【访企拓岗】叶美兰校长率队赴中贝通信集团股份有限公司调研"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3603",
         "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B"
       ],
       "section_ids": [
+        "job91_7488d30cc301",
         "job91_0d4d0da9e718"
       ],
       "status_code": 200
@@ -3037,9 +3074,11 @@
         "【访企拓岗】刘陈书记叶美兰校长率队走访澳江公司和无锡国家数字电影产业园"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3603",
         "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B"
       ],
       "section_ids": [
+        "job91_7488d30cc301",
         "job91_0d4d0da9e718"
       ],
       "status_code": 200
@@ -3082,9 +3121,11 @@
         "【访企拓岗】集成电路学院领导深入盐城开展访企拓岗活动"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9CCCED2E0530100007FB6E8",
         "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B"
       ],
       "section_ids": [
+        "job91_54068010e125",
         "job91_0d4d0da9e718"
       ],
       "status_code": 200
@@ -3217,9 +3258,11 @@
         "【访企拓岗】社会与人口学院赴江苏紫鑫投资开展访企拓岗专项行动"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9CCCED2E0530100007FB6E8",
         "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B"
       ],
       "section_ids": [
+        "job91_54068010e125",
         "job91_0d4d0da9e718"
       ],
       "status_code": 200
@@ -5542,9 +5585,11 @@
         "江苏省2024年应届优秀大学毕业生选调乡镇（街道）职位拟录用人选公示"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3604",
         "https://njupt.91job.org.cn/sub-station/list/EA45DDCC961DED7AE0530100007F54C4"
       ],
       "section_ids": [
+        "job91_8a47e2520d1b",
         "job91_3bac1206eb58"
       ],
       "status_code": 200
@@ -12412,9 +12457,11 @@
         "新疆维吾尔自治区2025年度面向部分高校选调招聘优秀大学毕业生公告"
       ],
       "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/EA45DDCC961DED7AE0530100007F54C4",
         "https://njupt.91job.org.cn/sub-station/list/18006784DC636735E0630100007F40EF"
       ],
       "section_ids": [
+        "job91_3bac1206eb58",
         "job91_ac6fe35c1944"
       ],
       "status_code": 200
