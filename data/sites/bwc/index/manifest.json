@@ -1,28 +1,28 @@
 {
   "site_id": "bwc",
-  "generated_at": "2026-06-08T05:49:54.722995+00:00",
+  "generated_at": "2026-06-08T10:50:16.023128+00:00",
   "totals": {
-    "sections": 127,
+    "sections": 151,
     "nav_nodes": 15,
     "homepage_modules": 0,
     "list_pages": 126,
-    "detail_pages": 1395,
+    "detail_pages": 1397,
     "low_content_detail_pages": 101,
-    "attachments": 203,
+    "attachments": 157,
     "external_links": 43,
-    "edges": 969,
-    "url_outcomes": 3663
+    "edges": 275,
+    "url_outcomes": 3668
   },
   "outcomes": {
     "attachment_metadata_only": 175,
-    "crawled_detail_ok": 1269,
+    "crawled_detail_ok": 1271,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 126,
     "cross_domain_article_link_recorded": 2,
     "external_link_recorded": 34,
     "external_policy_link_recorded": 5,
     "homepage_link_recorded": 1,
-    "inline_image_recorded": 2042,
+    "inline_image_recorded": 2045,
     "inline_link_recorded": 8
   },
   "errors": [],
@@ -3196,7 +3196,8 @@
         "下一页>>",
         "查看更多",
         "显示更多",
-        "第一页"
+        "第一页",
+        "<<上一页"
       ],
       "sources": [
         "https://bwc.njupt.edu.cn/_t3998/510/list.htm",
@@ -4796,7 +4797,103 @@
         "https://bwc.njupt.edu.cn/510/list52.htm",
         "https://bwc.njupt.edu.cn/510/list53.htm",
         "https://bwc.njupt.edu.cn/510/list53.htm",
-        "https://bwc.njupt.edu.cn/510/list53.htm"
+        "https://bwc.njupt.edu.cn/510/list53.htm",
+        "https://bwc.njupt.edu.cn/510/list.htm",
+        "https://bwc.njupt.edu.cn/510/list54.htm",
+        "https://bwc.njupt.edu.cn/510/list1.htm",
+        "https://bwc.njupt.edu.cn/510/list53.htm",
+        "https://bwc.njupt.edu.cn/510/list53.htm",
+        "https://bwc.njupt.edu.cn/510/list53.htm",
+        "https://bwc.njupt.edu.cn/510/list52.htm",
+        "https://bwc.njupt.edu.cn/510/list53.htm",
+        "https://bwc.njupt.edu.cn/510/list53.htm",
+        "https://bwc.njupt.edu.cn/510/list9.htm",
+        "https://bwc.njupt.edu.cn/510/list51.htm",
+        "https://bwc.njupt.edu.cn/510/list52.htm",
+        "https://bwc.njupt.edu.cn/510/list9.htm",
+        "https://bwc.njupt.edu.cn/510/list10.htm",
+        "https://bwc.njupt.edu.cn/510/list10.htm",
+        "https://bwc.njupt.edu.cn/510/list11.htm",
+        "https://bwc.njupt.edu.cn/510/list50.htm",
+        "https://bwc.njupt.edu.cn/510/list51.htm",
+        "https://bwc.njupt.edu.cn/510/list11.htm",
+        "https://bwc.njupt.edu.cn/510/list12.htm",
+        "https://bwc.njupt.edu.cn/510/list12.htm",
+        "https://bwc.njupt.edu.cn/510/list13.htm",
+        "https://bwc.njupt.edu.cn/510/list49.htm",
+        "https://bwc.njupt.edu.cn/510/list50.htm",
+        "https://bwc.njupt.edu.cn/510/list13.htm",
+        "https://bwc.njupt.edu.cn/510/list14.htm",
+        "https://bwc.njupt.edu.cn/510/list14.htm",
+        "https://bwc.njupt.edu.cn/510/list15.htm",
+        "https://bwc.njupt.edu.cn/510/list48.htm",
+        "https://bwc.njupt.edu.cn/510/list49.htm",
+        "https://bwc.njupt.edu.cn/510/list15.htm",
+        "https://bwc.njupt.edu.cn/510/list16.htm",
+        "https://bwc.njupt.edu.cn/510/list16.htm",
+        "https://bwc.njupt.edu.cn/510/list17.htm",
+        "https://bwc.njupt.edu.cn/510/list47.htm",
+        "https://bwc.njupt.edu.cn/510/list48.htm",
+        "https://bwc.njupt.edu.cn/510/list17.htm",
+        "https://bwc.njupt.edu.cn/510/list18.htm",
+        "https://bwc.njupt.edu.cn/510/list18.htm",
+        "https://bwc.njupt.edu.cn/510/list19.htm",
+        "https://bwc.njupt.edu.cn/510/list46.htm",
+        "https://bwc.njupt.edu.cn/510/list47.htm",
+        "https://bwc.njupt.edu.cn/510/list19.htm",
+        "https://bwc.njupt.edu.cn/510/list20.htm",
+        "https://bwc.njupt.edu.cn/510/list20.htm",
+        "https://bwc.njupt.edu.cn/510/list21.htm",
+        "https://bwc.njupt.edu.cn/510/list45.htm",
+        "https://bwc.njupt.edu.cn/510/list46.htm",
+        "https://bwc.njupt.edu.cn/510/list21.htm",
+        "https://bwc.njupt.edu.cn/510/list22.htm",
+        "https://bwc.njupt.edu.cn/510/list22.htm",
+        "https://bwc.njupt.edu.cn/510/list23.htm",
+        "https://bwc.njupt.edu.cn/510/list44.htm",
+        "https://bwc.njupt.edu.cn/510/list45.htm",
+        "https://bwc.njupt.edu.cn/510/list23.htm",
+        "https://bwc.njupt.edu.cn/510/list24.htm",
+        "https://bwc.njupt.edu.cn/510/list24.htm",
+        "https://bwc.njupt.edu.cn/510/list25.htm",
+        "https://bwc.njupt.edu.cn/510/list43.htm",
+        "https://bwc.njupt.edu.cn/510/list44.htm",
+        "https://bwc.njupt.edu.cn/510/list25.htm",
+        "https://bwc.njupt.edu.cn/510/list26.htm",
+        "https://bwc.njupt.edu.cn/510/list26.htm",
+        "https://bwc.njupt.edu.cn/510/list27.htm",
+        "https://bwc.njupt.edu.cn/510/list42.htm",
+        "https://bwc.njupt.edu.cn/510/list43.htm",
+        "https://bwc.njupt.edu.cn/510/list27.htm",
+        "https://bwc.njupt.edu.cn/510/list28.htm",
+        "https://bwc.njupt.edu.cn/510/list28.htm",
+        "https://bwc.njupt.edu.cn/510/list29.htm",
+        "https://bwc.njupt.edu.cn/510/list41.htm",
+        "https://bwc.njupt.edu.cn/510/list42.htm",
+        "https://bwc.njupt.edu.cn/510/list29.htm",
+        "https://bwc.njupt.edu.cn/510/list30.htm",
+        "https://bwc.njupt.edu.cn/510/list30.htm",
+        "https://bwc.njupt.edu.cn/510/list31.htm",
+        "https://bwc.njupt.edu.cn/510/list40.htm",
+        "https://bwc.njupt.edu.cn/510/list41.htm",
+        "https://bwc.njupt.edu.cn/510/list31.htm",
+        "https://bwc.njupt.edu.cn/510/list32.htm",
+        "https://bwc.njupt.edu.cn/510/list32.htm",
+        "https://bwc.njupt.edu.cn/510/list33.htm",
+        "https://bwc.njupt.edu.cn/510/list39.htm",
+        "https://bwc.njupt.edu.cn/510/list40.htm",
+        "https://bwc.njupt.edu.cn/510/list33.htm",
+        "https://bwc.njupt.edu.cn/510/list34.htm",
+        "https://bwc.njupt.edu.cn/510/list34.htm",
+        "https://bwc.njupt.edu.cn/510/list35.htm",
+        "https://bwc.njupt.edu.cn/510/list38.htm",
+        "https://bwc.njupt.edu.cn/510/list39.htm",
+        "https://bwc.njupt.edu.cn/510/list35.htm",
+        "https://bwc.njupt.edu.cn/510/list36.htm",
+        "https://bwc.njupt.edu.cn/510/list36.htm",
+        "https://bwc.njupt.edu.cn/510/list37.htm",
+        "https://bwc.njupt.edu.cn/510/list37.htm",
+        "https://bwc.njupt.edu.cn/510/list38.htm"
       ],
       "section_ids": [
         "bwc_home_link_25d19d1f1371",
@@ -4854,7 +4951,24 @@
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
-        "bwc_inline_section_954a66572c96"
+        "bwc_inline_section_954a66572c96",
+        "bwc_inline_section_b5040ad50690",
+        "bwc_inline_section_6d62a3d6acd4",
+        "bwc_inline_section_9c65721807ba",
+        "bwc_inline_section_c59ed9b267d0",
+        "bwc_inline_section_99f4970c5055",
+        "bwc_inline_section_0a063b520030",
+        "bwc_inline_section_20ccf3399628",
+        "bwc_inline_section_11187fad0c23",
+        "bwc_inline_section_f413d6f54011",
+        "bwc_inline_section_1bd2ffdf734d",
+        "bwc_inline_section_d7d2de6374fc",
+        "bwc_inline_section_2cf3695864af",
+        "bwc_inline_section_ea961e0d7cd3",
+        "bwc_inline_section_9f2871fe64b0",
+        "bwc_inline_section_3fe95369a52f",
+        "bwc_inline_section_1ccbd6621f47",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -6685,7 +6799,98 @@
         "https://bwc.njupt.edu.cn/510/list53.htm",
         "https://bwc.njupt.edu.cn/510/list54.htm",
         "https://bwc.njupt.edu.cn/510/list53.htm",
-        "https://bwc.njupt.edu.cn/510/list54.htm"
+        "https://bwc.njupt.edu.cn/510/list54.htm",
+        "https://bwc.njupt.edu.cn/510/list54.htm",
+        "https://bwc.njupt.edu.cn/510/list1.htm",
+        "https://bwc.njupt.edu.cn/510/list53.htm",
+        "https://bwc.njupt.edu.cn/510/list54.htm",
+        "https://bwc.njupt.edu.cn/510/list52.htm",
+        "https://bwc.njupt.edu.cn/510/list53.htm",
+        "https://bwc.njupt.edu.cn/510/list51.htm",
+        "https://bwc.njupt.edu.cn/510/list52.htm",
+        "https://bwc.njupt.edu.cn/510/list10.htm",
+        "https://bwc.njupt.edu.cn/510/list10.htm",
+        "https://bwc.njupt.edu.cn/510/list11.htm",
+        "https://bwc.njupt.edu.cn/510/list50.htm",
+        "https://bwc.njupt.edu.cn/510/list51.htm",
+        "https://bwc.njupt.edu.cn/510/list11.htm",
+        "https://bwc.njupt.edu.cn/510/list12.htm",
+        "https://bwc.njupt.edu.cn/510/list12.htm",
+        "https://bwc.njupt.edu.cn/510/list13.htm",
+        "https://bwc.njupt.edu.cn/510/list49.htm",
+        "https://bwc.njupt.edu.cn/510/list50.htm",
+        "https://bwc.njupt.edu.cn/510/list13.htm",
+        "https://bwc.njupt.edu.cn/510/list14.htm",
+        "https://bwc.njupt.edu.cn/510/list14.htm",
+        "https://bwc.njupt.edu.cn/510/list15.htm",
+        "https://bwc.njupt.edu.cn/510/list48.htm",
+        "https://bwc.njupt.edu.cn/510/list49.htm",
+        "https://bwc.njupt.edu.cn/510/list15.htm",
+        "https://bwc.njupt.edu.cn/510/list16.htm",
+        "https://bwc.njupt.edu.cn/510/list16.htm",
+        "https://bwc.njupt.edu.cn/510/list17.htm",
+        "https://bwc.njupt.edu.cn/510/list47.htm",
+        "https://bwc.njupt.edu.cn/510/list48.htm",
+        "https://bwc.njupt.edu.cn/510/list17.htm",
+        "https://bwc.njupt.edu.cn/510/list18.htm",
+        "https://bwc.njupt.edu.cn/510/list18.htm",
+        "https://bwc.njupt.edu.cn/510/list19.htm",
+        "https://bwc.njupt.edu.cn/510/list46.htm",
+        "https://bwc.njupt.edu.cn/510/list47.htm",
+        "https://bwc.njupt.edu.cn/510/list19.htm",
+        "https://bwc.njupt.edu.cn/510/list20.htm",
+        "https://bwc.njupt.edu.cn/510/list20.htm",
+        "https://bwc.njupt.edu.cn/510/list21.htm",
+        "https://bwc.njupt.edu.cn/510/list45.htm",
+        "https://bwc.njupt.edu.cn/510/list46.htm",
+        "https://bwc.njupt.edu.cn/510/list21.htm",
+        "https://bwc.njupt.edu.cn/510/list22.htm",
+        "https://bwc.njupt.edu.cn/510/list22.htm",
+        "https://bwc.njupt.edu.cn/510/list23.htm",
+        "https://bwc.njupt.edu.cn/510/list44.htm",
+        "https://bwc.njupt.edu.cn/510/list45.htm",
+        "https://bwc.njupt.edu.cn/510/list23.htm",
+        "https://bwc.njupt.edu.cn/510/list24.htm",
+        "https://bwc.njupt.edu.cn/510/list24.htm",
+        "https://bwc.njupt.edu.cn/510/list25.htm",
+        "https://bwc.njupt.edu.cn/510/list43.htm",
+        "https://bwc.njupt.edu.cn/510/list44.htm",
+        "https://bwc.njupt.edu.cn/510/list25.htm",
+        "https://bwc.njupt.edu.cn/510/list26.htm",
+        "https://bwc.njupt.edu.cn/510/list26.htm",
+        "https://bwc.njupt.edu.cn/510/list27.htm",
+        "https://bwc.njupt.edu.cn/510/list42.htm",
+        "https://bwc.njupt.edu.cn/510/list43.htm",
+        "https://bwc.njupt.edu.cn/510/list27.htm",
+        "https://bwc.njupt.edu.cn/510/list28.htm",
+        "https://bwc.njupt.edu.cn/510/list28.htm",
+        "https://bwc.njupt.edu.cn/510/list29.htm",
+        "https://bwc.njupt.edu.cn/510/list41.htm",
+        "https://bwc.njupt.edu.cn/510/list42.htm",
+        "https://bwc.njupt.edu.cn/510/list29.htm",
+        "https://bwc.njupt.edu.cn/510/list30.htm",
+        "https://bwc.njupt.edu.cn/510/list30.htm",
+        "https://bwc.njupt.edu.cn/510/list31.htm",
+        "https://bwc.njupt.edu.cn/510/list40.htm",
+        "https://bwc.njupt.edu.cn/510/list41.htm",
+        "https://bwc.njupt.edu.cn/510/list31.htm",
+        "https://bwc.njupt.edu.cn/510/list32.htm",
+        "https://bwc.njupt.edu.cn/510/list32.htm",
+        "https://bwc.njupt.edu.cn/510/list33.htm",
+        "https://bwc.njupt.edu.cn/510/list39.htm",
+        "https://bwc.njupt.edu.cn/510/list40.htm",
+        "https://bwc.njupt.edu.cn/510/list33.htm",
+        "https://bwc.njupt.edu.cn/510/list34.htm",
+        "https://bwc.njupt.edu.cn/510/list34.htm",
+        "https://bwc.njupt.edu.cn/510/list35.htm",
+        "https://bwc.njupt.edu.cn/510/list38.htm",
+        "https://bwc.njupt.edu.cn/510/list39.htm",
+        "https://bwc.njupt.edu.cn/510/list35.htm",
+        "https://bwc.njupt.edu.cn/510/list36.htm",
+        "https://bwc.njupt.edu.cn/510/list36.htm",
+        "https://bwc.njupt.edu.cn/510/list37.htm",
+        "https://bwc.njupt.edu.cn/510/list37.htm",
+        "https://bwc.njupt.edu.cn/510/list38.htm"
       ],
       "section_ids": [
         "bwc_home_link_25d19d1f1371",
@@ -6743,7 +6948,24 @@
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
-        "bwc_inline_section_954a66572c96"
+        "bwc_inline_section_954a66572c96",
+        "bwc_inline_section_b5040ad50690",
+        "bwc_inline_section_6d62a3d6acd4",
+        "bwc_inline_section_9c65721807ba",
+        "bwc_inline_section_c59ed9b267d0",
+        "bwc_inline_section_99f4970c5055",
+        "bwc_inline_section_0a063b520030",
+        "bwc_inline_section_20ccf3399628",
+        "bwc_inline_section_11187fad0c23",
+        "bwc_inline_section_f413d6f54011",
+        "bwc_inline_section_1bd2ffdf734d",
+        "bwc_inline_section_d7d2de6374fc",
+        "bwc_inline_section_2cf3695864af",
+        "bwc_inline_section_ea961e0d7cd3",
+        "bwc_inline_section_9f2871fe64b0",
+        "bwc_inline_section_3fe95369a52f",
+        "bwc_inline_section_1ccbd6621f47",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -7784,6 +8006,7 @@
         "https://bwc.njupt.edu.cn/510/list1.htm",
         "https://bwc.njupt.edu.cn/510/list3.htm",
         "https://bwc.njupt.edu.cn/510/list4.htm",
+        "https://bwc.njupt.edu.cn/510/list6.htm",
         "https://bwc.njupt.edu.cn/510/list6.htm"
       ],
       "section_ids": [
@@ -8156,6 +8379,7 @@
         "https://bwc.njupt.edu.cn/510/list3.htm",
         "https://bwc.njupt.edu.cn/510/list4.htm",
         "https://bwc.njupt.edu.cn/510/list5.htm",
+        "https://bwc.njupt.edu.cn/510/list7.htm",
         "https://bwc.njupt.edu.cn/510/list7.htm"
       ],
       "section_ids": [
@@ -8544,6 +8768,7 @@
         "https://bwc.njupt.edu.cn/510/list4.htm",
         "https://bwc.njupt.edu.cn/510/list5.htm",
         "https://bwc.njupt.edu.cn/510/list6.htm",
+        "https://bwc.njupt.edu.cn/510/list8.htm",
         "https://bwc.njupt.edu.cn/510/list8.htm"
       ],
       "section_ids": [
@@ -8948,6 +9173,7 @@
         "https://bwc.njupt.edu.cn/510/list5.htm",
         "https://bwc.njupt.edu.cn/510/list6.htm",
         "https://bwc.njupt.edu.cn/510/list7.htm",
+        "https://bwc.njupt.edu.cn/510/list9.htm",
         "https://bwc.njupt.edu.cn/510/list9.htm"
       ],
       "section_ids": [
@@ -9368,6 +9594,7 @@
         "https://bwc.njupt.edu.cn/510/list6.htm",
         "https://bwc.njupt.edu.cn/510/list7.htm",
         "https://bwc.njupt.edu.cn/510/list8.htm",
+        "https://bwc.njupt.edu.cn/510/list10.htm",
         "https://bwc.njupt.edu.cn/510/list10.htm"
       ],
       "section_ids": [
@@ -9804,6 +10031,7 @@
         "https://bwc.njupt.edu.cn/510/list7.htm",
         "https://bwc.njupt.edu.cn/510/list8.htm",
         "https://bwc.njupt.edu.cn/510/list9.htm",
+        "https://bwc.njupt.edu.cn/510/list11.htm",
         "https://bwc.njupt.edu.cn/510/list11.htm"
       ],
       "section_ids": [
@@ -10256,6 +10484,7 @@
         "https://bwc.njupt.edu.cn/510/list8.htm",
         "https://bwc.njupt.edu.cn/510/list9.htm",
         "https://bwc.njupt.edu.cn/510/list10.htm",
+        "https://bwc.njupt.edu.cn/510/list12.htm",
         "https://bwc.njupt.edu.cn/510/list12.htm"
       ],
       "section_ids": [
@@ -10724,6 +10953,7 @@
         "https://bwc.njupt.edu.cn/510/list9.htm",
         "https://bwc.njupt.edu.cn/510/list10.htm",
         "https://bwc.njupt.edu.cn/510/list11.htm",
+        "https://bwc.njupt.edu.cn/510/list13.htm",
         "https://bwc.njupt.edu.cn/510/list13.htm"
       ],
       "section_ids": [
@@ -11208,6 +11438,7 @@
         "https://bwc.njupt.edu.cn/510/list10.htm",
         "https://bwc.njupt.edu.cn/510/list11.htm",
         "https://bwc.njupt.edu.cn/510/list12.htm",
+        "https://bwc.njupt.edu.cn/510/list14.htm",
         "https://bwc.njupt.edu.cn/510/list14.htm"
       ],
       "section_ids": [
@@ -11708,6 +11939,7 @@
         "https://bwc.njupt.edu.cn/510/list11.htm",
         "https://bwc.njupt.edu.cn/510/list12.htm",
         "https://bwc.njupt.edu.cn/510/list13.htm",
+        "https://bwc.njupt.edu.cn/510/list15.htm",
         "https://bwc.njupt.edu.cn/510/list15.htm"
       ],
       "section_ids": [
@@ -12224,6 +12456,7 @@
         "https://bwc.njupt.edu.cn/510/list12.htm",
         "https://bwc.njupt.edu.cn/510/list13.htm",
         "https://bwc.njupt.edu.cn/510/list14.htm",
+        "https://bwc.njupt.edu.cn/510/list16.htm",
         "https://bwc.njupt.edu.cn/510/list16.htm"
       ],
       "section_ids": [
@@ -12756,6 +12989,7 @@
         "https://bwc.njupt.edu.cn/510/list13.htm",
         "https://bwc.njupt.edu.cn/510/list14.htm",
         "https://bwc.njupt.edu.cn/510/list15.htm",
+        "https://bwc.njupt.edu.cn/510/list17.htm",
         "https://bwc.njupt.edu.cn/510/list17.htm"
       ],
       "section_ids": [
@@ -13304,6 +13538,7 @@
         "https://bwc.njupt.edu.cn/510/list14.htm",
         "https://bwc.njupt.edu.cn/510/list15.htm",
         "https://bwc.njupt.edu.cn/510/list16.htm",
+        "https://bwc.njupt.edu.cn/510/list18.htm",
         "https://bwc.njupt.edu.cn/510/list18.htm"
       ],
       "section_ids": [
@@ -13868,6 +14103,7 @@
         "https://bwc.njupt.edu.cn/510/list15.htm",
         "https://bwc.njupt.edu.cn/510/list16.htm",
         "https://bwc.njupt.edu.cn/510/list17.htm",
+        "https://bwc.njupt.edu.cn/510/list19.htm",
         "https://bwc.njupt.edu.cn/510/list19.htm"
       ],
       "section_ids": [
@@ -14448,6 +14684,7 @@
         "https://bwc.njupt.edu.cn/510/list16.htm",
         "https://bwc.njupt.edu.cn/510/list17.htm",
         "https://bwc.njupt.edu.cn/510/list18.htm",
+        "https://bwc.njupt.edu.cn/510/list20.htm",
         "https://bwc.njupt.edu.cn/510/list20.htm"
       ],
       "section_ids": [
@@ -15044,6 +15281,7 @@
         "https://bwc.njupt.edu.cn/510/list17.htm",
         "https://bwc.njupt.edu.cn/510/list18.htm",
         "https://bwc.njupt.edu.cn/510/list19.htm",
+        "https://bwc.njupt.edu.cn/510/list21.htm",
         "https://bwc.njupt.edu.cn/510/list21.htm"
       ],
       "section_ids": [
@@ -15656,6 +15894,7 @@
         "https://bwc.njupt.edu.cn/510/list18.htm",
         "https://bwc.njupt.edu.cn/510/list19.htm",
         "https://bwc.njupt.edu.cn/510/list20.htm",
+        "https://bwc.njupt.edu.cn/510/list22.htm",
         "https://bwc.njupt.edu.cn/510/list22.htm"
       ],
       "section_ids": [
@@ -16259,6 +16498,7 @@
         "https://bwc.njupt.edu.cn/510/list19.htm",
         "https://bwc.njupt.edu.cn/510/list20.htm",
         "https://bwc.njupt.edu.cn/510/list21.htm",
+        "https://bwc.njupt.edu.cn/510/list23.htm",
         "https://bwc.njupt.edu.cn/510/list23.htm"
       ],
       "section_ids": [
@@ -16903,6 +17143,7 @@
         "https://bwc.njupt.edu.cn/510/list20.htm",
         "https://bwc.njupt.edu.cn/510/list21.htm",
         "https://bwc.njupt.edu.cn/510/list22.htm",
+        "https://bwc.njupt.edu.cn/510/list24.htm",
         "https://bwc.njupt.edu.cn/510/list24.htm"
       ],
       "section_ids": [
@@ -17563,6 +17804,7 @@
         "https://bwc.njupt.edu.cn/510/list21.htm",
         "https://bwc.njupt.edu.cn/510/list22.htm",
         "https://bwc.njupt.edu.cn/510/list23.htm",
+        "https://bwc.njupt.edu.cn/510/list25.htm",
         "https://bwc.njupt.edu.cn/510/list25.htm"
       ],
       "section_ids": [
@@ -18239,6 +18481,7 @@
         "https://bwc.njupt.edu.cn/510/list22.htm",
         "https://bwc.njupt.edu.cn/510/list23.htm",
         "https://bwc.njupt.edu.cn/510/list24.htm",
+        "https://bwc.njupt.edu.cn/510/list26.htm",
         "https://bwc.njupt.edu.cn/510/list26.htm"
       ],
       "section_ids": [
@@ -18931,6 +19174,7 @@
         "https://bwc.njupt.edu.cn/510/list23.htm",
         "https://bwc.njupt.edu.cn/510/list24.htm",
         "https://bwc.njupt.edu.cn/510/list25.htm",
+        "https://bwc.njupt.edu.cn/510/list27.htm",
         "https://bwc.njupt.edu.cn/510/list27.htm"
       ],
       "section_ids": [
@@ -19639,6 +19883,7 @@
         "https://bwc.njupt.edu.cn/510/list24.htm",
         "https://bwc.njupt.edu.cn/510/list25.htm",
         "https://bwc.njupt.edu.cn/510/list26.htm",
+        "https://bwc.njupt.edu.cn/510/list28.htm",
         "https://bwc.njupt.edu.cn/510/list28.htm"
       ],
       "section_ids": [
@@ -20363,6 +20608,7 @@
         "https://bwc.njupt.edu.cn/510/list25.htm",
         "https://bwc.njupt.edu.cn/510/list26.htm",
         "https://bwc.njupt.edu.cn/510/list27.htm",
+        "https://bwc.njupt.edu.cn/510/list29.htm",
         "https://bwc.njupt.edu.cn/510/list29.htm"
       ],
       "section_ids": [
@@ -21103,6 +21349,7 @@
         "https://bwc.njupt.edu.cn/510/list26.htm",
         "https://bwc.njupt.edu.cn/510/list27.htm",
         "https://bwc.njupt.edu.cn/510/list28.htm",
+        "https://bwc.njupt.edu.cn/510/list30.htm",
         "https://bwc.njupt.edu.cn/510/list30.htm"
       ],
       "section_ids": [
@@ -21859,6 +22106,7 @@
         "https://bwc.njupt.edu.cn/510/list27.htm",
         "https://bwc.njupt.edu.cn/510/list28.htm",
         "https://bwc.njupt.edu.cn/510/list29.htm",
+        "https://bwc.njupt.edu.cn/510/list31.htm",
         "https://bwc.njupt.edu.cn/510/list31.htm"
       ],
       "section_ids": [
@@ -22631,6 +22879,7 @@
         "https://bwc.njupt.edu.cn/510/list28.htm",
         "https://bwc.njupt.edu.cn/510/list29.htm",
         "https://bwc.njupt.edu.cn/510/list30.htm",
+        "https://bwc.njupt.edu.cn/510/list32.htm",
         "https://bwc.njupt.edu.cn/510/list32.htm"
       ],
       "section_ids": [
@@ -23419,6 +23668,7 @@
         "https://bwc.njupt.edu.cn/510/list29.htm",
         "https://bwc.njupt.edu.cn/510/list30.htm",
         "https://bwc.njupt.edu.cn/510/list31.htm",
+        "https://bwc.njupt.edu.cn/510/list33.htm",
         "https://bwc.njupt.edu.cn/510/list33.htm"
       ],
       "section_ids": [
@@ -24223,6 +24473,7 @@
         "https://bwc.njupt.edu.cn/510/list30.htm",
         "https://bwc.njupt.edu.cn/510/list31.htm",
         "https://bwc.njupt.edu.cn/510/list32.htm",
+        "https://bwc.njupt.edu.cn/510/list34.htm",
         "https://bwc.njupt.edu.cn/510/list34.htm"
       ],
       "section_ids": [
@@ -25043,6 +25294,7 @@
         "https://bwc.njupt.edu.cn/510/list31.htm",
         "https://bwc.njupt.edu.cn/510/list32.htm",
         "https://bwc.njupt.edu.cn/510/list33.htm",
+        "https://bwc.njupt.edu.cn/510/list35.htm",
         "https://bwc.njupt.edu.cn/510/list35.htm"
       ],
       "section_ids": [
@@ -25879,6 +26131,7 @@
         "https://bwc.njupt.edu.cn/510/list32.htm",
         "https://bwc.njupt.edu.cn/510/list33.htm",
         "https://bwc.njupt.edu.cn/510/list34.htm",
+        "https://bwc.njupt.edu.cn/510/list36.htm",
         "https://bwc.njupt.edu.cn/510/list36.htm"
       ],
       "section_ids": [
@@ -25920,7 +26173,8 @@
         "bwc_inline_section_77babdd98414",
         "bwc_inline_section_e9c770b73e9e",
         "bwc_inline_section_aeafbe62f4fe",
-        "bwc_inline_section_af9009c61b08"
+        "bwc_inline_section_af9009c61b08",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -26731,6 +26985,7 @@
         "https://bwc.njupt.edu.cn/510/list33.htm",
         "https://bwc.njupt.edu.cn/510/list34.htm",
         "https://bwc.njupt.edu.cn/510/list35.htm",
+        "https://bwc.njupt.edu.cn/510/list37.htm",
         "https://bwc.njupt.edu.cn/510/list37.htm"
       ],
       "section_ids": [
@@ -26773,7 +27028,9 @@
         "bwc_inline_section_e9c770b73e9e",
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
-        "bwc_inline_section_18c4ecaeeb14"
+        "bwc_inline_section_18c4ecaeeb14",
+        "bwc_inline_section_1ccbd6621f47",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -26828,7 +27085,8 @@
         "bwc_inline_section_e9c770b73e9e",
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -26883,7 +27141,8 @@
         "bwc_inline_section_e9c770b73e9e",
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -26938,7 +27197,8 @@
         "bwc_inline_section_e9c770b73e9e",
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -26993,7 +27253,8 @@
         "bwc_inline_section_e9c770b73e9e",
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -27048,7 +27309,8 @@
         "bwc_inline_section_e9c770b73e9e",
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -27103,7 +27365,8 @@
         "bwc_inline_section_e9c770b73e9e",
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -27158,7 +27421,8 @@
         "bwc_inline_section_e9c770b73e9e",
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -27213,7 +27477,8 @@
         "bwc_inline_section_e9c770b73e9e",
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -27268,7 +27533,8 @@
         "bwc_inline_section_e9c770b73e9e",
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -27323,7 +27589,8 @@
         "bwc_inline_section_e9c770b73e9e",
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -27378,7 +27645,8 @@
         "bwc_inline_section_e9c770b73e9e",
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -27433,7 +27701,8 @@
         "bwc_inline_section_e9c770b73e9e",
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -27488,7 +27757,8 @@
         "bwc_inline_section_e9c770b73e9e",
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -27543,7 +27813,8 @@
         "bwc_inline_section_e9c770b73e9e",
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -27599,6 +27870,7 @@
         "https://bwc.njupt.edu.cn/510/list34.htm",
         "https://bwc.njupt.edu.cn/510/list35.htm",
         "https://bwc.njupt.edu.cn/510/list36.htm",
+        "https://bwc.njupt.edu.cn/510/list38.htm",
         "https://bwc.njupt.edu.cn/510/list38.htm"
       ],
       "section_ids": [
@@ -27642,7 +27914,10 @@
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
-        "bwc_inline_section_e6f3fbb4da9a"
+        "bwc_inline_section_e6f3fbb4da9a",
+        "bwc_inline_section_3fe95369a52f",
+        "bwc_inline_section_1ccbd6621f47",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -27698,7 +27973,9 @@
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1ccbd6621f47",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -27754,7 +28031,9 @@
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1ccbd6621f47",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -27810,7 +28089,9 @@
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1ccbd6621f47",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -27866,7 +28147,9 @@
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1ccbd6621f47",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -27922,7 +28205,9 @@
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1ccbd6621f47",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -27978,7 +28263,9 @@
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1ccbd6621f47",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -28034,7 +28321,9 @@
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1ccbd6621f47",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -28090,7 +28379,9 @@
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1ccbd6621f47",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -28146,7 +28437,9 @@
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1ccbd6621f47",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -28202,7 +28495,9 @@
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1ccbd6621f47",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -28258,7 +28553,9 @@
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1ccbd6621f47",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -28314,7 +28611,9 @@
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1ccbd6621f47",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -28370,7 +28669,9 @@
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1ccbd6621f47",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -28426,7 +28727,9 @@
         "bwc_inline_section_aeafbe62f4fe",
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1ccbd6621f47",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -28483,6 +28786,7 @@
         "https://bwc.njupt.edu.cn/510/list35.htm",
         "https://bwc.njupt.edu.cn/510/list36.htm",
         "https://bwc.njupt.edu.cn/510/list37.htm",
+        "https://bwc.njupt.edu.cn/510/list39.htm",
         "https://bwc.njupt.edu.cn/510/list39.htm"
       ],
       "section_ids": [
@@ -28527,7 +28831,11 @@
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
-        "bwc_inline_section_a49e6ab9c249"
+        "bwc_inline_section_a49e6ab9c249",
+        "bwc_inline_section_9f2871fe64b0",
+        "bwc_inline_section_3fe95369a52f",
+        "bwc_inline_section_1ccbd6621f47",
+        "bwc_inline_section_489c501e0f5c"
       ],
       "status_code": 200
     },
@@ -28584,7 +28892,9 @@
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3fe95369a52f",
+        "bwc_inline_section_1ccbd6621f47"
       ],
       "status_code": 200
     },
@@ -28641,7 +28951,9 @@
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3fe95369a52f",
+        "bwc_inline_section_1ccbd6621f47"
       ],
       "status_code": 200
     },
@@ -28698,7 +29010,9 @@
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3fe95369a52f",
+        "bwc_inline_section_1ccbd6621f47"
       ],
       "status_code": 200
     },
@@ -28755,7 +29069,9 @@
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3fe95369a52f",
+        "bwc_inline_section_1ccbd6621f47"
       ],
       "status_code": 200
     },
@@ -28812,7 +29128,9 @@
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3fe95369a52f",
+        "bwc_inline_section_1ccbd6621f47"
       ],
       "status_code": 200
     },
@@ -28869,7 +29187,9 @@
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3fe95369a52f",
+        "bwc_inline_section_1ccbd6621f47"
       ],
       "status_code": 200
     },
@@ -28926,7 +29246,9 @@
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3fe95369a52f",
+        "bwc_inline_section_1ccbd6621f47"
       ],
       "status_code": 200
     },
@@ -28983,7 +29305,9 @@
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3fe95369a52f",
+        "bwc_inline_section_1ccbd6621f47"
       ],
       "status_code": 200
     },
@@ -29040,7 +29364,9 @@
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3fe95369a52f",
+        "bwc_inline_section_1ccbd6621f47"
       ],
       "status_code": 200
     },
@@ -29097,7 +29423,9 @@
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3fe95369a52f",
+        "bwc_inline_section_1ccbd6621f47"
       ],
       "status_code": 200
     },
@@ -29154,7 +29482,9 @@
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3fe95369a52f",
+        "bwc_inline_section_1ccbd6621f47"
       ],
       "status_code": 200
     },
@@ -29211,7 +29541,9 @@
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3fe95369a52f",
+        "bwc_inline_section_1ccbd6621f47"
       ],
       "status_code": 200
     },
@@ -29268,7 +29600,9 @@
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3fe95369a52f",
+        "bwc_inline_section_1ccbd6621f47"
       ],
       "status_code": 200
     },
@@ -29325,7 +29659,9 @@
         "bwc_inline_section_af9009c61b08",
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3fe95369a52f",
+        "bwc_inline_section_1ccbd6621f47"
       ],
       "status_code": 200
     },
@@ -29383,6 +29719,7 @@
         "https://bwc.njupt.edu.cn/510/list36.htm",
         "https://bwc.njupt.edu.cn/510/list37.htm",
         "https://bwc.njupt.edu.cn/510/list38.htm",
+        "https://bwc.njupt.edu.cn/510/list40.htm",
         "https://bwc.njupt.edu.cn/510/list40.htm"
       ],
       "section_ids": [
@@ -29428,7 +29765,11 @@
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
-        "bwc_inline_section_ef4c37ebd71a"
+        "bwc_inline_section_ef4c37ebd71a",
+        "bwc_inline_section_ea961e0d7cd3",
+        "bwc_inline_section_9f2871fe64b0",
+        "bwc_inline_section_3fe95369a52f",
+        "bwc_inline_section_1ccbd6621f47"
       ],
       "status_code": 200
     },
@@ -29486,7 +29827,9 @@
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9f2871fe64b0",
+        "bwc_inline_section_3fe95369a52f"
       ],
       "status_code": 200
     },
@@ -29544,7 +29887,9 @@
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9f2871fe64b0",
+        "bwc_inline_section_3fe95369a52f"
       ],
       "status_code": 200
     },
@@ -29602,7 +29947,9 @@
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9f2871fe64b0",
+        "bwc_inline_section_3fe95369a52f"
       ],
       "status_code": 200
     },
@@ -29660,7 +30007,9 @@
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9f2871fe64b0",
+        "bwc_inline_section_3fe95369a52f"
       ],
       "status_code": 200
     },
@@ -29718,7 +30067,9 @@
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9f2871fe64b0",
+        "bwc_inline_section_3fe95369a52f"
       ],
       "status_code": 200
     },
@@ -29776,7 +30127,9 @@
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9f2871fe64b0",
+        "bwc_inline_section_3fe95369a52f"
       ],
       "status_code": 200
     },
@@ -29834,7 +30187,9 @@
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9f2871fe64b0",
+        "bwc_inline_section_3fe95369a52f"
       ],
       "status_code": 200
     },
@@ -29892,7 +30247,9 @@
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9f2871fe64b0",
+        "bwc_inline_section_3fe95369a52f"
       ],
       "status_code": 200
     },
@@ -29950,7 +30307,9 @@
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9f2871fe64b0",
+        "bwc_inline_section_3fe95369a52f"
       ],
       "status_code": 200
     },
@@ -30008,7 +30367,9 @@
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9f2871fe64b0",
+        "bwc_inline_section_3fe95369a52f"
       ],
       "status_code": 200
     },
@@ -30066,7 +30427,9 @@
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9f2871fe64b0",
+        "bwc_inline_section_3fe95369a52f"
       ],
       "status_code": 200
     },
@@ -30124,7 +30487,9 @@
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9f2871fe64b0",
+        "bwc_inline_section_3fe95369a52f"
       ],
       "status_code": 200
     },
@@ -30182,7 +30547,9 @@
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9f2871fe64b0",
+        "bwc_inline_section_3fe95369a52f"
       ],
       "status_code": 200
     },
@@ -30240,7 +30607,9 @@
         "bwc_inline_section_18c4ecaeeb14",
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9f2871fe64b0",
+        "bwc_inline_section_3fe95369a52f"
       ],
       "status_code": 200
     },
@@ -30299,6 +30668,7 @@
         "https://bwc.njupt.edu.cn/510/list37.htm",
         "https://bwc.njupt.edu.cn/510/list38.htm",
         "https://bwc.njupt.edu.cn/510/list39.htm",
+        "https://bwc.njupt.edu.cn/510/list41.htm",
         "https://bwc.njupt.edu.cn/510/list41.htm"
       ],
       "section_ids": [
@@ -30345,7 +30715,11 @@
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
-        "bwc_inline_section_0d4a73344758"
+        "bwc_inline_section_0d4a73344758",
+        "bwc_inline_section_2cf3695864af",
+        "bwc_inline_section_ea961e0d7cd3",
+        "bwc_inline_section_9f2871fe64b0",
+        "bwc_inline_section_3fe95369a52f"
       ],
       "status_code": 200
     },
@@ -30404,7 +30778,9 @@
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_ea961e0d7cd3",
+        "bwc_inline_section_9f2871fe64b0"
       ],
       "status_code": 200
     },
@@ -30463,7 +30839,9 @@
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_ea961e0d7cd3",
+        "bwc_inline_section_9f2871fe64b0"
       ],
       "status_code": 200
     },
@@ -30522,7 +30900,9 @@
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_ea961e0d7cd3",
+        "bwc_inline_section_9f2871fe64b0"
       ],
       "status_code": 200
     },
@@ -30581,7 +30961,9 @@
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_ea961e0d7cd3",
+        "bwc_inline_section_9f2871fe64b0"
       ],
       "status_code": 200
     },
@@ -30640,7 +31022,9 @@
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_ea961e0d7cd3",
+        "bwc_inline_section_9f2871fe64b0"
       ],
       "status_code": 200
     },
@@ -30699,7 +31083,9 @@
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_ea961e0d7cd3",
+        "bwc_inline_section_9f2871fe64b0"
       ],
       "status_code": 200
     },
@@ -30758,7 +31144,9 @@
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_ea961e0d7cd3",
+        "bwc_inline_section_9f2871fe64b0"
       ],
       "status_code": 200
     },
@@ -30817,7 +31205,9 @@
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_ea961e0d7cd3",
+        "bwc_inline_section_9f2871fe64b0"
       ],
       "status_code": 200
     },
@@ -30876,7 +31266,9 @@
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_ea961e0d7cd3",
+        "bwc_inline_section_9f2871fe64b0"
       ],
       "status_code": 200
     },
@@ -30935,7 +31327,9 @@
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_ea961e0d7cd3",
+        "bwc_inline_section_9f2871fe64b0"
       ],
       "status_code": 200
     },
@@ -30994,7 +31388,9 @@
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_ea961e0d7cd3",
+        "bwc_inline_section_9f2871fe64b0"
       ],
       "status_code": 200
     },
@@ -31053,7 +31449,9 @@
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_ea961e0d7cd3",
+        "bwc_inline_section_9f2871fe64b0"
       ],
       "status_code": 200
     },
@@ -31112,7 +31510,9 @@
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_ea961e0d7cd3",
+        "bwc_inline_section_9f2871fe64b0"
       ],
       "status_code": 200
     },
@@ -31171,7 +31571,9 @@
         "bwc_inline_section_e6f3fbb4da9a",
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_ea961e0d7cd3",
+        "bwc_inline_section_9f2871fe64b0"
       ],
       "status_code": 200
     },
@@ -31231,6 +31633,7 @@
         "https://bwc.njupt.edu.cn/510/list38.htm",
         "https://bwc.njupt.edu.cn/510/list39.htm",
         "https://bwc.njupt.edu.cn/510/list40.htm",
+        "https://bwc.njupt.edu.cn/510/list42.htm",
         "https://bwc.njupt.edu.cn/510/list42.htm"
       ],
       "section_ids": [
@@ -31278,7 +31681,11 @@
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
-        "bwc_inline_section_86bda728a700"
+        "bwc_inline_section_86bda728a700",
+        "bwc_inline_section_d7d2de6374fc",
+        "bwc_inline_section_2cf3695864af",
+        "bwc_inline_section_ea961e0d7cd3",
+        "bwc_inline_section_9f2871fe64b0"
       ],
       "status_code": 200
     },
@@ -31338,7 +31745,9 @@
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_2cf3695864af",
+        "bwc_inline_section_ea961e0d7cd3"
       ],
       "status_code": 200
     },
@@ -31398,7 +31807,9 @@
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_2cf3695864af",
+        "bwc_inline_section_ea961e0d7cd3"
       ],
       "status_code": 200
     },
@@ -31458,7 +31869,9 @@
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_2cf3695864af",
+        "bwc_inline_section_ea961e0d7cd3"
       ],
       "status_code": 200
     },
@@ -31518,7 +31931,9 @@
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_2cf3695864af",
+        "bwc_inline_section_ea961e0d7cd3"
       ],
       "status_code": 200
     },
@@ -31578,7 +31993,9 @@
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_2cf3695864af",
+        "bwc_inline_section_ea961e0d7cd3"
       ],
       "status_code": 200
     },
@@ -31638,7 +32055,9 @@
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_2cf3695864af",
+        "bwc_inline_section_ea961e0d7cd3"
       ],
       "status_code": 200
     },
@@ -31698,7 +32117,9 @@
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_2cf3695864af",
+        "bwc_inline_section_ea961e0d7cd3"
       ],
       "status_code": 200
     },
@@ -31758,7 +32179,9 @@
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_2cf3695864af",
+        "bwc_inline_section_ea961e0d7cd3"
       ],
       "status_code": 200
     },
@@ -31818,7 +32241,9 @@
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_2cf3695864af",
+        "bwc_inline_section_ea961e0d7cd3"
       ],
       "status_code": 200
     },
@@ -31878,7 +32303,9 @@
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_2cf3695864af",
+        "bwc_inline_section_ea961e0d7cd3"
       ],
       "status_code": 200
     },
@@ -31938,7 +32365,9 @@
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_2cf3695864af",
+        "bwc_inline_section_ea961e0d7cd3"
       ],
       "status_code": 200
     },
@@ -31998,7 +32427,9 @@
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_2cf3695864af",
+        "bwc_inline_section_ea961e0d7cd3"
       ],
       "status_code": 200
     },
@@ -32058,7 +32489,9 @@
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_2cf3695864af",
+        "bwc_inline_section_ea961e0d7cd3"
       ],
       "status_code": 200
     },
@@ -32118,7 +32551,9 @@
         "bwc_inline_section_a49e6ab9c249",
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_2cf3695864af",
+        "bwc_inline_section_ea961e0d7cd3"
       ],
       "status_code": 200
     },
@@ -32179,6 +32614,7 @@
         "https://bwc.njupt.edu.cn/510/list39.htm",
         "https://bwc.njupt.edu.cn/510/list40.htm",
         "https://bwc.njupt.edu.cn/510/list41.htm",
+        "https://bwc.njupt.edu.cn/510/list43.htm",
         "https://bwc.njupt.edu.cn/510/list43.htm"
       ],
       "section_ids": [
@@ -32227,7 +32663,11 @@
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
-        "bwc_inline_section_c2a2446299e7"
+        "bwc_inline_section_c2a2446299e7",
+        "bwc_inline_section_1bd2ffdf734d",
+        "bwc_inline_section_d7d2de6374fc",
+        "bwc_inline_section_2cf3695864af",
+        "bwc_inline_section_ea961e0d7cd3"
       ],
       "status_code": 200
     },
@@ -32288,7 +32728,9 @@
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d7d2de6374fc",
+        "bwc_inline_section_2cf3695864af"
       ],
       "status_code": 200
     },
@@ -32349,7 +32791,9 @@
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d7d2de6374fc",
+        "bwc_inline_section_2cf3695864af"
       ],
       "status_code": 200
     },
@@ -32410,7 +32854,9 @@
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d7d2de6374fc",
+        "bwc_inline_section_2cf3695864af"
       ],
       "status_code": 200
     },
@@ -32471,7 +32917,9 @@
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d7d2de6374fc",
+        "bwc_inline_section_2cf3695864af"
       ],
       "status_code": 200
     },
@@ -32532,7 +32980,9 @@
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d7d2de6374fc",
+        "bwc_inline_section_2cf3695864af"
       ],
       "status_code": 200
     },
@@ -32593,7 +33043,9 @@
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d7d2de6374fc",
+        "bwc_inline_section_2cf3695864af"
       ],
       "status_code": 200
     },
@@ -32654,7 +33106,9 @@
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d7d2de6374fc",
+        "bwc_inline_section_2cf3695864af"
       ],
       "status_code": 200
     },
@@ -32715,7 +33169,9 @@
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d7d2de6374fc",
+        "bwc_inline_section_2cf3695864af"
       ],
       "status_code": 200
     },
@@ -32776,7 +33232,9 @@
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d7d2de6374fc",
+        "bwc_inline_section_2cf3695864af"
       ],
       "status_code": 200
     },
@@ -32837,7 +33295,9 @@
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d7d2de6374fc",
+        "bwc_inline_section_2cf3695864af"
       ],
       "status_code": 200
     },
@@ -32898,7 +33358,9 @@
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d7d2de6374fc",
+        "bwc_inline_section_2cf3695864af"
       ],
       "status_code": 200
     },
@@ -32959,7 +33421,9 @@
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d7d2de6374fc",
+        "bwc_inline_section_2cf3695864af"
       ],
       "status_code": 200
     },
@@ -33020,7 +33484,9 @@
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d7d2de6374fc",
+        "bwc_inline_section_2cf3695864af"
       ],
       "status_code": 200
     },
@@ -33081,7 +33547,9 @@
         "bwc_inline_section_ef4c37ebd71a",
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d7d2de6374fc",
+        "bwc_inline_section_2cf3695864af"
       ],
       "status_code": 200
     },
@@ -33143,6 +33611,7 @@
         "https://bwc.njupt.edu.cn/510/list40.htm",
         "https://bwc.njupt.edu.cn/510/list41.htm",
         "https://bwc.njupt.edu.cn/510/list42.htm",
+        "https://bwc.njupt.edu.cn/510/list44.htm",
         "https://bwc.njupt.edu.cn/510/list44.htm"
       ],
       "section_ids": [
@@ -33192,7 +33661,11 @@
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
-        "bwc_inline_section_7f89ac911e1d"
+        "bwc_inline_section_7f89ac911e1d",
+        "bwc_inline_section_f413d6f54011",
+        "bwc_inline_section_1bd2ffdf734d",
+        "bwc_inline_section_d7d2de6374fc",
+        "bwc_inline_section_2cf3695864af"
       ],
       "status_code": 200
     },
@@ -33254,7 +33727,9 @@
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1bd2ffdf734d",
+        "bwc_inline_section_d7d2de6374fc"
       ],
       "status_code": 200
     },
@@ -33316,7 +33791,9 @@
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1bd2ffdf734d",
+        "bwc_inline_section_d7d2de6374fc"
       ],
       "status_code": 200
     },
@@ -33378,7 +33855,9 @@
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1bd2ffdf734d",
+        "bwc_inline_section_d7d2de6374fc"
       ],
       "status_code": 200
     },
@@ -33440,7 +33919,9 @@
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1bd2ffdf734d",
+        "bwc_inline_section_d7d2de6374fc"
       ],
       "status_code": 200
     },
@@ -33502,7 +33983,9 @@
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1bd2ffdf734d",
+        "bwc_inline_section_d7d2de6374fc"
       ],
       "status_code": 200
     },
@@ -33564,7 +34047,9 @@
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1bd2ffdf734d",
+        "bwc_inline_section_d7d2de6374fc"
       ],
       "status_code": 200
     },
@@ -33626,7 +34111,9 @@
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1bd2ffdf734d",
+        "bwc_inline_section_d7d2de6374fc"
       ],
       "status_code": 200
     },
@@ -33688,7 +34175,9 @@
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1bd2ffdf734d",
+        "bwc_inline_section_d7d2de6374fc"
       ],
       "status_code": 200
     },
@@ -33750,7 +34239,9 @@
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1bd2ffdf734d",
+        "bwc_inline_section_d7d2de6374fc"
       ],
       "status_code": 200
     },
@@ -33812,7 +34303,9 @@
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1bd2ffdf734d",
+        "bwc_inline_section_d7d2de6374fc"
       ],
       "status_code": 200
     },
@@ -33874,7 +34367,9 @@
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1bd2ffdf734d",
+        "bwc_inline_section_d7d2de6374fc"
       ],
       "status_code": 200
     },
@@ -33936,7 +34431,9 @@
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1bd2ffdf734d",
+        "bwc_inline_section_d7d2de6374fc"
       ],
       "status_code": 200
     },
@@ -33998,7 +34495,9 @@
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1bd2ffdf734d",
+        "bwc_inline_section_d7d2de6374fc"
       ],
       "status_code": 200
     },
@@ -34060,7 +34559,9 @@
         "bwc_inline_section_0d4a73344758",
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_1bd2ffdf734d",
+        "bwc_inline_section_d7d2de6374fc"
       ],
       "status_code": 200
     },
@@ -34123,6 +34624,7 @@
         "https://bwc.njupt.edu.cn/510/list41.htm",
         "https://bwc.njupt.edu.cn/510/list42.htm",
         "https://bwc.njupt.edu.cn/510/list43.htm",
+        "https://bwc.njupt.edu.cn/510/list45.htm",
         "https://bwc.njupt.edu.cn/510/list45.htm"
       ],
       "section_ids": [
@@ -34173,7 +34675,11 @@
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
-        "bwc_inline_section_dcc84ece516f"
+        "bwc_inline_section_dcc84ece516f",
+        "bwc_inline_section_11187fad0c23",
+        "bwc_inline_section_f413d6f54011",
+        "bwc_inline_section_1bd2ffdf734d",
+        "bwc_inline_section_d7d2de6374fc"
       ],
       "status_code": 200
     },
@@ -34236,7 +34742,9 @@
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_f413d6f54011",
+        "bwc_inline_section_1bd2ffdf734d"
       ],
       "status_code": 200
     },
@@ -34299,7 +34807,9 @@
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_f413d6f54011",
+        "bwc_inline_section_1bd2ffdf734d"
       ],
       "status_code": 200
     },
@@ -34362,7 +34872,9 @@
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_f413d6f54011",
+        "bwc_inline_section_1bd2ffdf734d"
       ],
       "status_code": 200
     },
@@ -34425,7 +34937,9 @@
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_f413d6f54011",
+        "bwc_inline_section_1bd2ffdf734d"
       ],
       "status_code": 200
     },
@@ -34488,7 +35002,9 @@
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_f413d6f54011",
+        "bwc_inline_section_1bd2ffdf734d"
       ],
       "status_code": 200
     },
@@ -34551,7 +35067,9 @@
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_f413d6f54011",
+        "bwc_inline_section_1bd2ffdf734d"
       ],
       "status_code": 200
     },
@@ -34614,7 +35132,9 @@
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_f413d6f54011",
+        "bwc_inline_section_1bd2ffdf734d"
       ],
       "status_code": 200
     },
@@ -34677,7 +35197,9 @@
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_f413d6f54011",
+        "bwc_inline_section_1bd2ffdf734d"
       ],
       "status_code": 200
     },
@@ -34740,7 +35262,9 @@
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_f413d6f54011",
+        "bwc_inline_section_1bd2ffdf734d"
       ],
       "status_code": 200
     },
@@ -34803,7 +35327,9 @@
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_f413d6f54011",
+        "bwc_inline_section_1bd2ffdf734d"
       ],
       "status_code": 200
     },
@@ -34866,7 +35392,9 @@
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_f413d6f54011",
+        "bwc_inline_section_1bd2ffdf734d"
       ],
       "status_code": 200
     },
@@ -34929,7 +35457,9 @@
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_f413d6f54011",
+        "bwc_inline_section_1bd2ffdf734d"
       ],
       "status_code": 200
     },
@@ -34992,7 +35522,9 @@
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_f413d6f54011",
+        "bwc_inline_section_1bd2ffdf734d"
       ],
       "status_code": 200
     },
@@ -35055,7 +35587,9 @@
         "bwc_inline_section_86bda728a700",
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_f413d6f54011",
+        "bwc_inline_section_1bd2ffdf734d"
       ],
       "status_code": 200
     },
@@ -35119,6 +35653,7 @@
         "https://bwc.njupt.edu.cn/510/list42.htm",
         "https://bwc.njupt.edu.cn/510/list43.htm",
         "https://bwc.njupt.edu.cn/510/list44.htm",
+        "https://bwc.njupt.edu.cn/510/list46.htm",
         "https://bwc.njupt.edu.cn/510/list46.htm"
       ],
       "section_ids": [
@@ -35170,7 +35705,11 @@
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
-        "bwc_inline_section_63c741a996b6"
+        "bwc_inline_section_63c741a996b6",
+        "bwc_inline_section_20ccf3399628",
+        "bwc_inline_section_11187fad0c23",
+        "bwc_inline_section_f413d6f54011",
+        "bwc_inline_section_1bd2ffdf734d"
       ],
       "status_code": 200
     },
@@ -35234,7 +35773,9 @@
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_11187fad0c23",
+        "bwc_inline_section_f413d6f54011"
       ],
       "status_code": 200
     },
@@ -35298,7 +35839,9 @@
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_11187fad0c23",
+        "bwc_inline_section_f413d6f54011"
       ],
       "status_code": 200
     },
@@ -35362,7 +35905,9 @@
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_11187fad0c23",
+        "bwc_inline_section_f413d6f54011"
       ],
       "status_code": 200
     },
@@ -35426,7 +35971,9 @@
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_11187fad0c23",
+        "bwc_inline_section_f413d6f54011"
       ],
       "status_code": 200
     },
@@ -35490,7 +36037,9 @@
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_11187fad0c23",
+        "bwc_inline_section_f413d6f54011"
       ],
       "status_code": 200
     },
@@ -35554,7 +36103,9 @@
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_11187fad0c23",
+        "bwc_inline_section_f413d6f54011"
       ],
       "status_code": 200
     },
@@ -35618,7 +36169,9 @@
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_11187fad0c23",
+        "bwc_inline_section_f413d6f54011"
       ],
       "status_code": 200
     },
@@ -35682,7 +36235,9 @@
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_11187fad0c23",
+        "bwc_inline_section_f413d6f54011"
       ],
       "status_code": 200
     },
@@ -35746,7 +36301,9 @@
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_11187fad0c23",
+        "bwc_inline_section_f413d6f54011"
       ],
       "status_code": 200
     },
@@ -35810,7 +36367,9 @@
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_11187fad0c23",
+        "bwc_inline_section_f413d6f54011"
       ],
       "status_code": 200
     },
@@ -35874,7 +36433,9 @@
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_11187fad0c23",
+        "bwc_inline_section_f413d6f54011"
       ],
       "status_code": 200
     },
@@ -35938,7 +36499,9 @@
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_11187fad0c23",
+        "bwc_inline_section_f413d6f54011"
       ],
       "status_code": 200
     },
@@ -36002,7 +36565,9 @@
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_11187fad0c23",
+        "bwc_inline_section_f413d6f54011"
       ],
       "status_code": 200
     },
@@ -36066,7 +36631,9 @@
         "bwc_inline_section_c2a2446299e7",
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_11187fad0c23",
+        "bwc_inline_section_f413d6f54011"
       ],
       "status_code": 200
     },
@@ -36131,6 +36698,7 @@
         "https://bwc.njupt.edu.cn/510/list43.htm",
         "https://bwc.njupt.edu.cn/510/list44.htm",
         "https://bwc.njupt.edu.cn/510/list45.htm",
+        "https://bwc.njupt.edu.cn/510/list47.htm",
         "https://bwc.njupt.edu.cn/510/list47.htm"
       ],
       "section_ids": [
@@ -36183,7 +36751,11 @@
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
-        "bwc_inline_section_ba612888beae"
+        "bwc_inline_section_ba612888beae",
+        "bwc_inline_section_0a063b520030",
+        "bwc_inline_section_20ccf3399628",
+        "bwc_inline_section_11187fad0c23",
+        "bwc_inline_section_f413d6f54011"
       ],
       "status_code": 200
     },
@@ -36248,7 +36820,9 @@
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_20ccf3399628",
+        "bwc_inline_section_11187fad0c23"
       ],
       "status_code": 200
     },
@@ -36313,7 +36887,9 @@
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_20ccf3399628",
+        "bwc_inline_section_11187fad0c23"
       ],
       "status_code": 200
     },
@@ -36378,7 +36954,9 @@
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_20ccf3399628",
+        "bwc_inline_section_11187fad0c23"
       ],
       "status_code": 200
     },
@@ -36443,7 +37021,9 @@
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_20ccf3399628",
+        "bwc_inline_section_11187fad0c23"
       ],
       "status_code": 200
     },
@@ -36508,7 +37088,9 @@
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_20ccf3399628",
+        "bwc_inline_section_11187fad0c23"
       ],
       "status_code": 200
     },
@@ -36573,7 +37155,9 @@
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_20ccf3399628",
+        "bwc_inline_section_11187fad0c23"
       ],
       "status_code": 200
     },
@@ -36638,7 +37222,9 @@
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_20ccf3399628",
+        "bwc_inline_section_11187fad0c23"
       ],
       "status_code": 200
     },
@@ -36703,7 +37289,9 @@
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_20ccf3399628",
+        "bwc_inline_section_11187fad0c23"
       ],
       "status_code": 200
     },
@@ -36768,7 +37356,9 @@
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_20ccf3399628",
+        "bwc_inline_section_11187fad0c23"
       ],
       "status_code": 200
     },
@@ -36833,7 +37423,9 @@
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_20ccf3399628",
+        "bwc_inline_section_11187fad0c23"
       ],
       "status_code": 200
     },
@@ -36898,7 +37490,9 @@
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_20ccf3399628",
+        "bwc_inline_section_11187fad0c23"
       ],
       "status_code": 200
     },
@@ -36963,7 +37557,9 @@
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_20ccf3399628",
+        "bwc_inline_section_11187fad0c23"
       ],
       "status_code": 200
     },
@@ -37028,7 +37624,9 @@
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_20ccf3399628",
+        "bwc_inline_section_11187fad0c23"
       ],
       "status_code": 200
     },
@@ -37093,7 +37691,9 @@
         "bwc_inline_section_7f89ac911e1d",
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_20ccf3399628",
+        "bwc_inline_section_11187fad0c23"
       ],
       "status_code": 200
     },
@@ -37159,6 +37759,7 @@
         "https://bwc.njupt.edu.cn/510/list44.htm",
         "https://bwc.njupt.edu.cn/510/list45.htm",
         "https://bwc.njupt.edu.cn/510/list46.htm",
+        "https://bwc.njupt.edu.cn/510/list48.htm",
         "https://bwc.njupt.edu.cn/510/list48.htm"
       ],
       "section_ids": [
@@ -37212,7 +37813,11 @@
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
-        "bwc_inline_section_14ac40c8e8a7"
+        "bwc_inline_section_14ac40c8e8a7",
+        "bwc_inline_section_99f4970c5055",
+        "bwc_inline_section_0a063b520030",
+        "bwc_inline_section_20ccf3399628",
+        "bwc_inline_section_11187fad0c23"
       ],
       "status_code": 200
     },
@@ -37278,7 +37883,9 @@
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0a063b520030",
+        "bwc_inline_section_20ccf3399628"
       ],
       "status_code": 200
     },
@@ -37344,7 +37951,9 @@
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0a063b520030",
+        "bwc_inline_section_20ccf3399628"
       ],
       "status_code": 200
     },
@@ -37410,7 +38019,9 @@
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0a063b520030",
+        "bwc_inline_section_20ccf3399628"
       ],
       "status_code": 200
     },
@@ -37476,7 +38087,9 @@
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0a063b520030",
+        "bwc_inline_section_20ccf3399628"
       ],
       "status_code": 200
     },
@@ -37542,7 +38155,9 @@
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0a063b520030",
+        "bwc_inline_section_20ccf3399628"
       ],
       "status_code": 200
     },
@@ -37608,7 +38223,9 @@
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0a063b520030",
+        "bwc_inline_section_20ccf3399628"
       ],
       "status_code": 200
     },
@@ -37674,7 +38291,9 @@
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0a063b520030",
+        "bwc_inline_section_20ccf3399628"
       ],
       "status_code": 200
     },
@@ -37740,7 +38359,9 @@
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0a063b520030",
+        "bwc_inline_section_20ccf3399628"
       ],
       "status_code": 200
     },
@@ -37806,7 +38427,9 @@
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0a063b520030",
+        "bwc_inline_section_20ccf3399628"
       ],
       "status_code": 200
     },
@@ -37872,7 +38495,9 @@
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0a063b520030",
+        "bwc_inline_section_20ccf3399628"
       ],
       "status_code": 200
     },
@@ -37938,7 +38563,9 @@
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0a063b520030",
+        "bwc_inline_section_20ccf3399628"
       ],
       "status_code": 200
     },
@@ -38004,7 +38631,9 @@
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0a063b520030",
+        "bwc_inline_section_20ccf3399628"
       ],
       "status_code": 200
     },
@@ -38070,7 +38699,9 @@
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0a063b520030",
+        "bwc_inline_section_20ccf3399628"
       ],
       "status_code": 200
     },
@@ -38136,7 +38767,9 @@
         "bwc_inline_section_dcc84ece516f",
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0a063b520030",
+        "bwc_inline_section_20ccf3399628"
       ],
       "status_code": 200
     },
@@ -38203,6 +38836,7 @@
         "https://bwc.njupt.edu.cn/510/list45.htm",
         "https://bwc.njupt.edu.cn/510/list46.htm",
         "https://bwc.njupt.edu.cn/510/list47.htm",
+        "https://bwc.njupt.edu.cn/510/list49.htm",
         "https://bwc.njupt.edu.cn/510/list49.htm"
       ],
       "section_ids": [
@@ -38257,7 +38891,11 @@
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
-        "bwc_inline_section_8ab70f6295f3"
+        "bwc_inline_section_8ab70f6295f3",
+        "bwc_inline_section_c59ed9b267d0",
+        "bwc_inline_section_99f4970c5055",
+        "bwc_inline_section_0a063b520030",
+        "bwc_inline_section_20ccf3399628"
       ],
       "status_code": 200
     },
@@ -38324,7 +38962,9 @@
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_99f4970c5055",
+        "bwc_inline_section_0a063b520030"
       ],
       "status_code": 200
     },
@@ -38391,7 +39031,9 @@
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_99f4970c5055",
+        "bwc_inline_section_0a063b520030"
       ],
       "status_code": 200
     },
@@ -38458,7 +39100,9 @@
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_99f4970c5055",
+        "bwc_inline_section_0a063b520030"
       ],
       "status_code": 200
     },
@@ -38525,7 +39169,9 @@
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_99f4970c5055",
+        "bwc_inline_section_0a063b520030"
       ],
       "status_code": 200
     },
@@ -38592,7 +39238,9 @@
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_99f4970c5055",
+        "bwc_inline_section_0a063b520030"
       ],
       "status_code": 200
     },
@@ -38659,7 +39307,9 @@
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_99f4970c5055",
+        "bwc_inline_section_0a063b520030"
       ],
       "status_code": 200
     },
@@ -38726,7 +39376,9 @@
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_99f4970c5055",
+        "bwc_inline_section_0a063b520030"
       ],
       "status_code": 200
     },
@@ -38793,7 +39445,9 @@
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_99f4970c5055",
+        "bwc_inline_section_0a063b520030"
       ],
       "status_code": 200
     },
@@ -38860,7 +39514,9 @@
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_99f4970c5055",
+        "bwc_inline_section_0a063b520030"
       ],
       "status_code": 200
     },
@@ -38927,7 +39583,9 @@
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_99f4970c5055",
+        "bwc_inline_section_0a063b520030"
       ],
       "status_code": 200
     },
@@ -38994,7 +39652,9 @@
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_99f4970c5055",
+        "bwc_inline_section_0a063b520030"
       ],
       "status_code": 200
     },
@@ -39061,7 +39721,9 @@
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_99f4970c5055",
+        "bwc_inline_section_0a063b520030"
       ],
       "status_code": 200
     },
@@ -39128,7 +39790,9 @@
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_99f4970c5055",
+        "bwc_inline_section_0a063b520030"
       ],
       "status_code": 200
     },
@@ -39195,7 +39859,9 @@
         "bwc_inline_section_63c741a996b6",
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_99f4970c5055",
+        "bwc_inline_section_0a063b520030"
       ],
       "status_code": 200
     },
@@ -39263,6 +39929,7 @@
         "https://bwc.njupt.edu.cn/510/list46.htm",
         "https://bwc.njupt.edu.cn/510/list47.htm",
         "https://bwc.njupt.edu.cn/510/list48.htm",
+        "https://bwc.njupt.edu.cn/510/list50.htm",
         "https://bwc.njupt.edu.cn/510/list50.htm"
       ],
       "section_ids": [
@@ -39318,7 +39985,11 @@
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
-        "bwc_inline_section_ca35eb6ab759"
+        "bwc_inline_section_ca35eb6ab759",
+        "bwc_inline_section_9c65721807ba",
+        "bwc_inline_section_c59ed9b267d0",
+        "bwc_inline_section_99f4970c5055",
+        "bwc_inline_section_0a063b520030"
       ],
       "status_code": 200
     },
@@ -39386,7 +40057,9 @@
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_c59ed9b267d0",
+        "bwc_inline_section_99f4970c5055"
       ],
       "status_code": 200
     },
@@ -39454,7 +40127,9 @@
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_c59ed9b267d0",
+        "bwc_inline_section_99f4970c5055"
       ],
       "status_code": 200
     },
@@ -39522,7 +40197,9 @@
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_c59ed9b267d0",
+        "bwc_inline_section_99f4970c5055"
       ],
       "status_code": 200
     },
@@ -39590,7 +40267,9 @@
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_c59ed9b267d0",
+        "bwc_inline_section_99f4970c5055"
       ],
       "status_code": 200
     },
@@ -39658,7 +40337,9 @@
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_c59ed9b267d0",
+        "bwc_inline_section_99f4970c5055"
       ],
       "status_code": 200
     },
@@ -39726,7 +40407,9 @@
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_c59ed9b267d0",
+        "bwc_inline_section_99f4970c5055"
       ],
       "status_code": 200
     },
@@ -39794,7 +40477,9 @@
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_c59ed9b267d0",
+        "bwc_inline_section_99f4970c5055"
       ],
       "status_code": 200
     },
@@ -39862,7 +40547,9 @@
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_c59ed9b267d0",
+        "bwc_inline_section_99f4970c5055"
       ],
       "status_code": 200
     },
@@ -39930,7 +40617,9 @@
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_c59ed9b267d0",
+        "bwc_inline_section_99f4970c5055"
       ],
       "status_code": 200
     },
@@ -39998,7 +40687,9 @@
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_c59ed9b267d0",
+        "bwc_inline_section_99f4970c5055"
       ],
       "status_code": 200
     },
@@ -40066,7 +40757,9 @@
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_c59ed9b267d0",
+        "bwc_inline_section_99f4970c5055"
       ],
       "status_code": 200
     },
@@ -40134,7 +40827,9 @@
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_c59ed9b267d0",
+        "bwc_inline_section_99f4970c5055"
       ],
       "status_code": 200
     },
@@ -40202,7 +40897,9 @@
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_c59ed9b267d0",
+        "bwc_inline_section_99f4970c5055"
       ],
       "status_code": 200
     },
@@ -40270,7 +40967,9 @@
         "bwc_inline_section_ba612888beae",
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_c59ed9b267d0",
+        "bwc_inline_section_99f4970c5055"
       ],
       "status_code": 200
     },
@@ -40339,6 +41038,7 @@
         "https://bwc.njupt.edu.cn/510/list47.htm",
         "https://bwc.njupt.edu.cn/510/list48.htm",
         "https://bwc.njupt.edu.cn/510/list49.htm",
+        "https://bwc.njupt.edu.cn/510/list51.htm",
         "https://bwc.njupt.edu.cn/510/list51.htm"
       ],
       "section_ids": [
@@ -40395,7 +41095,11 @@
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
-        "bwc_inline_section_e589fc3c4a60"
+        "bwc_inline_section_e589fc3c4a60",
+        "bwc_inline_section_6d62a3d6acd4",
+        "bwc_inline_section_9c65721807ba",
+        "bwc_inline_section_c59ed9b267d0",
+        "bwc_inline_section_99f4970c5055"
       ],
       "status_code": 200
     },
@@ -40464,7 +41168,9 @@
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9c65721807ba",
+        "bwc_inline_section_c59ed9b267d0"
       ],
       "status_code": 200
     },
@@ -40533,7 +41239,9 @@
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9c65721807ba",
+        "bwc_inline_section_c59ed9b267d0"
       ],
       "status_code": 200
     },
@@ -40602,7 +41310,9 @@
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9c65721807ba",
+        "bwc_inline_section_c59ed9b267d0"
       ],
       "status_code": 200
     },
@@ -40671,7 +41381,9 @@
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9c65721807ba",
+        "bwc_inline_section_c59ed9b267d0"
       ],
       "status_code": 200
     },
@@ -40740,7 +41452,9 @@
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9c65721807ba",
+        "bwc_inline_section_c59ed9b267d0"
       ],
       "status_code": 200
     },
@@ -40809,7 +41523,9 @@
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9c65721807ba",
+        "bwc_inline_section_c59ed9b267d0"
       ],
       "status_code": 200
     },
@@ -40878,7 +41594,9 @@
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9c65721807ba",
+        "bwc_inline_section_c59ed9b267d0"
       ],
       "status_code": 200
     },
@@ -40947,7 +41665,9 @@
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9c65721807ba",
+        "bwc_inline_section_c59ed9b267d0"
       ],
       "status_code": 200
     },
@@ -41016,7 +41736,9 @@
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9c65721807ba",
+        "bwc_inline_section_c59ed9b267d0"
       ],
       "status_code": 200
     },
@@ -41085,7 +41807,9 @@
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9c65721807ba",
+        "bwc_inline_section_c59ed9b267d0"
       ],
       "status_code": 200
     },
@@ -41154,7 +41878,9 @@
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9c65721807ba",
+        "bwc_inline_section_c59ed9b267d0"
       ],
       "status_code": 200
     },
@@ -41223,7 +41949,9 @@
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9c65721807ba",
+        "bwc_inline_section_c59ed9b267d0"
       ],
       "status_code": 200
     },
@@ -41292,7 +42020,9 @@
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9c65721807ba",
+        "bwc_inline_section_c59ed9b267d0"
       ],
       "status_code": 200
     },
@@ -41361,7 +42091,9 @@
         "bwc_inline_section_14ac40c8e8a7",
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_9c65721807ba",
+        "bwc_inline_section_c59ed9b267d0"
       ],
       "status_code": 200
     },
@@ -41431,6 +42163,7 @@
         "https://bwc.njupt.edu.cn/510/list48.htm",
         "https://bwc.njupt.edu.cn/510/list49.htm",
         "https://bwc.njupt.edu.cn/510/list50.htm",
+        "https://bwc.njupt.edu.cn/510/list52.htm",
         "https://bwc.njupt.edu.cn/510/list52.htm"
       ],
       "section_ids": [
@@ -41488,7 +42221,11 @@
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
-        "bwc_inline_section_954a66572c96"
+        "bwc_inline_section_954a66572c96",
+        "bwc_inline_section_b5040ad50690",
+        "bwc_inline_section_6d62a3d6acd4",
+        "bwc_inline_section_9c65721807ba",
+        "bwc_inline_section_c59ed9b267d0"
       ],
       "status_code": 200
     },
@@ -41558,7 +42295,9 @@
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_6d62a3d6acd4",
+        "bwc_inline_section_9c65721807ba"
       ],
       "status_code": 200
     },
@@ -41628,7 +42367,9 @@
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_6d62a3d6acd4",
+        "bwc_inline_section_9c65721807ba"
       ],
       "status_code": 200
     },
@@ -41698,7 +42439,9 @@
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_6d62a3d6acd4",
+        "bwc_inline_section_9c65721807ba"
       ],
       "status_code": 200
     },
@@ -41768,7 +42511,9 @@
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_6d62a3d6acd4",
+        "bwc_inline_section_9c65721807ba"
       ],
       "status_code": 200
     },
@@ -41838,7 +42583,9 @@
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_6d62a3d6acd4",
+        "bwc_inline_section_9c65721807ba"
       ],
       "status_code": 200
     },
@@ -41908,7 +42655,9 @@
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_6d62a3d6acd4",
+        "bwc_inline_section_9c65721807ba"
       ],
       "status_code": 200
     },
@@ -41978,7 +42727,9 @@
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_6d62a3d6acd4",
+        "bwc_inline_section_9c65721807ba"
       ],
       "status_code": 200
     },
@@ -42048,7 +42799,9 @@
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_6d62a3d6acd4",
+        "bwc_inline_section_9c65721807ba"
       ],
       "status_code": 200
     },
@@ -42118,7 +42871,9 @@
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_6d62a3d6acd4",
+        "bwc_inline_section_9c65721807ba"
       ],
       "status_code": 200
     },
@@ -42188,7 +42943,9 @@
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_6d62a3d6acd4",
+        "bwc_inline_section_9c65721807ba"
       ],
       "status_code": 200
     },
@@ -42258,7 +43015,9 @@
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_6d62a3d6acd4",
+        "bwc_inline_section_9c65721807ba"
       ],
       "status_code": 200
     },
@@ -42328,7 +43087,9 @@
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_6d62a3d6acd4",
+        "bwc_inline_section_9c65721807ba"
       ],
       "status_code": 200
     },
@@ -42398,7 +43159,9 @@
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_6d62a3d6acd4",
+        "bwc_inline_section_9c65721807ba"
       ],
       "status_code": 200
     },
@@ -42468,7 +43231,9 @@
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_6d62a3d6acd4",
+        "bwc_inline_section_9c65721807ba"
       ],
       "status_code": 200
     },
@@ -42539,6 +43304,7 @@
         "https://bwc.njupt.edu.cn/510/list49.htm",
         "https://bwc.njupt.edu.cn/510/list50.htm",
         "https://bwc.njupt.edu.cn/510/list51.htm",
+        "https://bwc.njupt.edu.cn/510/list53.htm",
         "https://bwc.njupt.edu.cn/510/list53.htm"
       ],
       "section_ids": [
@@ -42597,7 +43363,10 @@
         "bwc_inline_section_8ab70f6295f3",
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
-        "bwc_inline_section_954a66572c96"
+        "bwc_inline_section_954a66572c96",
+        "bwc_inline_section_b5040ad50690",
+        "bwc_inline_section_6d62a3d6acd4",
+        "bwc_inline_section_9c65721807ba"
       ],
       "status_code": 200
     },
@@ -42668,7 +43437,9 @@
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
         "bwc_inline_section_954a66572c96",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b5040ad50690",
+        "bwc_inline_section_6d62a3d6acd4"
       ],
       "status_code": 200
     },
@@ -42739,7 +43510,9 @@
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
         "bwc_inline_section_954a66572c96",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b5040ad50690",
+        "bwc_inline_section_6d62a3d6acd4"
       ],
       "status_code": 200
     },
@@ -42810,7 +43583,9 @@
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
         "bwc_inline_section_954a66572c96",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b5040ad50690",
+        "bwc_inline_section_6d62a3d6acd4"
       ],
       "status_code": 200
     },
@@ -42881,7 +43656,9 @@
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
         "bwc_inline_section_954a66572c96",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b5040ad50690",
+        "bwc_inline_section_6d62a3d6acd4"
       ],
       "status_code": 200
     },
@@ -42952,7 +43729,9 @@
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
         "bwc_inline_section_954a66572c96",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b5040ad50690",
+        "bwc_inline_section_6d62a3d6acd4"
       ],
       "status_code": 200
     },
@@ -43023,7 +43802,9 @@
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
         "bwc_inline_section_954a66572c96",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b5040ad50690",
+        "bwc_inline_section_6d62a3d6acd4"
       ],
       "status_code": 200
     },
@@ -43094,7 +43875,9 @@
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
         "bwc_inline_section_954a66572c96",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b5040ad50690",
+        "bwc_inline_section_6d62a3d6acd4"
       ],
       "status_code": 200
     },
@@ -43165,7 +43948,9 @@
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
         "bwc_inline_section_954a66572c96",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b5040ad50690",
+        "bwc_inline_section_6d62a3d6acd4"
       ],
       "status_code": 200
     },
@@ -43236,7 +44021,9 @@
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
         "bwc_inline_section_954a66572c96",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b5040ad50690",
+        "bwc_inline_section_6d62a3d6acd4"
       ],
       "status_code": 200
     },
@@ -43307,7 +44094,9 @@
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
         "bwc_inline_section_954a66572c96",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b5040ad50690",
+        "bwc_inline_section_6d62a3d6acd4"
       ],
       "status_code": 200
     },
@@ -43378,7 +44167,9 @@
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
         "bwc_inline_section_954a66572c96",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b5040ad50690",
+        "bwc_inline_section_6d62a3d6acd4"
       ],
       "status_code": 200
     },
@@ -43449,7 +44240,9 @@
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
         "bwc_inline_section_954a66572c96",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b5040ad50690",
+        "bwc_inline_section_6d62a3d6acd4"
       ],
       "status_code": 200
     },
@@ -43520,7 +44313,9 @@
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
         "bwc_inline_section_954a66572c96",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b5040ad50690",
+        "bwc_inline_section_6d62a3d6acd4"
       ],
       "status_code": 200
     },
@@ -43591,7 +44386,9 @@
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
         "bwc_inline_section_954a66572c96",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b5040ad50690",
+        "bwc_inline_section_6d62a3d6acd4"
       ],
       "status_code": 200
     },
@@ -43663,7 +44460,8 @@
         "bwc_inline_section_ca35eb6ab759",
         "bwc_inline_section_e589fc3c4a60",
         "bwc_inline_section_954a66572c96",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b5040ad50690"
       ],
       "status_code": 200
     },
@@ -43871,7 +44669,8 @@
         "下一页>>",
         "查看更多",
         "显示更多",
-        "第一页"
+        "第一页",
+        "<<上一页"
       ],
       "sources": [
         "https://bwc.njupt.edu.cn/_t3998/543/list.htm",
@@ -44253,7 +45052,47 @@
         "https://bwc.njupt.edu.cn/543/list24.htm",
         "https://bwc.njupt.edu.cn/543/list25.htm",
         "https://bwc.njupt.edu.cn/543/list25.htm",
-        "https://bwc.njupt.edu.cn/543/list25.htm"
+        "https://bwc.njupt.edu.cn/543/list25.htm",
+        "https://bwc.njupt.edu.cn/543/list.htm",
+        "https://bwc.njupt.edu.cn/543/list26.htm",
+        "https://bwc.njupt.edu.cn/543/list1.htm",
+        "https://bwc.njupt.edu.cn/543/list25.htm",
+        "https://bwc.njupt.edu.cn/543/list25.htm",
+        "https://bwc.njupt.edu.cn/543/list25.htm",
+        "https://bwc.njupt.edu.cn/543/list24.htm",
+        "https://bwc.njupt.edu.cn/543/list25.htm",
+        "https://bwc.njupt.edu.cn/543/list25.htm",
+        "https://bwc.njupt.edu.cn/543/list9.htm",
+        "https://bwc.njupt.edu.cn/543/list23.htm",
+        "https://bwc.njupt.edu.cn/543/list24.htm",
+        "https://bwc.njupt.edu.cn/543/list9.htm",
+        "https://bwc.njupt.edu.cn/543/list10.htm",
+        "https://bwc.njupt.edu.cn/543/list10.htm",
+        "https://bwc.njupt.edu.cn/543/list11.htm",
+        "https://bwc.njupt.edu.cn/543/list22.htm",
+        "https://bwc.njupt.edu.cn/543/list23.htm",
+        "https://bwc.njupt.edu.cn/543/list11.htm",
+        "https://bwc.njupt.edu.cn/543/list12.htm",
+        "https://bwc.njupt.edu.cn/543/list12.htm",
+        "https://bwc.njupt.edu.cn/543/list13.htm",
+        "https://bwc.njupt.edu.cn/543/list21.htm",
+        "https://bwc.njupt.edu.cn/543/list22.htm",
+        "https://bwc.njupt.edu.cn/543/list13.htm",
+        "https://bwc.njupt.edu.cn/543/list14.htm",
+        "https://bwc.njupt.edu.cn/543/list14.htm",
+        "https://bwc.njupt.edu.cn/543/list15.htm",
+        "https://bwc.njupt.edu.cn/543/list20.htm",
+        "https://bwc.njupt.edu.cn/543/list21.htm",
+        "https://bwc.njupt.edu.cn/543/list15.htm",
+        "https://bwc.njupt.edu.cn/543/list16.htm",
+        "https://bwc.njupt.edu.cn/543/list16.htm",
+        "https://bwc.njupt.edu.cn/543/list17.htm",
+        "https://bwc.njupt.edu.cn/543/list19.htm",
+        "https://bwc.njupt.edu.cn/543/list20.htm",
+        "https://bwc.njupt.edu.cn/543/list17.htm",
+        "https://bwc.njupt.edu.cn/543/list18.htm",
+        "https://bwc.njupt.edu.cn/543/list18.htm",
+        "https://bwc.njupt.edu.cn/543/list19.htm"
       ],
       "section_ids": [
         "bwc_home_link_b18721969647",
@@ -44283,7 +45122,14 @@
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
-        "bwc_inline_section_47fcf65204f4"
+        "bwc_inline_section_47fcf65204f4",
+        "bwc_inline_section_032ad20edbcc",
+        "bwc_inline_section_d0a7e748041b",
+        "bwc_inline_section_022a2972c2d4",
+        "bwc_inline_section_b364bed9ff4c",
+        "bwc_inline_section_03fd72751bd0",
+        "bwc_inline_section_0e3a2a279925",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -44924,7 +45770,42 @@
         "https://bwc.njupt.edu.cn/543/list25.htm",
         "https://bwc.njupt.edu.cn/543/list26.htm",
         "https://bwc.njupt.edu.cn/543/list25.htm",
-        "https://bwc.njupt.edu.cn/543/list26.htm"
+        "https://bwc.njupt.edu.cn/543/list26.htm",
+        "https://bwc.njupt.edu.cn/543/list26.htm",
+        "https://bwc.njupt.edu.cn/543/list1.htm",
+        "https://bwc.njupt.edu.cn/543/list25.htm",
+        "https://bwc.njupt.edu.cn/543/list26.htm",
+        "https://bwc.njupt.edu.cn/543/list24.htm",
+        "https://bwc.njupt.edu.cn/543/list25.htm",
+        "https://bwc.njupt.edu.cn/543/list23.htm",
+        "https://bwc.njupt.edu.cn/543/list24.htm",
+        "https://bwc.njupt.edu.cn/543/list10.htm",
+        "https://bwc.njupt.edu.cn/543/list10.htm",
+        "https://bwc.njupt.edu.cn/543/list11.htm",
+        "https://bwc.njupt.edu.cn/543/list22.htm",
+        "https://bwc.njupt.edu.cn/543/list23.htm",
+        "https://bwc.njupt.edu.cn/543/list11.htm",
+        "https://bwc.njupt.edu.cn/543/list12.htm",
+        "https://bwc.njupt.edu.cn/543/list12.htm",
+        "https://bwc.njupt.edu.cn/543/list13.htm",
+        "https://bwc.njupt.edu.cn/543/list21.htm",
+        "https://bwc.njupt.edu.cn/543/list22.htm",
+        "https://bwc.njupt.edu.cn/543/list13.htm",
+        "https://bwc.njupt.edu.cn/543/list14.htm",
+        "https://bwc.njupt.edu.cn/543/list14.htm",
+        "https://bwc.njupt.edu.cn/543/list15.htm",
+        "https://bwc.njupt.edu.cn/543/list20.htm",
+        "https://bwc.njupt.edu.cn/543/list21.htm",
+        "https://bwc.njupt.edu.cn/543/list15.htm",
+        "https://bwc.njupt.edu.cn/543/list16.htm",
+        "https://bwc.njupt.edu.cn/543/list16.htm",
+        "https://bwc.njupt.edu.cn/543/list17.htm",
+        "https://bwc.njupt.edu.cn/543/list19.htm",
+        "https://bwc.njupt.edu.cn/543/list20.htm",
+        "https://bwc.njupt.edu.cn/543/list17.htm",
+        "https://bwc.njupt.edu.cn/543/list18.htm",
+        "https://bwc.njupt.edu.cn/543/list18.htm",
+        "https://bwc.njupt.edu.cn/543/list19.htm"
       ],
       "section_ids": [
         "bwc_home_link_b18721969647",
@@ -44954,7 +45835,14 @@
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
-        "bwc_inline_section_47fcf65204f4"
+        "bwc_inline_section_47fcf65204f4",
+        "bwc_inline_section_032ad20edbcc",
+        "bwc_inline_section_d0a7e748041b",
+        "bwc_inline_section_022a2972c2d4",
+        "bwc_inline_section_b364bed9ff4c",
+        "bwc_inline_section_03fd72751bd0",
+        "bwc_inline_section_0e3a2a279925",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -45983,6 +46871,7 @@
         "https://bwc.njupt.edu.cn/543/list1.htm",
         "https://bwc.njupt.edu.cn/543/list3.htm",
         "https://bwc.njupt.edu.cn/543/list4.htm",
+        "https://bwc.njupt.edu.cn/543/list6.htm",
         "https://bwc.njupt.edu.cn/543/list6.htm"
       ],
       "section_ids": [
@@ -46346,6 +47235,7 @@
         "https://bwc.njupt.edu.cn/543/list3.htm",
         "https://bwc.njupt.edu.cn/543/list4.htm",
         "https://bwc.njupt.edu.cn/543/list5.htm",
+        "https://bwc.njupt.edu.cn/543/list7.htm",
         "https://bwc.njupt.edu.cn/543/list7.htm"
       ],
       "section_ids": [
@@ -46734,6 +47624,7 @@
         "https://bwc.njupt.edu.cn/543/list4.htm",
         "https://bwc.njupt.edu.cn/543/list5.htm",
         "https://bwc.njupt.edu.cn/543/list6.htm",
+        "https://bwc.njupt.edu.cn/543/list8.htm",
         "https://bwc.njupt.edu.cn/543/list8.htm"
       ],
       "section_ids": [
@@ -47138,6 +48029,7 @@
         "https://bwc.njupt.edu.cn/543/list5.htm",
         "https://bwc.njupt.edu.cn/543/list6.htm",
         "https://bwc.njupt.edu.cn/543/list7.htm",
+        "https://bwc.njupt.edu.cn/543/list9.htm",
         "https://bwc.njupt.edu.cn/543/list9.htm"
       ],
       "section_ids": [
@@ -47534,6 +48426,7 @@
         "https://bwc.njupt.edu.cn/543/list6.htm",
         "https://bwc.njupt.edu.cn/543/list7.htm",
         "https://bwc.njupt.edu.cn/543/list8.htm",
+        "https://bwc.njupt.edu.cn/543/list10.htm",
         "https://bwc.njupt.edu.cn/543/list10.htm"
       ],
       "section_ids": [
@@ -47957,6 +48850,7 @@
         "https://bwc.njupt.edu.cn/543/list7.htm",
         "https://bwc.njupt.edu.cn/543/list8.htm",
         "https://bwc.njupt.edu.cn/543/list9.htm",
+        "https://bwc.njupt.edu.cn/543/list11.htm",
         "https://bwc.njupt.edu.cn/543/list11.htm"
       ],
       "section_ids": [
@@ -48409,6 +49303,7 @@
         "https://bwc.njupt.edu.cn/543/list8.htm",
         "https://bwc.njupt.edu.cn/543/list9.htm",
         "https://bwc.njupt.edu.cn/543/list10.htm",
+        "https://bwc.njupt.edu.cn/543/list12.htm",
         "https://bwc.njupt.edu.cn/543/list12.htm"
       ],
       "section_ids": [
@@ -48877,6 +49772,7 @@
         "https://bwc.njupt.edu.cn/543/list9.htm",
         "https://bwc.njupt.edu.cn/543/list10.htm",
         "https://bwc.njupt.edu.cn/543/list11.htm",
+        "https://bwc.njupt.edu.cn/543/list13.htm",
         "https://bwc.njupt.edu.cn/543/list13.htm"
       ],
       "section_ids": [
@@ -49345,6 +50241,7 @@
         "https://bwc.njupt.edu.cn/543/list10.htm",
         "https://bwc.njupt.edu.cn/543/list11.htm",
         "https://bwc.njupt.edu.cn/543/list12.htm",
+        "https://bwc.njupt.edu.cn/543/list14.htm",
         "https://bwc.njupt.edu.cn/543/list14.htm"
       ],
       "section_ids": [
@@ -49845,6 +50742,7 @@
         "https://bwc.njupt.edu.cn/543/list11.htm",
         "https://bwc.njupt.edu.cn/543/list12.htm",
         "https://bwc.njupt.edu.cn/543/list13.htm",
+        "https://bwc.njupt.edu.cn/543/list15.htm",
         "https://bwc.njupt.edu.cn/543/list15.htm"
       ],
       "section_ids": [
@@ -50361,6 +51259,7 @@
         "https://bwc.njupt.edu.cn/543/list12.htm",
         "https://bwc.njupt.edu.cn/543/list13.htm",
         "https://bwc.njupt.edu.cn/543/list14.htm",
+        "https://bwc.njupt.edu.cn/543/list16.htm",
         "https://bwc.njupt.edu.cn/543/list16.htm"
       ],
       "section_ids": [
@@ -50893,6 +51792,7 @@
         "https://bwc.njupt.edu.cn/543/list13.htm",
         "https://bwc.njupt.edu.cn/543/list14.htm",
         "https://bwc.njupt.edu.cn/543/list15.htm",
+        "https://bwc.njupt.edu.cn/543/list17.htm",
         "https://bwc.njupt.edu.cn/543/list17.htm"
       ],
       "section_ids": [
@@ -51441,6 +52341,7 @@
         "https://bwc.njupt.edu.cn/543/list14.htm",
         "https://bwc.njupt.edu.cn/543/list15.htm",
         "https://bwc.njupt.edu.cn/543/list16.htm",
+        "https://bwc.njupt.edu.cn/543/list18.htm",
         "https://bwc.njupt.edu.cn/543/list18.htm"
       ],
       "section_ids": [
@@ -51464,7 +52365,8 @@
         "bwc_inline_section_53d5b47915b2",
         "bwc_inline_section_33ec3d6c6c97",
         "bwc_inline_section_4a6274f0089e",
-        "bwc_inline_section_23f13be5cfd0"
+        "bwc_inline_section_23f13be5cfd0",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52005,6 +52907,7 @@
         "https://bwc.njupt.edu.cn/543/list15.htm",
         "https://bwc.njupt.edu.cn/543/list16.htm",
         "https://bwc.njupt.edu.cn/543/list17.htm",
+        "https://bwc.njupt.edu.cn/543/list19.htm",
         "https://bwc.njupt.edu.cn/543/list19.htm"
       ],
       "section_ids": [
@@ -52029,7 +52932,9 @@
         "bwc_inline_section_33ec3d6c6c97",
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
-        "bwc_inline_section_cd964e492007"
+        "bwc_inline_section_cd964e492007",
+        "bwc_inline_section_0e3a2a279925",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52066,7 +52971,8 @@
         "bwc_inline_section_33ec3d6c6c97",
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52103,7 +53009,8 @@
         "bwc_inline_section_33ec3d6c6c97",
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52140,7 +53047,8 @@
         "bwc_inline_section_33ec3d6c6c97",
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52177,7 +53085,8 @@
         "bwc_inline_section_33ec3d6c6c97",
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52214,7 +53123,8 @@
         "bwc_inline_section_33ec3d6c6c97",
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52251,7 +53161,8 @@
         "bwc_inline_section_33ec3d6c6c97",
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52288,7 +53199,8 @@
         "bwc_inline_section_33ec3d6c6c97",
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52325,7 +53237,8 @@
         "bwc_inline_section_33ec3d6c6c97",
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52362,7 +53275,8 @@
         "bwc_inline_section_33ec3d6c6c97",
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52399,7 +53313,8 @@
         "bwc_inline_section_33ec3d6c6c97",
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52436,7 +53351,8 @@
         "bwc_inline_section_33ec3d6c6c97",
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52473,7 +53389,8 @@
         "bwc_inline_section_33ec3d6c6c97",
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52510,7 +53427,8 @@
         "bwc_inline_section_33ec3d6c6c97",
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52547,7 +53465,8 @@
         "bwc_inline_section_33ec3d6c6c97",
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52585,6 +53504,7 @@
         "https://bwc.njupt.edu.cn/543/list16.htm",
         "https://bwc.njupt.edu.cn/543/list17.htm",
         "https://bwc.njupt.edu.cn/543/list18.htm",
+        "https://bwc.njupt.edu.cn/543/list20.htm",
         "https://bwc.njupt.edu.cn/543/list20.htm"
       ],
       "section_ids": [
@@ -52610,7 +53530,10 @@
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
-        "bwc_inline_section_855f32a1b4a7"
+        "bwc_inline_section_855f32a1b4a7",
+        "bwc_inline_section_03fd72751bd0",
+        "bwc_inline_section_0e3a2a279925",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52648,7 +53571,9 @@
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0e3a2a279925",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52686,7 +53611,9 @@
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0e3a2a279925",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52724,7 +53651,9 @@
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0e3a2a279925",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52762,7 +53691,9 @@
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0e3a2a279925",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52800,7 +53731,9 @@
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0e3a2a279925",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52838,7 +53771,9 @@
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0e3a2a279925",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52876,7 +53811,9 @@
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0e3a2a279925",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52914,7 +53851,9 @@
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0e3a2a279925",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52952,7 +53891,9 @@
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0e3a2a279925",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -52990,7 +53931,9 @@
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0e3a2a279925",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -53028,7 +53971,9 @@
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0e3a2a279925",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -53066,7 +54011,9 @@
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0e3a2a279925",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -53104,7 +54051,9 @@
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0e3a2a279925",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -53142,7 +54091,9 @@
         "bwc_inline_section_4a6274f0089e",
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_0e3a2a279925",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -53181,6 +54132,7 @@
         "https://bwc.njupt.edu.cn/543/list17.htm",
         "https://bwc.njupt.edu.cn/543/list18.htm",
         "https://bwc.njupt.edu.cn/543/list19.htm",
+        "https://bwc.njupt.edu.cn/543/list21.htm",
         "https://bwc.njupt.edu.cn/543/list21.htm"
       ],
       "section_ids": [
@@ -53207,7 +54159,11 @@
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
-        "bwc_inline_section_946182fa7136"
+        "bwc_inline_section_946182fa7136",
+        "bwc_inline_section_b364bed9ff4c",
+        "bwc_inline_section_03fd72751bd0",
+        "bwc_inline_section_0e3a2a279925",
+        "bwc_inline_section_3c177397ac62"
       ],
       "status_code": 200
     },
@@ -53246,7 +54202,9 @@
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_03fd72751bd0",
+        "bwc_inline_section_0e3a2a279925"
       ],
       "status_code": 200
     },
@@ -53285,7 +54243,9 @@
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_03fd72751bd0",
+        "bwc_inline_section_0e3a2a279925"
       ],
       "status_code": 200
     },
@@ -53324,7 +54284,9 @@
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_03fd72751bd0",
+        "bwc_inline_section_0e3a2a279925"
       ],
       "status_code": 200
     },
@@ -53363,7 +54325,9 @@
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_03fd72751bd0",
+        "bwc_inline_section_0e3a2a279925"
       ],
       "status_code": 200
     },
@@ -53402,7 +54366,9 @@
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_03fd72751bd0",
+        "bwc_inline_section_0e3a2a279925"
       ],
       "status_code": 200
     },
@@ -53441,7 +54407,9 @@
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_03fd72751bd0",
+        "bwc_inline_section_0e3a2a279925"
       ],
       "status_code": 200
     },
@@ -53480,7 +54448,9 @@
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_03fd72751bd0",
+        "bwc_inline_section_0e3a2a279925"
       ],
       "status_code": 200
     },
@@ -53519,7 +54489,9 @@
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_03fd72751bd0",
+        "bwc_inline_section_0e3a2a279925"
       ],
       "status_code": 200
     },
@@ -53558,7 +54530,9 @@
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_03fd72751bd0",
+        "bwc_inline_section_0e3a2a279925"
       ],
       "status_code": 200
     },
@@ -53597,7 +54571,9 @@
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_03fd72751bd0",
+        "bwc_inline_section_0e3a2a279925"
       ],
       "status_code": 200
     },
@@ -53636,7 +54612,9 @@
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_03fd72751bd0",
+        "bwc_inline_section_0e3a2a279925"
       ],
       "status_code": 200
     },
@@ -53675,7 +54653,9 @@
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_03fd72751bd0",
+        "bwc_inline_section_0e3a2a279925"
       ],
       "status_code": 200
     },
@@ -53714,7 +54694,9 @@
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_03fd72751bd0",
+        "bwc_inline_section_0e3a2a279925"
       ],
       "status_code": 200
     },
@@ -53753,7 +54735,9 @@
         "bwc_inline_section_23f13be5cfd0",
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_03fd72751bd0",
+        "bwc_inline_section_0e3a2a279925"
       ],
       "status_code": 200
     },
@@ -53793,6 +54777,7 @@
         "https://bwc.njupt.edu.cn/543/list18.htm",
         "https://bwc.njupt.edu.cn/543/list19.htm",
         "https://bwc.njupt.edu.cn/543/list20.htm",
+        "https://bwc.njupt.edu.cn/543/list22.htm",
         "https://bwc.njupt.edu.cn/543/list22.htm"
       ],
       "section_ids": [
@@ -53820,7 +54805,11 @@
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
-        "bwc_inline_section_10cca87853f8"
+        "bwc_inline_section_10cca87853f8",
+        "bwc_inline_section_022a2972c2d4",
+        "bwc_inline_section_b364bed9ff4c",
+        "bwc_inline_section_03fd72751bd0",
+        "bwc_inline_section_0e3a2a279925"
       ],
       "status_code": 200
     },
@@ -53860,7 +54849,9 @@
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b364bed9ff4c",
+        "bwc_inline_section_03fd72751bd0"
       ],
       "status_code": 200
     },
@@ -53900,7 +54891,9 @@
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b364bed9ff4c",
+        "bwc_inline_section_03fd72751bd0"
       ],
       "status_code": 200
     },
@@ -53940,7 +54933,9 @@
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b364bed9ff4c",
+        "bwc_inline_section_03fd72751bd0"
       ],
       "status_code": 200
     },
@@ -53980,7 +54975,9 @@
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b364bed9ff4c",
+        "bwc_inline_section_03fd72751bd0"
       ],
       "status_code": 200
     },
@@ -54020,7 +55017,9 @@
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b364bed9ff4c",
+        "bwc_inline_section_03fd72751bd0"
       ],
       "status_code": 200
     },
@@ -54060,7 +55059,9 @@
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b364bed9ff4c",
+        "bwc_inline_section_03fd72751bd0"
       ],
       "status_code": 200
     },
@@ -54100,7 +55101,9 @@
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b364bed9ff4c",
+        "bwc_inline_section_03fd72751bd0"
       ],
       "status_code": 200
     },
@@ -54140,7 +55143,9 @@
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b364bed9ff4c",
+        "bwc_inline_section_03fd72751bd0"
       ],
       "status_code": 200
     },
@@ -54180,7 +55185,9 @@
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b364bed9ff4c",
+        "bwc_inline_section_03fd72751bd0"
       ],
       "status_code": 200
     },
@@ -54220,7 +55227,9 @@
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b364bed9ff4c",
+        "bwc_inline_section_03fd72751bd0"
       ],
       "status_code": 200
     },
@@ -54260,7 +55269,9 @@
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b364bed9ff4c",
+        "bwc_inline_section_03fd72751bd0"
       ],
       "status_code": 200
     },
@@ -54300,7 +55311,9 @@
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b364bed9ff4c",
+        "bwc_inline_section_03fd72751bd0"
       ],
       "status_code": 200
     },
@@ -54340,7 +55353,9 @@
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b364bed9ff4c",
+        "bwc_inline_section_03fd72751bd0"
       ],
       "status_code": 200
     },
@@ -54380,7 +55395,9 @@
         "bwc_inline_section_cd964e492007",
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_b364bed9ff4c",
+        "bwc_inline_section_03fd72751bd0"
       ],
       "status_code": 200
     },
@@ -54421,6 +55438,7 @@
         "https://bwc.njupt.edu.cn/543/list19.htm",
         "https://bwc.njupt.edu.cn/543/list20.htm",
         "https://bwc.njupt.edu.cn/543/list21.htm",
+        "https://bwc.njupt.edu.cn/543/list23.htm",
         "https://bwc.njupt.edu.cn/543/list23.htm"
       ],
       "section_ids": [
@@ -54449,7 +55467,11 @@
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
-        "bwc_inline_section_3b9ea36e1452"
+        "bwc_inline_section_3b9ea36e1452",
+        "bwc_inline_section_d0a7e748041b",
+        "bwc_inline_section_022a2972c2d4",
+        "bwc_inline_section_b364bed9ff4c",
+        "bwc_inline_section_03fd72751bd0"
       ],
       "status_code": 200
     },
@@ -54490,7 +55512,9 @@
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_022a2972c2d4",
+        "bwc_inline_section_b364bed9ff4c"
       ],
       "status_code": 200
     },
@@ -54531,7 +55555,9 @@
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_022a2972c2d4",
+        "bwc_inline_section_b364bed9ff4c"
       ],
       "status_code": 200
     },
@@ -54572,7 +55598,9 @@
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_022a2972c2d4",
+        "bwc_inline_section_b364bed9ff4c"
       ],
       "status_code": 200
     },
@@ -54613,7 +55641,9 @@
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_022a2972c2d4",
+        "bwc_inline_section_b364bed9ff4c"
       ],
       "status_code": 200
     },
@@ -54654,7 +55684,9 @@
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_022a2972c2d4",
+        "bwc_inline_section_b364bed9ff4c"
       ],
       "status_code": 200
     },
@@ -54695,7 +55727,9 @@
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_022a2972c2d4",
+        "bwc_inline_section_b364bed9ff4c"
       ],
       "status_code": 200
     },
@@ -54736,7 +55770,9 @@
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_022a2972c2d4",
+        "bwc_inline_section_b364bed9ff4c"
       ],
       "status_code": 200
     },
@@ -54777,7 +55813,9 @@
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_022a2972c2d4",
+        "bwc_inline_section_b364bed9ff4c"
       ],
       "status_code": 200
     },
@@ -54818,7 +55856,9 @@
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_022a2972c2d4",
+        "bwc_inline_section_b364bed9ff4c"
       ],
       "status_code": 200
     },
@@ -54859,7 +55899,9 @@
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_022a2972c2d4",
+        "bwc_inline_section_b364bed9ff4c"
       ],
       "status_code": 200
     },
@@ -54900,7 +55942,9 @@
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_022a2972c2d4",
+        "bwc_inline_section_b364bed9ff4c"
       ],
       "status_code": 200
     },
@@ -54941,7 +55985,9 @@
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_022a2972c2d4",
+        "bwc_inline_section_b364bed9ff4c"
       ],
       "status_code": 200
     },
@@ -54982,7 +56028,9 @@
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_022a2972c2d4",
+        "bwc_inline_section_b364bed9ff4c"
       ],
       "status_code": 200
     },
@@ -55023,7 +56071,9 @@
         "bwc_inline_section_855f32a1b4a7",
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_022a2972c2d4",
+        "bwc_inline_section_b364bed9ff4c"
       ],
       "status_code": 200
     },
@@ -55065,6 +56115,7 @@
         "https://bwc.njupt.edu.cn/543/list20.htm",
         "https://bwc.njupt.edu.cn/543/list21.htm",
         "https://bwc.njupt.edu.cn/543/list22.htm",
+        "https://bwc.njupt.edu.cn/543/list24.htm",
         "https://bwc.njupt.edu.cn/543/list24.htm"
       ],
       "section_ids": [
@@ -55094,7 +56145,11 @@
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
-        "bwc_inline_section_47fcf65204f4"
+        "bwc_inline_section_47fcf65204f4",
+        "bwc_inline_section_032ad20edbcc",
+        "bwc_inline_section_d0a7e748041b",
+        "bwc_inline_section_022a2972c2d4",
+        "bwc_inline_section_b364bed9ff4c"
       ],
       "status_code": 200
     },
@@ -55136,7 +56191,9 @@
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d0a7e748041b",
+        "bwc_inline_section_022a2972c2d4"
       ],
       "status_code": 200
     },
@@ -55178,7 +56235,9 @@
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d0a7e748041b",
+        "bwc_inline_section_022a2972c2d4"
       ],
       "status_code": 200
     },
@@ -55220,7 +56279,9 @@
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d0a7e748041b",
+        "bwc_inline_section_022a2972c2d4"
       ],
       "status_code": 200
     },
@@ -55262,7 +56323,9 @@
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d0a7e748041b",
+        "bwc_inline_section_022a2972c2d4"
       ],
       "status_code": 200
     },
@@ -55304,7 +56367,9 @@
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d0a7e748041b",
+        "bwc_inline_section_022a2972c2d4"
       ],
       "status_code": 200
     },
@@ -55346,7 +56411,9 @@
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d0a7e748041b",
+        "bwc_inline_section_022a2972c2d4"
       ],
       "status_code": 200
     },
@@ -55388,7 +56455,9 @@
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d0a7e748041b",
+        "bwc_inline_section_022a2972c2d4"
       ],
       "status_code": 200
     },
@@ -55430,7 +56499,9 @@
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d0a7e748041b",
+        "bwc_inline_section_022a2972c2d4"
       ],
       "status_code": 200
     },
@@ -55472,7 +56543,9 @@
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d0a7e748041b",
+        "bwc_inline_section_022a2972c2d4"
       ],
       "status_code": 200
     },
@@ -55514,7 +56587,9 @@
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d0a7e748041b",
+        "bwc_inline_section_022a2972c2d4"
       ],
       "status_code": 200
     },
@@ -55556,7 +56631,9 @@
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d0a7e748041b",
+        "bwc_inline_section_022a2972c2d4"
       ],
       "status_code": 200
     },
@@ -55598,7 +56675,9 @@
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d0a7e748041b",
+        "bwc_inline_section_022a2972c2d4"
       ],
       "status_code": 200
     },
@@ -55640,7 +56719,9 @@
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d0a7e748041b",
+        "bwc_inline_section_022a2972c2d4"
       ],
       "status_code": 200
     },
@@ -55682,7 +56763,9 @@
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_d0a7e748041b",
+        "bwc_inline_section_022a2972c2d4"
       ],
       "status_code": 200
     },
@@ -55725,6 +56808,7 @@
         "https://bwc.njupt.edu.cn/543/list21.htm",
         "https://bwc.njupt.edu.cn/543/list22.htm",
         "https://bwc.njupt.edu.cn/543/list23.htm",
+        "https://bwc.njupt.edu.cn/543/list25.htm",
         "https://bwc.njupt.edu.cn/543/list25.htm"
       ],
       "section_ids": [
@@ -55755,7 +56839,10 @@
         "bwc_inline_section_946182fa7136",
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
-        "bwc_inline_section_47fcf65204f4"
+        "bwc_inline_section_47fcf65204f4",
+        "bwc_inline_section_032ad20edbcc",
+        "bwc_inline_section_d0a7e748041b",
+        "bwc_inline_section_022a2972c2d4"
       ],
       "status_code": 200
     },
@@ -55798,7 +56885,9 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc",
+        "bwc_inline_section_d0a7e748041b"
       ],
       "status_code": 200
     },
@@ -55841,7 +56930,9 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc",
+        "bwc_inline_section_d0a7e748041b"
       ],
       "status_code": 200
     },
@@ -55884,7 +56975,9 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc",
+        "bwc_inline_section_d0a7e748041b"
       ],
       "status_code": 200
     },
@@ -55927,7 +57020,9 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc",
+        "bwc_inline_section_d0a7e748041b"
       ],
       "status_code": 200
     },
@@ -55970,7 +57065,9 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc",
+        "bwc_inline_section_d0a7e748041b"
       ],
       "status_code": 200
     },
@@ -56013,7 +57110,9 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc",
+        "bwc_inline_section_d0a7e748041b"
       ],
       "status_code": 200
     },
@@ -56056,7 +57155,9 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc",
+        "bwc_inline_section_d0a7e748041b"
       ],
       "status_code": 200
     },
@@ -56099,7 +57200,9 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc",
+        "bwc_inline_section_d0a7e748041b"
       ],
       "status_code": 200
     },
@@ -56142,7 +57245,9 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc",
+        "bwc_inline_section_d0a7e748041b"
       ],
       "status_code": 200
     },
@@ -56185,7 +57290,9 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc",
+        "bwc_inline_section_d0a7e748041b"
       ],
       "status_code": 200
     },
@@ -56228,7 +57335,9 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc",
+        "bwc_inline_section_d0a7e748041b"
       ],
       "status_code": 200
     },
@@ -56271,7 +57380,9 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc",
+        "bwc_inline_section_d0a7e748041b"
       ],
       "status_code": 200
     },
@@ -56314,7 +57425,9 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc",
+        "bwc_inline_section_d0a7e748041b"
       ],
       "status_code": 200
     },
@@ -56357,7 +57470,9 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc",
+        "bwc_inline_section_d0a7e748041b"
       ],
       "status_code": 200
     },
@@ -56401,7 +57516,8 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc"
       ],
       "status_code": 200
     },
@@ -56445,7 +57561,8 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc"
       ],
       "status_code": 200
     },
@@ -56489,7 +57606,8 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc"
       ],
       "status_code": 200
     },
@@ -56533,7 +57651,8 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc"
       ],
       "status_code": 200
     },
@@ -56577,7 +57696,8 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc"
       ],
       "status_code": 200
     },
@@ -56621,7 +57741,8 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc"
       ],
       "status_code": 200
     },
@@ -56665,7 +57786,8 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc"
       ],
       "status_code": 200
     },
@@ -56709,7 +57831,8 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc"
       ],
       "status_code": 200
     },
@@ -56753,7 +57876,8 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc"
       ],
       "status_code": 200
     },
@@ -56797,7 +57921,8 @@
         "bwc_inline_section_10cca87853f8",
         "bwc_inline_section_3b9ea36e1452",
         "bwc_inline_section_47fcf65204f4",
-        "bwc_direct_detail_links"
+        "bwc_direct_detail_links",
+        "bwc_inline_section_032ad20edbcc"
       ],
       "status_code": 200
     },
@@ -58842,6 +59967,54 @@
         "https://bwc.njupt.edu.cn/2014/0613/c543a6676/page.htm",
         "https://bwc.njupt.edu.cn/2014/0613/c543a6676/page.htm",
         "https://bwc.njupt.edu.cn/2014/0416/c543a6659/page.htm",
+        "https://bwc.njupt.edu.cn/2014/0401/c543a6655/page.htm",
+        "https://bwc.njupt.edu.cn/2021/0604/c520a195379/page.htm",
+        "https://bwc.njupt.edu.cn/2021/0604/c520a195378/page.htm",
+        "https://bwc.njupt.edu.cn/2021/0429/c520a191807/page.htm",
+        "https://bwc.njupt.edu.cn/2021/0408/c520a188769/page.htm",
+        "https://bwc.njupt.edu.cn/2021/0402/c520a188060/page.htm",
+        "https://bwc.njupt.edu.cn/2021/0402/c520a188059/page.htm",
+        "https://bwc.njupt.edu.cn/2021/0402/c520a188058/page.htm",
+        "https://bwc.njupt.edu.cn/2020/1103/c520a174232/page.htm",
+        "https://bwc.njupt.edu.cn/2023/0404/c510a238066/page.htm",
+        "https://bwc.njupt.edu.cn/2026/0306/c543a297494/page.htm",
+        "https://bwc.njupt.edu.cn/2026/0306/c543a297494/page.htm",
+        "https://bwc.njupt.edu.cn/2026/0128/c543a296911/page.htm",
+        "https://bwc.njupt.edu.cn/2026/0109/c543a296156/page.htm",
+        "https://bwc.njupt.edu.cn/2026/0109/c543a296151/page.htm",
+        "https://bwc.njupt.edu.cn/2025/1114/c543a291947/page.htm",
+        "https://bwc.njupt.edu.cn/2025/1030/c543a290980/page.htm",
+        "https://bwc.njupt.edu.cn/2025/1013/c543a289904/page.htm",
+        "https://bwc.njupt.edu.cn/2024/1213/c543a276445/page.htm",
+        "https://bwc.njupt.edu.cn/2024/1030/c543a272650/page.htm",
+        "https://bwc.njupt.edu.cn/2024/1009/c543a270946/page.htm",
+        "https://bwc.njupt.edu.cn/2024/0524/c543a263704/page.htm",
+        "https://bwc.njupt.edu.cn/2024/0104/c543a253962/page.htm",
+        "https://bwc.njupt.edu.cn/2023/1205/c543a251354/page.htm",
+        "https://bwc.njupt.edu.cn/2023/1008/c543a247448/page.htm",
+        "https://bwc.njupt.edu.cn/2023/0509/c543a240600/page.htm",
+        "https://bwc.njupt.edu.cn/2023/0509/c543a240600/page.htm",
+        "https://bwc.njupt.edu.cn/2023/0509/c543a240600/page.htm",
+        "https://bwc.njupt.edu.cn/2022/1114/c543a230053/page.htm",
+        "https://bwc.njupt.edu.cn/2022/1010/c543a227841/page.htm",
+        "https://bwc.njupt.edu.cn/2022/0704/c543a223666/page.htm",
+        "https://bwc.njupt.edu.cn/2022/0607/c543a222544/page.htm",
+        "https://bwc.njupt.edu.cn/2022/0607/c543a222544/page.htm",
+        "https://bwc.njupt.edu.cn/2022/0113/c543a215168/page.htm",
+        "https://bwc.njupt.edu.cn/2022/0113/c543a215168/page.htm",
+        "https://bwc.njupt.edu.cn/2021/1201/c543a210793/page.htm",
+        "https://bwc.njupt.edu.cn/2020/1012/c543a172714/page.htm",
+        "https://bwc.njupt.edu.cn/2019/1118/c543a158575/page.htm",
+        "https://bwc.njupt.edu.cn/2019/1118/c543a158575/page.htm",
+        "https://bwc.njupt.edu.cn/2019/1118/c543a158575/page.htm",
+        "https://bwc.njupt.edu.cn/2018/0605/c543a128858/page.htm",
+        "https://bwc.njupt.edu.cn/2018/0409/c543a124627/page.htm",
+        "https://bwc.njupt.edu.cn/2017/1129/c543a118308/page.htm",
+        "https://bwc.njupt.edu.cn/2014/0613/c543a6676/page.htm",
+        "https://bwc.njupt.edu.cn/2014/0613/c543a6676/page.htm",
+        "https://bwc.njupt.edu.cn/2014/0613/c543a6676/page.htm",
+        "https://bwc.njupt.edu.cn/2014/0613/c543a6676/page.htm",
+        "https://bwc.njupt.edu.cn/2014/0416/c543a6659/page.htm",
         "https://bwc.njupt.edu.cn/2014/0401/c543a6655/page.htm"
       ],
       "section_ids": [
@@ -58988,6 +60161,55 @@
         "https://bwc.njupt.edu.cn/2015/0313/c510a3784/page.htm",
         "https://bwc.njupt.edu.cn/2017/0330/c543a101388/page.htm",
         "https://bwc.njupt.edu.cn/2016/1026/c543a6887/page.htm",
+        "https://bwc.njupt.edu.cn/2016/0630/c543a6864/page.htm",
+        "https://bwc.njupt.edu.cn/2016/0630/c543a6864/page.htm",
+        "https://bwc.njupt.edu.cn/2016/0602/c543a6852/page.htm",
+        "https://bwc.njupt.edu.cn/2016/0425/c543a6847/page.htm",
+        "https://bwc.njupt.edu.cn/2016/0425/c543a6847/page.htm",
+        "https://bwc.njupt.edu.cn/2016/0414/c543a6829/page.htm",
+        "https://bwc.njupt.edu.cn/2016/0414/c543a6825/page.htm",
+        "https://bwc.njupt.edu.cn/2015/0930/c543a6784/page.htm",
+        "https://bwc.njupt.edu.cn/2015/0901/c543a6773/page.htm",
+        "https://bwc.njupt.edu.cn/2015/0901/c543a6773/page.htm",
+        "https://bwc.njupt.edu.cn/2015/0327/c543a6742/page.htm",
+        "https://bwc.njupt.edu.cn/2015/0327/c543a6742/page.htm",
+        "https://bwc.njupt.edu.cn/2015/0327/c543a6742/page.htm",
+        "https://bwc.njupt.edu.cn/2015/0327/c543a6742/page.htm",
+        "https://bwc.njupt.edu.cn/2015/0327/c543a6737/page.htm",
+        "https://bwc.njupt.edu.cn/2015/0327/c543a6737/page.htm",
+        "https://bwc.njupt.edu.cn/2014/1126/c543a6719/page.htm",
+        "https://bwc.njupt.edu.cn/2014/1125/c543a6712/page.htm",
+        "https://bwc.njupt.edu.cn/2014/0613/c543a6678/page.htm",
+        "https://bwc.njupt.edu.cn/2014/0513/c543a6664/page.htm",
+        "https://bwc.njupt.edu.cn/2014/0423/c543a6661/page.htm",
+        "https://bwc.njupt.edu.cn/2014/0423/c543a6661/page.htm",
+        "https://bwc.njupt.edu.cn/2014/0423/c543a6661/page.htm",
+        "https://bwc.njupt.edu.cn/2014/0423/c543a6661/page.htm",
+        "https://bwc.njupt.edu.cn/2014/0423/c543a6661/page.htm",
+        "https://bwc.njupt.edu.cn/2013/1104/c543a6620/page.htm",
+        "https://bwc.njupt.edu.cn/2013/0618/c543a6573/page.htm",
+        "https://bwc.njupt.edu.cn/2013/0307/c543a6542/page.htm",
+        "https://bwc.njupt.edu.cn/2013/0115/c543a6537/page.htm",
+        "https://bwc.njupt.edu.cn/2012/1219/c543a6533/page.htm",
+        "https://bwc.njupt.edu.cn/2012/1031/c543a6528/page.htm",
+        "https://bwc.njupt.edu.cn/2012/0920/c543a6520/page.htm",
+        "https://bwc.njupt.edu.cn/2012/0907/c543a6515/page.htm",
+        "https://bwc.njupt.edu.cn/2012/0315/c543a6471/page.htm",
+        "https://bwc.njupt.edu.cn/2012/0315/c543a6471/page.htm",
+        "https://bwc.njupt.edu.cn/2012/0111/c543a6465/page.htm",
+        "https://bwc.njupt.edu.cn/2011/1028/c543a6438/page.htm",
+        "https://bwc.njupt.edu.cn/2011/0518/c543a6387/page.htm",
+        "https://bwc.njupt.edu.cn/2011/0307/c543a6374/page.htm",
+        "https://bwc.njupt.edu.cn/2010/1206/c543a6349/page.htm",
+        "https://bwc.njupt.edu.cn/2010/1206/c543a6349/page.htm",
+        "https://bwc.njupt.edu.cn/2010/1103/c543a6337/page.htm",
+        "https://bwc.njupt.edu.cn/2010/1103/c543a6337/page.htm",
+        "https://bwc.njupt.edu.cn/2010/0408/c543a6291/page.htm",
+        "https://bwc.njupt.edu.cn/2010/0408/c543a6291/page.htm",
+        "https://bwc.njupt.edu.cn/2010/0402/c543a6288/page.htm",
+        "https://bwc.njupt.edu.cn/2010/0402/c543a6288/page.htm",
+        "https://bwc.njupt.edu.cn/2010/0118/c543a6279/page.htm",
+        "https://bwc.njupt.edu.cn/2009/1230/c543a6266/page.htm",
         "https://bwc.njupt.edu.cn/2016/0630/c543a6864/page.htm",
         "https://bwc.njupt.edu.cn/2016/0630/c543a6864/page.htm",
         "https://bwc.njupt.edu.cn/2016/0602/c543a6852/page.htm",
@@ -82024,6 +83246,7 @@
         "https://bwc.njupt.edu.cn/2022/0712/c543a224048/page.htm",
         "https://bwc.njupt.edu.cn/2022/0613/c543a222842/page.htm",
         "https://bwc.njupt.edu.cn/2021/1015/c543a206512/page.htm",
+        "https://bwc.njupt.edu.cn/2021/0406/c543a188480/page.htm",
         "https://bwc.njupt.edu.cn/2021/0406/c543a188480/page.htm"
       ],
       "section_ids": [
@@ -86310,6 +87533,72 @@
       "labels": [],
       "sources": [
         "https://bwc.njupt.edu.cn/2010/0524/c522a7251/page.htm"
+      ],
+      "section_ids": [
+        "bwc_direct_detail_links"
+      ]
+    },
+    "https://bwc.njupt.edu.cn/2026/0608/c510a303805/page.htm": {
+      "url": "https://bwc.njupt.edu.cn/2026/0608/c510a303805/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "我校在三牌楼校区举行优秀公安干警挂职保卫处副处长任职仪式"
+      ],
+      "sources": [
+        "https://bwc.njupt.edu.cn/"
+      ],
+      "section_ids": [
+        "bwc_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://bwc.njupt.edu.cn/2026/0608/c510a303804/page.htm": {
+      "url": "https://bwc.njupt.edu.cn/2026/0608/c510a303804/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "我校在仙林校区举行优秀公安干警挂职保卫处副处长任职仪式"
+      ],
+      "sources": [
+        "https://bwc.njupt.edu.cn/"
+      ],
+      "section_ids": [
+        "bwc_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://bwc.njupt.edu.cn/_upload/article/images/a6/c8/f2f0c4884367b195ce46f67c5d20/b21903b7-4457-48ec-b7ba-d28c7e267597.jpg": {
+      "url": "https://bwc.njupt.edu.cn/_upload/article/images/a6/c8/f2f0c4884367b195ce46f67c5d20/b21903b7-4457-48ec-b7ba-d28c7e267597.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://bwc.njupt.edu.cn/2026/0608/c510a303805/page.htm"
+      ],
+      "section_ids": [
+        "bwc_direct_detail_links"
+      ]
+    },
+    "https://bwc.njupt.edu.cn/_upload/article/images/a6/c8/f2f0c4884367b195ce46f67c5d20/845619c2-32af-4b8a-82a5-70c7b8150b2a.jpg": {
+      "url": "https://bwc.njupt.edu.cn/_upload/article/images/a6/c8/f2f0c4884367b195ce46f67c5d20/845619c2-32af-4b8a-82a5-70c7b8150b2a.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://bwc.njupt.edu.cn/2026/0608/c510a303805/page.htm"
+      ],
+      "section_ids": [
+        "bwc_direct_detail_links"
+      ]
+    },
+    "https://bwc.njupt.edu.cn/_upload/article/images/c6/74/47f6e3864de3b7b4eb8cc7394ea4/2d84a16c-4ba2-4596-988c-a394af0bd75b.jpg": {
+      "url": "https://bwc.njupt.edu.cn/_upload/article/images/c6/74/47f6e3864de3b7b4eb8cc7394ea4/2d84a16c-4ba2-4596-988c-a394af0bd75b.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://bwc.njupt.edu.cn/2026/0608/c510a303804/page.htm"
       ],
       "section_ids": [
         "bwc_direct_detail_links"

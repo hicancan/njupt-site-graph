@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-08T06:14:45.733409+00:00",
+  "generated_at": "2026-06-08T10:42:33.948388+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 131,
@@ -10,8 +10,8 @@
     "low_content_detail_pages": 20,
     "attachments": 23,
     "external_links": 49,
-    "edges": 639,
-    "url_outcomes": 406
+    "edges": 641,
+    "url_outcomes": 407
   },
   "outcomes": {
     "attachment_metadata_only": 23,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 70,
-    "inline_image_recorded": 169,
+    "inline_image_recorded": 170,
     "section_list_page_recorded": 3
   },
   "errors": [],
@@ -2762,10 +2762,13 @@
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "2025 09.24 关于公布学校第四届大学生网络文化节和网络教育优秀作品推选展示..."
+        "2025 09.24 关于公布学校第四届大学生网络文化节和网络教育优秀作品推选展示...",
+        "首页",
+        "关闭此页"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/72/list2.htm"
+        "https://www.njupt.edu.cn/72/list2.htm",
+        "https://www.njupt.edu.cn/2025/0925/c72a289417/page.htm"
       ],
       "section_ids": [
         "www_notice"
@@ -5845,6 +5848,18 @@
       ],
       "section_ids": [
         "www_academic_events"
+      ]
+    },
+    "https://www.njupt.edu.cn/_images/error/error.gif": {
+      "url": "https://www.njupt.edu.cn/_images/error/error.gif",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2025/0925/c72a289417/page.htm"
+      ],
+      "section_ids": [
+        "www_notice"
       ]
     }
   }

@@ -2635,5 +2635,509 @@
       "type": "none"
     },
     "source": "manifest_backfill"
+  },
+  {
+    "section_id": "bwc_inline_section_b5040ad50690",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/510/list53.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/510/list54.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_032ad20edbcc",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/543/list25.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/543/list26.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_6d62a3d6acd4",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/510/list52.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/510/list53.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_d0a7e748041b",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/543/list24.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/543/list25.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_9c65721807ba",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/510/list51.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/510/list52.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_022a2972c2d4",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/543/list23.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/543/list24.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_c59ed9b267d0",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/510/list50.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/510/list51.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_b364bed9ff4c",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/543/list22.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/543/list23.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_99f4970c5055",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/510/list49.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/510/list50.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_03fd72751bd0",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/543/list21.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/543/list22.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_0a063b520030",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/510/list48.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/510/list49.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_0e3a2a279925",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/543/list20.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/543/list21.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_20ccf3399628",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/510/list47.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/510/list48.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_3c177397ac62",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/543/list19.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/543/list20.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_11187fad0c23",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/510/list46.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/510/list47.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_f413d6f54011",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/510/list45.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/510/list46.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_1bd2ffdf734d",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/510/list44.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/510/list45.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_d7d2de6374fc",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/510/list43.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/510/list44.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_2cf3695864af",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/510/list42.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/510/list43.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_ea961e0d7cd3",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/510/list41.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/510/list42.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_9f2871fe64b0",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/510/list40.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/510/list41.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_3fe95369a52f",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/510/list39.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/510/list40.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_1ccbd6621f47",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/510/list38.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/510/list39.htm"
+  },
+  {
+    "section_id": "bwc_inline_section_489c501e0f5c",
+    "site_id": "bwc",
+    "name": "<<上一页",
+    "url": "https://bwc.njupt.edu.cn/510/list37.htm",
+    "section_type": "inline_section_link",
+    "nav_path": [
+      "inline",
+      "<<上一页"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "inline_section"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "inline_link",
+    "source_url": "https://bwc.njupt.edu.cn/510/list38.htm"
   }
 ]
