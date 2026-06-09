@@ -1,28 +1,28 @@
 {
   "site_id": "lib",
-  "generated_at": "2026-06-09T09:28:11.503597+00:00",
+  "generated_at": "2026-06-09T14:48:01.852256+00:00",
   "totals": {
     "sections": 42,
     "nav_nodes": 31,
     "homepage_modules": 0,
     "list_pages": 116,
-    "detail_pages": 1135,
+    "detail_pages": 1136,
     "low_content_detail_pages": 77,
     "attachments": 108,
     "external_links": 510,
     "edges": 1722,
-    "url_outcomes": 3820
+    "url_outcomes": 3827
   },
   "outcomes": {
     "attachment_metadata_only": 107,
-    "crawled_detail_ok": 1100,
+    "crawled_detail_ok": 1101,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 116,
     "cross_domain_article_link_recorded": 3,
     "external_link_recorded": 438,
     "external_policy_link_recorded": 7,
     "external_system_link_recorded": 1,
-    "inline_image_recorded": 1976,
+    "inline_image_recorded": 1982,
     "inline_link_recorded": 71
   },
   "errors": [],
@@ -1201,6 +1201,7 @@
         "https://lib.njupt.edu.cn/2011/0602/c1430a16019/page.htm",
         "https://lib.njupt.edu.cn/2011/0906/c1430a16116/page.htm",
         "https://lib.njupt.edu.cn/2011/0601/c1411a20610/page.htm",
+        "https://lib.njupt.edu.cn/2011/0601/c1416a15701/page.htm",
         "https://lib.njupt.edu.cn/2011/0601/c1416a15701/page.htm",
         "https://lib.njupt.edu.cn/2011/0601/c1416a15701/page.htm",
         "https://lib.njupt.edu.cn/2011/0601/c1416a15701/page.htm",
@@ -6309,6 +6310,7 @@
         "https://lib.njupt.edu.cn/2015/0701/c1430a16178/page.htm",
         "https://lib.njupt.edu.cn/2015/0701/c1430a16178/page.htm",
         "https://lib.njupt.edu.cn/2015/0701/c1430a16178/page.htm",
+        "https://lib.njupt.edu.cn/2015/0701/c1430a16178/page.htm",
         "https://lib.njupt.edu.cn/2015/0701/c1430a16178/page.htm"
       ],
       "section_ids": [
@@ -11133,6 +11135,11 @@
         "https://lib.njupt.edu.cn/2011/0602/c1430a16043/page.htm",
         "https://lib.njupt.edu.cn/2011/0602/c1430a16064/page.htm",
         "https://lib.njupt.edu.cn/2011/0906/c1430a16116/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16074/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16041/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16043/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16064/page.htm",
+        "https://lib.njupt.edu.cn/2011/0906/c1430a16116/page.htm",
         "https://lib.njupt.edu.cn/2011/0602/c1430a16074/page.htm"
       ],
       "section_ids": [
@@ -11390,6 +11397,11 @@
         "https://lib.njupt.edu.cn/2011/0602/c1430a16013/page.htm",
         "https://lib.njupt.edu.cn/2011/0602/c1430a16017/page.htm",
         "https://lib.njupt.edu.cn/2011/0602/c1430a16030/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16038/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16039/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16024/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16060/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16035/page.htm",
         "https://lib.njupt.edu.cn/2011/0602/c1430a16038/page.htm",
         "https://lib.njupt.edu.cn/2011/0602/c1430a16039/page.htm",
         "https://lib.njupt.edu.cn/2011/0602/c1430a16024/page.htm",
@@ -17400,7 +17412,8 @@
         "图书馆举办“品味好书，分享阅读”专题讲座"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1428/list.htm"
+        "https://lib.njupt.edu.cn/1428/list.htm",
+        "https://lib.njupt.edu.cn/1428/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_a7ce4abf4855"
@@ -18537,7 +18550,8 @@
         "第三届南京邮电大学“知网杯”本科生信息检索大赛圆满落幕"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1428/list2.htm"
+        "https://lib.njupt.edu.cn/1428/list2.htm",
+        "https://lib.njupt.edu.cn/1428/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_a7ce4abf4855"
@@ -52018,6 +52032,94 @@
       ],
       "section_ids": [
         "lib_direct_detail_links"
+      ]
+    },
+    "https://lib.njupt.edu.cn/2026/0609/c1428a303914/page.htm": {
+      "url": "https://lib.njupt.edu.cn/2026/0609/c1428a303914/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "图书馆学科服务走进通信与信息工程学院"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/",
+        "https://lib.njupt.edu.cn/1428/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_a7ce4abf4855"
+      ],
+      "status_code": 200
+    },
+    "https://lib.njupt.edu.cn/_upload/article/images/05/9f/69036a074d859304538803d86061/4dc8f03b-c30e-48d1-b5a8-d8d782ab12bb.jpg": {
+      "url": "https://lib.njupt.edu.cn/_upload/article/images/05/9f/69036a074d859304538803d86061/4dc8f03b-c30e-48d1-b5a8-d8d782ab12bb.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://lib.njupt.edu.cn/2026/0609/c1428a303914/page.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_a7ce4abf4855"
+      ]
+    },
+    "https://lib.njupt.edu.cn/_upload/article/images/05/9f/69036a074d859304538803d86061/e6e69885-ff6b-4cf5-974d-c9b3119f9cd9.jpg": {
+      "url": "https://lib.njupt.edu.cn/_upload/article/images/05/9f/69036a074d859304538803d86061/e6e69885-ff6b-4cf5-974d-c9b3119f9cd9.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://lib.njupt.edu.cn/2026/0609/c1428a303914/page.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_a7ce4abf4855"
+      ]
+    },
+    "https://lib.njupt.edu.cn/_upload/article/images/05/9f/69036a074d859304538803d86061/a67bf3a2-fab0-4ab9-be96-d0ab021cdb00.jpg": {
+      "url": "https://lib.njupt.edu.cn/_upload/article/images/05/9f/69036a074d859304538803d86061/a67bf3a2-fab0-4ab9-be96-d0ab021cdb00.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://lib.njupt.edu.cn/2026/0609/c1428a303914/page.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_a7ce4abf4855"
+      ]
+    },
+    "https://lib.njupt.edu.cn/_upload/article/images/05/9f/69036a074d859304538803d86061/90e11531-4415-4940-9fcf-42eded7da9ae.jpg": {
+      "url": "https://lib.njupt.edu.cn/_upload/article/images/05/9f/69036a074d859304538803d86061/90e11531-4415-4940-9fcf-42eded7da9ae.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://lib.njupt.edu.cn/2026/0609/c1428a303914/page.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_a7ce4abf4855"
+      ]
+    },
+    "https://lib.njupt.edu.cn/_upload/article/images/05/9f/69036a074d859304538803d86061/7f84b66b-b78e-4018-8617-f907ef9b931d.jpg": {
+      "url": "https://lib.njupt.edu.cn/_upload/article/images/05/9f/69036a074d859304538803d86061/7f84b66b-b78e-4018-8617-f907ef9b931d.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://lib.njupt.edu.cn/2026/0609/c1428a303914/page.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_a7ce4abf4855"
+      ]
+    },
+    "https://lib.njupt.edu.cn/_upload/article/images/05/9f/69036a074d859304538803d86061/e98ee33e-2617-403e-8eb4-c20b4b2e2913.jpg": {
+      "url": "https://lib.njupt.edu.cn/_upload/article/images/05/9f/69036a074d859304538803d86061/e98ee33e-2617-403e-8eb4-c20b4b2e2913.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://lib.njupt.edu.cn/2026/0609/c1428a303914/page.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_a7ce4abf4855"
       ]
     }
   }

@@ -1,20 +1,20 @@
 {
   "site_id": "job91",
-  "generated_at": "2026-06-09T09:34:06.911866+00:00",
+  "generated_at": "2026-06-09T14:55:16.926215+00:00",
   "totals": {
     "sections": 29,
     "nav_nodes": 29,
     "homepage_modules": 29,
     "list_pages": 29,
-    "detail_pages": 977,
-    "low_content_detail_pages": 848,
+    "detail_pages": 978,
+    "low_content_detail_pages": 849,
     "attachments": 0,
     "external_links": 0,
     "edges": 1001,
-    "url_outcomes": 1008
+    "url_outcomes": 1009
   },
   "outcomes": {
-    "crawled_detail_ok": 977,
+    "crawled_detail_ok": 978,
     "crawled_homepage_ok": 2,
     "crawled_list_ok": 29
   },
@@ -1259,6 +1259,36 @@
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/home/10293"
+      ],
+      "section_ids": [
+        "job91_7488d30cc301"
+      ],
+      "status_code": 200
+    },
+    "https://njupt.91job.org.cn/sub-station/news/53D3B7F900AB29CAE0630100007F54BB": {
+      "url": "https://njupt.91job.org.cn/sub-station/news/53D3B7F900AB29CAE0630100007F54BB",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2027届毕业生参加“名企体验行”——走进海康威视数字技术股份有限公司江苏业务中心参观活动圆满结束"
+      ],
+      "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3603"
+      ],
+      "section_ids": [
+        "job91_7488d30cc301"
+      ],
+      "status_code": 200
+    },
+    "https://njupt.91job.org.cn/sub-station/news/53D379520A7F288BE0630100007F86CE": {
+      "url": "https://njupt.91job.org.cn/sub-station/news/53D379520A7F288BE0630100007F86CE",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "南京邮电大学江苏省2026年大学生核心就业能力培训班顺利结课"
+      ],
+      "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3603"
       ],
       "section_ids": [
         "job91_7488d30cc301"
@@ -3066,38 +3096,6 @@
       ],
       "status_code": 200
     },
-    "http://www.njupt.edu.cn/2023/0524/c53a241668/page.htm": {
-      "url": "http://www.njupt.edu.cn/2023/0524/c53a241668/page.htm",
-      "target_type": "detail_article_page",
-      "outcome": "crawled_detail_ok",
-      "labels": [
-        "【访企拓岗】刘陈书记叶美兰校长率队走访澳江公司和无锡国家数字电影产业园"
-      ],
-      "sources": [
-        "https://njupt.91job.org.cn/sub-station/list/3603",
-        "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B"
-      ],
-      "section_ids": [
-        "job91_7488d30cc301",
-        "job91_0d4d0da9e718"
-      ],
-      "status_code": 200
-    },
-    "https://njupt.91job.org.cn/sub-station/news/FCF8D6EAD3E50ABAE0530100007FBEF8": {
-      "url": "https://njupt.91job.org.cn/sub-station/news/FCF8D6EAD3E50ABAE0530100007FBEF8",
-      "target_type": "detail_article_page",
-      "outcome": "crawled_detail_ok",
-      "labels": [
-        "江苏省2023年大学生核心就业能力培训南京邮电大学班顺利结课"
-      ],
-      "sources": [
-        "https://njupt.91job.org.cn/sub-station/list/3603"
-      ],
-      "section_ids": [
-        "job91_7488d30cc301"
-      ],
-      "status_code": 200
-    },
     "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9CCCED2E0530100007FB6E8": {
       "url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9CCCED2E0530100007FB6E8",
       "target_type": "section_list_page",
@@ -3828,6 +3826,21 @@
       "outcome": "crawled_detail_ok",
       "labels": [
         "【访企拓岗】叶美兰校长、刘陈会长一行赴中国石油天然气股份有限公司长庆油田分公司调研"
+      ],
+      "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B"
+      ],
+      "section_ids": [
+        "job91_0d4d0da9e718"
+      ],
+      "status_code": 200
+    },
+    "http://www.njupt.edu.cn/2023/0524/c53a241668/page.htm": {
+      "url": "http://www.njupt.edu.cn/2023/0524/c53a241668/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "【访企拓岗】刘陈书记叶美兰校长率队走访澳江公司和无锡国家数字电影产业园"
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B"
