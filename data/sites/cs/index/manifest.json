@@ -1,21 +1,21 @@
 {
   "site_id": "cs",
-  "generated_at": "2026-06-08T05:56:38.315940+00:00",
+  "generated_at": "2026-06-10T10:24:33.651066+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 52,
     "homepage_modules": 2,
     "list_pages": 38,
-    "detail_pages": 452,
+    "detail_pages": 454,
     "low_content_detail_pages": 11,
     "attachments": 9,
     "external_links": 98,
     "edges": 713,
-    "url_outcomes": 2072
+    "url_outcomes": 2086
   },
   "outcomes": {
     "attachment_metadata_only": 9,
-    "crawled_detail_ok": 450,
+    "crawled_detail_ok": 452,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 38,
     "cross_domain_article_link_recorded": 29,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 2,
     "external_system_link_recorded": 1,
     "homepage_link_recorded": 89,
-    "inline_image_recorded": 1363,
+    "inline_image_recorded": 1375,
     "inline_link_recorded": 27
   },
   "errors": [],
@@ -2526,7 +2526,8 @@
         "四秩弦歌，数智华章---学院举办创办40周年系列活动"
       ],
       "sources": [
-        "https://cs.njupt.edu.cn/18737/list.htm"
+        "https://cs.njupt.edu.cn/18737/list.htm",
+        "https://cs.njupt.edu.cn/18737/list2.htm"
       ],
       "section_ids": [
         "cs_news"
@@ -2817,7 +2818,8 @@
         "红色铸魂新征程 数智笃行践初心 ——学院党委赴茅山新四军纪念馆开展党性教育实践活动"
       ],
       "sources": [
-        "https://cs.njupt.edu.cn/18737/list.htm"
+        "https://cs.njupt.edu.cn/18737/list.htm",
+        "https://cs.njupt.edu.cn/18737/list2.htm"
       ],
       "section_ids": [
         "cs_news"
@@ -3567,7 +3569,8 @@
         "南邮党委理论学习中心组开展《习近平谈治国理政》第五卷学习"
       ],
       "sources": [
-        "https://cs.njupt.edu.cn/18737/list2.htm"
+        "https://cs.njupt.edu.cn/18737/list2.htm",
+        "https://cs.njupt.edu.cn/18737/list3.htm"
       ],
       "section_ids": [
         "cs_news"
@@ -3594,7 +3597,8 @@
         "学院党委理论学习中心组专题学习习近平总书记关于教育、科技、人才的重要讲话精神"
       ],
       "sources": [
-        "https://cs.njupt.edu.cn/18737/list2.htm"
+        "https://cs.njupt.edu.cn/18737/list2.htm",
+        "https://cs.njupt.edu.cn/18737/list3.htm"
       ],
       "section_ids": [
         "cs_news"
@@ -26793,6 +26797,186 @@
       ],
       "section_ids": [
         "cs_download"
+      ]
+    },
+    "https://cs.njupt.edu.cn/2026/0610/c18737a303946/page.htm": {
+      "url": "https://cs.njupt.edu.cn/2026/0610/c18737a303946/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026-06-06 “常”携手“粤”共进——我院举办“爱回母校”招生宣传实践总结交流会 6月5日，我院在计算机学科楼327会议室召开“常”携手“粤”共进——“爱回母校”寒假招生宣传实践总结交流会。招生宣传负责老师赵一琳、辅导员老师刘世豪以及受到表彰的广东、常州地区志愿者参会。在活动开始，赵一琳老师对本次“爱回母校”两个地区的活动开展情况进行了总结。本次“爱回母校”寒假招生宣传实践活动中，来自广东的96名志愿者与常州的173名志愿者，共同将南邮故事、南邮精神和南邮情怀讲述给44808名高三学子，将“信达天下，自强不息”的南邮精神播撒在岭南与江南大地，以青春实践书写志愿篇章。在表彰环节，赵一琳老师和刘世豪老师作为指导教师，为29名先进个人颁发荣誉证书，同时将印有南邮四季美景的定制钥匙扣作为志愿者参加活动的纪念品。“春樱、夏荷、秋枫、冬雪”南邮的美景陪伴着志愿者们走过四季，穿过岁月，带来学院对志愿者们不负韶华、四季绽放的美好祝愿。在座谈交流环节，志愿者们纷纷结合自身实践经历，讲述活动中的难忘故事，并围绕服务模式、活动成效等方面展开深入思考，积极建言献策，为更好地开展招生工作提出了自己宝贵的建议。活动结束后，志愿者们纷纷表示，此次实践不仅加深了对南邮精神的理解，更在服务中收获了成",
+        "2026-06-06 “常”携手“粤”共进——我院举办“爱回母校”招生宣传实践总结交流会",
+        "“常”携手“粤”共进——我院举办“爱回母校”招生宣传实践总结交流会"
+      ],
+      "sources": [
+        "https://cs.njupt.edu.cn/",
+        "https://cs.njupt.edu.cn/18737/list.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ],
+      "status_code": 200
+    },
+    "https://cs.njupt.edu.cn/2026/0610/c18737a303945/page.htm": {
+      "url": "https://cs.njupt.edu.cn/2026/0610/c18737a303945/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026-06-05 凝心聚力牵纽带 同心筑梦续华章丨我院举办2026届毕业生座谈会暨校友联络员聘任仪式 6月4日下午，计算机学院、软件学院、网络空间安全学院在学科楼308会议室成功举办2026届毕业生座谈会暨校友联络员聘任仪式。学院党委书记尹志丽、党委副书记、副院长刘星、副院长黄海平、副院长陈志、副院长戴华出席本次会议，学院系主任、教师代表、毕业班辅导员，以及2026届本硕博毕业生校友联络员参会。本次座谈会由学院党委副书记、副院长刘星主持。座谈会伊始，副院长黄海平致辞。他首先对各位毕业生校友联络员表示由衷骄傲，也流露出深深的不舍。黄海平副院长向同学们送上三点临别赠言：一是保持向上的心，做终身学习的追光者。在人工智能与大模型深刻变革的时代，真正长久的核心竞争力在于终身学习、快速适配、独立思辨与持续创新的能力。二是保持担当的心，做服务时代的创造者。数字中国、低空经济、网络安全等领域亟需青年力量，技术越强大，责任越重大，希望大家既做时代浪潮中的弄潮儿，更做关键时刻靠得住、顶得上的南邮人。三是保持温暖的心，做热爱生活的同行者。在忙碌中不忘生活，在竞争中不忘善良，在奔跑中不忘身边人，照顾好身体与内心，既追求专业卓越，也保持生活热爱。最后，他表示，同学们伏案苦读、科创攻关的点滴早已汇入学院的发展脉络",
+        "2026-06-05 凝心聚力牵纽带 同心筑梦续华章丨我院举办2026届毕业生座谈会暨校友联络员聘任仪式",
+        "凝心聚力牵纽带 同心筑梦续华章丨我院举办2026届毕业生座谈会暨校友联络员聘任仪式"
+      ],
+      "sources": [
+        "https://cs.njupt.edu.cn/",
+        "https://cs.njupt.edu.cn/18737/list.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ],
+      "status_code": 200
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/de/1f/795d578b4879b123b50e14ed179e/1f1bec46-b02d-4d54-916e-b16777608054.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/de/1f/795d578b4879b123b50e14ed179e/1f1bec46-b02d-4d54-916e-b16777608054.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0610/c18737a303946/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/de/1f/795d578b4879b123b50e14ed179e/d26cd04c-9e50-4d93-a7dc-cfea5a8a7c15.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/de/1f/795d578b4879b123b50e14ed179e/d26cd04c-9e50-4d93-a7dc-cfea5a8a7c15.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0610/c18737a303946/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/de/1f/795d578b4879b123b50e14ed179e/a4be8f30-23f6-4f4d-81f3-4c414570cff6.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/de/1f/795d578b4879b123b50e14ed179e/a4be8f30-23f6-4f4d-81f3-4c414570cff6.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0610/c18737a303946/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/de/1f/795d578b4879b123b50e14ed179e/0eee7f0f-6d49-4f3d-9ddb-8d5a20126a73.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/de/1f/795d578b4879b123b50e14ed179e/0eee7f0f-6d49-4f3d-9ddb-8d5a20126a73.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0610/c18737a303946/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/de/1f/795d578b4879b123b50e14ed179e/1b5d2508-b887-4d5d-b6c5-62266c2fb4a9.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/de/1f/795d578b4879b123b50e14ed179e/1b5d2508-b887-4d5d-b6c5-62266c2fb4a9.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0610/c18737a303946/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/9c/fd/44a10c5b42a184654fdf3c625a4e/1cd33b35-c503-4824-b9d2-afcf8708f5b1.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/9c/fd/44a10c5b42a184654fdf3c625a4e/1cd33b35-c503-4824-b9d2-afcf8708f5b1.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0610/c18737a303945/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/9c/fd/44a10c5b42a184654fdf3c625a4e/bb48b35e-e9c0-40a1-b11a-8034d324bf89.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/9c/fd/44a10c5b42a184654fdf3c625a4e/bb48b35e-e9c0-40a1-b11a-8034d324bf89.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0610/c18737a303945/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/9c/fd/44a10c5b42a184654fdf3c625a4e/16c84fcf-768e-4f73-b0cb-e23383c99fbd.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/9c/fd/44a10c5b42a184654fdf3c625a4e/16c84fcf-768e-4f73-b0cb-e23383c99fbd.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0610/c18737a303945/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/9c/fd/44a10c5b42a184654fdf3c625a4e/69bc5c3d-4c54-4a57-b7a3-94d54554910e.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/9c/fd/44a10c5b42a184654fdf3c625a4e/69bc5c3d-4c54-4a57-b7a3-94d54554910e.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0610/c18737a303945/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/9c/fd/44a10c5b42a184654fdf3c625a4e/4ec66b03-7bf9-4580-9f7a-03d90453957c.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/9c/fd/44a10c5b42a184654fdf3c625a4e/4ec66b03-7bf9-4580-9f7a-03d90453957c.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0610/c18737a303945/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/9c/fd/44a10c5b42a184654fdf3c625a4e/53b833c0-1603-4596-93ff-1aab3f00a580.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/9c/fd/44a10c5b42a184654fdf3c625a4e/53b833c0-1603-4596-93ff-1aab3f00a580.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0610/c18737a303945/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/9c/fd/44a10c5b42a184654fdf3c625a4e/2bfd6828-dbca-4c1b-a8f9-047719430bf8.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/9c/fd/44a10c5b42a184654fdf3c625a4e/2bfd6828-dbca-4c1b-a8f9-047719430bf8.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0610/c18737a303945/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
       ]
     }
   }

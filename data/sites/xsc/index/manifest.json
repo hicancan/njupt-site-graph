@@ -1,21 +1,21 @@
 {
   "site_id": "xsc",
-  "generated_at": "2026-06-05T09:46:45.505880+00:00",
+  "generated_at": "2026-06-10T09:58:10.664769+00:00",
   "totals": {
     "sections": 34,
     "nav_nodes": 30,
     "homepage_modules": 10,
     "list_pages": 232,
-    "detail_pages": 1590,
-    "low_content_detail_pages": 112,
+    "detail_pages": 1591,
+    "low_content_detail_pages": 113,
     "attachments": 17,
     "external_links": 75,
     "edges": 1878,
-    "url_outcomes": 6417
+    "url_outcomes": 6418
   },
   "outcomes": {
     "attachment_metadata_only": 14,
-    "crawled_detail_ok": 1587,
+    "crawled_detail_ok": 1588,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 232,
     "external_link_recorded": 53,
@@ -84581,6 +84581,23 @@
       "section_ids": [
         "xsc_home_module_6c9d38d56d8b"
       ]
+    },
+    "https://xsc.njupt.edu.cn/2026/0610/c1173a303947/page.htm": {
+      "url": "https://xsc.njupt.edu.cn/2026/0610/c1173a303947/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026-06-10 南京邮电大学2026届本科生优秀毕业生名单公示",
+        "2026-06-10 南京邮电大学2026届本科生优秀毕业生名单公示 查看详情"
+      ],
+      "sources": [
+        "https://xsc.njupt.edu.cn/",
+        "https://xsc.njupt.edu.cn/1173/list.htm"
+      ],
+      "section_ids": [
+        "xsc_home_module_e0099f26794a"
+      ],
+      "status_code": 200
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "site_id": "job91",
-  "generated_at": "2026-06-10T02:43:42.196248+00:00",
+  "generated_at": "2026-06-10T10:13:20.112232+00:00",
   "totals": {
     "sections": 29,
     "nav_nodes": 29,
@@ -4000,6 +4000,21 @@
       ],
       "status_code": 200
     },
+    "https://njupt.91job.org.cn/sub-station/news/53DFB2927E8DDE26E0630100007F46F1": {
+      "url": "https://njupt.91job.org.cn/sub-station/news/53DFB2927E8DDE26E0630100007F46F1",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "江苏省2026年应届优秀大学毕业生选调 乡镇（街道）职位入围递补人选公示"
+      ],
+      "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3604"
+      ],
+      "section_ids": [
+        "job91_8a47e2520d1b"
+      ],
+      "status_code": 200
+    },
     "https://njupt.91job.org.cn/sub-station/news/53CD778D370E48C2E0630100007FE786": {
       "url": "https://njupt.91job.org.cn/sub-station/news/53CD778D370E48C2E0630100007FE786",
       "target_type": "detail_article_page",
@@ -5778,21 +5793,6 @@
       "outcome": "crawled_detail_ok",
       "labels": [
         "覃程程推荐表遗失公示"
-      ],
-      "sources": [
-        "https://njupt.91job.org.cn/sub-station/list/3604"
-      ],
-      "section_ids": [
-        "job91_8a47e2520d1b"
-      ],
-      "status_code": 200
-    },
-    "https://njupt.91job.org.cn/sub-station/news/12CD055C55E30485E0630100007F2E8D": {
-      "url": "https://njupt.91job.org.cn/sub-station/news/12CD055C55E30485E0630100007F2E8D",
-      "target_type": "detail_article_page",
-      "outcome": "crawled_detail_ok",
-      "labels": [
-        "许贤推荐表遗失公示"
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/list/3604"
