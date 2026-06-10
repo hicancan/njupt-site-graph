@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-08T10:42:33.948388+00:00",
+  "generated_at": "2026-06-10T02:41:06.780243+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 131,
     "homepage_modules": 0,
     "list_pages": 7,
-    "detail_pages": 92,
+    "detail_pages": 93,
     "low_content_detail_pages": 20,
     "attachments": 23,
     "external_links": 49,
     "edges": 641,
-    "url_outcomes": 407
+    "url_outcomes": 415
   },
   "outcomes": {
     "attachment_metadata_only": 23,
-    "crawled_detail_ok": 92,
+    "crawled_detail_ok": 93,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 7,
     "cross_domain_article_link_recorded": 2,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 70,
-    "inline_image_recorded": 170,
+    "inline_image_recorded": 177,
     "section_list_page_recorded": 3
   },
   "errors": [],
@@ -4004,7 +4004,8 @@
         "2026 05.28 郭宇锋书记率队赴中石化南京工程有限公司调研交流 5月27日，校党委书记郭宇锋率队赴中石化南京工程有限公司调研交流。中石化南京工程有限公司党委书记周赢冠热情接待调研组一行并主持召开座谈会，副校长刘青山一同调研。 郭宇锋介绍了南京邮电大学的优势学科布局和国际化建设成效。他说，学校正全面推进卓越工程师培养改革，着力提升学生解决复杂工程问题的实战能力，致力培养懂技术、能创新、善攻坚的复合型人才，主动服务产业转型升级与企业发展需求。双方共建的“一带一路”国际人才订单班已搭建起优质合作平台，取得了良好成效，希望在产教融合、联合科研及国际化人才共育等领域持续发力，共同探索校企协同育人新范式。 周赢冠结合企业全球化战略布局，重点介绍了在中东、北非、中亚等重点区域的海外项目建设进展及本土化人才需求。他表示，期待双方持续做强“一带一路”国际人才订单班品牌，在工程技术人才培养、产业技术创新攻关等方面开展更深层次合作，实现互利共赢。 会上，双方围绕人工智能赋能智能制造、工程设计优化、实践教学基地建设等议题深入交换意见，并将加快推进战略合作协议落地，持续拓展产学研项目对接渠道，推动国际合作向更高水平迈进。 座谈会前，调研组一行实地参观企业展厅，详"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -4866,7 +4867,8 @@
         "2026 05.15 江苏省高校思政课“马克思主义基本原理”课分教指委工作会议暨数智时代“马克思主义基本原理”课教学改革研讨会在南邮召开 5月13日下午，江苏省高校思政课“马克思主义基本原理”课分教指委工作会议暨数智时代“马克思主义基本原理”课教学改革研讨会在南京邮电大学仙林校区召开。会议由马克思主义学院承办，以“数智赋能、守正创新”为主题。会议现场 教育部高校思政课总教学指导委员会主任委员、“马克思主义基本原理”分教指委主任委员、清华大学习近平新时代中国特色社会主义思想研究院院长艾四林，南京邮电大学党委书记郭宇锋，山东大学马克思主义学院院长张士海，江苏省教育厅社政处副处长冯帅，盐城师范学院党委常委、副校长张桂华，湖北大学马克思主义学院院长熊友华，江苏省高校思政课“马克思主义基本原理”课分教指委主任委员王永贵、副主任胡立法、委员周兰珍、陈永杰、程志波、汪业周、唐慧玲、董德福等领导和专家出席会议。南邮党委常委、副校长谢平主持致辞环节。 郭宇锋指出，马克思主义基本原理是马克思主义的精髓，是高校思想政治理论课程体系的核心组成部分，是培养学生科学世界观、人生观、价值观的重要途径。期待与会专家学者在研讨会上畅所欲言、传经送宝，共同探索“马克思主义基本原理”课程教学改革新路径。冯帅肯定了江苏省马克思主义基本原理课分教指委换届"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -5860,6 +5862,107 @@
       ],
       "section_ids": [
         "www_notice"
+      ]
+    },
+    "https://www.njupt.edu.cn/2026/0610/c53a303932/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0610/c53a303932/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.06.10 南邮牵头组队征战省运会职工部篮球赛获冠军",
+        "2026 06.10 南邮牵头组队征战省运会职工部篮球赛获冠军 6月9日，江苏省第二十一届运动会职工部篮球比赛收官。受省教科工会委托，由南京邮电大学牵头，南京理工大学、南京航空航天大学、南京体育学院、南京信息工程大学、南京工业大学、南京财经大学和南京工业职业技术大学等八所高校教职工组建的省教育科技代表队，夺得中年男子三人制篮球赛冠军、青年男子五人制篮球赛第六名。省教育科技代表队获得“体育道德风尚代表队”荣誉称号，实现运动成绩与精神文明双丰收。男子中年组夺冠男子青年组荣获第六名获“体育道德风尚代表队”称号 作为牵头单位，南邮校工会联合体育部、后勤管理处等部门通力协作，高效完成队伍组建、专项训练、战术制定、医疗保障及赛事后勤等各项工作，提供坚实“后方”支援，让来自不同高校的队员迅速拧成一股绳，形成坚强战斗力。比赛期间，省教育科技工会领导到赛场慰问队员、现场指导，鼓舞全队士气。比赛现场 此次组队参赛勇创佳绩，是南邮积极履行牵头职责、服务全省教职工文体事业的生动实践。学校不仅为省内兄弟院校搭建了交流切磋的平台，更通过高质量的保障工作，让“南邮温度”深入人心，为全省高校体育事业发展贡献了力量。（撰稿：杨小进、房辉、金辉 初审：黄婷婷、朱建勇 编辑:王"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/28/cb/9e99928c42bcb737e8125b54884a/60a88c37-4f7b-4bc6-9d54-abf218e6fc5a.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/28/cb/9e99928c42bcb737e8125b54884a/60a88c37-4f7b-4bc6-9d54-abf218e6fc5a.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0610/c53a303932/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/28/cb/9e99928c42bcb737e8125b54884a/c686b6c4-eeb8-4411-a70e-fa76d413d58d.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/28/cb/9e99928c42bcb737e8125b54884a/c686b6c4-eeb8-4411-a70e-fa76d413d58d.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0610/c53a303932/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/28/cb/9e99928c42bcb737e8125b54884a/86198f8e-e2ae-46b1-97d8-093326d8de53.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/28/cb/9e99928c42bcb737e8125b54884a/86198f8e-e2ae-46b1-97d8-093326d8de53.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0610/c53a303932/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/28/cb/9e99928c42bcb737e8125b54884a/c0d6aece-d894-4fad-b66f-3bae20dfcf97.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/28/cb/9e99928c42bcb737e8125b54884a/c0d6aece-d894-4fad-b66f-3bae20dfcf97.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0610/c53a303932/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/28/cb/9e99928c42bcb737e8125b54884a/20ab0c5c-ca1b-413b-8d63-ed000d2c551a.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/28/cb/9e99928c42bcb737e8125b54884a/20ab0c5c-ca1b-413b-8d63-ed000d2c551a.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0610/c53a303932/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/28/cb/9e99928c42bcb737e8125b54884a/69d18f5b-70ec-429c-a648-476afac79338.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/28/cb/9e99928c42bcb737e8125b54884a/69d18f5b-70ec-429c-a648-476afac79338.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0610/c53a303932/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/28/cb/9e99928c42bcb737e8125b54884a/4f8eaa0a-9047-4f2d-bafb-09c4d554683f.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/28/cb/9e99928c42bcb737e8125b54884a/4f8eaa0a-9047-4f2d-bafb-09c4d554683f.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0610/c53a303932/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
       ]
     }
   }
