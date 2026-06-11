@@ -1,29 +1,29 @@
 {
   "site_id": "cs",
-  "generated_at": "2026-06-10T10:24:33.651066+00:00",
+  "generated_at": "2026-06-11T03:03:25.961692+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 52,
     "homepage_modules": 2,
     "list_pages": 38,
-    "detail_pages": 454,
-    "low_content_detail_pages": 11,
+    "detail_pages": 456,
+    "low_content_detail_pages": 13,
     "attachments": 9,
     "external_links": 98,
-    "edges": 713,
-    "url_outcomes": 2086
+    "edges": 717,
+    "url_outcomes": 2090
   },
   "outcomes": {
     "attachment_metadata_only": 9,
-    "crawled_detail_ok": 452,
+    "crawled_detail_ok": 454,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 38,
     "cross_domain_article_link_recorded": 29,
     "external_link_recorded": 63,
     "external_policy_link_recorded": 2,
     "external_system_link_recorded": 1,
-    "homepage_link_recorded": 89,
-    "inline_image_recorded": 1375,
+    "homepage_link_recorded": 90,
+    "inline_image_recorded": 1376,
     "inline_link_recorded": 27
   },
   "errors": [],
@@ -1034,7 +1034,8 @@
       "target_type": "detail_article_page",
       "outcome": "homepage_link_recorded",
       "labels": [
-        "2026-05-25 喜报！我院两项研究成果被顶级会议ICML 2026录用 近日，第43届国际机器学习会议（International Conference on Machine Learning, ICML 2026）正式公布论文录用结果，我院科研团队再创佳绩，两项原创研究论文成功被会议录用，其中一篇入选会议焦点论文（Spotlight Paper），充分展现了我院在人工智能与机器学习领域扎实的科研实力与创新能力。ICML是人工智能与机器学习领域顶级国际学术会议，为中国计算机学会推荐的A类顶级会议，与NeurIPS、ICLR并称机器学习领域三大代表性顶会，在全球学术界与工业界具有极高影响力。本届ICML 2026投稿竞争尤为激烈，共收到全球有效投稿23918篇，较去年实现翻倍增长，最终仅录用6352篇论文，整体录用率为26.6%。在录用成果中，仅有536篇论文被遴选为Spotlight Paper，占总投稿量的2.2%，该类论文代表会议程序委员会高度认可的优质创新成果，具备突出的研究价值与应用前景。王一鸣老师团队成果入选ICML 2026 Spotlight Paper我院王一鸣老师作为第一作者、肖甫教授为通讯作者的研究论文《Asymmetric Multi"
+        "2026-05-25 喜报！我院两项研究成果被顶级会议ICML 2026录用 近日，第43届国际机器学习会议（International Conference on Machine Learning, ICML 2026）正式公布论文录用结果，我院科研团队再创佳绩，两项原创研究论文成功被会议录用，其中一篇入选会议焦点论文（Spotlight Paper），充分展现了我院在人工智能与机器学习领域扎实的科研实力与创新能力。ICML是人工智能与机器学习领域顶级国际学术会议，为中国计算机学会推荐的A类顶级会议，与NeurIPS、ICLR并称机器学习领域三大代表性顶会，在全球学术界与工业界具有极高影响力。本届ICML 2026投稿竞争尤为激烈，共收到全球有效投稿23918篇，较去年实现翻倍增长，最终仅录用6352篇论文，整体录用率为26.6%。在录用成果中，仅有536篇论文被遴选为Spotlight Paper，占总投稿量的2.2%，该类论文代表会议程序委员会高度认可的优质创新成果，具备突出的研究价值与应用前景。王一鸣老师团队成果入选ICML 2026 Spotlight Paper我院王一鸣老师作为第一作者、肖甫教授为通讯作者的研究论文《Asymmetric Multi",
+        "喜报！我院两项研究成果被顶级会议ICML 2026录用 2026-05-25"
       ],
       "sources": [
         "https://cs.njupt.edu.cn/"
@@ -26977,6 +26978,67 @@
       ],
       "section_ids": [
         "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/2026/0611/c18738a304023/page.htm": {
+      "url": "https://cs.njupt.edu.cn/2026/0611/c18738a304023/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026 06-11 2026年计算机学院软件学院网络空间安全学院申请考核制招收博士研究生资格审查通过考生名单（第三轮）",
+        "2026年计算机学院软件学院网络空间安全学院申请考核制招收博士研究生资格审查通过考生名单（第三轮）"
+      ],
+      "sources": [
+        "https://cs.njupt.edu.cn/",
+        "https://cs.njupt.edu.cn/18738/list.htm"
+      ],
+      "section_ids": [
+        "cs_notice"
+      ],
+      "status_code": 200
+    },
+    "https://cs.njupt.edu.cn/2026/0611/c18738a304013/page.htm": {
+      "url": "https://cs.njupt.edu.cn/2026/0611/c18738a304013/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026 06-11 中共预备党员拟转正公示",
+        "中共预备党员拟转正公示",
+        "首页",
+        "关闭此页"
+      ],
+      "sources": [
+        "https://cs.njupt.edu.cn/",
+        "https://cs.njupt.edu.cn/18738/list.htm",
+        "https://cs.njupt.edu.cn/2026/0611/c18738a304013/page.htm"
+      ],
+      "section_ids": [
+        "cs_notice"
+      ],
+      "status_code": 200
+    },
+    "https://cs.njupt.edu.cn/2026/0611/c18739a304014/page.htm": {
+      "url": "https://cs.njupt.edu.cn/2026/0611/c18739a304014/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "homepage_link_recorded",
+      "labels": [
+        "2026-06-05 魏强教授来我院讲授“ctDNA甲基化的泛癌种早筛的研究和CRC肿瘤异质性解析”学术报告 2026年6月4日下午，中国药科大学原创药物研究院教授、博士生导师、国家级人才获得者、江苏省产业技术研究院“集萃研究员”魏强教授应邀来计算机学院、软件学院、网络空间安全学院作题为《ctDNA甲基化的泛癌种早筛的研究和CRC肿瘤异质性解析》的专题学术报告。报告由李云教授主持，学院师生参加了本次学术交流活动。报告伊始，魏强教授介绍了中国药科大学原创药物研究院的发展定位、科研布局及近年来取得的重要成果。他指出，原创药物研究院聚焦重大疾病防治需求，围绕创新药物研发和精准医学开展前沿研究，致力于推动基础研究成果向临床应用转化。随后，魏强教授围绕“ctDNA甲基化泛癌种早筛”展开深入讲解。针对肿瘤早期筛查领域面临的挑战，他系统介绍了循环肿瘤DNA（ctDNA）甲基化检测技术的研究进展及其在多癌种早期筛查中的应用价值。在“肿瘤异质性研究”部分，魏强教授重点解析了结直肠癌（CRC）发生、发展及转移过程中的异质性特征。他详细阐述了肿瘤细胞在遗传和表观遗传层面的动态演化机制，并介绍了团队在结直肠癌转移机制研究方面取得的重要成果。交流环节中，现场师生围绕肿瘤早筛技术、肿瘤异质性分析方法、人工智能赋能药物研发"
+      ],
+      "sources": [
+        "https://cs.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://cs.njupt.edu.cn/_images/error/error.gif": {
+      "url": "https://cs.njupt.edu.cn/_images/error/error.gif",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0611/c18738a304013/page.htm"
+      ],
+      "section_ids": [
+        "cs_notice"
       ]
     }
   }

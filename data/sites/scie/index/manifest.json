@@ -1,6 +1,6 @@
 {
   "site_id": "scie",
-  "generated_at": "2026-06-08T05:58:34.500988+00:00",
+  "generated_at": "2026-06-11T03:03:46.176537+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 57,
@@ -11,7 +11,7 @@
     "attachments": 0,
     "external_links": 8,
     "edges": 653,
-    "url_outcomes": 1953
+    "url_outcomes": 1955
   },
   "outcomes": {
     "crawled_detail_ok": 533,
@@ -19,7 +19,7 @@
     "crawled_list_ok": 40,
     "cross_domain_article_link_recorded": 1,
     "external_link_recorded": 7,
-    "homepage_link_recorded": 65,
+    "homepage_link_recorded": 67,
     "inline_image_recorded": 1306
   },
   "errors": [],
@@ -25446,6 +25446,30 @@
       "section_ids": [
         "scie_events"
       ]
+    },
+    "https://scie.njupt.edu.cn/2026/0611/c2890a304024/page.htm": {
+      "url": "https://scie.njupt.edu.cn/2026/0611/c2890a304024/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "homepage_link_recorded",
+      "labels": [
+        "《人工智能概论》教材编写人员资格审核情况公示"
+      ],
+      "sources": [
+        "https://scie.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://scie.njupt.edu.cn/2026/0611/c2890a304001/page.htm": {
+      "url": "https://scie.njupt.edu.cn/2026/0611/c2890a304001/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "homepage_link_recorded",
+      "labels": [
+        "2026年通信与信息工程学院申请考核制招收博士研究生资格审查通过考生名单（第三轮）"
+      ],
+      "sources": [
+        "https://scie.njupt.edu.cn/"
+      ],
+      "section_ids": []
     }
   }
 }

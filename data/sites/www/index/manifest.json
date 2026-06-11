@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-10T02:41:06.780243+00:00",
+  "generated_at": "2026-06-11T02:47:43.824504+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 131,
     "homepage_modules": 0,
     "list_pages": 7,
-    "detail_pages": 93,
-    "low_content_detail_pages": 20,
-    "attachments": 23,
+    "detail_pages": 94,
+    "low_content_detail_pages": 21,
+    "attachments": 22,
     "external_links": 49,
-    "edges": 641,
-    "url_outcomes": 415
+    "edges": 642,
+    "url_outcomes": 417
   },
   "outcomes": {
     "attachment_metadata_only": 23,
-    "crawled_detail_ok": 93,
+    "crawled_detail_ok": 94,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 7,
     "cross_domain_article_link_recorded": 2,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 70,
-    "inline_image_recorded": 177,
+    "inline_image_recorded": 178,
     "section_list_page_recorded": 3
   },
   "errors": [],
@@ -2583,7 +2583,8 @@
         "2025 12.17 关于第15周周末封闭仙林校区部分教学楼的通知"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/72/list.htm"
+        "https://www.njupt.edu.cn/72/list.htm",
+        "https://www.njupt.edu.cn/72/list2.htm"
       ],
       "section_ids": [
         "www_notice"
@@ -2943,7 +2944,8 @@
         "2025 06.10 关于举办南京邮电大学第四届大学生网络文化节和网络教育优秀作品..."
       ],
       "sources": [
-        "https://www.njupt.edu.cn/72/list2.htm"
+        "https://www.njupt.edu.cn/72/list2.htm",
+        "https://www.njupt.edu.cn/72/list3.htm"
       ],
       "section_ids": [
         "www_notice"
@@ -3261,10 +3263,13 @@
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "2025 04.14 关于申报学校第二批思想政治工作质量提升综合改革与精品建设项目..."
+        "2025 04.14 关于申报学校第二批思想政治工作质量提升综合改革与精品建设项目...",
+        "首页",
+        "关闭此页"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/72/list3.htm"
+        "https://www.njupt.edu.cn/72/list3.htm",
+        "https://www.njupt.edu.cn/2025/0425/c72a282420/page.htm"
       ],
       "section_ids": [
         "www_notice"
@@ -5858,7 +5863,8 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://www.njupt.edu.cn/2025/0925/c72a289417/page.htm"
+        "https://www.njupt.edu.cn/2025/0925/c72a289417/page.htm",
+        "https://www.njupt.edu.cn/2025/0425/c72a282420/page.htm"
       ],
       "section_ids": [
         "www_notice"
@@ -5963,6 +5969,33 @@
       ],
       "section_ids": [
         "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/2026/0611/c72a303994/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0611/c72a303994/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026 06.10 关于6月14日仙林校区实施临时交通管制的通知"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/72/list.htm"
+      ],
+      "section_ids": [
+        "www_notice"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/2c/8d/9b6330524f139ae9d48c32fb45c3/eace9959-d4fc-4846-b98f-9ad1f94724b0.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/2c/8d/9b6330524f139ae9d48c32fb45c3/eace9959-d4fc-4846-b98f-9ad1f94724b0.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0611/c72a303994/page.htm"
+      ],
+      "section_ids": [
+        "www_notice"
       ]
     }
   }
