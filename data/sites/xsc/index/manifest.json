@@ -1,6 +1,6 @@
 {
   "site_id": "xsc",
-  "generated_at": "2026-06-10T09:58:10.664769+00:00",
+  "generated_at": "2026-06-12T10:12:09.704312+00:00",
   "totals": {
     "sections": 34,
     "nav_nodes": 30,
@@ -10,7 +10,7 @@
     "low_content_detail_pages": 113,
     "attachments": 17,
     "external_links": 75,
-    "edges": 1878,
+    "edges": 1876,
     "url_outcomes": 6418
   },
   "outcomes": {

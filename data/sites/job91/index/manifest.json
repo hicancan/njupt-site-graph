@@ -1,6 +1,6 @@
 {
   "site_id": "job91",
-  "generated_at": "2026-06-12T02:43:09.555448+00:00",
+  "generated_at": "2026-06-12T10:25:31.143657+00:00",
   "totals": {
     "sections": 29,
     "nav_nodes": 29,
@@ -4000,6 +4000,21 @@
       ],
       "status_code": 200
     },
+    "https://njupt.91job.org.cn/sub-station/news/5406A396D61C6053E0630100007F8018": {
+      "url": "https://njupt.91job.org.cn/sub-station/news/5406A396D61C6053E0630100007F8018",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "蔡霈涵同学专利授权证明公示"
+      ],
+      "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3604"
+      ],
+      "section_ids": [
+        "job91_8a47e2520d1b"
+      ],
+      "status_code": 200
+    },
     "https://njupt.91job.org.cn/sub-station/news/53DFB2927E8DDE26E0630100007F46F1": {
       "url": "https://njupt.91job.org.cn/sub-station/news/53DFB2927E8DDE26E0630100007F46F1",
       "target_type": "detail_article_page",
@@ -5778,21 +5793,6 @@
       "outcome": "crawled_detail_ok",
       "labels": [
         "陈思憬推荐表遗失公示"
-      ],
-      "sources": [
-        "https://njupt.91job.org.cn/sub-station/list/3604"
-      ],
-      "section_ids": [
-        "job91_8a47e2520d1b"
-      ],
-      "status_code": 200
-    },
-    "https://njupt.91job.org.cn/sub-station/news/131E9B24F28C4201E0630100007F63BB": {
-      "url": "https://njupt.91job.org.cn/sub-station/news/131E9B24F28C4201E0630100007F63BB",
-      "target_type": "detail_article_page",
-      "outcome": "crawled_detail_ok",
-      "labels": [
-        "覃程程推荐表遗失公示"
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/list/3604"

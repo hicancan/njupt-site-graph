@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-11T16:00:16.656664+00:00",
+  "generated_at": "2026-06-12T10:23:24.424620+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -899,12 +899,12 @@
       "position": 76
     },
     {
-      "node_id": "1cd51758d140fdc4be9b",
+      "node_id": "4aa1c60bdd3abfb61251",
       "site_id": "www",
-      "label": "【青海新闻联播】南邮研支团青海分队奔赴青海",
-      "url": "https://www.njupt.edu.cn/2026/0506/c17125a301395/page.htm",
+      "label": "【中国社会科学网】探寻美国汉学历史脉络",
+      "url": "https://www.njupt.edu.cn/2026/0607/c17125a303649/page.htm",
       "nav_path": [
-        "【青海新闻联播】南邮研支团青海分队奔赴青海"
+        "【中国社会科学网】探寻美国汉学历史脉络"
       ],
       "depth": 1,
       "target_type": "detail_article_page",
