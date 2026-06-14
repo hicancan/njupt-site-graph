@@ -11,6 +11,14 @@ def test_update_sitegraph_workflow_runs_incremental_every_six_hours():
     assert 'python scripts/commit_generated_changes.py' in text
     assert '--add data/sites/*/index/' in text
     assert '--ref-output sitegraph_ref' in text
+    assert 'read-site-matrix:' in text
+    assert 'crawl-site:' in text
+    assert 'commit-and-dispatch:' in text
+    assert 'max-parallel: 6' in text
+    assert 'matrix:' in text
+    assert 'site: ${{ fromJson(needs.read-site-matrix.outputs.sites) }}' in text
+    assert 'sitegraph-package-${{ matrix.site }}' in text
+    assert 'actions/download-artifact@v7' in text
     assert 'git push' not in text
 
 
@@ -50,8 +58,10 @@ def test_update_workflow_uses_site_registry():
     workflow = Path('.github/workflows/update-sitegraph-data.yml')
     text = workflow.read_text(encoding='utf-8')
     assert 'scripts/sitegraph_registry.py validate-configs' in text
-    assert 'scripts/sitegraph_registry.py crawl --incremental --incremental-known-page-stop 2 --incremental-refresh-frontier 3' in text
+    assert 'scripts/sitegraph_registry.py validate-configs --include "${{ matrix.site }}"' in text
+    assert 'scripts/sitegraph_registry.py crawl --incremental --include "${{ matrix.site }}" --incremental-known-page-stop 2 --incremental-refresh-frontier 3' in text
     assert 'scripts/sitegraph_registry.py summary' in text
+    assert 'scripts/sitegraph_registry.py summary --include "${{ matrix.site }}"' in text
 
 
 def test_generated_commit_helper_retries_push_after_rebase():

@@ -65,9 +65,38 @@ jobs:
             -F client_payload[sitegraph_changed]="false" \
             -F client_payload[dispatch_reason]="manual_dispatch_only"
 
-  update-sitegraph-data:
+  read-site-matrix:
     if: github.event_name != 'workflow_dispatch' || github.event.inputs.dispatch_only != 'true'
     runs-on: ubuntu-latest
+    outputs:
+      sites: ${{ steps.sites.outputs.sites }}
+    steps:
+      - name: Checkout njupt-site-graph
+        uses: actions/checkout@v6
+
+      - name: Read registered sites
+        id: sites
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import json
+          from pathlib import Path
+
+          registry = json.loads(Path("configs/site_registry.json").read_text(encoding="utf-8"))
+          site_ids = [str(site["id"]) for site in registry["sites"]]
+          if not site_ids:
+              raise SystemExit("configs/site_registry.json contains no sites")
+          print("sites=" + json.dumps(site_ids, ensure_ascii=False, separators=(",", ":")))
+          PY
+
+  crawl-site:
+    if: github.event_name != 'workflow_dispatch' || github.event.inputs.dispatch_only != 'true'
+    runs-on: ubuntu-latest
+    needs: read-site-matrix
+    strategy:
+      fail-fast: false
+      max-parallel: 6
+      matrix:
+        site: ${{ fromJson(needs.read-site-matrix.outputs.sites) }}
     steps:
       - name: Checkout njupt-site-graph
         uses: actions/checkout@v6
@@ -90,15 +119,90 @@ jobs:
           python -m pip install -e _framework/static-site-graph[dev]
           python -m pip install -e .[dev]
 
-      - name: Validate site configs
-        run: python scripts/sitegraph_registry.py validate-configs
+      - name: Validate site config
+        run: python scripts/sitegraph_registry.py validate-configs --include "${{ matrix.site }}"
 
-      - name: Incrementally update sitegraph packages
-        run: python scripts/sitegraph_registry.py crawl --incremental --incremental-known-page-stop 2 --incremental-refresh-frontier 3
+      - name: Incrementally update one sitegraph package
+        run: python scripts/sitegraph_registry.py crawl --incremental --include "${{ matrix.site }}" --incremental-known-page-stop 2 --incremental-refresh-frontier 3
+
+      - name: Summarize generated package
+        run: python scripts/sitegraph_registry.py summary --include "${{ matrix.site }}"
+
+      - name: Stage site package artifact
+        run: |
+          mkdir -p "_site-package/${{ matrix.site }}"
+          cp -R "data/sites/${{ matrix.site }}/index" "_site-package/${{ matrix.site }}/index"
+
+      - name: Upload site package artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: sitegraph-package-${{ matrix.site }}
+          path: _site-package/${{ matrix.site }}/
+          if-no-files-found: error
+          retention-days: 1
+
+  commit-and-dispatch:
+    if: github.event_name != 'workflow_dispatch' || github.event.inputs.dispatch_only != 'true'
+    runs-on: ubuntu-latest
+    needs: crawl-site
+    steps:
+      - name: Checkout njupt-site-graph
+        uses: actions/checkout@v6
+
+      - name: Checkout static-site-graph
+        uses: actions/checkout@v6
+        with:
+          repository: hicancan/static-site-graph
+          path: _framework/static-site-graph
+
+      - name: Download site package artifacts
+        uses: actions/download-artifact@v7
+        with:
+          path: _sitegraph-artifacts
+          pattern: sitegraph-package-*
+
+      - name: Overlay site package artifacts
+        run: |
+          shopt -s nullglob
+          restored=0
+          for artifact_dir in _sitegraph-artifacts/sitegraph-package-*; do
+            site="${artifact_dir##*/sitegraph-package-}"
+            if [ -d "$artifact_dir/$site/index" ]; then
+              package_index="$artifact_dir/$site/index"
+            elif [ -d "$artifact_dir/index" ]; then
+              package_index="$artifact_dir/index"
+            else
+              echo "::error::Artifact for $site does not contain an index directory."
+              find "$artifact_dir" -maxdepth 3 -type d -print
+              exit 1
+            fi
+            rm -rf "data/sites/$site/index"
+            mkdir -p "data/sites/$site"
+            cp -R "$package_index" "data/sites/$site/index"
+            restored=$((restored + 1))
+          done
+          if [ "$restored" -eq 0 ]; then
+            echo "::error::No sitegraph package artifacts were restored."
+            exit 1
+          fi
+          echo "Restored $restored sitegraph package artifacts."
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install -U pip
+          python -m pip install -e _framework/static-site-graph[dev]
+          python -m pip install -e .[dev]
 
       - name: Validate generated packages
         run: |
           python -m pytest
+          python scripts/sitegraph_registry.py validate-configs
           python scripts/sitegraph_registry.py summary
 
       - name: Commit sitegraph data changes
