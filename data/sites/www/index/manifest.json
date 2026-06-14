@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-12T10:23:22.616679+00:00",
+  "generated_at": "2026-06-14T08:59:50.039314+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 131,
     "homepage_modules": 0,
     "list_pages": 7,
-    "detail_pages": 96,
+    "detail_pages": 97,
     "low_content_detail_pages": 21,
     "attachments": 22,
     "external_links": 50,
     "edges": 642,
-    "url_outcomes": 422
+    "url_outcomes": 425
   },
   "outcomes": {
     "attachment_metadata_only": 23,
-    "crawled_detail_ok": 96,
+    "crawled_detail_ok": 97,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 7,
     "cross_domain_article_link_recorded": 2,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 71,
-    "inline_image_recorded": 179,
+    "inline_image_recorded": 181,
     "section_list_page_recorded": 3
   },
   "errors": [],
@@ -3880,7 +3880,8 @@
         "2026 05.28 南邮党委理论学习中心组举行集体学习会 5月28日下午，南京邮电大学党委理论学习中心组举行集体学习会。校党委书记、党委理论学习中心组组长郭宇锋主持学习会，校长叶美兰列席会议。南邮党委理论中心组召开集体学习会 会上，郭宇锋领学习近平总书记关于树立和践行正确政绩观的重要讲话重要指示精神。全体成员观看学习习近平总书记在加强基础研究座谈会上的重要讲话视频。郭宇锋和校党委副书记王友国领学《习近平总书记在浙江工作期间树立和践行正确政绩观的理论和实践》。校党委常委、副校长姜小舜和派驻纪检监察组组长、纪委书记周和林领学中央层面公开通报的典型问题。 王友国、姜小舜、周和林结合工作实际，分别作重点发言。 会议要求，学校各级党组织和党员干部要有力有序推进树立和践行正确政绩观学习教育各项任务，坚决避免“重始轻终”。会议强调，要深化认识，坚持改造主观世界与改造客观世界相统一，坚持不懈用习近平新时代中国特色社会主义思想凝心铸魂，持之以恒加强党性修养。要乘势而为，坚决贯彻落实党中央关于教育的决策部署，切实答好建设教育强国、科技强国、人才强国，江苏发展新质生产力走在前列和智能时代高校发展的“必答题”。要狠抓落实，树立真抓实干的实践导向，推动管党治"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -4733,7 +4734,8 @@
         "2026 05.20 南邮学生获“正大杯”第十六届全国大学生市场调查与分析大赛总决赛一等奖 5月16日至17日，“正大杯”第十六届全国大学生市场调查与分析大赛研究生组暨在华留学生组全国总决赛在郑州举行。南京邮电大学获在华留学生组一等奖3项。获奖情况参赛师生 大赛由中国商业统计学会主办，已发展成为国内具有广泛影响力的国家级学科竞赛平台。自2019年起，大赛连续多年入选《全国普通高校学科竞赛榜单》，在推动来华留学生全面了解中国市场发展环境、产业体系与创新格局，促进高素质复合型人才培养等方面发挥了重要作用。本届大赛紧密对接国家战略需求，致力于打通课堂-赛场-产业育人链条，全国109所高校的175支研究生组团队和99所院校的155支在华留学生组团队进入总决赛。（撰稿：范畅 初审：汤美玲、葛敏、王海艳 编辑：王存宏 审核：张丰）"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -6071,6 +6073,47 @@
         "https://www.njupt.edu.cn/"
       ],
       "section_ids": []
+    },
+    "https://www.njupt.edu.cn/2026/0614/c53a304371/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0614/c53a304371/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.06.13 南邮举办“数智时代图书出版和高校馆配新生态”研讨会",
+        "2026 06.13 南邮举办“数智时代图书出版和高校馆配新生态”研讨会 6月12日，“数智时代图书出版和高校馆配新生态”主题研讨会在南京邮电大学仙林校区举办。江苏省高等学校图书情报工作委员会副秘书长罗钧，省图工委主任李爱国，南京大学、东南大学、南京农业大学等省内高校图书馆、公共图书馆及其他兄弟单位的100余位图书馆行业专家参会，聚焦专业学术图书智能出版、图书馆纸电资源建设、高校馆配新生态服务模式等议题进行交流。会议现场 南邮副校长胡纵宇致辞，强调以开放的心态、前瞻的视野，推动知识出版服务与图书馆数智化转型的深度融合，南邮图书馆要依托学校学科优势，持续深化智慧图书馆建设，进一步打通数据、共享资源、协同创新，携手构建图书出版与高校馆配的新生态。罗钧指出，在高校图书馆面临文献资源建设经费紧张的情况下，“纸电同采”模式应运而生，并成为图书馆纸质文献与数字资源协同建设的重要途径，要通过馆、社、店三方携手合作，充分发挥纸电同采在图书馆文献资源建设的作用。 主旨分享环节，与会行业专家、出版机构代表、院校业务骨干围绕纸电融合建设难点、实施路径、创新实践展开多层次、专业化研讨。东南大学图书馆馆长李爱国提出，高校图书馆馆藏建设须顺应开放科学和人工智能大背景, 突破传统"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/a9/00/1b3dbb77416dba7edbb160e0d876/cd261192-b82d-4f26-93d3-cf82ee0023ec.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/a9/00/1b3dbb77416dba7edbb160e0d876/cd261192-b82d-4f26-93d3-cf82ee0023ec.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0614/c53a304371/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/a9/00/1b3dbb77416dba7edbb160e0d876/c3c73b6d-ebee-4937-9a56-d776dce995da.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/a9/00/1b3dbb77416dba7edbb160e0d876/c3c73b6d-ebee-4937-9a56-d776dce995da.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0614/c53a304371/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-12T10:23:24.424620+00:00",
+  "generated_at": "2026-06-14T08:59:52.426746+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -759,7 +759,21 @@
       "position": 66
     },
     {
-      "node_id": "ffb840ba39a43acee5c6",
+      "node_id": "8daa1d8b38b43c42141b",
+      "site_id": "www",
+      "label": "2026.06.13 南邮举办“数智时代图书出版和高校馆配新生态”研讨会",
+      "url": "https://www.njupt.edu.cn/2026/0614/c53a304371/page.htm",
+      "nav_path": [
+        "2026.06.13 南邮举办“数智时代图书出版和高校馆配新生态”研讨会"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 67
+    },
+    {
+      "node_id": "b9d617610c2441a53936",
       "site_id": "www",
       "label": "2026.06.11 南邮教师获全国高校思政课教学展示二等奖",
       "url": "https://www.njupt.edu.cn/2026/0611/c53a304124/page.htm",
@@ -770,10 +784,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 67
+      "position": 68
     },
     {
-      "node_id": "4e8d103f674a52c84256",
+      "node_id": "2e9c168f549e0a8667c1",
       "site_id": "www",
       "label": "2026.06.10 南邮牵头组队征战省运会职工部篮球赛获冠军",
       "url": "https://www.njupt.edu.cn/2026/0610/c53a303932/page.htm",
@@ -784,10 +798,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 68
+      "position": 69
     },
     {
-      "node_id": "88831b8f8ff7cf95c66e",
+      "node_id": "1aa39f8865b00b8a084e",
       "site_id": "www",
       "label": "2026.06.08 第十六届全国大学生电子商务“创新、创意及创业” 挑战赛江苏省选拔赛在南邮举行",
       "url": "https://www.njupt.edu.cn/2026/0611/c53a304011/page.htm",
@@ -798,29 +812,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 69
+      "position": 70
     },
     {
-      "node_id": "5aa003bfc31bdd2173b6",
+      "node_id": "570aebbb61b1ca35ca36",
       "site_id": "www",
       "label": "2026.06.05 南邮与国家广电总局广播电视规划院、江苏省广电总台、江苏省文化科技控股集团战略合作框架协议签约仪式举行",
       "url": "https://www.njupt.edu.cn/2026/0605/c53a303513/page.htm",
       "nav_path": [
         "2026.06.05 南邮与国家广电总局广播电视规划院、江苏省广电总台、江苏省文化科技控股集团战略合作框架协议签约仪式举行"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 70
-    },
-    {
-      "node_id": "9e7aca6410ce6de09706",
-      "site_id": "www",
-      "label": "2026.06.04 南邮召开警示教育会",
-      "url": "https://www.njupt.edu.cn/2026/0604/c53a303369/page.htm",
-      "nav_path": [
-        "2026.06.04 南邮召开警示教育会"
       ],
       "depth": 1,
       "target_type": "detail_article_page",
