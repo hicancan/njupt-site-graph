@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-15T11:41:25.002143+00:00",
+  "generated_at": "2026-06-15T16:51:27.672782+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 131,
     "homepage_modules": 0,
     "list_pages": 7,
-    "detail_pages": 98,
+    "detail_pages": 100,
     "low_content_detail_pages": 21,
     "attachments": 22,
     "external_links": 50,
     "edges": 642,
-    "url_outcomes": 435
+    "url_outcomes": 443
   },
   "outcomes": {
     "attachment_metadata_only": 23,
-    "crawled_detail_ok": 98,
+    "crawled_detail_ok": 100,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 7,
     "cross_domain_article_link_recorded": 2,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 71,
-    "inline_image_recorded": 190,
+    "inline_image_recorded": 196,
     "section_list_page_recorded": 3
   },
   "errors": [],
@@ -1062,7 +1062,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/",
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -3715,7 +3716,8 @@
         "2026 06.02 “泰州日”走进南京邮电大学城市推介暨产才融合对接会举行 6月1日下午，“泰”有引力·“海”好“邮”你——“泰州日”走进南京邮电大学城市推介暨产才融合对接会在南京邮电大学仙林校区安恒青春剧场举行。 泰州市委书记姜冬冬，市委常委、组织部部长周恒新，市委常委、秘书长叶冬华，海陵区委书记刘剑波，南邮党委书记郭宇锋，校长叶美兰，党委常委、副校长刘青山、谢平出席对接会。泰州市相关单位（部门）负责人，各市（区）委组织部及相关科室负责人，海陵区相关单位（部门）、重点镇街园区、区属国有企业负责人，泰州市重点企业负责人，海陵区相关学校代表，南邮相关部门、学院负责人，专家教授、校友代表和学生代表参加对接会。“泰州日”走进南京邮电大学 郭宇锋致欢迎辞，向与会嘉宾表示热烈欢迎，向长期关心支持南邮事业发展的泰州市委市政府、海陵区委区政府表示衷心感谢。他说，泰州作为长三角地区的重要节点城市，产业基础扎实、创新氛围浓厚、发展势头强劲，双方深化合作、携手同行的前景广阔、大有可为。南邮和泰州有“共生共荣”的产业基因、“共建共享”的人才理念和“共融共进”的奋斗精神，期待以本次“泰州日”为契机，校地双方在平台共建、产业共兴、人才共育、学科共融等方面深度携手，共同为“强富美"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -3814,7 +3816,8 @@
         "2026 05.30 南邮博士研究生以实践成果申请博士学位顺利通过答辩 5月28日，南京邮电大学博士研究生实践成果答辩会在计算机学科楼举行。电子信息专业学位博士研究生刘力凯以实践成果《面向云平台管控面的加速技术及系统》顺利通过答辩，成为江苏省属高校首位以实践成果申请博士专业学位并通过答辩的研究生。这是南邮在深化博士专业学位研究生教育评价改革、探索卓越工程技术人才培养新路径方面取得阶段性成效。答辩现场从左至右：校内导师肖甫、刘力凯、企业导师朱夏 答辩会邀请包含企业专家在内的相关领域专家学者组成答辩委员会。刘力凯系统汇报了实践成果的工程背景、关键技术、系统实现、实验验证、应用成效及产业价值，并就答辩委员会提出的问题作详细回应。答辩委员会认为，该成果面向云平台管控面系统级加速的核心工程问题，在提升裸金属部署效率、网络运行稳定性及大规模训练场景下的网络仿真效率方面取得重要突破，具有显著工程应用价值和产业推广潜力。 在校内导师肖甫教授以及企业导师华为技术有限公司朱夏高级工程师的共同指导下，刘力凯持续聚焦云平台、系统加速和网络仿真一线，围绕企业真实研发需求开展联合攻关，构建了覆盖“交付加速—运行协同—仿真推演”的云平台管控面系统级加速能力体系，实现了从资源供给"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -4609,7 +4612,8 @@
         "2026 05.21 南邮召开就业工作大会 5月20日下午，南京邮电大学就业工作大会在仙林校区图书馆运满满报告厅召开。校党委书记郭宇锋，校长叶美兰，党委副书记王友国，副校长肖甫、谢平出席会议。会议由叶美兰主持。会议现场 会上，中国电信江苏公司云网运营部（技术人才办公室）副总经理、南邮2006级校友韩啸和中兴通讯华东区招聘调配总监赵启杭从产业发展的视角，分别针对企业未来的转型方向和人才需求进行交流。本科生院、研究生院、学生工作处分别就本科生培养工作、研究生培养工作和就业工作作了专题汇报。集成电路科学与工程学院（产教融合学院）、物联网学院、现代邮政学院、智慧交通学院结合学院特色，分享了就业工作的思路举措和典型经验。 会议充分肯定就业工作的阶段性成效。会议强调，就业工作是检验立德树人成效的重要标尺，必须压紧压实责任，主动适应新兴产业和用人标准的升级，把南邮就业的“金字招牌”擦得更亮。要提高政治站位、压实主体责任，将就业工作贯穿人才培养全过程，实现招生、培养、就业“三位一体”协同推进；要深化产教融合、提升素质能力，强化学生AI核心素养，推动培养方案与产业同频共振，筑牢就业核心根基；要正视形势挑战、强化精准发力，树立就业“全周期”"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -6238,6 +6242,112 @@
       "labels": [],
       "sources": [
         "https://www.njupt.edu.cn/2026/0615/c53a304915/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/2026/0615/c53a304929/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0615/c53a304929/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.06.15 郭宇锋书记赴哈萨克斯坦出席江苏—中亚国家产教融合交流会 拓展南邮国际合作新格局",
+        "2026 06.15 郭宇锋书记赴哈萨克斯坦出席江苏—中亚国家产教融合交流会 拓展南邮国际合作新格局 6月12日上午，江苏省人民政府、哈萨克斯坦科学与高等教育部、乌兹别克斯坦高等教育、科学与创新部共同主办的“江苏—中亚国家产教融合交流会”，在哈萨克斯坦首都阿斯塔纳举行。 江苏省委书记信长星出席并讲话，哈萨克斯坦科学与高等教育部副部长迪娜拉·里纳托夫娜·舍格洛娃，乌兹别克斯坦高等教育、科学与创新部第一副部长拉贾博夫·萨尔多尔·巴赫季约罗维奇，中华人民共和国驻哈萨克斯坦大使韩春霖，中国—中亚机制秘书长孙炜东致辞。哈萨克斯坦教育部副部长希娜尔·阿克帕罗娃，江苏省委副秘书长、办公厅主任尹卫东，省商务厅、省外办相关负责同志出席活动。省教育厅厅长江涌主持交流会并发布江苏—中亚国家教育合作交流成果。南京邮电大学党委书记郭宇锋应邀与会。 在交流展环节，郭宇锋向信长星汇报南京邮电大学卓越工程师人才培养建设成果，重点汇报学校对标国家涉外工程人才培育战略，与哈萨克斯坦卡拉干达萨金诺夫技术大学共建“海外卓越工程师学院”项目建设进展及规划。信长星对南邮依托自身办学特色、积极探索中亚领域科教合作的前瞻性布局予以肯定。他表示，培育涉外卓越工程师，契合共建“一带一路”高质量发展的人才需求，希望南邮加强多方协同"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/2026/0615/c53a304930/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0615/c53a304930/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.06.14 南邮举办数智时代思政课教学改革与新时代马克思主义学院高质量建设研讨会",
+        "2026 06.14 南邮举办数智时代思政课教学改革与新时代马克思主义学院高质量建设研讨会 6月11日，“数智时代思政课教学改革与新时代马克思主义学院高质量建设研讨会”在南京邮电大学仙林校区举办。南邮校长叶美兰、副校长谢平出席，相关职能部门负责人和学科团队教师等参加研讨会。会议现场 来自中山大学、西南交通大学、南京师范大学、济南大学、曲阜师范大学、青岛理工大学、南京信息工程大学、南京林业大学等高校的马克思主义理论领域专家学者，聚焦数智技术赋能思政课堂创新、马克思主义学院内涵式高质量发展核心议题，开展深度学术研讨与经验交流。 叶美兰指出，立足数智时代高等教育发展新形势，数字化转型对高校思政课守正创新、提质增效有重要意义。新时代马克思主义学院建设需主动拥抱数智技术，打破传统教学壁垒、创新育人模式、夯实学科根基，期待与会专家深入交流研讨、凝聚智慧共识，为高校思政课教学改革、马院特色化高质量发展赋能聚力。 会上，各位专家围绕数智技术融入思政课堂路径、教学模式创新、师资队伍建设、学科平台搭建、科研育人融合、区域马院协同共建等关键问题分享研究成果与办学实践，剖析当前思政教学改革痛点难点，共同探讨新时代马院高质量建设实施路径。与会人员充分交流先进办学经验，凝聚改革共识，明确以数字"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/4d/b0/e932cd18477daddfae305546cec2/794865d8-9b8e-463a-b4d1-8092b8080506.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/4d/b0/e932cd18477daddfae305546cec2/794865d8-9b8e-463a-b4d1-8092b8080506.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0615/c53a304929/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/4d/b0/e932cd18477daddfae305546cec2/ec16266a-a8c6-49c6-9107-7568a1a4b5eb.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/4d/b0/e932cd18477daddfae305546cec2/ec16266a-a8c6-49c6-9107-7568a1a4b5eb.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0615/c53a304929/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/4d/b0/e932cd18477daddfae305546cec2/d92e1118-0cd6-481e-adb1-895644e68e47.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/4d/b0/e932cd18477daddfae305546cec2/d92e1118-0cd6-481e-adb1-895644e68e47.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0615/c53a304929/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/4d/b0/e932cd18477daddfae305546cec2/7f548615-9448-48dd-adaf-d2eacfa20cbb.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/4d/b0/e932cd18477daddfae305546cec2/7f548615-9448-48dd-adaf-d2eacfa20cbb.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0615/c53a304929/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/4d/b0/e932cd18477daddfae305546cec2/5c5c3e76-84cf-4909-a7d9-7bd25ce9b4e8.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/4d/b0/e932cd18477daddfae305546cec2/5c5c3e76-84cf-4909-a7d9-7bd25ce9b4e8.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0615/c53a304929/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/51/6c/0f9201804fc1aebeba15997ba82d/f480b424-dfda-4fa1-8f52-f4d8ac8fa7bd.png": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/51/6c/0f9201804fc1aebeba15997ba82d/f480b424-dfda-4fa1-8f52-f4d8ac8fa7bd.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0615/c53a304930/page.htm"
       ],
       "section_ids": [
         "www_news"
