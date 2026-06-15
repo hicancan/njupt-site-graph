@@ -1,21 +1,21 @@
 {
   "site_id": "lib",
-  "generated_at": "2026-06-15T02:31:35.814000+00:00",
+  "generated_at": "2026-06-15T11:41:24.128601+00:00",
   "totals": {
     "sections": 42,
     "nav_nodes": 31,
     "homepage_modules": 0,
     "list_pages": 116,
-    "detail_pages": 1141,
+    "detail_pages": 1142,
     "low_content_detail_pages": 77,
     "attachments": 108,
     "external_links": 510,
     "edges": 1722,
-    "url_outcomes": 3857
+    "url_outcomes": 3858
   },
   "outcomes": {
     "attachment_metadata_only": 107,
-    "crawled_detail_ok": 1106,
+    "crawled_detail_ok": 1107,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 116,
     "cross_domain_article_link_recorded": 3,
@@ -1228,6 +1228,7 @@
         "https://lib.njupt.edu.cn/2011/0601/c1416a15701/page.htm",
         "https://lib.njupt.edu.cn/2011/0601/c1416a15701/page.htm",
         "https://lib.njupt.edu.cn/2011/0601/c1416a15701/page.htm",
+        "https://lib.njupt.edu.cn/2011/0601/c1416a15701/page.htm",
         "https://lib.njupt.edu.cn/2011/0601/c1416a15701/page.htm"
       ],
       "section_ids": [
@@ -1778,7 +1779,8 @@
         "关于开展2024年度“阅读之星”评选活动的通知"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1429/list.htm"
+        "https://lib.njupt.edu.cn/1429/list.htm",
+        "https://lib.njupt.edu.cn/1429/list2.htm"
       ],
       "section_ids": [
         "lib_notice"
@@ -2161,7 +2163,8 @@
         "图书馆端午节开放通知"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1429/list2.htm"
+        "https://lib.njupt.edu.cn/1429/list2.htm",
+        "https://lib.njupt.edu.cn/1429/list3.htm"
       ],
       "section_ids": [
         "lib_notice"
@@ -6328,6 +6331,7 @@
         "https://lib.njupt.edu.cn/1421/list.htm",
         "https://lib.njupt.edu.cn/_t83/1421/list.htm",
         "https://lib.njupt.edu.cn/2015/0701/c1430a16181/page.htm",
+        "https://lib.njupt.edu.cn/2015/0701/c1430a16178/page.htm",
         "https://lib.njupt.edu.cn/2015/0701/c1430a16178/page.htm",
         "https://lib.njupt.edu.cn/2015/0701/c1430a16178/page.htm",
         "https://lib.njupt.edu.cn/2015/0701/c1430a16178/page.htm",
@@ -11294,6 +11298,11 @@
         "https://lib.njupt.edu.cn/2011/0602/c1430a16043/page.htm",
         "https://lib.njupt.edu.cn/2011/0602/c1430a16064/page.htm",
         "https://lib.njupt.edu.cn/2011/0906/c1430a16116/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16074/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16041/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16043/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16064/page.htm",
+        "https://lib.njupt.edu.cn/2011/0906/c1430a16116/page.htm",
         "https://lib.njupt.edu.cn/2011/0602/c1430a16074/page.htm"
       ],
       "section_ids": [
@@ -11551,6 +11560,11 @@
         "https://lib.njupt.edu.cn/2011/0602/c1430a16013/page.htm",
         "https://lib.njupt.edu.cn/2011/0602/c1430a16017/page.htm",
         "https://lib.njupt.edu.cn/2011/0602/c1430a16030/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16038/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16039/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16024/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16060/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16035/page.htm",
         "https://lib.njupt.edu.cn/2011/0602/c1430a16038/page.htm",
         "https://lib.njupt.edu.cn/2011/0602/c1430a16039/page.htm",
         "https://lib.njupt.edu.cn/2011/0602/c1430a16024/page.htm",
@@ -52775,6 +52789,22 @@
       "section_ids": [
         "lib_home_link_a7ce4abf4855"
       ]
+    },
+    "https://lib.njupt.edu.cn/2026/0615/c1429a304778/page.htm": {
+      "url": "https://lib.njupt.edu.cn/2026/0615/c1429a304778/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "图书馆关于2026年端午节开放安排的通知"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/",
+        "https://lib.njupt.edu.cn/1429/list.htm"
+      ],
+      "section_ids": [
+        "lib_notice"
+      ],
+      "status_code": 200
     }
   }
 }
