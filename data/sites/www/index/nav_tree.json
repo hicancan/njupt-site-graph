@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-15T16:51:30.525158+00:00",
+  "generated_at": "2026-06-16T16:19:43.310685+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -759,7 +759,35 @@
       "position": 66
     },
     {
-      "node_id": "94d463eb7fb5888971a1",
+      "node_id": "79810ba763ab73ce142e",
+      "site_id": "www",
+      "label": "2026.06.16 南邮举行2026届本科生毕业典礼暨学位授予仪式",
+      "url": "https://www.njupt.edu.cn/2026/0616/c53a305026/page.htm",
+      "nav_path": [
+        "2026.06.16 南邮举行2026届本科生毕业典礼暨学位授予仪式"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 67
+    },
+    {
+      "node_id": "40325e89f18675d6174e",
+      "site_id": "www",
+      "label": "2026.06.16 南邮承办“数智时代的人口与社会治理”研讨会",
+      "url": "https://www.njupt.edu.cn/2026/0616/c53a305020/page.htm",
+      "nav_path": [
+        "2026.06.16 南邮承办“数智时代的人口与社会治理”研讨会"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 68
+    },
+    {
+      "node_id": "a2ed8d249f9ca50ea1a3",
       "site_id": "www",
       "label": "2026.06.15 郭宇锋书记赴哈萨克斯坦出席江苏—中亚国家产教融合交流会 拓展南邮国际合作新格局",
       "url": "https://www.njupt.edu.cn/2026/0615/c53a304929/page.htm",
@@ -770,10 +798,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 67
+      "position": 69
     },
     {
-      "node_id": "62c84caaef9947843e48",
+      "node_id": "a3bcf1b1b267330fcb63",
       "site_id": "www",
       "label": "2026.06.15 南邮举行2026届研究生毕业典礼暨学位授予仪式",
       "url": "https://www.njupt.edu.cn/2026/0615/c53a304915/page.htm",
@@ -784,43 +812,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 68
+      "position": 70
     },
     {
-      "node_id": "ea66ec808f13fd8a881e",
+      "node_id": "0a9e30c3aaebe0a26226",
       "site_id": "www",
       "label": "2026.06.14 南邮举办数智时代思政课教学改革与新时代马克思主义学院高质量建设研讨会",
       "url": "https://www.njupt.edu.cn/2026/0615/c53a304930/page.htm",
       "nav_path": [
         "2026.06.14 南邮举办数智时代思政课教学改革与新时代马克思主义学院高质量建设研讨会"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 69
-    },
-    {
-      "node_id": "e611f69afd961a98679b",
-      "site_id": "www",
-      "label": "2026.06.13 南邮举办“数智时代图书出版和高校馆配新生态”研讨会",
-      "url": "https://www.njupt.edu.cn/2026/0614/c53a304371/page.htm",
-      "nav_path": [
-        "2026.06.13 南邮举办“数智时代图书出版和高校馆配新生态”研讨会"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 70
-    },
-    {
-      "node_id": "f369085a7a42867acf5f",
-      "site_id": "www",
-      "label": "2026.06.11 南邮教师获全国高校思政课教学展示二等奖",
-      "url": "https://www.njupt.edu.cn/2026/0611/c53a304124/page.htm",
-      "nav_path": [
-        "2026.06.11 南邮教师获全国高校思政课教学展示二等奖"
       ],
       "depth": 1,
       "target_type": "detail_article_page",
@@ -1333,26 +1333,26 @@
       "position": 107
     },
     {
-      "node_id": "e570f2e0e201c7dc8750",
+      "node_id": "11407daef75ddceb5af2",
       "site_id": "www",
-      "label": "直击南邮2026年主题晚会，邮梦远航！",
-      "url": "https://mp.weixin.qq.com/s/91Uw645LjOgsP1pM20Axyg",
+      "label": "青春不散场！共赴南邮2026届本科生毕业盛典！",
+      "url": "https://www.njupt.edu.cn/2026/0616/c17127a305025/page.htm",
       "nav_path": [
-        "直击南邮2026年主题晚会，邮梦远航！"
+        "青春不散场！共赴南邮2026届本科生毕业盛典！"
       ],
       "depth": 1,
-      "target_type": "external_link",
-      "same_domain": false,
+      "target_type": "detail_article_page",
+      "same_domain": true,
       "parent_id": null,
       "position": 109
     },
     {
-      "node_id": "92b8d0ef58fc92d51a04",
+      "node_id": "76f4ee10291d98f321d4",
       "site_id": "www",
-      "label": "如果你一不小心考上南邮",
-      "url": "https://v.kuaishou.com/KXwsqYD3",
+      "label": "毕业MV《凤凰花开的路口》",
+      "url": "https://v.kuaishou.com/n9V0111y",
       "nav_path": [
-        "如果你一不小心考上南邮"
+        "毕业MV《凤凰花开的路口》"
       ],
       "depth": 1,
       "target_type": "external_link",
@@ -1375,12 +1375,12 @@
       "position": 111
     },
     {
-      "node_id": "affd6f1be905f0f64458",
+      "node_id": "654cf54def0367035721",
       "site_id": "www",
-      "label": "840架无人机点亮南邮毕业晚会夜空",
-      "url": "https://v.douyin.com/tc1PZgpvySw/",
+      "label": "一架架纸飞机载满少年鸿志，一面面横幅盛满母校牵挂。",
+      "url": "https://v.douyin.com/4yYLy5jN6X0/",
       "nav_path": [
-        "840架无人机点亮南邮毕业晚会夜空"
+        "一架架纸飞机载满少年鸿志，一面面横幅盛满母校牵挂。"
       ],
       "depth": 1,
       "target_type": "external_link",
@@ -1389,12 +1389,12 @@
       "position": 112
     },
     {
-      "node_id": "f9b82061a9d530b3adce",
+      "node_id": "eda72bafe7db88a274f2",
       "site_id": "www",
-      "label": "2026.06.05 四方携手签约，开启科教融汇新篇章！",
-      "url": "https://mp.weixin.qq.com/s/YSi6br4vogD3-KfZDzsU-w",
+      "label": "2026.06.15 邮梦启新程！直击南邮2026届研究生毕业典礼！",
+      "url": "https://mp.weixin.qq.com/s/M-kilXwU6ecS3NGBwOlbgQ",
       "nav_path": [
-        "2026.06.05 四方携手签约，开启科教融汇新篇章！"
+        "2026.06.15 邮梦启新程！直击南邮2026届研究生毕业典礼！"
       ],
       "depth": 1,
       "target_type": "external_link",
@@ -1403,12 +1403,12 @@
       "position": 113
     },
     {
-      "node_id": "7e060a42ff919832efcc",
+      "node_id": "185be43d9da637b15afe",
       "site_id": "www",
-      "label": "2026.06.04 高考倒计时3天，未来“邮”你执笔！",
-      "url": "https://mp.weixin.qq.com/s/Z3O_963sOsiLMhLz1d5MnQ",
+      "label": "2026.06.14 “南”忘，“邮”你！",
+      "url": "https://mp.weixin.qq.com/s/h_oaEfDGO5bOcuEDDeGK_A",
       "nav_path": [
-        "2026.06.04 高考倒计时3天，未来“邮”你执笔！"
+        "2026.06.14 “南”忘，“邮”你！"
       ],
       "depth": 1,
       "target_type": "external_link",
@@ -1417,12 +1417,12 @@
       "position": 114
     },
     {
-      "node_id": "c10ed26c1b0a8557d456",
+      "node_id": "a6b664a022c63d98ce86",
       "site_id": "www",
-      "label": "2026.06.03 祝贺！南邮原校长杨震当选欧美同学会（中国留学人员联谊会）第九届理事会会长",
-      "url": "https://mp.weixin.qq.com/s/RmuvI-LfcWJIpqgeJELsFQ",
+      "label": "2026.06.11 辩论赛+创意市集，直击南邮“清廉杯”决赛现场！",
+      "url": "https://mp.weixin.qq.com/s/GgIaKZA-HD5CEmNImBSNeQ",
       "nav_path": [
-        "2026.06.03 祝贺！南邮原校长杨震当选欧美同学会（中国留学人员联谊会）第九届理事会会长"
+        "2026.06.11 辩论赛+创意市集，直击南邮“清廉杯”决赛现场！"
       ],
       "depth": 1,
       "target_type": "external_link",
@@ -1431,12 +1431,12 @@
       "position": 115
     },
     {
-      "node_id": "c11954f4bbc8ae6d434c",
+      "node_id": "531979f559c59671d228",
       "site_id": "www",
-      "label": "2026.06.03 和校长共进午餐！他们共话成长与未来！",
-      "url": "https://mp.weixin.qq.com/s/hNzW2VZKCRg8H2E-nGp70g",
+      "label": "2026.06.08 刷新记录！4金2银4铜！",
+      "url": "https://mp.weixin.qq.com/s/iF161RKCBr-ABIpxaKJX7w",
       "nav_path": [
-        "2026.06.03 和校长共进午餐！他们共话成长与未来！"
+        "2026.06.08 刷新记录！4金2银4铜！"
       ],
       "depth": 1,
       "target_type": "external_link",

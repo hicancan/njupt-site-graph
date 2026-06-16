@@ -1,29 +1,29 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-15T16:51:27.672782+00:00",
+  "generated_at": "2026-06-16T16:19:41.038549+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 131,
     "homepage_modules": 0,
     "list_pages": 7,
-    "detail_pages": 100,
+    "detail_pages": 102,
     "low_content_detail_pages": 21,
     "attachments": 22,
-    "external_links": 50,
+    "external_links": 49,
     "edges": 642,
-    "url_outcomes": 443
+    "url_outcomes": 468
   },
   "outcomes": {
     "attachment_metadata_only": 23,
-    "crawled_detail_ok": 100,
+    "crawled_detail_ok": 102,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 7,
     "cross_domain_article_link_recorded": 2,
-    "external_link_recorded": 37,
+    "external_link_recorded": 43,
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 2,
-    "homepage_link_recorded": 71,
-    "inline_image_recorded": 196,
+    "homepage_link_recorded": 72,
+    "inline_image_recorded": 212,
     "section_list_page_recorded": 3
   },
   "errors": [],
@@ -1273,7 +1273,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/",
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -3641,7 +3642,8 @@
         "2026 06.03 南邮三个专业接受全国工程教育专业认证联合现场考查 6月1日至2日，中国工程教育专业认证联合专家组对南京邮电大学电气工程及其自动化、电子信息工程、广播电视工程三个专业进行工程教育认证现场考查。 沈阳航空航天大学孙小平教授任联合专家组组长和电气工程及其自动化专业组组长，西安电子科技大学李勇朝教授任电子信息工程专业组组长，湖南大学黎福海教授任广播电视工程专业组组长。成员包括天津大学刘丽萍教授，杭州电子科技大学游彬教授，中国航天科技集团五院五一三所张玉兔正高级工程师，郑州大学宋家友教授。秘书由新疆工业学院崔传贞副研究员、福建农林大学陈益芳副研究员、江西理工大学敖建锋副教授担任。 6月1日上午，现场考查见面会在仙林校区中兴报告厅举行。专家组全体成员，南邮校长叶美兰教授、党委副书记王友国教授，以及相关职能部门、自动化学院、通信与信息工程学院负责人与专业骨干教师参加会议。 叶美兰致欢迎辞并简要介绍学校概况及三个专业的发展特色：电气工程及其自动化聚焦电力与智能制造，实现强弱电学科交叉；电子信息工程是学校信息类专业集群核心，重在锤炼学生工程创新能力；广播电视工程立足通信优势，面向智能视听、融合媒体产业育人。 孙小平说明了现场考查的目的、内容"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -4414,7 +4416,8 @@
         "2026 05.23 省科技厅厅长徐光辉到南邮调研指导概念验证中心建设工作 5月22日，江苏省科学技术厅党组书记、厅长徐光辉到南京邮电大学调研概念验证中心建设工作。省科技厅党组成员、副厅长蔡英凤，栖霞区委书记、南京经济技术开发区党工委书记、仙林大学城党工委书记孙海东，校党委书记郭宇锋，校党委常委、副校长刘青山参加调研。 徐光辉在概念验证中心展厅听取了南邮新一代信息技术概念验证中心的工作汇报，了解中心在体制机制构建、项目培育孵化、资源统筹协调等方面的工作进展，着重调研中心在推动前沿科研成果从实验室走向产业化、赋能地方产业升级方面取得的实际成效。部分概念验证项目进行了成果展示，徐光辉与项目团队科研人员深入交流，详细了解技术原理、应用场景、市场前景及转化落地情况，对项目团队的创新精神和转化成果给予充分肯定，并鼓励项目团队充分发挥概念验证的桥梁作用，面向行业痛点，积极开展原创性前沿性颠覆性技术攻关与转化应用，将高质量科研成果真正转化为现实生产力，进而引领技术变革、产业变革、市场变革。 徐光辉还实地考察了概念验证中心服务场所，了解正在进行工程化及产业化合作项目的洽谈情况，关心项目落地进展。 徐光辉在调研中指出，南邮新一代信息技术概念验证中心开展的全周期概念验证"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -4453,7 +4456,8 @@
         "2026 05.23 南邮举办“星光耀研途 卓越向未来”2026年研究生“时代新人”培育论坛暨研究生表彰大会 5月22日下午，南京邮电大学“星光耀研途 卓越向未来”2026年研究生“时代新人”培育论坛暨研究生表彰大会在仙林校区举行。副校长肖甫、谢平出席活动。 大会伊始，全体师生观看纪录片《研行中华·燃创未来——南京邮电大学“卓越领航”硕博实践团专项实践活动成果纪实》。纪录片展示了南邮学生扎根祖国大地、服务社会发展的青春担当。 会议充分肯定了过去一年研究生在党建引领、学术科研、创新创业、社会实践等方面取得的突出成绩。学校始终坚持立德树人根本任务，以研究生成长成才为中心，系统构建“四融四力”工作体系，着力培养德智体美劳全面发展的时代新人。希望全体研究生赓续红色血脉，厚植信息报国的家国情怀；勇立创新潮头，练就搏击未来的过硬本领；肩负时代使命，砥砺实干担当的青春底色。 在研究生“时代新人”培育论坛环节，校第四届“德育之星”获得者李子君，2025年研究生国家奖学金获得者、校第六届硕士研究生“十大学术之星”周诗涵，2025年度“中国大学生自强之星”、第十九届“挑战杯”大学生课外学术科技作品竞赛国赛一等奖获得者雷蕾，校第三届社会实践和志愿服务“十佳研究生”刘小婷，校第八届大学生年度人物、第二批研究"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -6348,6 +6352,316 @@
       "labels": [],
       "sources": [
         "https://www.njupt.edu.cn/2026/0615/c53a304930/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/2026/0616/c53a305026/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0616/c53a305026/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.06.16 南邮举行2026届本科生毕业典礼暨学位授予仪式",
+        "2026 06.16 南邮举行2026届本科生毕业典礼暨学位授予仪式 6月16日上午，南京邮电大学2026届本科生毕业典礼暨学位授予仪式在仙林校区体育馆举行。 校党委书记郭宇锋，校长叶美兰，颜晓红教授，校党委常委、副校长姜小舜，派驻纪检监察组组长、党委常委、纪委书记周和林，校党委常委、副校长肖甫、谢平、周亮出席毕业典礼。校学位评定委员会委员，相关职能部门和各学院负责人、教师代表以及学校安保、宿管、环卫、食堂等岗位代表和本科生家长参加毕业典礼。毕业典礼由校党委副书记王友国主持。 毕业典礼在庄严的国歌中拉开帷幕。 王友国宣读优秀本科毕业生表彰决定，郭宇锋为优秀本科毕业生代表颁发优秀毕业生荣誉证书。 贝尔英才学院通信工程专业李佳轩同学作为本科毕业生代表发言。他感恩母校培养，表示将带着“信达天下，自强不息”的南邮精神，传承“忠贞不渝、使命必达”的战邮底色，立志以专业所长守护国家安全，在强国征程中贡献青春力量。 南邮第28届研究生支教团即将整装启程，郭宇锋为研究生支教团出征授旗。 谢平为2026届校友联络员代表颁发聘书、赠送礼物。 校首届“师德楷模”，计算机学院、软件学院、网络空间安全学院胡素君教授作为教师代表发言。她寄语毕业生们：接纳人生偶尔"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/2026/0616/c53a305020/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0616/c53a305020/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.06.16 南邮承办“数智时代的人口与社会治理”研讨会",
+        "2026 06.16 南邮承办“数智时代的人口与社会治理”研讨会 6月13日，由中国人口学会指导、首都经济贸易大学《人口与经济》编辑部主办、南京邮电大学社会与人口学院承办的“数智时代的人口与社会治理”研讨会在南京举行。会议现场 中国人民大学一级教授、中国人口学会名誉会长翟振武，南邮副校长谢平，《人口与经济》主编童玉芬，中国人口学会会长杨文庄分别致辞。来自中国人民大学、中国社会科学院、南开大学、复旦大学等高校和科研机构的近百名专家学者参会。 会议聚焦数智技术变革与人口结构转型交汇背景下的社会治理创新，旨在推动构建中国特色人口学自主知识体系，为人口高质量发展支撑中国式现代化提供学术支撑。 主旨发言环节，中国人民大学杜鹏教授系统阐述“数智时代的老龄社会治理”路径，提出要构建多元协同的包容性治理体系，实现从“被动保障”向“主动赋能”转型。中国人民大学陆杰华教授围绕“人工智能赋能基本养老服务”主题，提出通过“普惠兜底+伦理审查+人机共生”的规制路径，实现技术向善与治理温度的平衡。南开大学原新教授聚焦“‘十五五’时期劳动年龄人口新观察”，认为需从“年龄松绑”转向“价值赋能”，构建代际协同的就业支持体系。中国社会科学院王广州研究员展示了部署专业大模型、构"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/2026/0616/c17127a305025/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0616/c17127a305025/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "homepage_link_recorded",
+      "labels": [
+        "青春不散场！共赴南邮2026届本科生毕业盛典！"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://v.kuaishou.com/n9V0111y": {
+      "url": "https://v.kuaishou.com/n9V0111y",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "毕业MV《凤凰花开的路口》"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://v.douyin.com/4yYLy5jN6X0/": {
+      "url": "https://v.douyin.com/4yYLy5jN6X0/",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "一架架纸飞机载满少年鸿志，一面面横幅盛满母校牵挂。"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://mp.weixin.qq.com/s/M-kilXwU6ecS3NGBwOlbgQ": {
+      "url": "https://mp.weixin.qq.com/s/M-kilXwU6ecS3NGBwOlbgQ",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "2026.06.15 邮梦启新程！直击南邮2026届研究生毕业典礼！"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://mp.weixin.qq.com/s/h_oaEfDGO5bOcuEDDeGK_A": {
+      "url": "https://mp.weixin.qq.com/s/h_oaEfDGO5bOcuEDDeGK_A",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "2026.06.14 “南”忘，“邮”你！"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://mp.weixin.qq.com/s/GgIaKZA-HD5CEmNImBSNeQ": {
+      "url": "https://mp.weixin.qq.com/s/GgIaKZA-HD5CEmNImBSNeQ",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "2026.06.11 辩论赛+创意市集，直击南邮“清廉杯”决赛现场！"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://mp.weixin.qq.com/s/iF161RKCBr-ABIpxaKJX7w": {
+      "url": "https://mp.weixin.qq.com/s/iF161RKCBr-ABIpxaKJX7w",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "2026.06.08 刷新记录！4金2银4铜！"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/d00098ea-9b68-4c19-914a-8161954d3ec8.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/d00098ea-9b68-4c19-914a-8161954d3ec8.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0616/c53a305026/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/1b059ddd-2870-407e-9d87-b95ab42adc96.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/1b059ddd-2870-407e-9d87-b95ab42adc96.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0616/c53a305026/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/bcf0cd18-b71a-472d-ac68-b094392d487f.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/bcf0cd18-b71a-472d-ac68-b094392d487f.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0616/c53a305026/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/a56b8b14-18e9-4032-8588-1e5edb055e27.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/a56b8b14-18e9-4032-8588-1e5edb055e27.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0616/c53a305026/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/b5ec2950-739b-46f4-b6c2-56cb6ed01e23.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/b5ec2950-739b-46f4-b6c2-56cb6ed01e23.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0616/c53a305026/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/c9e5b635-552a-460d-88cc-e0da6508fed2.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/c9e5b635-552a-460d-88cc-e0da6508fed2.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0616/c53a305026/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/621244b5-9326-4007-8c7e-fd7620f7e465.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/621244b5-9326-4007-8c7e-fd7620f7e465.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0616/c53a305026/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/51a990b7-5802-44d6-aecd-08f93ba65bff.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/51a990b7-5802-44d6-aecd-08f93ba65bff.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0616/c53a305026/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/a3cf9b57-8a41-4b93-a32e-febe1a4be7e7.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/a3cf9b57-8a41-4b93-a32e-febe1a4be7e7.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0616/c53a305026/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/5597dd73-2270-4b79-b8a2-ff3499be02d1.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/5597dd73-2270-4b79-b8a2-ff3499be02d1.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0616/c53a305026/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/8d1870b4-163e-4f17-afab-78350343072b.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/8d1870b4-163e-4f17-afab-78350343072b.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0616/c53a305026/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/d34a33cd-f0b2-48fd-a60b-9253ff8c0594.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/d34a33cd-f0b2-48fd-a60b-9253ff8c0594.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0616/c53a305026/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/85ed16c9-9a1c-4e35-8e70-7385ee99bf8f.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/6f/5e/219d3ef94e419a4e5193cd345ac0/85ed16c9-9a1c-4e35-8e70-7385ee99bf8f.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0616/c53a305026/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/d5/c7/e3576a5c49569d0428c727edc038/ddfeb4c9-4717-4a24-822b-1f7c24556b9c.png": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/d5/c7/e3576a5c49569d0428c727edc038/ddfeb4c9-4717-4a24-822b-1f7c24556b9c.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0616/c53a305020/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/d5/c7/e3576a5c49569d0428c727edc038/f0d4f5f8-b0c2-46ee-9592-f6c9a0ee76cd.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/d5/c7/e3576a5c49569d0428c727edc038/f0d4f5f8-b0c2-46ee-9592-f6c9a0ee76cd.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0616/c53a305020/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/d5/c7/e3576a5c49569d0428c727edc038/d5431f60-6ff8-47c1-86c0-49b810ca695c.png": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/d5/c7/e3576a5c49569d0428c727edc038/d5431f60-6ff8-47c1-86c0-49b810ca695c.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0616/c53a305020/page.htm"
       ],
       "section_ids": [
         "www_news"
