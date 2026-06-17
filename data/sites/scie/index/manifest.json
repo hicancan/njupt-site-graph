@@ -1,26 +1,26 @@
 {
   "site_id": "scie",
-  "generated_at": "2026-06-15T11:45:43.214687+00:00",
+  "generated_at": "2026-06-17T14:51:24.665071+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 57,
     "homepage_modules": 2,
     "list_pages": 40,
-    "detail_pages": 534,
+    "detail_pages": 538,
     "low_content_detail_pages": 2,
     "attachments": 0,
     "external_links": 8,
-    "edges": 653,
-    "url_outcomes": 1957
+    "edges": 654,
+    "url_outcomes": 1968
   },
   "outcomes": {
-    "crawled_detail_ok": 533,
+    "crawled_detail_ok": 537,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 40,
     "cross_domain_article_link_recorded": 1,
     "external_link_recorded": 7,
     "homepage_link_recorded": 69,
-    "inline_image_recorded": 1306
+    "inline_image_recorded": 1313
   },
   "errors": [],
   "quality": {
@@ -804,7 +804,8 @@
       "outcome": "crawled_detail_ok",
       "labels": [
         "特等奖！通信学院舞蹈《殇》用艺术重塑民族记忆，震撼全场！",
-        "03 2026-06 特等奖！通信学院舞蹈《殇》用艺术重塑民族记忆，震撼全场！ 5月13日，我校“同心共舞 美美与共”舞蹈比赛在安恒青春剧场隆重举行。经激烈角逐与专业评审，通信与信息工程学院、材料与信息工程学院联袂演绎的舞蹈作品《殇》，凭借精湛的艺术表现力与强烈的民族共鸣震撼全场，斩获特等奖，丁杨、齐小凤老师荣获“优秀指导教师奖”。 山河呜咽忆峥嵘，岁月沉殇念家国。舞蹈以南京大屠杀为背景，极具冲击力的肢体语言，用艺术重塑民族记忆。作品以战火中一对失散的少年兄妹为叙事主线，聚焦浩劫之中离散重逢的动人历程。用悲壮深沉的群舞场面，再现同胞同仇敌忾、患难与共的抗争图景，遍布血泪的悲痛中透露出中国人民顽强不屈的精神与品格。 夜幕垂落，蓝紫光影铺满舞台，二月兰意象贯穿始终。这种在严寒中绽放的花朵，象征着坚韧不拔的意志与爱和希望的永恒。 舞者们层层相依、相拥匍匐，以堆叠错落的造型完成谢幕定格。明暗光影交织，沉敛的姿态饱含对遇难同胞的致敬与缅怀，将民族苦难的悲壮、同心坚守的力量凝于一瞬。 以舞铭记历史，以行致敬山河。舞蹈《殇》不仅是一段对苦难岁月的深情回望，更是一曲民族同心、时代共进的礼赞。从剧目选题到排演打磨，从情感表达到价值引领，学院始终将家国情怀与时代担当贯穿于"
+        "03 2026-06 特等奖！通信学院舞蹈《殇》用艺术重塑民族记忆，震撼全场！ 5月13日，我校“同心共舞 美美与共”舞蹈比赛在安恒青春剧场隆重举行。经激烈角逐与专业评审，通信与信息工程学院、材料与信息工程学院联袂演绎的舞蹈作品《殇》，凭借精湛的艺术表现力与强烈的民族共鸣震撼全场，斩获特等奖，丁杨、齐小凤老师荣获“优秀指导教师奖”。 山河呜咽忆峥嵘，岁月沉殇念家国。舞蹈以南京大屠杀为背景，极具冲击力的肢体语言，用艺术重塑民族记忆。作品以战火中一对失散的少年兄妹为叙事主线，聚焦浩劫之中离散重逢的动人历程。用悲壮深沉的群舞场面，再现同胞同仇敌忾、患难与共的抗争图景，遍布血泪的悲痛中透露出中国人民顽强不屈的精神与品格。 夜幕垂落，蓝紫光影铺满舞台，二月兰意象贯穿始终。这种在严寒中绽放的花朵，象征着坚韧不拔的意志与爱和希望的永恒。 舞者们层层相依、相拥匍匐，以堆叠错落的造型完成谢幕定格。明暗光影交织，沉敛的姿态饱含对遇难同胞的致敬与缅怀，将民族苦难的悲壮、同心坚守的力量凝于一瞬。 以舞铭记历史，以行致敬山河。舞蹈《殇》不仅是一段对苦难岁月的深情回望，更是一曲民族同心、时代共进的礼赞。从剧目选题到排演打磨，从情感表达到价值引领，学院始终将家国情怀与时代担当贯穿于",
+        "03 2026-06 特等奖！通信学院舞蹈《殇》用艺术重塑民族记忆，震撼全场！"
       ],
       "sources": [
         "https://scie.njupt.edu.cn/",
@@ -821,7 +822,8 @@
       "outcome": "crawled_detail_ok",
       "labels": [
         "通信与信息工程学院党委举行2026年度全面从严治党暨廉政责任书签订仪式",
-        "01 2026-06 通信与信息工程学院党委举行2026年度全面从严治党暨廉政责任书签订仪式 5月29日，通信与信息工程学院党委在科研楼208会议室举行2026年度全面从严治党暨廉政责任书签订仪式。学院领导班子成员、科职干部、各党支部书记以及系、所（院）、中心负责人参加了会议。会议由学院党委副书记兼纪检委员王小露主持。 王小露在主持时指出，举行责任书签订仪式，是学院深入学习贯彻习近平总书记关于全面从严治党重要论述的具体行动。她强调，仪式不仅是一种庄严的形式，更是明确各级党组织主体责任、强化“一岗双责”意识的重要举措。要通过构建“横向到边、纵向到底”的责任链条，引导广大党员干部坚持以人民为中心的发展思想，为学院的高质量发展提供坚强的政治保障。 仪式上，学院党委书记徐雷先后与党委委员、各党支部书记签订了《全面从严治党责任书》，与非党员院领导签订了《廉政责任书》。学院主要负责同志还与各系、所（院）、中心负责人签订了《廉政责任书》，层层压实管党治党政治责任和党风廉政建设责任。 徐雷在总结讲话中，对全体与会人员提出三点要求：一、提高站位抓落实。要深刻认识全面从严治党的战略意义，将责任书的各项要求与立德树人根本任务紧密结合，确保学院各项工作沿着正确方向前进。二、细化分工明责任。要将责"
+        "01 2026-06 通信与信息工程学院党委举行2026年度全面从严治党暨廉政责任书签订仪式 5月29日，通信与信息工程学院党委在科研楼208会议室举行2026年度全面从严治党暨廉政责任书签订仪式。学院领导班子成员、科职干部、各党支部书记以及系、所（院）、中心负责人参加了会议。会议由学院党委副书记兼纪检委员王小露主持。 王小露在主持时指出，举行责任书签订仪式，是学院深入学习贯彻习近平总书记关于全面从严治党重要论述的具体行动。她强调，仪式不仅是一种庄严的形式，更是明确各级党组织主体责任、强化“一岗双责”意识的重要举措。要通过构建“横向到边、纵向到底”的责任链条，引导广大党员干部坚持以人民为中心的发展思想，为学院的高质量发展提供坚强的政治保障。 仪式上，学院党委书记徐雷先后与党委委员、各党支部书记签订了《全面从严治党责任书》，与非党员院领导签订了《廉政责任书》。学院主要负责同志还与各系、所（院）、中心负责人签订了《廉政责任书》，层层压实管党治党政治责任和党风廉政建设责任。 徐雷在总结讲话中，对全体与会人员提出三点要求：一、提高站位抓落实。要深刻认识全面从严治党的战略意义，将责任书的各项要求与立德树人根本任务紧密结合，确保学院各项工作沿着正确方向前进。二、细化分工明责任。要将责",
+        "01 2026-06 通信与信息工程学院党委举行2026年度全面从严治党暨廉政责任书签订仪式"
       ],
       "sources": [
         "https://scie.njupt.edu.cn/",
@@ -838,7 +840,8 @@
       "outcome": "crawled_detail_ok",
       "labels": [
         "南邮与苏北人民医院共建医疗人工智能实验室",
-        "27 2026-05 南邮与苏北人民医院共建医疗人工智能实验室 5月27日下午，南京邮电大学与苏北人民医院合作共建医疗人工智能实验室签约暨揭牌仪式在扬州举行，标志着校院医工协同合作迈入全方位、深层次、高质量发展新阶段。南京邮电大学校长叶美兰，党委常委、副校长刘青山，扬州市政府副市长刘流，扬州市政协副主席、苏北人民医院党委书记赵国祥，扬州市卫生健康委党委书记尹成雷，苏北人民医院党委副书记、院长王永祥，南邮对外联络处处长盛利、产业合作处处长顾亦然、通信与信息工程学院党委书记徐雷、副院长郭永安、通达学院党委书记赵允玉、院长沈建华，智通实验室成员孙洪波、郑洁莹，以及医院院领导、职能处室负责人等共同见证这一重要时刻。活动由苏北人民医院副院长柏斗胜主持。 活动现场，叶美兰与刘流共同为南京邮电大学—苏北人民医院医疗人工智能实验室揭牌。 刘青山与王永祥代表双方签订合作协议。 赵国祥介绍了医院“人工智能+医疗健康”建设情况。他表示，人工智能应用建设需要通过战略合作、示范项目和机制创新逐步推进。近期，医院正以人工智能战略合作为抓手，全面布局人工智能在便民、助医、辅政、促研等场景的应用，医院将以此次合作为契机，依托南京邮电大学资源优势，聚焦多领域深化合作，推动"
+        "27 2026-05 南邮与苏北人民医院共建医疗人工智能实验室 5月27日下午，南京邮电大学与苏北人民医院合作共建医疗人工智能实验室签约暨揭牌仪式在扬州举行，标志着校院医工协同合作迈入全方位、深层次、高质量发展新阶段。南京邮电大学校长叶美兰，党委常委、副校长刘青山，扬州市政府副市长刘流，扬州市政协副主席、苏北人民医院党委书记赵国祥，扬州市卫生健康委党委书记尹成雷，苏北人民医院党委副书记、院长王永祥，南邮对外联络处处长盛利、产业合作处处长顾亦然、通信与信息工程学院党委书记徐雷、副院长郭永安、通达学院党委书记赵允玉、院长沈建华，智通实验室成员孙洪波、郑洁莹，以及医院院领导、职能处室负责人等共同见证这一重要时刻。活动由苏北人民医院副院长柏斗胜主持。 活动现场，叶美兰与刘流共同为南京邮电大学—苏北人民医院医疗人工智能实验室揭牌。 刘青山与王永祥代表双方签订合作协议。 赵国祥介绍了医院“人工智能+医疗健康”建设情况。他表示，人工智能应用建设需要通过战略合作、示范项目和机制创新逐步推进。近期，医院正以人工智能战略合作为抓手，全面布局人工智能在便民、助医、辅政、促研等场景的应用，医院将以此次合作为契机，依托南京邮电大学资源优势，聚焦多领域深化合作，推动",
+        "2026-05-27 南邮与苏北人民医院共建医疗人工智能实验室"
       ],
       "sources": [
         "https://scie.njupt.edu.cn/",
@@ -855,7 +858,8 @@
       "outcome": "crawled_detail_ok",
       "labels": [
         "江苏省通信学会信息通信网络专委会2026学术年会暨人工智能赋能空天地一体化网络管理与运维会召开",
-        "22 2026-05 江苏省通信学会信息通信网络专委会2026学术年会暨人工智能赋能空天地一体化网络管理与运维会召开"
+        "22 2026-05 江苏省通信学会信息通信网络专委会2026学术年会暨人工智能赋能空天地一体化网络管理与运维会召开",
+        "2026-05-22 江苏省通信学会信息通信网络专委会2026学术年会暨人工智能赋能空天地一体化网络管理与运维会召开"
       ],
       "sources": [
         "https://scie.njupt.edu.cn/",
@@ -1791,7 +1795,8 @@
         "科创筑梦启新程 赋能育人谱华章——通信与信息工程学院一站式科创社区正式揭牌"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/2889/list.htm"
+        "https://scie.njupt.edu.cn/2889/list.htm",
+        "https://scie.njupt.edu.cn/2889/list2.htm"
       ],
       "section_ids": [
         "scie_news"
@@ -1902,7 +1907,8 @@
         "南京农业大学智慧农业学院（人工智能学院）来通信学院调研交流"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/2889/list.htm"
+        "https://scie.njupt.edu.cn/2889/list.htm",
+        "https://scie.njupt.edu.cn/2889/list2.htm"
       ],
       "section_ids": [
         "scie_news"
@@ -1953,7 +1959,8 @@
         "南京邮电大学联合承办网络安全保障高精度地基授时高质量发展座谈会"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/2889/list.htm"
+        "https://scie.njupt.edu.cn/2889/list.htm",
+        "https://scie.njupt.edu.cn/2889/list2.htm"
       ],
       "section_ids": [
         "scie_news"
@@ -2646,7 +2653,8 @@
         "南邮召开2025年度教育部泛在网络健康服务系统工程研究中心暨江苏省无线通信与物联网省高校重点实验室专家委员会工作会议"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/2889/list2.htm"
+        "https://scie.njupt.edu.cn/2889/list2.htm",
+        "https://scie.njupt.edu.cn/2889/list3.htm"
       ],
       "section_ids": [
         "scie_news"
@@ -2733,7 +2741,8 @@
         "智能信息处理与通信技术省高校重点实验室学术委员会第二次全体会议召开"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/2889/list2.htm"
+        "https://scie.njupt.edu.cn/2889/list2.htm",
+        "https://scie.njupt.edu.cn/2889/list3.htm"
       ],
       "section_ids": [
         "scie_news"
@@ -2760,7 +2769,8 @@
         "三维通信向南邮捐赠设备 学校举行校企联合平台揭牌仪式"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/2889/list2.htm"
+        "https://scie.njupt.edu.cn/2889/list2.htm",
+        "https://scie.njupt.edu.cn/2889/list3.htm"
       ],
       "section_ids": [
         "scie_news"
@@ -24729,7 +24739,8 @@
         "马德里理工大学Cesar Briso-Rodríguez教授专题报告"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/hdyg/list.htm"
+        "https://scie.njupt.edu.cn/hdyg/list.htm",
+        "https://scie.njupt.edu.cn/hdyg/list2.htm"
       ],
       "section_ids": [
         "scie_events"
@@ -25170,7 +25181,8 @@
         "【通院大讲堂】北京科技大学隆克平教授将来我院作专题报告"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/hdyg/list2.htm"
+        "https://scie.njupt.edu.cn/hdyg/list2.htm",
+        "https://scie.njupt.edu.cn/hdyg/list3.htm"
       ],
       "section_ids": [
         "scie_events"
@@ -25494,6 +25506,157 @@
         "https://scie.njupt.edu.cn/"
       ],
       "section_ids": []
+    },
+    "https://scie.njupt.edu.cn/2026/0617/c2889a305089/page.htm": {
+      "url": "https://scie.njupt.edu.cn/2026/0617/c2889a305089/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "通信与信息工程学院两个专业在2026软科中国大学专业排名中获评A+",
+        "17 2026-06 通信与信息工程学院两个专业在2026软科中国大学专业排名中获评A+ 6月15日，高等教育专业评价机构软科正式发布“2026软科中国大学专业排名”。南京邮电大学共有3个专业获评A+层次，通信与信息工程学院通信工程、广播电视工程两个专业凭借卓越的办学实力与人才培养质量获评A+层次，其中通信工程专业位列全国第6名，广播电视工程专业位列全国第1名，彰显了学院在信息通信领域的深厚底蕴与学科优势。 “软科中国大学专业排名”是目前覆盖专业数量最多、参评规模最大的中国大学本科专业排名。该排名采用“学校—学科—专业”三层次专业竞争力评价框架，设置学校条件、学科支撑、专业生源、专业就业、专业条件5个指标类别和27项指标，对全国1200多所高校的6万多个本科专业点进行动态监测式评价。 此次两大专业在权威排名中取得优异成绩，是对学院长期坚持立德树人根本任务、深化教育教学改革的充分肯定，也为广大考生和家长选择优质本科专业提供了客观参考。学院将继续以国家战略需求为导向，持续优化学科专业布局，全面提升专业建设水平，为培养更多服务数字经济发展和信息通信强国建设的高素质复合型人才贡献力量。（撰稿：吴晓欢 编辑：吕瑞兰 审核：施政、徐雷）"
+      ],
+      "sources": [
+        "https://scie.njupt.edu.cn/",
+        "https://scie.njupt.edu.cn/2889/list.htm"
+      ],
+      "section_ids": [
+        "scie_news"
+      ],
+      "status_code": 200
+    },
+    "https://scie.njupt.edu.cn/2026/0617/c2889a305091/page.htm": {
+      "url": "https://scie.njupt.edu.cn/2026/0617/c2889a305091/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "通信与信息工程学院王婕获第六届江苏省高校青年教师教学竞赛工科组第一名",
+        "17 2026-06 通信与信息工程学院王婕获第六届江苏省高校青年教师教学竞赛工科组第一名 6月13日至16日，第六届江苏省高校青年教师教学竞赛暨第八届全国高校青年教师教学竞赛选拔赛决赛在南京航空航天大学天目湖校区举行。南京邮电大学通信与信息工程学院王婕老师凭借扎实深厚的教学功底、新颖独特的教学设计和精湛娴熟的教学技艺，斩获工科组特等奖（唯一），并将代表江苏省工科组教师参加第八届全国高校青年教师教学竞赛。 江苏省高校青年教师教学竞赛是省内覆盖面最广、权威性最高、影响力最大的高校青年教师教学竞技赛事之一。赛事始终坚守“以赛促教、以赛促研、以赛促改、以赛促建”的宗旨，聚焦新时代高校课堂教学改革，围绕教学设计、课堂教学、教学反思等三方面开展综合竞赛，全面考察青年教师的专业功底、教学创新能力和立德树人综合素养，是检验高校师资队伍建设成效、课堂教学质量与人才培养水平的重要省级平台。本届赛事竞争尤为激烈，全省各本科、高职院校优秀青年教师同台竞技、切磋交流，全面展示了全省广大教师优良的精神风貌、扎实的理论功底、良好的比赛状态以及出色的临场应变能力，生动诠释了“执着专注、精益求精、一丝不苟、追求卓越”的工匠精神。 此次获奖是对学院深耕教学与师资培育的充分肯定。学院将坚守育人初心，聚焦"
+      ],
+      "sources": [
+        "https://scie.njupt.edu.cn/",
+        "https://scie.njupt.edu.cn/2889/list.htm"
+      ],
+      "section_ids": [
+        "scie_news"
+      ],
+      "status_code": 200
+    },
+    "https://scie.njupt.edu.cn/2026/0617/c2889a305090/page.htm": {
+      "url": "https://scie.njupt.edu.cn/2026/0617/c2889a305090/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "图书馆学科服务走进通信与信息工程学院",
+        "17 2026-06 图书馆学科服务走进通信与信息工程学院 6月4日下午，图书馆“学科服务进学院”活动走进通信与信息工程学院。图书馆、档案馆馆长唐加山、副馆长魏建香、阚德涛，图书馆各部（室）主任及学科馆员，一流办基础学科建设科科长张羽立，通信与信息工程学院党委书记徐雷，副院长王琴，院长助理王鸿及学院多名青年教师和学生代表，就围绕图书馆如何更好地服务学院教学科研、推动信息资源与学科建设深度融合等内容，深度交流座谈。 唐加山介绍了图书馆基本情况及图书馆“学科服务进学院”活动。他指出，“学科服务进学院”活动是图书馆深化服务内涵、拓展服务领域的重要举措，活动致力于深化基础情报服务，构建全方位科研支撑体系，助力学科建设和师生科研提质增效。 图书馆学科馆员谢渝玥从本馆概况、资源支撑、学科服务等三部分作专题报告，介绍了纸质图书利用情况、江苏省高校智盟卡、读者荐购、电子资源保障体系、查收查引、知识产权等资源与服务，重点通过发文整体情况、被引情况、学科分析、发文期刊、发文作者分析、合作网络分析、论文关键词分析等，对通信与信息工程学院学科数据进行了充分分析与展示。 报告引发在场师生的浓厚兴趣，现场互动频繁。师生们还就江苏省高校智盟卡、产学研、数据库外文资"
+      ],
+      "sources": [
+        "https://scie.njupt.edu.cn/",
+        "https://scie.njupt.edu.cn/2889/list.htm"
+      ],
+      "section_ids": [
+        "scie_news"
+      ],
+      "status_code": 200
+    },
+    "https://scie.njupt.edu.cn/2026/0617/c12650a305092/page.htm": {
+      "url": "https://scie.njupt.edu.cn/2026/0617/c12650a305092/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "“企业家进高校”前沿大课堂：AI构建未来交通生命体"
+      ],
+      "sources": [
+        "https://scie.njupt.edu.cn/",
+        "https://scie.njupt.edu.cn/hdyg/list.htm"
+      ],
+      "section_ids": [
+        "scie_events"
+      ],
+      "status_code": 200
+    },
+    "https://scie.njupt.edu.cn/_upload/article/images/ba/4d/6672f2bf4822853f01cf7b32c42e/8c7ead29-9747-42ea-b216-949f98a11e7c.jpg": {
+      "url": "https://scie.njupt.edu.cn/_upload/article/images/ba/4d/6672f2bf4822853f01cf7b32c42e/8c7ead29-9747-42ea-b216-949f98a11e7c.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://scie.njupt.edu.cn/2026/0617/c2889a305091/page.htm"
+      ],
+      "section_ids": [
+        "scie_news"
+      ]
+    },
+    "https://scie.njupt.edu.cn/_upload/article/images/95/26/94abb1d6450a8c913350c3f476ef/b945bb41-90b1-416f-8559-9eac5ecf2a0e.jpg": {
+      "url": "https://scie.njupt.edu.cn/_upload/article/images/95/26/94abb1d6450a8c913350c3f476ef/b945bb41-90b1-416f-8559-9eac5ecf2a0e.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://scie.njupt.edu.cn/2026/0617/c2889a305090/page.htm"
+      ],
+      "section_ids": [
+        "scie_news"
+      ]
+    },
+    "https://scie.njupt.edu.cn/_upload/article/images/95/26/94abb1d6450a8c913350c3f476ef/8e8356d5-81c0-4266-a38c-372b3f059bac.jpg": {
+      "url": "https://scie.njupt.edu.cn/_upload/article/images/95/26/94abb1d6450a8c913350c3f476ef/8e8356d5-81c0-4266-a38c-372b3f059bac.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://scie.njupt.edu.cn/2026/0617/c2889a305090/page.htm"
+      ],
+      "section_ids": [
+        "scie_news"
+      ]
+    },
+    "https://scie.njupt.edu.cn/_upload/article/images/95/26/94abb1d6450a8c913350c3f476ef/5e75365d-c94a-4e76-a5d5-1da1d9830134.jpg": {
+      "url": "https://scie.njupt.edu.cn/_upload/article/images/95/26/94abb1d6450a8c913350c3f476ef/5e75365d-c94a-4e76-a5d5-1da1d9830134.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://scie.njupt.edu.cn/2026/0617/c2889a305090/page.htm"
+      ],
+      "section_ids": [
+        "scie_news"
+      ]
+    },
+    "https://scie.njupt.edu.cn/_upload/article/images/95/26/94abb1d6450a8c913350c3f476ef/e0f7f6f0-31a1-49f8-9332-6d6adb214b32.jpg": {
+      "url": "https://scie.njupt.edu.cn/_upload/article/images/95/26/94abb1d6450a8c913350c3f476ef/e0f7f6f0-31a1-49f8-9332-6d6adb214b32.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://scie.njupt.edu.cn/2026/0617/c2889a305090/page.htm"
+      ],
+      "section_ids": [
+        "scie_news"
+      ]
+    },
+    "https://scie.njupt.edu.cn/_upload/article/images/95/26/94abb1d6450a8c913350c3f476ef/1d65f0af-5414-4cf2-b663-f0a766fe442a.jpg": {
+      "url": "https://scie.njupt.edu.cn/_upload/article/images/95/26/94abb1d6450a8c913350c3f476ef/1d65f0af-5414-4cf2-b663-f0a766fe442a.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://scie.njupt.edu.cn/2026/0617/c2889a305090/page.htm"
+      ],
+      "section_ids": [
+        "scie_news"
+      ]
+    },
+    "https://scie.njupt.edu.cn/_upload/article/images/6f/18/ecd6ba56477885c5f3f90a5c2e4a/64bee53c-ddc2-431c-9d73-ce71fba474b1.jpg": {
+      "url": "https://scie.njupt.edu.cn/_upload/article/images/6f/18/ecd6ba56477885c5f3f90a5c2e4a/64bee53c-ddc2-431c-9d73-ce71fba474b1.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://scie.njupt.edu.cn/2026/0617/c12650a305092/page.htm"
+      ],
+      "section_ids": [
+        "scie_events"
+      ]
     }
   }
 }
