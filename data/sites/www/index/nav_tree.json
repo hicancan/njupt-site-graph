@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-16T16:19:43.310685+00:00",
+  "generated_at": "2026-06-17T02:32:03.727940+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -759,7 +759,21 @@
       "position": 66
     },
     {
-      "node_id": "79810ba763ab73ce142e",
+      "node_id": "f62214bfeb6d3e05044e",
+      "site_id": "www",
+      "label": "2026.06.16 南邮教师获省高校青年教师教学竞赛暨全国高校青年教师教学竞赛选拔赛工科组第一名",
+      "url": "https://www.njupt.edu.cn/2026/0617/c53a305043/page.htm",
+      "nav_path": [
+        "2026.06.16 南邮教师获省高校青年教师教学竞赛暨全国高校青年教师教学竞赛选拔赛工科组第一名"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 67
+    },
+    {
+      "node_id": "b451390333c3da152bda",
       "site_id": "www",
       "label": "2026.06.16 南邮举行2026届本科生毕业典礼暨学位授予仪式",
       "url": "https://www.njupt.edu.cn/2026/0616/c53a305026/page.htm",
@@ -770,10 +784,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 67
+      "position": 68
     },
     {
-      "node_id": "40325e89f18675d6174e",
+      "node_id": "58d6f35ac001f82c1b39",
       "site_id": "www",
       "label": "2026.06.16 南邮承办“数智时代的人口与社会治理”研讨会",
       "url": "https://www.njupt.edu.cn/2026/0616/c53a305020/page.htm",
@@ -784,10 +798,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 68
+      "position": 69
     },
     {
-      "node_id": "a2ed8d249f9ca50ea1a3",
+      "node_id": "9f35363308e0dae00637",
       "site_id": "www",
       "label": "2026.06.15 郭宇锋书记赴哈萨克斯坦出席江苏—中亚国家产教融合交流会 拓展南邮国际合作新格局",
       "url": "https://www.njupt.edu.cn/2026/0615/c53a304929/page.htm",
@@ -798,29 +812,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 69
+      "position": 70
     },
     {
-      "node_id": "a3bcf1b1b267330fcb63",
+      "node_id": "4d7b46a0f05837030a17",
       "site_id": "www",
       "label": "2026.06.15 南邮举行2026届研究生毕业典礼暨学位授予仪式",
       "url": "https://www.njupt.edu.cn/2026/0615/c53a304915/page.htm",
       "nav_path": [
         "2026.06.15 南邮举行2026届研究生毕业典礼暨学位授予仪式"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 70
-    },
-    {
-      "node_id": "0a9e30c3aaebe0a26226",
-      "site_id": "www",
-      "label": "2026.06.14 南邮举办数智时代思政课教学改革与新时代马克思主义学院高质量建设研讨会",
-      "url": "https://www.njupt.edu.cn/2026/0615/c53a304930/page.htm",
-      "nav_path": [
-        "2026.06.14 南邮举办数智时代思政课教学改革与新时代马克思主义学院高质量建设研讨会"
       ],
       "depth": 1,
       "target_type": "detail_article_page",
