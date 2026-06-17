@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-17T02:32:03.727940+00:00",
+  "generated_at": "2026-06-17T10:23:16.759115+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -801,12 +801,12 @@
       "position": 69
     },
     {
-      "node_id": "9f35363308e0dae00637",
+      "node_id": "71a9baf624dd73a84375",
       "site_id": "www",
-      "label": "2026.06.15 郭宇锋书记赴哈萨克斯坦出席江苏—中亚国家产教融合交流会 拓展南邮国际合作新格局",
-      "url": "https://www.njupt.edu.cn/2026/0615/c53a304929/page.htm",
+      "label": "2026.06.16 南邮联合主办“数夏——我们的节日数字化展”",
+      "url": "https://www.njupt.edu.cn/2026/0617/c53a305044/page.htm",
       "nav_path": [
-        "2026.06.15 郭宇锋书记赴哈萨克斯坦出席江苏—中亚国家产教融合交流会 拓展南邮国际合作新格局"
+        "2026.06.16 南邮联合主办“数夏——我们的节日数字化展”"
       ],
       "depth": 1,
       "target_type": "detail_article_page",
@@ -815,12 +815,12 @@
       "position": 70
     },
     {
-      "node_id": "4d7b46a0f05837030a17",
+      "node_id": "13a478c6ce422faf2f0f",
       "site_id": "www",
-      "label": "2026.06.15 南邮举行2026届研究生毕业典礼暨学位授予仪式",
-      "url": "https://www.njupt.edu.cn/2026/0615/c53a304915/page.htm",
+      "label": "2026.06.15 郭宇锋书记赴哈萨克斯坦出席江苏—中亚国家产教融合交流会 拓展南邮国际合作新格局",
+      "url": "https://www.njupt.edu.cn/2026/0615/c53a304929/page.htm",
       "nav_path": [
-        "2026.06.15 南邮举行2026届研究生毕业典礼暨学位授予仪式"
+        "2026.06.15 郭宇锋书记赴哈萨克斯坦出席江苏—中亚国家产教融合交流会 拓展南邮国际合作新格局"
       ],
       "depth": 1,
       "target_type": "detail_article_page",
@@ -1333,16 +1333,16 @@
       "position": 107
     },
     {
-      "node_id": "11407daef75ddceb5af2",
+      "node_id": "9a494c673a56f5d38919",
       "site_id": "www",
       "label": "青春不散场！共赴南邮2026届本科生毕业盛典！",
-      "url": "https://www.njupt.edu.cn/2026/0616/c17127a305025/page.htm",
+      "url": "https://mp.weixin.qq.com/s/YtmK2BdipS55Lqve-DrSsA",
       "nav_path": [
         "青春不散场！共赴南邮2026届本科生毕业盛典！"
       ],
       "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
+      "target_type": "external_link",
+      "same_domain": false,
       "parent_id": null,
       "position": 109
     },

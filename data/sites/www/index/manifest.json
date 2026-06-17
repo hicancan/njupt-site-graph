@@ -1,29 +1,29 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-17T02:32:01.317037+00:00",
+  "generated_at": "2026-06-17T10:23:14.026673+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 131,
     "homepage_modules": 0,
     "list_pages": 7,
-    "detail_pages": 103,
+    "detail_pages": 104,
     "low_content_detail_pages": 21,
     "attachments": 22,
-    "external_links": 49,
+    "external_links": 50,
     "edges": 642,
-    "url_outcomes": 470
+    "url_outcomes": 474
   },
   "outcomes": {
     "attachment_metadata_only": 23,
-    "crawled_detail_ok": 103,
+    "crawled_detail_ok": 104,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 7,
     "cross_domain_article_link_recorded": 2,
-    "external_link_recorded": 43,
+    "external_link_recorded": 44,
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 72,
-    "inline_image_recorded": 213,
+    "inline_image_recorded": 215,
     "section_list_page_recorded": 3
   },
   "errors": [],
@@ -1239,7 +1239,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/",
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -4339,7 +4340,8 @@
         "2026 05.25 南邮研究生团队获昇腾AI创新大赛-算子挑战赛年度冠军赛铜奖 5月22日，昇腾AI 创新大赛-算子挑战赛年度冠军赛在北京举行，由通信与信息工程学院王帅、孙茂茂、李豪组成的南京邮电大学研究生团队获赛事铜奖，总成绩位列全国第五（总分并列第四）。南邮通信与信息工程学院孙宁老师获优秀指导教师奖，团队事迹被央视新闻专题采访报道。 昇腾AI 原生创新算子挑战赛是华为面向AI 开发者举办的顶级赛事，也是昇腾AI 创新大赛2026系列赛事之一。算子挑战赛旨在培养精通Ascend C 算子开发的优秀开发者，鼓励选手基于CANN 的基础能力进行深度创新与实践。参赛群体涵盖北京大学、清华大学、浙江大学、中国科学技术大学、西安交通大学、北京邮电大学、西北工业大学等国内名校及企业团队，共计372支队伍、461名选手同台竞技。 南邮依托与华为“智能基座”合作基础，完善算子开发竞赛培养体系，开设Ascend C 编程与CANN 技术相关课程，强化专业指导教师团队建设，组织技术沙龙、专题讲座与赛前集训，为参赛学生提供系统化技术培训、算力支撑与全过程备赛指导。学校将持续深化校企协同育人，优化竞赛组织与培训机制，深入探索AI领域创新人才培养模式，不断提升学生底层技术研发与工"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -6693,6 +6695,59 @@
       "labels": [],
       "sources": [
         "https://www.njupt.edu.cn/2026/0617/c53a305043/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/2026/0617/c53a305044/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0617/c53a305044/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.06.16 南邮联合主办“数夏——我们的节日数字化展”",
+        "2026 06.16 南邮联合主办“数夏——我们的节日数字化展” 6月13日上午，“数夏——我们的节日数字化展”开幕式在南京市民俗博物馆举办。本次活动由南京市博物总馆和南京邮电大学主办，南京市民俗博物馆、南京邮电大学数字媒体与设计艺术学院、南京市民间文艺家协会承办。 南京市博物总馆副馆长曾军在致辞中表示，本次展览打破传统展陈模式，以沉浸式体验和数字化形式走近大众，为公众搭建起品读金陵夏俗、感受非遗魅力的沉浸式空间。南京邮电大学副校长胡纵宇说，展览是传统文化与数字科技相融相生的创新尝试，是学校推动科技与文化深度融合的生动实践，希望持续深化校地合作，借助数字化手段让更多公众感受金陵非遗之美，助力优秀传统文化的传承与发展。 本次展览以“数夏”为名，一语双关。一方面延续南京传统“数夏九九”民俗文化脉络，传承本土经典民俗；另一方面依托数字科技，为夏日传统节俗赋予全新活力。展览数字作品均由南京邮电大学数字媒体与设计艺术学院师生团队依托博物馆资源原创打造。策展人谭维老师介绍，团队充分发挥学校信息学科优势，深度挖掘南京市民俗博物馆馆藏资源与金陵传统节俗文脉，融合AIGC数字创作、AR实景交互、动态影像、Mapping投影等前沿数字技术，为秦淮灯彩、南京绒花、"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://mp.weixin.qq.com/s/YtmK2BdipS55Lqve-DrSsA": {
+      "url": "https://mp.weixin.qq.com/s/YtmK2BdipS55Lqve-DrSsA",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "青春不散场！共赴南邮2026届本科生毕业盛典！"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/6d/fc/12028a884a559ad6770b2b1eb8a1/77da4b7d-4201-40da-b0ef-98ac48952e4e.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/6d/fc/12028a884a559ad6770b2b1eb8a1/77da4b7d-4201-40da-b0ef-98ac48952e4e.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0617/c53a305044/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/6d/fc/12028a884a559ad6770b2b1eb8a1/a829f1c0-75ae-47d3-b557-39e7f63e944c.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/6d/fc/12028a884a559ad6770b2b1eb8a1/a829f1c0-75ae-47d3-b557-39e7f63e944c.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0617/c53a305044/page.htm"
       ],
       "section_ids": [
         "www_news"
