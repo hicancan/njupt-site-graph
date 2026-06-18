@@ -1,6 +1,6 @@
 {
   "site_id": "scie",
-  "generated_at": "2026-06-17T14:51:24.665071+00:00",
+  "generated_at": "2026-06-18T14:46:52.179949+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 57,
@@ -25224,7 +25224,8 @@
         "【通院大讲堂】深圳大学黄继武教授将来我院作专题报告"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/hdyg/list3.htm"
+        "https://scie.njupt.edu.cn/hdyg/list3.htm",
+        "https://scie.njupt.edu.cn/hdyg/list2.htm"
       ],
       "section_ids": [
         "scie_events"
