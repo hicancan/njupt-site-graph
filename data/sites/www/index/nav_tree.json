@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-17T10:23:16.759115+00:00",
+  "generated_at": "2026-06-19T14:38:11.277330+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -871,12 +871,12 @@
       "position": 74
     },
     {
-      "node_id": "8a3036b6d2b91573ca7f",
+      "node_id": "ec668dba6ba780d0f8c8",
       "site_id": "www",
-      "label": "【中国教育报】南京邮电大学团队自主研发新型治疗仪 助脑卒中患者术后重建吞咽反射",
-      "url": "https://www.njupt.edu.cn/2026/0409/c17125a299479/page.htm",
+      "label": "【人民日报头版】江苏探索科技成果高效转化应用新途径",
+      "url": "https://www.njupt.edu.cn/2026/0619/c17125a305186/page.htm",
       "nav_path": [
-        "【中国教育报】南京邮电大学团队自主研发新型治疗仪 助脑卒中患者术后重建吞咽反射"
+        "【人民日报头版】江苏探索科技成果高效转化应用新途径"
       ],
       "depth": 1,
       "target_type": "detail_article_page",
@@ -899,12 +899,12 @@
       "position": 76
     },
     {
-      "node_id": "4aa1c60bdd3abfb61251",
+      "node_id": "3813be4e135e032eddb8",
       "site_id": "www",
-      "label": "【中国社会科学网】探寻美国汉学历史脉络",
-      "url": "https://www.njupt.edu.cn/2026/0607/c17125a303649/page.htm",
+      "label": "【江苏教育新闻】我省首个量子科技学院在南邮成立",
+      "url": "https://www.njupt.edu.cn/2026/0619/c17125a305189/page.htm",
       "nav_path": [
-        "【中国社会科学网】探寻美国汉学历史脉络"
+        "【江苏教育新闻】我省首个量子科技学院在南邮成立"
       ],
       "depth": 1,
       "target_type": "detail_article_page",

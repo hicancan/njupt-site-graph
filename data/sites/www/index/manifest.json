@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-17T10:23:14.026673+00:00",
+  "generated_at": "2026-06-19T14:38:08.907201+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 131,
@@ -11,7 +11,7 @@
     "attachments": 22,
     "external_links": 50,
     "edges": 642,
-    "url_outcomes": 474
+    "url_outcomes": 476
   },
   "outcomes": {
     "attachment_metadata_only": 23,
@@ -22,7 +22,7 @@
     "external_link_recorded": 44,
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 2,
-    "homepage_link_recorded": 72,
+    "homepage_link_recorded": 74,
     "inline_image_recorded": 215,
     "section_list_page_recorded": 3
   },
@@ -6752,6 +6752,30 @@
       "section_ids": [
         "www_news"
       ]
+    },
+    "https://www.njupt.edu.cn/2026/0619/c17125a305186/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0619/c17125a305186/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "homepage_link_recorded",
+      "labels": [
+        "【人民日报头版】江苏探索科技成果高效转化应用新途径"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://www.njupt.edu.cn/2026/0619/c17125a305189/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0619/c17125a305189/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "homepage_link_recorded",
+      "labels": [
+        "【江苏教育新闻】我省首个量子科技学院在南邮成立"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
     }
   }
 }
