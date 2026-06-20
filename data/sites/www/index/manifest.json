@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-19T14:38:08.907201+00:00",
+  "generated_at": "2026-06-20T02:06:04.431791+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 131,
     "homepage_modules": 0,
     "list_pages": 7,
-    "detail_pages": 104,
+    "detail_pages": 105,
     "low_content_detail_pages": 21,
     "attachments": 22,
     "external_links": 50,
     "edges": 642,
-    "url_outcomes": 476
+    "url_outcomes": 479
   },
   "outcomes": {
     "attachment_metadata_only": 23,
-    "crawled_detail_ok": 104,
+    "crawled_detail_ok": 105,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 7,
     "cross_domain_article_link_recorded": 2,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 74,
-    "inline_image_recorded": 215,
+    "inline_image_recorded": 217,
     "section_list_page_recorded": 3
   },
   "errors": [],
@@ -1222,7 +1222,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/",
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -4313,7 +4314,8 @@
         "2026 05.27 南邮召开2026年度网络安全和信息化领导小组工作会议 5月27日上午，南京邮电大学2026年网络安全和信息化领导小组工作会议在行政楼第一会议室召开。领导小组组长、党委书记郭宇锋、校长叶美兰，领导小组副组长、副校长肖甫，领导小组成员单位主要负责人参加会议。会议由肖甫主持。会议现场 会议听取了学校2025年度信息化建设和网络安全工作汇报，肯定了2025年网络安全和信息化工作取得的成效，审议了银校合作资金信息化项目立项事宜并就下一步网络安全与信息化工作作出部署。 会议指出，要顺应发展趋势，积极探索人工智能技术在教育教学、管理服务、科研创新等领域的深度融合与应用，推动数字校园建设提质增效；要强化信息化工作的扎口管理、统筹协调，为学校高质量发展注入新动能。 会议要求，要坚持安全为本、打造可信可控安全防护体系，夯实数字化应用发展平台，推进数据融合应用；要规范信息化项目建设，提升建设质效，严控项目全流程环节，规范使用财政与银校资金，实现降本增效；要推动人工智能深度赋能教育教学改革与治理创新，拓展智能教学场景、构建个性化学习路径、优化管理决策支持，全面深化数字化与智能化推动学校网信工作再上新台阶。（图文：刘国权 初审：王海勇 编辑：王存宏 审核"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -6776,6 +6778,47 @@
         "https://www.njupt.edu.cn/"
       ],
       "section_ids": []
+    },
+    "https://www.njupt.edu.cn/2026/0620/c53a305196/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0620/c53a305196/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.06.20 Nature Nanotechnology刊发汪联辉/丁显光教授团队在生物囊泡肿瘤免疫治疗领域进展",
+        "2026 06.20 Nature Nanotechnology刊发汪联辉/丁显光教授团队在生物囊泡肿瘤免疫治疗领域进展 近日，南京邮电大学柔性电子全国重点实验室、化学与生命科学学院、生物智能材料与诊疗技术国家级重点实验室培育建设点汪联辉教授、丁显光教授团队与新加坡国立大学梁大卫教授合作，在Nature Nanotechnology期刊发表题为“Amplifying tumour antigen presentations from intratumourally entrapped dendritic cells” 的研究论文，提出了一种基于人参来源纳米颗粒的肿瘤原位免疫点火技术。 放疗、化疗和局部消融等治疗方式是临床实体瘤治疗的重要手段，能够破坏肿瘤细胞、控制局部病灶，并促使肿瘤抗原在原位释放。然而，肿瘤被杀伤，并不意味着免疫系统已被充分唤醒。如何让局部治疗释放出的肿瘤抗原被免疫系统“看见”，是实体瘤免疫治疗亟待突破的关键问题。研究团队前期围绕生物囊泡的分子信息解析、界面调控与免疫应用开展了系列研究（Nat. Nanotechnol. 20. 156 (2025);Nat. Commun. 15, 3343 (2024); Nat. Commun. 16, 2924 (2025); Nat. C"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/5b/fa/34c6640a43fe8545a94caf841877/fd3171ec-585f-425e-a2f3-4a5e1d132156.png": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/5b/fa/34c6640a43fe8545a94caf841877/fd3171ec-585f-425e-a2f3-4a5e1d132156.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0620/c53a305196/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/5b/fa/34c6640a43fe8545a94caf841877/8cf46cef-0b33-4617-8195-7ee75f77bb3a.png": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/5b/fa/34c6640a43fe8545a94caf841877/8cf46cef-0b33-4617-8195-7ee75f77bb3a.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0620/c53a305196/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
     }
   }
 }
