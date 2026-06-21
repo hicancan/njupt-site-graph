@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-20T02:06:04.431791+00:00",
+  "generated_at": "2026-06-21T13:44:20.189745+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 131,
@@ -11,7 +11,7 @@
     "attachments": 22,
     "external_links": 50,
     "edges": 642,
-    "url_outcomes": 479
+    "url_outcomes": 481
   },
   "outcomes": {
     "attachment_metadata_only": 23,
@@ -19,7 +19,7 @@
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 7,
     "cross_domain_article_link_recorded": 2,
-    "external_link_recorded": 44,
+    "external_link_recorded": 46,
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 74,
@@ -6819,6 +6819,30 @@
       "section_ids": [
         "www_news"
       ]
+    },
+    "https://mp.weixin.qq.com/s/0Nbb9bQaBd65TZWaA0omwA": {
+      "url": "https://mp.weixin.qq.com/s/0Nbb9bQaBd65TZWaA0omwA",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "2026.06.20 江苏省首个量子科技学院在南京邮电大学成立"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://mp.weixin.qq.com/s/1b9ZU0bih248DhPqE87fYQ": {
+      "url": "https://mp.weixin.qq.com/s/1b9ZU0bih248DhPqE87fYQ",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "2026.06.19 这个端午，和南邮AI一起“数”说金陵夏日！"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
     }
   }
 }

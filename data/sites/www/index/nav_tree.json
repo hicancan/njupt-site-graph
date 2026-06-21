@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-20T02:06:07.360940+00:00",
+  "generated_at": "2026-06-21T13:44:26.465216+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -1389,7 +1389,35 @@
       "position": 112
     },
     {
-      "node_id": "eda72bafe7db88a274f2",
+      "node_id": "8ab735e9e95c6a7f200b",
+      "site_id": "www",
+      "label": "2026.06.20 江苏省首个量子科技学院在南京邮电大学成立",
+      "url": "https://mp.weixin.qq.com/s/0Nbb9bQaBd65TZWaA0omwA",
+      "nav_path": [
+        "2026.06.20 江苏省首个量子科技学院在南京邮电大学成立"
+      ],
+      "depth": 1,
+      "target_type": "external_link",
+      "same_domain": false,
+      "parent_id": null,
+      "position": 113
+    },
+    {
+      "node_id": "ff7b70af1618c34d6caf",
+      "site_id": "www",
+      "label": "2026.06.19 这个端午，和南邮AI一起“数”说金陵夏日！",
+      "url": "https://mp.weixin.qq.com/s/1b9ZU0bih248DhPqE87fYQ",
+      "nav_path": [
+        "2026.06.19 这个端午，和南邮AI一起“数”说金陵夏日！"
+      ],
+      "depth": 1,
+      "target_type": "external_link",
+      "same_domain": false,
+      "parent_id": null,
+      "position": 114
+    },
+    {
+      "node_id": "ea683a32eaadea9a041d",
       "site_id": "www",
       "label": "2026.06.15 邮梦启新程！直击南邮2026届研究生毕业典礼！",
       "url": "https://mp.weixin.qq.com/s/M-kilXwU6ecS3NGBwOlbgQ",
@@ -1400,43 +1428,15 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 113
+      "position": 115
     },
     {
-      "node_id": "185be43d9da637b15afe",
+      "node_id": "a13b66fb54d8d3beecd0",
       "site_id": "www",
       "label": "2026.06.14 “南”忘，“邮”你！",
       "url": "https://mp.weixin.qq.com/s/h_oaEfDGO5bOcuEDDeGK_A",
       "nav_path": [
         "2026.06.14 “南”忘，“邮”你！"
-      ],
-      "depth": 1,
-      "target_type": "external_link",
-      "same_domain": false,
-      "parent_id": null,
-      "position": 114
-    },
-    {
-      "node_id": "a6b664a022c63d98ce86",
-      "site_id": "www",
-      "label": "2026.06.11 辩论赛+创意市集，直击南邮“清廉杯”决赛现场！",
-      "url": "https://mp.weixin.qq.com/s/GgIaKZA-HD5CEmNImBSNeQ",
-      "nav_path": [
-        "2026.06.11 辩论赛+创意市集，直击南邮“清廉杯”决赛现场！"
-      ],
-      "depth": 1,
-      "target_type": "external_link",
-      "same_domain": false,
-      "parent_id": null,
-      "position": 115
-    },
-    {
-      "node_id": "531979f559c59671d228",
-      "site_id": "www",
-      "label": "2026.06.08 刷新记录！4金2银4铜！",
-      "url": "https://mp.weixin.qq.com/s/iF161RKCBr-ABIpxaKJX7w",
-      "nav_path": [
-        "2026.06.08 刷新记录！4金2银4铜！"
       ],
       "depth": 1,
       "target_type": "external_link",
