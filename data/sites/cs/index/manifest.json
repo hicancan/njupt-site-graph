@@ -1,6 +1,6 @@
 {
   "site_id": "cs",
-  "generated_at": "2026-06-18T10:06:27.609109+00:00",
+  "generated_at": "2026-06-22T02:36:56.647356+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 52,
@@ -11,7 +11,7 @@
     "attachments": 9,
     "external_links": 98,
     "edges": 717,
-    "url_outcomes": 2093
+    "url_outcomes": 2094
   },
   "outcomes": {
     "attachment_metadata_only": 9,
@@ -22,7 +22,7 @@
     "external_link_recorded": 63,
     "external_policy_link_recorded": 2,
     "external_system_link_recorded": 1,
-    "homepage_link_recorded": 92,
+    "homepage_link_recorded": 93,
     "inline_image_recorded": 1376,
     "inline_link_recorded": 27
   },
@@ -27077,6 +27077,18 @@
       "outcome": "homepage_link_recorded",
       "labels": [
         "荷风润初心 红色淬党性 ——学院党委理论学习中心组赴建湖开展现场研学活动 2026-06-09"
+      ],
+      "sources": [
+        "https://cs.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://cs.njupt.edu.cn/2026/0622/c18740a305207/page.htm": {
+      "url": "https://cs.njupt.edu.cn/2026/0622/c18740a305207/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "homepage_link_recorded",
+      "labels": [
+        "2026 06-22 从医学大模型到健康智能体：知识增强、多智能体协同与疾控推演 2026年6月23日（周二）上午9:30-11:30 南京邮电大学计算机学科楼338会议室 王昊淳 副研究员"
       ],
       "sources": [
         "https://cs.njupt.edu.cn/"
