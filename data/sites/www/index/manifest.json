@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-21T13:44:20.189745+00:00",
+  "generated_at": "2026-06-22T11:30:44.542831+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 131,
     "homepage_modules": 0,
     "list_pages": 7,
-    "detail_pages": 105,
-    "low_content_detail_pages": 21,
+    "detail_pages": 109,
+    "low_content_detail_pages": 24,
     "attachments": 22,
     "external_links": 50,
     "edges": 642,
-    "url_outcomes": 481
+    "url_outcomes": 488
   },
   "outcomes": {
     "attachment_metadata_only": 23,
-    "crawled_detail_ok": 105,
+    "crawled_detail_ok": 109,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 7,
     "cross_domain_article_link_recorded": 2,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 74,
-    "inline_image_recorded": 217,
+    "inline_image_recorded": 220,
     "section_list_page_recorded": 3
   },
   "errors": [],
@@ -1205,7 +1205,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/",
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -2543,7 +2544,8 @@
         "2026 04.07 关于印发《南京邮电大学学生体质提升专项行动方案》的通知"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/72/list.htm"
+        "https://www.njupt.edu.cn/72/list.htm",
+        "https://www.njupt.edu.cn/72/list2.htm"
       ],
       "section_ids": [
         "www_notice"
@@ -2558,7 +2560,8 @@
         "2026 01.16 关于2026年寒假期间校园安全保卫工作相关事项的通知"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/72/list.htm"
+        "https://www.njupt.edu.cn/72/list.htm",
+        "https://www.njupt.edu.cn/72/list2.htm"
       ],
       "section_ids": [
         "www_notice"
@@ -2573,7 +2576,8 @@
         "2025 12.18 关于12月20日、21日仙林校区实施临时交通管制的通知"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/72/list.htm"
+        "https://www.njupt.edu.cn/72/list.htm",
+        "https://www.njupt.edu.cn/72/list2.htm"
       ],
       "section_ids": [
         "www_notice"
@@ -2848,7 +2852,8 @@
         "2025 09.10 关于切实做好2025级新生报到期间校园交通治安管控工作的通知"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/72/list2.htm"
+        "https://www.njupt.edu.cn/72/list2.htm",
+        "https://www.njupt.edu.cn/72/list3.htm"
       ],
       "section_ids": [
         "www_notice"
@@ -2863,7 +2868,8 @@
         "2025 07.02 关于2025年暑期校园安全保卫工作相关事项的通知"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/72/list2.htm"
+        "https://www.njupt.edu.cn/72/list2.htm",
+        "https://www.njupt.edu.cn/72/list3.htm"
       ],
       "section_ids": [
         "www_notice"
@@ -2878,7 +2884,8 @@
         "2025 06.10 关于申报2025年南京邮电大学党建与思想政治教育研究项目的通知"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/72/list2.htm"
+        "https://www.njupt.edu.cn/72/list2.htm",
+        "https://www.njupt.edu.cn/72/list3.htm"
       ],
       "section_ids": [
         "www_notice"
@@ -4107,7 +4114,8 @@
         "2026 05.27 南邮举行2026“邮青春·邮梦想”主题晚会 5月26日晚，2026“邮青春·邮梦想”主题晚会暨“天翼·飞YOUNG”杯第二十九届大学生文化艺术节闭幕式在南京邮电大学仙林校区南操场举行。校党委书记郭宇锋，派驻纪检监察组组长、纪委书记周和林，党委常委、副校长谢平，中国电信江苏公司党委副书记、副总经理、南邮2002级校友肖江浩，中国电信南京分公司党委委员、副总经理、南邮1994级校友杨春泽，南邮江苏校友会名誉会长、1979级校友陈国忠，江苏省创新创业研究会常务副理事长、南邮1979级校友陶雨生，南邮江苏校友会校友代表、相关职能部门、各学院负责人，分团委书记、辅导员和4000余名毕业生共同观看演出。各类在线直播平台观看人数超36万人次。晚会现场 晚会分为“炽热·青春正燃”“鎏金·岁月如歌”“启航·奔赴山海”三个篇章，回望南邮青春岁月，致敬成长与坚守，寄托毕业祝福与未来期许，展现南邮学子“信达天下、自强不息”的精神风貌。 舞蹈The greatest show，毕业生与学弟学妹青春接力，传递热爱与勇气，致意未来征途。表演唱《南屏晚钟》以悠扬旋律演绎经典，用温柔曲调定格南邮岁月里的温暖与感动。啦啦操《邮光逐舞》，利落技巧与昂扬姿态尽"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -6843,6 +6851,102 @@
         "https://www.njupt.edu.cn/"
       ],
       "section_ids": []
+    },
+    "https://www.njupt.edu.cn/2026/0622/c72a305245/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0622/c72a305245/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026 06.22 关于2026年高等教育（本科）国家教学成果奖拟推荐名单的公示"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/72/list.htm"
+      ],
+      "section_ids": [
+        "www_notice"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/2026/0622/c72a305239/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0622/c72a305239/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026 06.22 第十五届“挑战杯”中国大学生创业计划竞赛公示"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/72/list.htm"
+      ],
+      "section_ids": [
+        "www_notice"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/2026/0622/c72a305236/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0622/c72a305236/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026 06.22 关于2026年暑期校园安全工作的通知"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/72/list.htm"
+      ],
+      "section_ids": [
+        "www_notice"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/2026/0622/c53a305235/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0622/c53a305235/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026 06.15 南邮举办2026年老年健身运动会 6月12日上午，南京邮电大学2026年老年健身运动会在三牌楼校区羽毛球馆举行。校党委常委、副校长周亮出席开幕式，党委办公室、校长办公室，工会，体育部，离退休工作处等相关部门负责人与200余名老同志参加。 周亮代表学校党政向全体老同志致以亲切问候。他表示，学校将继续用心用情做好离退休服务保障工作，积极为老同志们“老有所学、老有所养、老有所乐、老有所为”搭建广阔平台。希望广大老同志一如既往关心支持学校建设，为学校事业高质量发展传递正能量，再添新贡献。开幕式现场 开幕式上，老年舞蹈队舞姿优美，演绎了《一条大河》里的家国情怀；女声小合唱队歌声动人，唱响《我们的生活充满阳光》；健身操队刚柔并济，展现了《五行健身操》的科学健身韵味；模特队步态优雅，以《一路风华》展现了新时代老年人的魅力风采。一幕幕精彩的演出，赢得了现场阵阵热烈掌声。开幕式表演瞬间比赛瞬间 本次老年健身运动会共设置定点投篮、排球发准、棒击地滚球、飞镖、套圈、钓鱼、沙袋掷准、羽毛球对击和桌上冰壶投准等九个运动项目。赛场上，老同志们精神饱满、兴致盎然，在轻松愉悦的氛围中切磋技艺、交流情谊，充分展现了南邮离退休教职工健康乐观、积"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/e4/8d/66bb1c0240a58d4e0c5fde1adbd8/90b5bd98-517b-4684-938f-1ba7004bb28a.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/e4/8d/66bb1c0240a58d4e0c5fde1adbd8/90b5bd98-517b-4684-938f-1ba7004bb28a.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0622/c53a305235/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/e4/8d/66bb1c0240a58d4e0c5fde1adbd8/590d3285-cf32-4d21-861d-392acd01747c.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/e4/8d/66bb1c0240a58d4e0c5fde1adbd8/590d3285-cf32-4d21-861d-392acd01747c.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0622/c53a305235/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/e4/8d/66bb1c0240a58d4e0c5fde1adbd8/58930ae4-9b6a-48ce-b636-af1579e8a0eb.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/e4/8d/66bb1c0240a58d4e0c5fde1adbd8/58930ae4-9b6a-48ce-b636-af1579e8a0eb.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0622/c53a305235/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
     }
   }
 }
