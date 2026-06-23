@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-21T13:44:26.465216+00:00",
+  "generated_at": "2026-06-23T02:00:20.852331+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -759,7 +759,21 @@
       "position": 66
     },
     {
-      "node_id": "b47c8f2140bf05c859ed",
+      "node_id": "4115834526baf59157fd",
+      "site_id": "www",
+      "label": "2026.06.23 南邮召开2026年红色校史研究工作会",
+      "url": "https://www.njupt.edu.cn/2026/0623/c53a305261/page.htm",
+      "nav_path": [
+        "2026.06.23 南邮召开2026年红色校史研究工作会"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 67
+    },
+    {
+      "node_id": "084c8d55db44206ba4a3",
       "site_id": "www",
       "label": "2026.06.20 Nature Nanotechnology刊发汪联辉/丁显光教授团队在生物囊泡肿瘤免疫治疗领域进展",
       "url": "https://www.njupt.edu.cn/2026/0620/c53a305196/page.htm",
@@ -770,10 +784,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 67
+      "position": 68
     },
     {
-      "node_id": "b0a193e1a879d82b3038",
+      "node_id": "a51716123a0964daf518",
       "site_id": "www",
       "label": "2026.06.16 南邮教师获省高校青年教师教学竞赛暨全国高校青年教师教学竞赛选拔赛工科组第一名",
       "url": "https://www.njupt.edu.cn/2026/0617/c53a305043/page.htm",
@@ -784,10 +798,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 68
+      "position": 69
     },
     {
-      "node_id": "6a887c0d69fd3d35045d",
+      "node_id": "3a7f7fb882119c067a09",
       "site_id": "www",
       "label": "2026.06.16 南邮举行2026届本科生毕业典礼暨学位授予仪式",
       "url": "https://www.njupt.edu.cn/2026/0616/c53a305026/page.htm",
@@ -798,29 +812,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 69
+      "position": 70
     },
     {
-      "node_id": "9aef5788ac708c5eec5a",
+      "node_id": "958f6d544ade78c23ee4",
       "site_id": "www",
       "label": "2026.06.16 南邮承办“数智时代的人口与社会治理”研讨会",
       "url": "https://www.njupt.edu.cn/2026/0616/c53a305020/page.htm",
       "nav_path": [
         "2026.06.16 南邮承办“数智时代的人口与社会治理”研讨会"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 70
-    },
-    {
-      "node_id": "fa892206553ba38b2368",
-      "site_id": "www",
-      "label": "2026.06.16 南邮联合主办“数夏——我们的节日数字化展”",
-      "url": "https://www.njupt.edu.cn/2026/0617/c53a305044/page.htm",
-      "nav_path": [
-        "2026.06.16 南邮联合主办“数夏——我们的节日数字化展”"
       ],
       "depth": 1,
       "target_type": "detail_article_page",

@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-22T11:30:44.542831+00:00",
+  "generated_at": "2026-06-23T02:00:18.057801+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 131,
     "homepage_modules": 0,
     "list_pages": 7,
-    "detail_pages": 109,
+    "detail_pages": 110,
     "low_content_detail_pages": 24,
     "attachments": 22,
     "external_links": 50,
     "edges": 642,
-    "url_outcomes": 488
+    "url_outcomes": 493
   },
   "outcomes": {
     "attachment_metadata_only": 23,
-    "crawled_detail_ok": 109,
+    "crawled_detail_ok": 110,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 7,
     "cross_domain_article_link_recorded": 2,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 74,
-    "inline_image_recorded": 220,
+    "inline_image_recorded": 224,
     "section_list_page_recorded": 3
   },
   "errors": [],
@@ -4075,7 +4075,8 @@
         "2026 05.27 中国政府友谊奖获得者、国际人文社科领域知名学者全职加盟南邮 5月26日，南京邮电大学全职引进Kostas Gouliamos院士签约仪式在仙林校区中兴报告厅举行。学校党委书记郭宇锋教授、校长叶美兰教授，塞浦路斯欧洲大学校长助理刘冀亭、亚洲教育顾问沈融，学校相关部门负责人、师生代表共同见证。签约仪式由副校长周亮教授主持。签约仪式现场 郭宇锋在致辞中表示，Kostas院士不仅是一位享誉国际的学者，更是一位社会科学国际开拓者。他指出，Kostas院士的加盟，将有力推动南邮实现“三个提升”：提升马克思主义学科和国际影响力，提升人才培养质量与创新生态，提升国际交流合作与社会服务能级，并推动马克思主义理论与学校电子信息特色的深度交叉融合。 叶美兰回顾了双方的合作渊源。她说，去年4月，Kostas院士率团访问南京邮电大学期间，双方就共建医工交叉国际联合实验室达成重要共识。面向未来，双方合作将实现“三个历史性跨越”：马克思主义理论和社会学学科建设实现历史性跨越，国际化办学水平实现历史性跨越，智库建设与社会服务能力实现历史性跨越。 会上，叶美兰与Kostas Gouliamos签署全职引进协议，郭宇锋为Kostas Gouliamos佩戴校徽，教师代表"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -6040,7 +6041,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/",
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -6943,6 +6945,71 @@
       "labels": [],
       "sources": [
         "https://www.njupt.edu.cn/2026/0622/c53a305235/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/2026/0623/c53a305261/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0623/c53a305261/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.06.23 南邮召开2026年红色校史研究工作会",
+        "2026 06.23 南邮召开2026年红色校史研究工作会 6月22日下午，南京邮电大学2026年红色校史研究工作会在仙林校区中天科技报告厅召开。会议以“传承长征精神，赓续战邮血脉”为主题，总结2025年以来红色校史研究阶段性成果，发布《2026年红色校史挖掘工作实施方案》，部署新一轮重点任务。北京八路军山东抗日根据地研究会副会长、开国中将罗舜初之子罗小明，我校红色校史研究会特聘研究员、北京八路军山东抗日根据地研究会常务理事、鲁中分会秘书长赵忠然，我校红色校史研究会特聘研究员、山东省临沂市莒南县委党校原副校长赵国梁同志，在校领导班子成员郭宇锋、叶美兰、王友国、姜小舜及历任校领导代表刘陈、颜晓红、周南平、蒋国平、谢玲、王国平，第二届红色校史研究会常务理事、理事以及师生代表参加会议。 郭宇锋回顾了学校自60周年校庆“寻根之旅”以来，历任领导班子接续推动红色校史研究走深走实的工作历程。他表示，站在中国工农红军长征胜利90周年和中国共产党成立105周年的历史节点，学校全面启动新一轮红色校史挖掘工作，这既是对学校初心的深情回望，更是面向未来的精神赋能。他对推进落实具体工作提出三点要求：一要提高站位、拓宽视野，在“传承根脉”中扛起政治责任；二要用心用"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/20/c8/eaa7cced4ff49ec418c6326b6449/ec0f4f66-c9cc-467b-a627-35f2c9feefb9.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/20/c8/eaa7cced4ff49ec418c6326b6449/ec0f4f66-c9cc-467b-a627-35f2c9feefb9.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0623/c53a305261/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/20/c8/eaa7cced4ff49ec418c6326b6449/a68857fd-b921-4b12-a59b-59436ea612f1.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/20/c8/eaa7cced4ff49ec418c6326b6449/a68857fd-b921-4b12-a59b-59436ea612f1.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0623/c53a305261/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/20/c8/eaa7cced4ff49ec418c6326b6449/937326fd-89c0-449d-b55e-e43639e41473.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/20/c8/eaa7cced4ff49ec418c6326b6449/937326fd-89c0-449d-b55e-e43639e41473.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0623/c53a305261/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/20/c8/eaa7cced4ff49ec418c6326b6449/bbc31d11-f214-4fe1-b2e9-fa3472e51dcf.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/20/c8/eaa7cced4ff49ec418c6326b6449/bbc31d11-f214-4fe1-b2e9-fa3472e51dcf.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0623/c53a305261/page.htm"
       ],
       "section_ids": [
         "www_news"
