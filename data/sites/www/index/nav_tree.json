@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-23T02:00:20.852331+00:00",
+  "generated_at": "2026-06-23T14:20:54.090592+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -941,7 +941,21 @@
       "position": 79
     },
     {
-      "node_id": "48114738c2a2c761be2c",
+      "node_id": "6502b83be14983f9dd8a",
+      "site_id": "www",
+      "label": "西安交通大学梁超教授学术讲座：高稳定钙钛矿电池动态分子设计 2026-06-24 16:30:00 材料学科楼227会议室",
+      "url": "https://www.njupt.edu.cn/2026/0623/c17121a305290/page.htm",
+      "nav_path": [
+        "西安交通大学梁超教授学术讲座：高稳定钙钛矿电池动态分子设计 2026-06-24 16:30:00 材料学科楼227会议室"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 80
+    },
+    {
+      "node_id": "dbe5e4ab529297763e50",
       "site_id": "www",
       "label": "浙江大学成正东教授学术讲座：胶体手性液晶中熵锁定稳定的宏观铁磁相 2026-06-03 15:00:00 新材料学科楼312会议室",
       "url": "https://www.njupt.edu.cn/2026/0602/c17121a303213/page.htm",
@@ -952,10 +966,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 80
+      "position": 81
     },
     {
-      "node_id": "585b001cc68d52015c3a",
+      "node_id": "1c5d285428cc821110df",
       "site_id": "www",
       "label": "北京大学肖云峰教授学术讲座：超高品质因子微腔光学与光子学 2026-06-04 10:00:00 计算机学科楼一楼中兴报告厅",
       "url": "https://www.njupt.edu.cn/2026/0602/c17121a303200/page.htm",
@@ -966,10 +980,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 81
+      "position": 82
     },
     {
-      "node_id": "32eac00d4e3a9ec65219",
+      "node_id": "c4af4ca42e8a29d53c03",
       "site_id": "www",
       "label": "汉诺威大学丁飞教授学术讲座：基于半导体材料和器件的可扩展量子信息技术 2026-06-05 10:00:00 材料院学科楼118报告厅",
       "url": "https://www.njupt.edu.cn/2026/0602/c17121a303201/page.htm",
@@ -980,10 +994,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 82
+      "position": 83
     },
     {
-      "node_id": "91df13ed035e1614294d",
+      "node_id": "dcf43329d57d87093cdb",
       "site_id": "www",
       "label": "新加坡南洋理工大学胡光维教授学术讲座：纳米光子学新前沿 2026-05-26 10:00:00 材料学科楼118报告厅",
       "url": "https://www.njupt.edu.cn/2026/0525/c17121a302577/page.htm",
@@ -994,10 +1008,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 83
+      "position": 84
     },
     {
-      "node_id": "17c58556e755c9288b60",
+      "node_id": "9c7837f6784f3b521f2c",
       "site_id": "www",
       "label": "南京邮电大学2026年“邮青春·邮梦想”主题晚会暨“天翼飞YOUNG”杯第二十九届大学生文化艺术节闭幕式 2026-05-25 19:00:00 仙林校区南操场",
       "url": "https://www.njupt.edu.cn/2026/0520/c17121a302265/page.htm",
@@ -1008,10 +1022,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 84
+      "position": 85
     },
     {
-      "node_id": "e2679e6d33cb99ac1a9f",
+      "node_id": "ac455358af34fed330f4",
       "site_id": "www",
       "label": "复旦大学田朋飞教授、上海大学宋宏伟教授学术讲座：半导体光电材料和器件集成及应用创新 2026-05-19 09:30:00 仙林校区光电学科楼B楼322",
       "url": "https://www.njupt.edu.cn/2026/0518/c17121a302008/page.htm",
@@ -1022,10 +1036,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 85
+      "position": 86
     },
     {
-      "node_id": "3a6feeed9b132aca5715",
+      "node_id": "4a831b18d7e8b063f488",
       "site_id": "www",
       "label": "袁小聪院士学术讲座：奇点光场调整与皮米光子学 2026-05-15 10:00:00 计算机学科楼一楼中兴报告厅",
       "url": "https://www.njupt.edu.cn/2026/0512/c17121a301728/page.htm",
@@ -1036,10 +1050,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 86
+      "position": 87
     },
     {
-      "node_id": "95fb56a5ddddb0043924",
+      "node_id": "e544ae081b5ae042ebdb",
       "site_id": "www",
       "label": "关于举办《茶与体育—— 一场身心交融的对话》讲座的通知 2026-05-13 14:00:00 南三食堂三楼教工之家会议室",
       "url": "https://www.njupt.edu.cn/2026/0512/c17121a301738/page.htm",
@@ -1050,10 +1064,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 87
+      "position": 88
     },
     {
-      "node_id": "bd2bde790ff6a735eb34",
+      "node_id": "aa2a0249946280ba6793",
       "site_id": "www",
       "label": "查看更多",
       "url": "https://www.njupt.edu.cn/bd/list.htm",
@@ -1064,10 +1078,10 @@
       "target_type": "section_list_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 88
+      "position": 89
     },
     {
-      "node_id": "71ce1baa2fc8ca9353ca",
+      "node_id": "822273e9fd59b963800a",
       "site_id": "www",
       "label": "2026年“全国科技工作者日暨南京邮电大学科技工作者沙龙”活动举行 为广泛宣传习近平总书记勉励广大科技工作者“厚植报国情怀、发扬奋斗精神”的重要指示，5月29日，在第十个“全国科技工作者日”来临之际，南京邮电大学在仙林校区中兴报告厅举行2026年“全国科技工作者日暨科技工作者沙龙”活动。活动以“奋进‘十五五’ 科技谱新篇”为主题，由科学技术处、社会科学处、产业合作处、校科协联合主办。全校科研骨干教师代表、校科协成员代表、科研秘书、学生代表近百人参加活动。活动现场 活动邀请省科技厅成果处原处长吴守海、南京工业大学产业合作处处长周治、南京信息工程大学社会科学处处长尹才祥作报告。吴守海的报告题目是《如何做好科研成果总结》，从“为什么要做科研总结”“总结的是哪一类科研成果”“标志性成果总结的方法有哪些”等维度，结合省科学技术奖的申报流程、申报案例和评审经验，分别对申报材料准备、成果创新性评价、申报技巧等方面对科研成果凝练进行阐述。 周治在《科技创新赋能产业创新》报告中，结合近年来南京工业大学技术转移转化工作开展的实际情况，从国家和江苏省关于高校技术转移转化的政策动向、科技园优化重塑与高校技转网络构建、概念验证与成果转化全链条载体拓展、技转人才培养与技术",
       "url": "https://www.njupt.edu.cn/2026/0530/c17122a303040/page.htm",
@@ -1078,10 +1092,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 89
+      "position": 90
     },
     {
-      "node_id": "50f113b47d838f73bd21",
+      "node_id": "bcb2154f224a669b29a6",
       "site_id": "www",
       "label": "“衣韵诗香·五洲同吟”主题阅读雅集暨南邮2026年“阅读文化节”举行",
       "url": "https://www.njupt.edu.cn/2026/0423/c53a300714/page.htm",
@@ -1092,10 +1106,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 90
+      "position": 91
     },
     {
-      "node_id": "843c793b98a6d09f81f4",
+      "node_id": "a8900820ff64bf4a11bc",
       "site_id": "www",
       "label": "南邮举行“薪火传•踏歌行”84周年校庆健身跑活动",
       "url": "https://www.njupt.edu.cn/2026/0418/c53a300313/page.htm",
@@ -1106,10 +1120,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 91
+      "position": 92
     },
     {
-      "node_id": "3d4bfe21bdb64b8721a6",
+      "node_id": "ac074f99e920651b8186",
       "site_id": "www",
       "label": "南邮联合主办第二届人工智能驱动社会变迁与社会学创新学术研讨会",
       "url": "https://www.njupt.edu.cn/2026/0415/c53a300066/page.htm",
@@ -1120,10 +1134,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 92
+      "position": 93
     },
     {
-      "node_id": "014c321186479298fa50",
+      "node_id": "cc1e053865ae0ffa555e",
       "site_id": "www",
       "label": "南邮承办江苏省高雅艺术进校园活动",
       "url": "https://www.njupt.edu.cn/2026/0414/c53a299963/page.htm",
@@ -1134,10 +1148,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 93
+      "position": 94
     },
     {
-      "node_id": "0038a488043a1630528f",
+      "node_id": "b4e4c2dfe9949405ede2",
       "site_id": "www",
       "label": "南邮三个科研平台共同举办2025年度学术（技术）委员会会议",
       "url": "https://www.njupt.edu.cn/2026/0123/c53a296744/page.htm",
@@ -1148,10 +1162,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 94
+      "position": 95
     },
     {
-      "node_id": "71df8555258dc167dc03",
+      "node_id": "8637753fbdc667183e25",
       "site_id": "www",
       "label": "南邮召开2025年度教育部泛在网络健康服务系统工程研究中心暨江苏省无线通信与物联网省高校重点实验室专家委员会工作会议",
       "url": "https://www.njupt.edu.cn/2026/0112/c53a296248/page.htm",
@@ -1162,10 +1176,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 95
+      "position": 96
     },
     {
-      "node_id": "5024302af1dbdf8f884b",
+      "node_id": "603d21888a21941c2346",
       "site_id": "www",
       "label": "南邮智能信息处理与通信技术省高校重点实验室学术委员会会议召开",
       "url": "https://www.njupt.edu.cn/2026/0112/c53a296241/page.htm",
@@ -1176,10 +1190,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 96
+      "position": 97
     },
     {
-      "node_id": "20222f958e9ca608dd28",
+      "node_id": "ebbcff1ed2ecfd2e67f3",
       "site_id": "www",
       "label": "南邮艺术馆暨李味青艺术馆承办“跃马迎春——诗词楹联书画名家作品展” 1月8日下午，由江苏省楹联研究会书法艺术委员会、江苏省收藏家协会书画院、南京市楹联家协会、南京钟山文学学会书画院、南京市鼓楼区书法家协会联合主办，南京邮电大学艺术馆暨李味青艺术馆承办，秀挹美术馆等协办的“跃马迎春——诗词楹联书画名家作品展”正式拉开帷幕。活动现场 本次展览以“马”为主题，涵盖40至90年代近80位书画名家的精心力作，为观众呈现了一场兼具艺术高度与人文温度的视觉盛宴。 展览作品形式丰富多元，既有承载语言之美的诗词楹联，也有描绘山河意境的山水画卷，更有以马为魂、彰显奋进精神的主题创作。书法作品涵盖篆、隶、楷、行、草诸体，或古朴凝重，或飘逸灵动，或雄浑开阔，展现了中国书法的艺术魅力与当代书画家的深厚造诣。 南邮一直将文化传承与创新置于育人工程的重要位置，积极推动美育与德育、智育的深度融合。李味青艺术馆作为校园重要的文化阵地，长期致力于搭建艺术鉴赏、学术交流与创作实践的平台。此次展览的举办，是南邮持续深化文化育人、服务社会美育的又一重要成果。 展览自2026年1月8日起面向公众开放，将持续至2026年3月8日。（撰稿：冯震 初审：钱军 编辑：王存宏 审核：张丰）",
       "url": "https://www.njupt.edu.cn/2026/0109/c17122a296176/page.htm",
@@ -1190,10 +1204,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 97
+      "position": 98
     },
     {
-      "node_id": "48ec78184d8f68dcc14e",
+      "node_id": "d28b2196b3caef1de4eb",
       "site_id": "www",
       "label": "南邮联合主办信息通信与智慧医疗交叉创新研究论坛",
       "url": "https://www.njupt.edu.cn/2025/1217/c53a294699/page.htm",
@@ -1204,10 +1218,52 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 98
+      "position": 99
     },
     {
-      "node_id": "751e84abc95e423ecc5b",
+      "node_id": "82a024affc70492b11f4",
+      "site_id": "www",
+      "label": "Nature Nanotechnology刊发汪联辉/丁显光教授团队在生物囊泡肿瘤免疫治疗领域进展",
+      "url": "https://www.njupt.edu.cn/2026/0620/c53a305196/page.htm",
+      "nav_path": [
+        "Nature Nanotechnology刊发汪联辉/丁显光教授团队在生物囊泡肿瘤免疫治疗领域进展"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 100
+    },
+    {
+      "node_id": "5644fd00425367d52e53",
+      "site_id": "www",
+      "label": "南邮教师获省高校青年教师教学竞赛暨全国高校青年教师教学竞赛选拔赛工科组第一名",
+      "url": "https://www.njupt.edu.cn/2026/0617/c53a305043/page.htm",
+      "nav_path": [
+        "南邮教师获省高校青年教师教学竞赛暨全国高校青年教师教学竞赛选拔赛工科组第一名"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 101
+    },
+    {
+      "node_id": "29fab5b1ecff4ed227f8",
+      "site_id": "www",
+      "label": "《自然·化学》刊发柔性电子全国重点实验室张敬教授团队在有机铁电领域的最新研究进展",
+      "url": "https://www.njupt.edu.cn/2026/0528/c53a302868/page.htm",
+      "nav_path": [
+        "《自然·化学》刊发柔性电子全国重点实验室张敬教授团队在有机铁电领域的最新研究进展"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 102
+    },
+    {
+      "node_id": "af506f74e25244718e3e",
       "site_id": "www",
       "label": "南邮丁显光教授作为共同通讯作者在Cell发表高水平科技成果",
       "url": "https://www.njupt.edu.cn/2026/0522/c53a302494/page.htm",
@@ -1218,52 +1274,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 99
+      "position": 103
     },
     {
-      "node_id": "a3a3d0e22a66e7d9c5e9",
-      "site_id": "www",
-      "label": "南邮柔性电子创新团队获评“江苏省青年五四奖章集体”",
-      "url": "https://www.njupt.edu.cn/2026/0429/c53a301174/page.htm",
-      "nav_path": [
-        "南邮柔性电子创新团队获评“江苏省青年五四奖章集体”"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 100
-    },
-    {
-      "node_id": "4185f2f72339fbaf3330",
-      "site_id": "www",
-      "label": "南邮集成电路学科2项科研成果入选国际顶级会议",
-      "url": "https://www.njupt.edu.cn/2026/0416/c53a300075/page.htm",
-      "nav_path": [
-        "南邮集成电路学科2项科研成果入选国际顶级会议"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 101
-    },
-    {
-      "node_id": "5b03f3236349ca9a90d1",
-      "site_id": "www",
-      "label": "南邮教师获第六届江苏省高校教师教学创新大赛特等奖5项",
-      "url": "https://www.njupt.edu.cn/2026/0410/c53a299622/page.htm",
-      "nav_path": [
-        "南邮教师获第六届江苏省高校教师教学创新大赛特等奖5项"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 102
-    },
-    {
-      "node_id": "d7f19358b8f35f230ccf",
+      "node_id": "b19d56fd76d6d64ee232",
       "site_id": "www",
       "label": "查看更多",
       "url": "https://www.njupt.edu.cn/jxkycg/list.htm",
@@ -1274,10 +1288,52 @@
       "target_type": "section_list_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 103
+      "position": 104
     },
     {
-      "node_id": "973cbe982c76e44b3626",
+      "node_id": "71ba8ffd08666567d2a4",
+      "site_id": "www",
+      "label": "2026 06.20 Nature Nanotechnology刊发汪联辉/丁显光教授团队在生物囊泡肿瘤免疫治疗领域进展",
+      "url": "https://www.njupt.edu.cn/2026/0620/c53a305196/page.htm",
+      "nav_path": [
+        "2026 06.20 Nature Nanotechnology刊发汪联辉/丁显光教授团队在生物囊泡肿瘤免疫治疗领域进展"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 105
+    },
+    {
+      "node_id": "37a68667ca798cd104e3",
+      "site_id": "www",
+      "label": "2026 06.16 南邮教师获省高校青年教师教学竞赛暨全国高校青年教师教学竞赛选拔赛工科组第一名",
+      "url": "https://www.njupt.edu.cn/2026/0617/c53a305043/page.htm",
+      "nav_path": [
+        "2026 06.16 南邮教师获省高校青年教师教学竞赛暨全国高校青年教师教学竞赛选拔赛工科组第一名"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 106
+    },
+    {
+      "node_id": "0ff964c078384c476c16",
+      "site_id": "www",
+      "label": "2026 05.28 《自然·化学》刊发柔性电子全国重点实验室张敬教授团队在有机铁电领域的最新研究进展",
+      "url": "https://www.njupt.edu.cn/2026/0528/c53a302868/page.htm",
+      "nav_path": [
+        "2026 05.28 《自然·化学》刊发柔性电子全国重点实验室张敬教授团队在有机铁电领域的最新研究进展"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 107
+    },
+    {
+      "node_id": "4ed37149e9777303ff65",
       "site_id": "www",
       "label": "2026 05.22 南邮丁显光教授作为共同通讯作者在Cell发表高水平科技成果",
       "url": "https://www.njupt.edu.cn/2026/0522/c53a302494/page.htm",
@@ -1288,52 +1344,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 104
+      "position": 108
     },
     {
-      "node_id": "3f76185c1fd9f4459b3f",
-      "site_id": "www",
-      "label": "2026 04.29 南邮柔性电子创新团队获评“江苏省青年五四奖章集体”",
-      "url": "https://www.njupt.edu.cn/2026/0429/c53a301174/page.htm",
-      "nav_path": [
-        "2026 04.29 南邮柔性电子创新团队获评“江苏省青年五四奖章集体”"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 105
-    },
-    {
-      "node_id": "bbe7b69d218dc019c8d2",
-      "site_id": "www",
-      "label": "2026 04.15 南邮集成电路学科2项科研成果入选国际顶级会议",
-      "url": "https://www.njupt.edu.cn/2026/0416/c53a300075/page.htm",
-      "nav_path": [
-        "2026 04.15 南邮集成电路学科2项科研成果入选国际顶级会议"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 106
-    },
-    {
-      "node_id": "b8c50591b4770b4e1c51",
-      "site_id": "www",
-      "label": "2026 04.10 南邮教师获第六届江苏省高校教师教学创新大赛特等奖5项",
-      "url": "https://www.njupt.edu.cn/2026/0410/c53a299622/page.htm",
-      "nav_path": [
-        "2026 04.10 南邮教师获第六届江苏省高校教师教学创新大赛特等奖5项"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 107
-    },
-    {
-      "node_id": "9a494c673a56f5d38919",
+      "node_id": "6f981eec66718b62ccfe",
       "site_id": "www",
       "label": "青春不散场！共赴南邮2026届本科生毕业盛典！",
       "url": "https://mp.weixin.qq.com/s/YtmK2BdipS55Lqve-DrSsA",
@@ -1344,10 +1358,10 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 109
+      "position": 110
     },
     {
-      "node_id": "76f4ee10291d98f321d4",
+      "node_id": "1f742d9014bc117b4f8e",
       "site_id": "www",
       "label": "毕业MV《凤凰花开的路口》",
       "url": "https://v.kuaishou.com/n9V0111y",
@@ -1358,10 +1372,10 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 110
+      "position": 111
     },
     {
-      "node_id": "6a5a81238af7c63af3a3",
+      "node_id": "2e5af22cfae02951811c",
       "site_id": "www",
       "label": "南邮这场毕设展，不容错过！",
       "url": "http://t.cn/AX6oDlsJ",
@@ -1372,10 +1386,10 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 111
+      "position": 112
     },
     {
-      "node_id": "654cf54def0367035721",
+      "node_id": "72a5325603f9403eace1",
       "site_id": "www",
       "label": "一架架纸飞机载满少年鸿志，一面面横幅盛满母校牵挂。",
       "url": "https://v.douyin.com/4yYLy5jN6X0/",
@@ -1386,10 +1400,10 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 112
+      "position": 113
     },
     {
-      "node_id": "8ab735e9e95c6a7f200b",
+      "node_id": "eb88eea164786028ef4e",
       "site_id": "www",
       "label": "2026.06.20 江苏省首个量子科技学院在南京邮电大学成立",
       "url": "https://mp.weixin.qq.com/s/0Nbb9bQaBd65TZWaA0omwA",
@@ -1400,10 +1414,10 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 113
+      "position": 114
     },
     {
-      "node_id": "ff7b70af1618c34d6caf",
+      "node_id": "5effc8bf0406e823e174",
       "site_id": "www",
       "label": "2026.06.19 这个端午，和南邮AI一起“数”说金陵夏日！",
       "url": "https://mp.weixin.qq.com/s/1b9ZU0bih248DhPqE87fYQ",
@@ -1414,10 +1428,10 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 114
+      "position": 115
     },
     {
-      "node_id": "ea683a32eaadea9a041d",
+      "node_id": "70192a7ad3e6105ad33a",
       "site_id": "www",
       "label": "2026.06.15 邮梦启新程！直击南邮2026届研究生毕业典礼！",
       "url": "https://mp.weixin.qq.com/s/M-kilXwU6ecS3NGBwOlbgQ",
@@ -1428,10 +1442,10 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 115
+      "position": 116
     },
     {
-      "node_id": "a13b66fb54d8d3beecd0",
+      "node_id": "5ee9c23730f90409e74a",
       "site_id": "www",
       "label": "2026.06.14 “南”忘，“邮”你！",
       "url": "https://mp.weixin.qq.com/s/h_oaEfDGO5bOcuEDDeGK_A",
@@ -1442,10 +1456,10 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 116
+      "position": 117
     },
     {
-      "node_id": "2a30b38e8c3b1366a05f",
+      "node_id": "d4632c34dd581997e515",
       "site_id": "www",
       "label": "查看更多",
       "url": "https://www.njupt.edu.cn/ztzl/list.htm",
@@ -1456,10 +1470,10 @@
       "target_type": "section_list_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 117
+      "position": 118
     },
     {
-      "node_id": "3dc693dc635fc32ce50e",
+      "node_id": "aab2c958961007b51610",
       "site_id": "www",
       "label": "查看更多",
       "url": "https://www.njupt.edu.cn/18028/list.htm",
@@ -1470,10 +1484,10 @@
       "target_type": "section_list_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 121
+      "position": 122
     },
     {
-      "node_id": "defd03af6edad9ec2f67",
+      "node_id": "54dfdce41ce2b153e14c",
       "site_id": "www",
       "label": "优秀教师",
       "url": "https://www.njupt.edu.cn/18029/list.htm",
@@ -1484,10 +1498,10 @@
       "target_type": "section_list_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 122
+      "position": 123
     },
     {
-      "node_id": "9378681f244e35d8c21b",
+      "node_id": "57765a21f99bf8b32096",
       "site_id": "www",
       "label": "优秀教育工作者",
       "url": "https://www.njupt.edu.cn/18030/list.htm",
@@ -1498,10 +1512,10 @@
       "target_type": "section_list_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 123
+      "position": 124
     },
     {
-      "node_id": "d8bf35cdacd2757ff4db",
+      "node_id": "e5ac13742c8b9431b511",
       "site_id": "www",
       "label": "最美辅导员",
       "url": "https://www.njupt.edu.cn/18031/list.htm",
@@ -1512,10 +1526,10 @@
       "target_type": "section_list_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 124
+      "position": 125
     },
     {
-      "node_id": "92eda7ad786fd563d822",
+      "node_id": "784a8654bc9881c3e786",
       "site_id": "www",
       "label": "最美大学生",
       "url": "https://www.njupt.edu.cn/18028/list.htm",
@@ -1526,10 +1540,10 @@
       "target_type": "section_list_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 125
+      "position": 126
     },
     {
-      "node_id": "3ca8a403784491e15441",
+      "node_id": "5362748dfe9b3f5770b5",
       "site_id": "www",
       "label": "7 博士后流动站7个",
       "url": "https://www.njupt.edu.cn/2023/1230/c17132a253787/page.htm",
@@ -1540,10 +1554,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 131
+      "position": 132
     },
     {
-      "node_id": "286340afadac6e0d27f9",
+      "node_id": "4d30fa42f38b17b5b394",
       "site_id": "www",
       "label": "10 一级学科博士学位授权点10个",
       "url": "https://www.njupt.edu.cn/2023/1230/c17132a253786/page.htm",
@@ -1554,10 +1568,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 132
+      "position": 133
     },
     {
-      "node_id": "ae166bbbd245c7fd04f9",
+      "node_id": "74955bb788688c506e12",
       "site_id": "www",
       "label": "11 博士学位授权点11个",
       "url": "https://www.njupt.edu.cn/2023/1230/c17132a253785/page.htm",
@@ -1568,10 +1582,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 133
+      "position": 134
     },
     {
-      "node_id": "e98f40257e65eab24fd9",
+      "node_id": "6afc745c27596501f1c9",
       "site_id": "www",
       "label": "23 一级学科硕士学位授权点23个",
       "url": "https://www.njupt.edu.cn/2023/1230/c17132a253784/page.htm",
@@ -1582,10 +1596,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 134
+      "position": 135
     },
     {
-      "node_id": "065a9c8e770cfd187c6b",
+      "node_id": "1bb4a03b3b03807a300e",
       "site_id": "www",
       "label": "14 硕士专业学位授权点（类别）14个",
       "url": "https://www.njupt.edu.cn/2023/1230/c17132a253783/page.htm",
@@ -1596,10 +1610,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 135
+      "position": 136
     },
     {
-      "node_id": "e5fd2fbaa6a457c6a8f0",
+      "node_id": "f9843a758488dc6b673c",
       "site_id": "www",
       "label": "52 本科专业52个",
       "url": "https://www.njupt.edu.cn/2023/1230/c17132a253782/page.htm",
@@ -1610,10 +1624,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 136
+      "position": 137
     },
     {
-      "node_id": "27aa17ddae24fad82a89",
+      "node_id": "3b344368ecc03e963ac6",
       "site_id": "www",
       "label": "6 6个学科进入ESI学科排名全球前1%",
       "url": "https://www.njupt.edu.cn/2023/1230/c17132a253781/page.htm",
@@ -1624,10 +1638,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 137
+      "position": 138
     },
     {
-      "node_id": "e32698bef86824d8b4c5",
+      "node_id": "3248118fce590c6dbb05",
       "site_id": "www",
       "label": "27 国家一流专业27个",
       "url": "https://www.njupt.edu.cn/2023/1230/c17132a253780/page.htm",
@@ -1638,10 +1652,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 138
+      "position": 139
     },
     {
-      "node_id": "73e72b5165aa95449880",
+      "node_id": "bacbef8bae9f5e523d0d",
       "site_id": "www",
       "label": "14 14个专业通过国家工程教育专业认证",
       "url": "https://www.njupt.edu.cn/2023/1230/c17132a253777/page.htm",
@@ -1652,10 +1666,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 139
+      "position": 140
     },
     {
-      "node_id": "d3eaab7b1eb131bc47e5",
+      "node_id": "1064bd90864082fcc901",
       "site_id": "www",
       "label": "校历查询",
       "url": "http://jwc.njupt.edu.cn/2025/0904/c1528a288083/page.htm",
@@ -1666,10 +1680,10 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 140
+      "position": 141
     },
     {
-      "node_id": "78f76ada5b4d29ff26f7",
+      "node_id": "7709fa76db5d2e8bc152",
       "site_id": "www",
       "label": "规章制度",
       "url": "https://gzzd.njupt.edu.cn/",
@@ -1680,10 +1694,10 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 141
+      "position": 142
     },
     {
-      "node_id": "10b3a87ea8b01c7e0426",
+      "node_id": "773279aeed3e05ac45e0",
       "site_id": "www",
       "label": "服务流程",
       "url": "http://fwlc.njupt.edu.cn",
@@ -1694,10 +1708,10 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 142
+      "position": 143
     },
     {
-      "node_id": "4a7b76487966aa256bae",
+      "node_id": "89fd301fb66edaa7984e",
       "site_id": "www",
       "label": "办公信息",
       "url": "http://i.njupt.edu.cn/cas/login?service=http%3A%2F%2Fi.njupt.edu.cn%2Fportal%2Fcas%2Fclient%2FvalidateLogin",
@@ -1708,10 +1722,10 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 143
+      "position": 144
     },
     {
-      "node_id": "a3a2ad8aba5b53426e54",
+      "node_id": "1a070a6f957ea1a7305f",
       "site_id": "www",
       "label": "图书馆",
       "url": "https://lib.njupt.edu.cn/",
@@ -1722,10 +1736,10 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 146
+      "position": 147
     },
     {
-      "node_id": "ad7246e6b5f018c2582c",
+      "node_id": "cf9e924a7e26a5cddac3",
       "site_id": "www",
       "label": "艺术馆",
       "url": "https://nylwqam.njupt.edu.cn/",
@@ -1736,10 +1750,10 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 147
+      "position": 148
     },
     {
-      "node_id": "7d091bc8c21f4448b5ac",
+      "node_id": "bcd690d488a0f3b39f71",
       "site_id": "www",
       "label": "南邮校报",
       "url": "http://njupt.ihwrm.com/",
@@ -1750,10 +1764,10 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 148
+      "position": 149
     },
     {
-      "node_id": "a64b0d3c44f8dc7835ef",
+      "node_id": "7780a434ebfdb7f1be73",
       "site_id": "www",
       "label": "VPN登录",
       "url": "http://xxb.njupt.edu.cn/9076/list.htm",
@@ -1764,10 +1778,10 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 149
+      "position": 150
     },
     {
-      "node_id": "414e2a34de4edf6a2702",
+      "node_id": "26a7b443f0378df6394c",
       "site_id": "www",
       "label": "实景漫游",
       "url": "https://campus.njupt.edu.cn/",
@@ -1778,10 +1792,10 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 150
+      "position": 151
     },
     {
-      "node_id": "2855f8bfe2388cc307fc",
+      "node_id": "23048ce143dc0c8345b6",
       "site_id": "www",
       "label": "校友会",
       "url": "https://xyh.njupt.edu.cn/",
@@ -1792,10 +1806,10 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 151
+      "position": 152
     },
     {
-      "node_id": "09a03954fadcecd69bed",
+      "node_id": "0c0d8f08f354d9f17a48",
       "site_id": "www",
       "label": "基金会",
       "url": "https://jijin.njupt.edu.cn/",
@@ -1806,10 +1820,10 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 152
+      "position": 153
     },
     {
-      "node_id": "c6042e95d5bca362e847",
+      "node_id": "6876feaf1d2b8f5296eb",
       "site_id": "www",
       "label": "相关链接",
       "url": "https://www.njupt.edu.cn/17298/list.htm",
@@ -1820,10 +1834,10 @@
       "target_type": "section_list_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 153
+      "position": 154
     },
     {
-      "node_id": "216cd56bfd026155c9ff",
+      "node_id": "7db137e192f7b8798290",
       "site_id": "www",
       "label": "苏公网安备32011302320419号|苏ICP备11073489号J",
       "url": "https://beian.miit.gov.cn/",
@@ -1834,7 +1848,7 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 154
+      "position": 155
     }
   ]
 }
