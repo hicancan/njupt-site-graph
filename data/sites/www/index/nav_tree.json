@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-23T14:20:54.090592+00:00",
+  "generated_at": "2026-06-24T08:50:55.768546+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -871,7 +871,21 @@
       "position": 74
     },
     {
-      "node_id": "ec668dba6ba780d0f8c8",
+      "node_id": "c53d659f67f41fe7effc",
+      "site_id": "www",
+      "label": "【光明日报】驻入园区 嵌入产业 融入企业",
+      "url": "https://www.njupt.edu.cn/2026/0624/c17125a305381/page.htm",
+      "nav_path": [
+        "【光明日报】驻入园区 嵌入产业 融入企业"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 75
+    },
+    {
+      "node_id": "c3eab74d62c31ada086c",
       "site_id": "www",
       "label": "【人民日报头版】江苏探索科技成果高效转化应用新途径",
       "url": "https://www.njupt.edu.cn/2026/0619/c17125a305186/page.htm",
@@ -882,10 +896,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 75
+      "position": 76
     },
     {
-      "node_id": "e8955eee079cc6fde812",
+      "node_id": "d64a39cb53e5d32fae70",
       "site_id": "www",
       "label": "【江苏卫视】四方携手签约 推动广电视听行业转型升级",
       "url": "https://www.njupt.edu.cn/2026/0604/c17125a303423/page.htm",
@@ -896,29 +910,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 76
+      "position": 77
     },
     {
-      "node_id": "3813be4e135e032eddb8",
+      "node_id": "a6e3805e96d7bd524c89",
       "site_id": "www",
       "label": "【江苏教育新闻】我省首个量子科技学院在南邮成立",
       "url": "https://www.njupt.edu.cn/2026/0619/c17125a305189/page.htm",
       "nav_path": [
         "【江苏教育新闻】我省首个量子科技学院在南邮成立"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 77
-    },
-    {
-      "node_id": "caa1e09be4f5d736ef97",
-      "site_id": "www",
-      "label": "【新华日报客户端】他的成果已集成至华为平台，南京邮电大学首位“实践博士”毕业！",
-      "url": "https://www.njupt.edu.cn/2026/0530/c17125a303042/page.htm",
-      "nav_path": [
-        "【新华日报客户端】他的成果已集成至华为平台，南京邮电大学首位“实践博士”毕业！"
       ],
       "depth": 1,
       "target_type": "detail_article_page",

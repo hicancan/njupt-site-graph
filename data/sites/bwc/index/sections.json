@@ -3139,5 +3139,25 @@
     },
     "source": "inline_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list38.htm"
+  },
+  {
+    "section_id": "bwc_home_link_03c4a63b1b24",
+    "site_id": "bwc",
+    "name": "学生安全教育月成果展示 更多 →",
+    "url": "https://bwc.njupt.edu.cn/_t3998/xsaqjyycgszs/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "学生安全教育月成果展示 更多 →"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_link"
   }
 ]

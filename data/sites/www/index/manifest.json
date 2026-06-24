@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-23T14:20:51.687369+00:00",
+  "generated_at": "2026-06-24T08:50:53.387978+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 132,
@@ -11,7 +11,7 @@
     "attachments": 22,
     "external_links": 50,
     "edges": 644,
-    "url_outcomes": 495
+    "url_outcomes": 496
   },
   "outcomes": {
     "attachment_metadata_only": 23,
@@ -22,7 +22,7 @@
     "external_link_recorded": 46,
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 2,
-    "homepage_link_recorded": 74,
+    "homepage_link_recorded": 75,
     "inline_image_recorded": 225,
     "section_list_page_recorded": 3
   },
@@ -7051,6 +7051,18 @@
       "section_ids": [
         "www_academic_events"
       ]
+    },
+    "https://www.njupt.edu.cn/2026/0624/c17125a305381/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0624/c17125a305381/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "homepage_link_recorded",
+      "labels": [
+        "【光明日报】驻入园区 嵌入产业 融入企业"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
     }
   }
 }
