@@ -122,8 +122,32 @@ jobs:
       - name: Validate site config
         run: python scripts/sitegraph_registry.py validate-configs --include "${{ matrix.site }}"
 
-      - name: Incrementally update one sitegraph package
-        run: python scripts/sitegraph_registry.py crawl --incremental --include "${{ matrix.site }}" --incremental-known-page-stop 2 --incremental-refresh-frontier 3
+      - name: Incrementally update and validate one sitegraph package
+        run: |
+          for attempt in 1 2 3; do
+            echo "::group::crawl ${{ matrix.site }} attempt $attempt"
+            set +e
+            python scripts/sitegraph_registry.py crawl --incremental --include "${{ matrix.site }}" --incremental-known-page-stop 2 --incremental-refresh-frontier 3
+            crawl_status=$?
+            if [ "$crawl_status" -eq 0 ]; then
+              python scripts/sitegraph_registry.py validate-packages --include "${{ matrix.site }}"
+              validate_status=$?
+            else
+              validate_status=$crawl_status
+            fi
+            set -e
+            echo "::endgroup::"
+            if [ "$validate_status" -eq 0 ]; then
+              exit 0
+            fi
+            if [ "$attempt" -eq 3 ]; then
+              echo "::error::Site ${{ matrix.site }} still failed after $attempt attempts."
+              exit "$validate_status"
+            fi
+            sleep_seconds=$((attempt * 30))
+            echo "Site ${{ matrix.site }} failed with status $validate_status; retrying after ${sleep_seconds}s."
+            sleep "$sleep_seconds"
+          done
 
       - name: Summarize generated package
         run: python scripts/sitegraph_registry.py summary --include "${{ matrix.site }}"

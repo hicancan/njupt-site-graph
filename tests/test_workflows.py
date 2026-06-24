@@ -8,6 +8,9 @@ def test_update_sitegraph_workflow_runs_incremental_every_six_hours():
     assert "cron: '0 */6 * * *'" in text
     assert '--incremental' in text
     assert '--incremental-known-page-stop 2' in text
+    assert 'validate-packages --include "${{ matrix.site }}"' in text
+    assert 'for attempt in 1 2 3' in text
+    assert 'still failed after $attempt attempts' in text
     assert 'python scripts/commit_generated_changes.py' in text
     assert '--add data/sites/*/index/' in text
     assert '--ref-output sitegraph_ref' in text
@@ -60,6 +63,7 @@ def test_update_workflow_uses_site_registry():
     assert 'scripts/sitegraph_registry.py validate-configs' in text
     assert 'scripts/sitegraph_registry.py validate-configs --include "${{ matrix.site }}"' in text
     assert 'scripts/sitegraph_registry.py crawl --incremental --include "${{ matrix.site }}" --incremental-known-page-stop 2 --incremental-refresh-frontier 3' in text
+    assert 'scripts/sitegraph_registry.py validate-packages --include "${{ matrix.site }}"' in text
     assert 'scripts/sitegraph_registry.py summary' in text
     assert 'scripts/sitegraph_registry.py summary --include "${{ matrix.site }}"' in text
 

@@ -9,6 +9,18 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 REGISTRY_PATH = ROOT / "configs" / "site_registry.json"
+PACKAGE_FILES = (
+    "site.json",
+    "nav_tree.json",
+    "sections.json",
+    "list_pages.jsonl",
+    "detail_pages.jsonl",
+    "attachments.jsonl",
+    "external_links.jsonl",
+    "edges.jsonl",
+    "manifest.json",
+    "homepage_modules.json",
+)
 
 
 def read_registry(include: str | None = None) -> list[dict[str, str]]:
@@ -93,6 +105,30 @@ def crawl(args: argparse.Namespace) -> None:
         run_command(command)
 
 
+def validate_packages(args: argparse.Namespace) -> None:
+    for site in read_registry(args.include):
+        site_id = site["id"]
+        package_root = ROOT / site["package"]
+        missing = [filename for filename in PACKAGE_FILES if not (package_root / filename).exists()]
+        if missing:
+            raise SystemExit(f"{site_id} package is incomplete; missing: {', '.join(missing)}")
+        manifest_path = package_root / "manifest.json"
+        manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+        if manifest.get("site_id") != site_id:
+            raise SystemExit(f"{manifest_path} site_id mismatch: expected {site_id}, got {manifest.get('site_id')!r}")
+        quality = manifest.get("quality")
+        if not isinstance(quality, dict):
+            raise SystemExit(f"{manifest_path} missing quality object")
+        if quality.get("all_discovered_urls_have_outcomes") is not True:
+            raise SystemExit(f"{site_id} has discovered URLs without outcomes")
+        errors = manifest.get("errors")
+        if not isinstance(errors, list):
+            raise SystemExit(f"{manifest_path} errors must be a list")
+        if quality.get("errors") != 0 or errors:
+            preview = json.dumps(errors[:10], ensure_ascii=False, indent=2)
+            raise SystemExit(f"{site_id} package contains crawl errors:\n{preview}")
+
+
 def summary(_args: argparse.Namespace) -> None:
     rows = []
     for site in read_registry(getattr(_args, "include", None)):
@@ -131,6 +167,9 @@ def main() -> int:
     crawl_parser.add_argument("--incremental-known-page-stop", type=int, default=2)
     crawl_parser.add_argument("--incremental-refresh-frontier", type=int, default=3)
     crawl_parser.set_defaults(func=crawl)
+    validate_packages_parser = subparsers.add_parser("validate-packages")
+    validate_packages_parser.add_argument("--include", default=None)
+    validate_packages_parser.set_defaults(func=validate_packages)
     summary_parser = subparsers.add_parser("summary")
     summary_parser.add_argument("--include", default=None)
     summary_parser.set_defaults(func=summary)
