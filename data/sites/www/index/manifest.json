@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-24T08:50:53.387978+00:00",
+  "generated_at": "2026-06-24T14:02:47.166949+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 132,
     "homepage_modules": 0,
     "list_pages": 7,
-    "detail_pages": 111,
-    "low_content_detail_pages": 25,
+    "detail_pages": 112,
+    "low_content_detail_pages": 26,
     "attachments": 22,
     "external_links": 50,
     "edges": 644,
-    "url_outcomes": 496
+    "url_outcomes": 497
   },
   "outcomes": {
     "attachment_metadata_only": 23,
-    "crawled_detail_ok": 111,
+    "crawled_detail_ok": 112,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 7,
     "cross_domain_article_link_recorded": 2,
@@ -2529,7 +2529,8 @@
         "2026 04.08 转发《关于2026南京仙林半程马拉松比赛期间对部分道路采取临时交..."
       ],
       "sources": [
-        "https://www.njupt.edu.cn/72/list.htm"
+        "https://www.njupt.edu.cn/72/list.htm",
+        "https://www.njupt.edu.cn/72/list2.htm"
       ],
       "section_ids": [
         "www_notice"
@@ -2823,7 +2824,8 @@
         "2025 09.12 关于遴选第十三批“南邮-紫金科创学生创业基金” 资助项目的通知"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/72/list2.htm"
+        "https://www.njupt.edu.cn/72/list2.htm",
+        "https://www.njupt.edu.cn/72/list3.htm"
       ],
       "section_ids": [
         "www_notice"
@@ -7063,6 +7065,21 @@
         "https://www.njupt.edu.cn/"
       ],
       "section_ids": []
+    },
+    "https://www.njupt.edu.cn/2026/0624/c72a305390/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0624/c72a305390/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026 06.24 关于2026年高等教育（研究生）国家教学成果奖拟推荐名单的公示"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/72/list.htm"
+      ],
+      "section_ids": [
+        "www_notice"
+      ],
+      "status_code": 200
     }
   }
 }
