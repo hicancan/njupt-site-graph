@@ -1,25 +1,25 @@
 {
   "site_id": "lib",
-  "generated_at": "2026-06-24T19:24:49.429607+00:00",
+  "generated_at": "2026-06-25T02:02:57.663162+00:00",
   "totals": {
     "sections": 42,
     "nav_nodes": 31,
     "homepage_modules": 0,
-    "list_pages": 116,
+    "list_pages": 117,
     "detail_pages": 1142,
     "low_content_detail_pages": 77,
     "attachments": 108,
-    "external_links": 510,
-    "edges": 1722,
-    "url_outcomes": 3858
+    "external_links": 521,
+    "edges": 1733,
+    "url_outcomes": 3870
   },
   "outcomes": {
     "attachment_metadata_only": 107,
     "crawled_detail_ok": 1107,
     "crawled_homepage_ok": 1,
-    "crawled_list_ok": 116,
+    "crawled_list_ok": 117,
     "cross_domain_article_link_recorded": 3,
-    "external_link_recorded": 438,
+    "external_link_recorded": 449,
     "external_policy_link_recorded": 7,
     "external_system_link_recorded": 1,
     "inline_image_recorded": 2007,
@@ -1201,6 +1201,7 @@
         "https://lib.njupt.edu.cn/2011/0602/c1430a16019/page.htm",
         "https://lib.njupt.edu.cn/2011/0906/c1430a16116/page.htm",
         "https://lib.njupt.edu.cn/2011/0601/c1411a20610/page.htm",
+        "https://lib.njupt.edu.cn/2011/0601/c1416a15701/page.htm",
         "https://lib.njupt.edu.cn/2011/0601/c1416a15701/page.htm",
         "https://lib.njupt.edu.cn/2011/0601/c1416a15701/page.htm",
         "https://lib.njupt.edu.cn/2011/0601/c1416a15701/page.htm",
@@ -6433,6 +6434,7 @@
         "https://lib.njupt.edu.cn/2015/0701/c1430a16178/page.htm",
         "https://lib.njupt.edu.cn/2015/0701/c1430a16178/page.htm",
         "https://lib.njupt.edu.cn/2015/0701/c1430a16178/page.htm",
+        "https://lib.njupt.edu.cn/2015/0701/c1430a16178/page.htm",
         "https://lib.njupt.edu.cn/2015/0701/c1430a16178/page.htm"
       ],
       "section_ids": [
@@ -11562,6 +11564,11 @@
         "https://lib.njupt.edu.cn/2011/0602/c1430a16043/page.htm",
         "https://lib.njupt.edu.cn/2011/0602/c1430a16064/page.htm",
         "https://lib.njupt.edu.cn/2011/0906/c1430a16116/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16074/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16041/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16043/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16064/page.htm",
+        "https://lib.njupt.edu.cn/2011/0906/c1430a16116/page.htm",
         "https://lib.njupt.edu.cn/2011/0602/c1430a16074/page.htm"
       ],
       "section_ids": [
@@ -11819,6 +11826,11 @@
         "https://lib.njupt.edu.cn/2011/0602/c1430a16013/page.htm",
         "https://lib.njupt.edu.cn/2011/0602/c1430a16017/page.htm",
         "https://lib.njupt.edu.cn/2011/0602/c1430a16030/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16038/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16039/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16024/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16060/page.htm",
+        "https://lib.njupt.edu.cn/2011/0602/c1430a16035/page.htm",
         "https://lib.njupt.edu.cn/2011/0602/c1430a16038/page.htm",
         "https://lib.njupt.edu.cn/2011/0602/c1430a16039/page.htm",
         "https://lib.njupt.edu.cn/2011/0602/c1430a16024/page.htm",
@@ -49523,7 +49535,8 @@
         "南京邮电大学图书馆举办春日古节文化体验活动"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list.htm"
+        "https://lib.njupt.edu.cn/hdhg/list.htm",
+        "https://lib.njupt.edu.cn/hdhg/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -49537,7 +49550,8 @@
         "安徽省文联副主席许春樵作客南邮“读书节”"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list.htm"
+        "https://lib.njupt.edu.cn/hdhg/list.htm",
+        "https://lib.njupt.edu.cn/hdhg/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -49551,7 +49565,8 @@
         "阅读丈量千年文脉，行走触摸金陵春秋"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list.htm"
+        "https://lib.njupt.edu.cn/hdhg/list.htm",
+        "https://lib.njupt.edu.cn/hdhg/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -49565,7 +49580,8 @@
         "“研途逐梦 邮圕相伴”考研助力系列活动"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list.htm"
+        "https://lib.njupt.edu.cn/hdhg/list.htm",
+        "https://lib.njupt.edu.cn/hdhg/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -49579,7 +49595,8 @@
         "2024“共读南京”之《金陵古迹图考》活动回顾"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list.htm"
+        "https://lib.njupt.edu.cn/hdhg/list.htm",
+        "https://lib.njupt.edu.cn/hdhg/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -49593,7 +49610,8 @@
         "“古艺新韵，中外共印”2024“邮驿桥”文化交流活动"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list.htm"
+        "https://lib.njupt.edu.cn/hdhg/list.htm",
+        "https://lib.njupt.edu.cn/hdhg/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -49607,7 +49625,8 @@
         "“深念邓公情，砥砺强国志”党日活动‌"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list.htm"
+        "https://lib.njupt.edu.cn/hdhg/list.htm",
+        "https://lib.njupt.edu.cn/hdhg/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -49621,7 +49640,8 @@
         "导读回顾 | 古迹守望：朱偰与《金陵古迹图考》"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list.htm"
+        "https://lib.njupt.edu.cn/hdhg/list.htm",
+        "https://lib.njupt.edu.cn/hdhg/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -49635,7 +49655,8 @@
         "寻访回顾 | 重访\"城南旧事\"，走读《金陵古迹图考》"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list.htm"
+        "https://lib.njupt.edu.cn/hdhg/list.htm",
+        "https://lib.njupt.edu.cn/hdhg/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -49649,7 +49670,8 @@
         "“初遇·图书馆”线上打卡活动圆满收官！"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list.htm"
+        "https://lib.njupt.edu.cn/hdhg/list.htm",
+        "https://lib.njupt.edu.cn/hdhg/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -49663,7 +49685,8 @@
         "“共沐书香 红色润心 ”南京邮电大学“红色市集”活动圆满举办"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list.htm"
+        "https://lib.njupt.edu.cn/hdhg/list.htm",
+        "https://lib.njupt.edu.cn/hdhg/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -49734,7 +49757,8 @@
         "图书馆举办“柚苑有佳话，书评待友商”暑期书评撰写培训专题讲座"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list2.htm"
+        "https://lib.njupt.edu.cn/hdhg/list2.htm",
+        "https://lib.njupt.edu.cn/hdhg/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -49748,7 +49772,8 @@
         "图书馆助力通院书享盛宴活动"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list2.htm"
+        "https://lib.njupt.edu.cn/hdhg/list2.htm",
+        "https://lib.njupt.edu.cn/hdhg/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -49762,7 +49787,8 @@
         "芸台雅集第三期——端午圕结"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list2.htm"
+        "https://lib.njupt.edu.cn/hdhg/list2.htm",
+        "https://lib.njupt.edu.cn/hdhg/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -49776,7 +49802,8 @@
         "回忆杀，老物件带你重回八十年代图书馆"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list2.htm"
+        "https://lib.njupt.edu.cn/hdhg/list2.htm",
+        "https://lib.njupt.edu.cn/hdhg/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -49790,7 +49817,8 @@
         "芸台雅集第二期——校园上巳节"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list2.htm"
+        "https://lib.njupt.edu.cn/hdhg/list2.htm",
+        "https://lib.njupt.edu.cn/hdhg/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -49804,7 +49832,8 @@
         "读书专题讲座:“读书身健方为福——‘书方子’的内涵与大学生情绪疗愈”"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list2.htm"
+        "https://lib.njupt.edu.cn/hdhg/list2.htm",
+        "https://lib.njupt.edu.cn/hdhg/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -49833,7 +49862,8 @@
         "图书馆“南邮·师说”（第一期）——格芴致智人生"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list2.htm"
+        "https://lib.njupt.edu.cn/hdhg/list2.htm",
+        "https://lib.njupt.edu.cn/hdhg/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -49862,7 +49892,8 @@
         "芸台雅集第一期——古琴赏析"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list2.htm"
+        "https://lib.njupt.edu.cn/hdhg/list2.htm",
+        "https://lib.njupt.edu.cn/hdhg/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -53247,6 +53278,175 @@
       ],
       "section_ids": [
         "lib_notice"
+      ],
+      "status_code": 200
+    },
+    "https://mp.weixin.qq.com/s/gVJHUTq0KBAg6BpfBlRIqg": {
+      "url": "https://mp.weixin.qq.com/s/gVJHUTq0KBAg6BpfBlRIqg",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "循着《金陵五记》读南京"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/hdhg/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_1eeb4bf11f78"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/8o_6LkcO50fGcU7_R2b50w": {
+      "url": "https://mp.weixin.qq.com/s/8o_6LkcO50fGcU7_R2b50w",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "墨韵连环 岁月流金主题阅读活动"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/hdhg/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_1eeb4bf11f78"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/aEUC3YRhqY_BcsrIKUXKfA": {
+      "url": "https://mp.weixin.qq.com/s/aEUC3YRhqY_BcsrIKUXKfA",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "图书馆、档案馆成功举办“品读金陵文脉，邂逅古都风华”主题品读会"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/hdhg/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_1eeb4bf11f78"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/ldwGuD6ADC7Z9kQETBKAMw": {
+      "url": "https://mp.weixin.qq.com/s/ldwGuD6ADC7Z9kQETBKAMw",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "图书馆读书协会参加江苏省青少年阅读活动，走进金陵旧书市集共沐书香"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/hdhg/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_1eeb4bf11f78"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/sWcT00QE7rMiBDwqYXTPiA": {
+      "url": "https://mp.weixin.qq.com/s/sWcT00QE7rMiBDwqYXTPiA",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "“衣韵诗香·五洲同吟”主题阅读雅集暨南京邮电大学2026年“阅读文化节”启动仪式成功举办"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/hdhg/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_1eeb4bf11f78"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/qtLtR4YVb-cRCFxmvehnRg": {
+      "url": "https://mp.weixin.qq.com/s/qtLtR4YVb-cRCFxmvehnRg",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "春假首日，南邮校园里来了一群萌娃！"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/hdhg/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_1eeb4bf11f78"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/R7K-g3XCfJbMm5sMWYTibw": {
+      "url": "https://mp.weixin.qq.com/s/R7K-g3XCfJbMm5sMWYTibw",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "“墨印里的中外文化之旅”2025“邮驿桥”文化交流活动"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/hdhg/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_1eeb4bf11f78"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/7jeTd2y5pyzU3Ag6cLr2Aw": {
+      "url": "https://mp.weixin.qq.com/s/7jeTd2y5pyzU3Ag6cLr2Aw",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "南京邮电大学马拉松阅读活动总结"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/hdhg/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_1eeb4bf11f78"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/ysXehfqFawNc6E6PNy7GTQ": {
+      "url": "https://mp.weixin.qq.com/s/ysXehfqFawNc6E6PNy7GTQ",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "专家品读会 | 徐雁：回望书香，开卷有益（内含视频）"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/hdhg/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_1eeb4bf11f78"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/YiJxXnQnwX5-5ydQGec4YA": {
+      "url": "https://mp.weixin.qq.com/s/YiJxXnQnwX5-5ydQGec4YA",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "图书馆成功举办“阅读马拉松（2025）”活动"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/hdhg/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_1eeb4bf11f78"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/NdDf028umnWFkfABFlb0GA": {
+      "url": "https://mp.weixin.qq.com/s/NdDf028umnWFkfABFlb0GA",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "你好，书友！读协第一次线下见面会暖心启幕"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/hdhg/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_1eeb4bf11f78"
+      ]
+    },
+    "https://lib.njupt.edu.cn/hdhg/list3.htm": {
+      "url": "https://lib.njupt.edu.cn/hdhg/list3.htm",
+      "target_type": "section_list_page",
+      "outcome": "crawled_list_ok",
+      "labels": [
+        "活动回顾"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/hdhg/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_1eeb4bf11f78"
       ],
       "status_code": 200
     }
