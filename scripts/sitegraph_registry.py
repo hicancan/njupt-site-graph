@@ -21,6 +21,7 @@ PACKAGE_FILES = (
     "manifest.json",
     "homepage_modules.json",
 )
+MAX_MANIFEST_BYTES = 25 * 1024 * 1024
 
 
 def read_registry(include: str | None = None) -> list[dict[str, str]]:
@@ -113,6 +114,9 @@ def validate_packages(args: argparse.Namespace) -> None:
         if missing:
             raise SystemExit(f"{site_id} package is incomplete; missing: {', '.join(missing)}")
         manifest_path = package_root / "manifest.json"
+        manifest_bytes = manifest_path.stat().st_size
+        if manifest_bytes > MAX_MANIFEST_BYTES:
+            raise SystemExit(f"{site_id} manifest is too large: {manifest_bytes} bytes > {MAX_MANIFEST_BYTES}")
         manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
         if manifest.get("site_id") != site_id:
             raise SystemExit(f"{manifest_path} site_id mismatch: expected {site_id}, got {manifest.get('site_id')!r}")

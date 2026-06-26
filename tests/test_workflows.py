@@ -25,6 +25,12 @@ def test_update_sitegraph_workflow_runs_incremental_every_six_hours():
     assert 'git push' not in text
 
 
+def test_sitegraph_package_validator_rejects_oversized_manifests():
+    script = Path("scripts/sitegraph_registry.py").read_text(encoding="utf-8")
+    assert "MAX_MANIFEST_BYTES = 25 * 1024 * 1024" in script
+    assert "manifest is too large" in script
+
+
 def test_update_sitegraph_workflow_dispatches_search_after_success():
     workflow = Path('.github/workflows/update-sitegraph-data.yml')
     assert workflow.exists()
