@@ -22,6 +22,7 @@ def test_update_sitegraph_workflow_runs_incremental_every_six_hours():
     assert 'site: ${{ fromJson(needs.read-site-matrix.outputs.sites) }}' in text
     assert 'sitegraph-package-${{ matrix.site }}' in text
     assert 'actions/download-artifact@v7' in text
+    assert 'cancel-in-progress: false' in text
     assert 'git push' not in text
 
 
