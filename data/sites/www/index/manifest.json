@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-26T02:04:29.643946+00:00",
+  "generated_at": "2026-06-26T13:56:52.268061+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 132,
     "homepage_modules": 0,
     "list_pages": 7,
-    "detail_pages": 114,
+    "detail_pages": 115,
     "low_content_detail_pages": 26,
     "attachments": 22,
     "external_links": 50,
     "edges": 644,
-    "url_outcomes": 507
+    "url_outcomes": 511
   },
   "outcomes": {
     "attachment_metadata_only": 23,
-    "crawled_detail_ok": 114,
+    "crawled_detail_ok": 115,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 7,
     "cross_domain_article_link_recorded": 2,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 75,
-    "inline_image_recorded": 233,
+    "inline_image_recorded": 236,
     "section_list_page_recorded": 3
   },
   "errors": [],
@@ -3927,7 +3927,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/53/list.htm",
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -6120,7 +6121,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/",
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -7210,6 +7212,59 @@
       "labels": [],
       "sources": [
         "https://www.njupt.edu.cn/2026/0625/c53a305462/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/2026/0626/c53a305527/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0626/c53a305527/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.06.24 南邮举行黄一潇兼职教授授聘仪式",
+        "2026 06.24 南邮举行黄一潇兼职教授授聘仪式 6月23日下午，顺丰科技运筹优化算法高级工程师黄一潇博士受聘南京邮电大学兼职教授仪式在三牌楼校区科学会堂举行。南邮副校长肖甫为黄一潇颁发聘书和校徽，现代邮政学院、智慧交通学院负责人和师生代表参加活动。 肖甫对黄一潇加盟南邮表示热烈欢迎。他说，快递物流已成为服务民生、支撑新发展格局的战略性产业，黄一潇博士深耕运筹优化算法领域，主导研发的网络规划算法项目获2025年弗兰兹·厄德曼全球决赛奖，参与的顺丰超脑2.0获2025年CCF科技成果奖，是将企业真实需求与前沿技术方法紧密结合的优秀代表。南邮在交通运输、物流管理、邮政工程等领域的办学积淀深厚，与顺丰开展本科创新人才联合培养，期待与黄一潇博士携手共育人才、共促创新。 黄一潇在受聘感言中表示，非常荣幸加盟南邮。他回顾了从清华园到顺丰的求学与从业历程，深切感受到理论研究与工程实践相互促进的重要性。表示将把顺丰在智能物流网络规划领域积累的前沿实践经验带入课堂与科研，与师生共同探索运筹优化在实际工程场景中的更多可能，让更多年轻人有机会站在真实问题的第一线，做有价值、有影响力的研究。 授聘仪式结束后，黄一潇以运筹学在物流网络的应用实践为主题"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/d0/e5/515c4d5e4d0898db3e0b209fc62b/c198c7fc-d061-4d01-b4c8-ada1fc30179a.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/d0/e5/515c4d5e4d0898db3e0b209fc62b/c198c7fc-d061-4d01-b4c8-ada1fc30179a.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0626/c53a305527/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/d0/e5/515c4d5e4d0898db3e0b209fc62b/4a4586bf-ba74-4318-b4cd-6e0d325dc64a.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/d0/e5/515c4d5e4d0898db3e0b209fc62b/4a4586bf-ba74-4318-b4cd-6e0d325dc64a.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0626/c53a305527/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/d0/e5/515c4d5e4d0898db3e0b209fc62b/8f1b0dfb-e365-4493-be53-8ce1b2f01674.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/d0/e5/515c4d5e4d0898db3e0b209fc62b/8f1b0dfb-e365-4493-be53-8ce1b2f01674.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0626/c53a305527/page.htm"
       ],
       "section_ids": [
         "www_news"
