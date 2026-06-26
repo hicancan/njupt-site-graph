@@ -1,29 +1,29 @@
 {
   "site_id": "cxcy",
-  "generated_at": "2026-06-25T02:02:54.135872+00:00",
+  "generated_at": "2026-06-26T08:47:05.398727+00:00",
   "totals": {
     "sections": 39,
     "nav_nodes": 29,
     "homepage_modules": 5,
     "list_pages": 83,
-    "detail_pages": 614,
+    "detail_pages": 615,
     "low_content_detail_pages": 82,
     "attachments": 205,
-    "external_links": 60,
-    "edges": 1086,
-    "url_outcomes": 1320
+    "external_links": 63,
+    "edges": 1089,
+    "url_outcomes": 1325
   },
   "outcomes": {
     "attachment_metadata_only": 203,
-    "crawled_detail_ok": 592,
+    "crawled_detail_ok": 593,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 83,
     "cross_domain_article_link_recorded": 2,
-    "external_link_recorded": 55,
+    "external_link_recorded": 57,
     "external_policy_link_recorded": 4,
     "external_system_link_recorded": 3,
     "homepage_link_recorded": 1,
-    "inline_image_recorded": 376
+    "inline_image_recorded": 378
   },
   "errors": [],
   "quality": {
@@ -11975,7 +11975,8 @@
         "【科创竞赛】关于举办“2026年南京邮电大学光电设计竞赛”的通知"
       ],
       "sources": [
-        "https://cxcy.njupt.edu.cn/tzgg/list2.htm"
+        "https://cxcy.njupt.edu.cn/tzgg/list2.htm",
+        "https://cxcy.njupt.edu.cn/tzgg/list.htm"
       ],
       "section_ids": [
         "cxcy_home_module_b3b0e005b420"
@@ -12615,7 +12616,8 @@
         "【实践教学】关于2026年新西兰奥克兰大学暑假英语课程报名的通知"
       ],
       "sources": [
-        "https://cxcy.njupt.edu.cn/tzgg/list3.htm"
+        "https://cxcy.njupt.edu.cn/tzgg/list3.htm",
+        "https://cxcy.njupt.edu.cn/tzgg/list2.htm"
       ],
       "section_ids": [
         "cxcy_home_module_b3b0e005b420"
@@ -13342,7 +13344,8 @@
         "关于组织报名参加第十三届大学生新一代信息通信科技大赛的通知"
       ],
       "sources": [
-        "https://cxcy.njupt.edu.cn/tzgg/list4.htm"
+        "https://cxcy.njupt.edu.cn/tzgg/list4.htm",
+        "https://cxcy.njupt.edu.cn/tzgg/list3.htm"
       ],
       "section_ids": [
         "cxcy_home_module_b3b0e005b420"
@@ -15522,10 +15525,12 @@
       "target_type": "external_link",
       "outcome": "external_link_recorded",
       "labels": [
-        "www.gcxl.edu.c"
+        "www.gcxl.edu.c",
+        "www.gcxl.edu.cn"
       ],
       "sources": [
-        "https://cxcy.njupt.edu.cn/2024/0909/c11336a269475/page.htm"
+        "https://cxcy.njupt.edu.cn/2024/0909/c11336a269475/page.htm",
+        "https://cxcy.njupt.edu.cn/2026/0626/c11336a305509/page.htm"
       ],
       "section_ids": [
         "cxcy_home_module_b3b0e005b420"
@@ -19127,6 +19132,74 @@
       ],
       "section_ids": [
         "cxcy_home_module_824f590b522f"
+      ]
+    },
+    "https://cxcy.njupt.edu.cn/2026/0626/c11336a305509/page.htm": {
+      "url": "https://cxcy.njupt.edu.cn/2026/0626/c11336a305509/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "【科创竞赛】关于举办2026年南京邮电大学工程实践与创新能力竞赛暨2027年江苏省大学生工程实践与创新能力大赛选拔赛的通知"
+      ],
+      "sources": [
+        "https://cxcy.njupt.edu.cn/",
+        "https://cxcy.njupt.edu.cn/tzgg/list.htm"
+      ],
+      "section_ids": [
+        "cxcy_home_module_b3b0e005b420"
+      ],
+      "status_code": 200
+    },
+    "http://www.gcxl.edu.cn/new/match_news.html?_=aWQjPTE1NQ==": {
+      "url": "http://www.gcxl.edu.cn/new/match_news.html?_=aWQjPTE1NQ==",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "http://www.gcxl.edu.cn/new/match_news.html?_=aWQjPTE1NQ=="
+      ],
+      "sources": [
+        "https://cxcy.njupt.edu.cn/2026/0626/c11336a305509/page.htm"
+      ],
+      "section_ids": [
+        "cxcy_home_module_b3b0e005b420"
+      ]
+    },
+    "https://v.wjx.cn/vm/hmIourS.aspx": {
+      "url": "https://v.wjx.cn/vm/hmIourS.aspx",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "https://v.wjx.cn/vm/hmIourS.aspx#"
+      ],
+      "sources": [
+        "https://cxcy.njupt.edu.cn/2026/0626/c11336a305509/page.htm"
+      ],
+      "section_ids": [
+        "cxcy_home_module_b3b0e005b420"
+      ]
+    },
+    "https://cxcy.njupt.edu.cn/_upload/article/images/4a/a3/036362284054a4e2e628c614e4c0/4c1c3124-1b3b-43f8-81b8-48e0afdad7bf.png": {
+      "url": "https://cxcy.njupt.edu.cn/_upload/article/images/4a/a3/036362284054a4e2e628c614e4c0/4c1c3124-1b3b-43f8-81b8-48e0afdad7bf.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cxcy.njupt.edu.cn/2026/0626/c11336a305509/page.htm"
+      ],
+      "section_ids": [
+        "cxcy_home_module_b3b0e005b420"
+      ]
+    },
+    "https://cxcy.njupt.edu.cn/_upload/article/images/4a/a3/036362284054a4e2e628c614e4c0/f55916a8-b087-41da-ab71-e48eecf49d81.png": {
+      "url": "https://cxcy.njupt.edu.cn/_upload/article/images/4a/a3/036362284054a4e2e628c614e4c0/f55916a8-b087-41da-ab71-e48eecf49d81.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cxcy.njupt.edu.cn/2026/0626/c11336a305509/page.htm"
+      ],
+      "section_ids": [
+        "cxcy_home_module_b3b0e005b420"
       ]
     }
   }

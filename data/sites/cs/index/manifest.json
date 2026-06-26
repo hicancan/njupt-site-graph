@@ -1,21 +1,21 @@
 {
   "site_id": "cs",
-  "generated_at": "2026-06-26T02:07:50.873118+00:00",
+  "generated_at": "2026-06-26T08:50:30.821647+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 52,
     "homepage_modules": 1,
     "list_pages": 38,
-    "detail_pages": 457,
+    "detail_pages": 458,
     "low_content_detail_pages": 14,
     "attachments": 9,
-    "external_links": 98,
+    "external_links": 97,
     "edges": 714,
-    "url_outcomes": 2097
+    "url_outcomes": 2100
   },
   "outcomes": {
     "attachment_metadata_only": 9,
-    "crawled_detail_ok": 455,
+    "crawled_detail_ok": 456,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 38,
     "cross_domain_article_link_recorded": 29,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 2,
     "external_system_link_recorded": 1,
     "homepage_link_recorded": 96,
-    "inline_image_recorded": 1376,
+    "inline_image_recorded": 1378,
     "inline_link_recorded": 27
   },
   "errors": [],
@@ -2501,7 +2501,8 @@
         "2026年新年贺词"
       ],
       "sources": [
-        "https://cs.njupt.edu.cn/18737/list.htm"
+        "https://cs.njupt.edu.cn/18737/list.htm",
+        "https://cs.njupt.edu.cn/18737/list2.htm"
       ],
       "section_ids": [
         "cs_news"
@@ -3556,7 +3557,8 @@
         "学院党委理论学习中心组专题学习《习近平谈治国理政》（第五卷）"
       ],
       "sources": [
-        "https://cs.njupt.edu.cn/18737/list2.htm"
+        "https://cs.njupt.edu.cn/18737/list2.htm",
+        "https://cs.njupt.edu.cn/18737/list3.htm"
       ],
       "section_ids": [
         "cs_news"
@@ -27132,6 +27134,48 @@
         "https://cs.njupt.edu.cn/"
       ],
       "section_ids": []
+    },
+    "https://cs.njupt.edu.cn/2026/0626/c18737a305503/page.htm": {
+      "url": "https://cs.njupt.edu.cn/2026/0626/c18737a305503/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026-06-10 南京邮电大学举办江苏省“企业家进高校”前沿大课堂：吕伟初教授畅谈基础软件底层逻辑与创新原力 6月10日，由江苏省教育厅、省科学技术厅和省工业和信息化厅联合主办，南京邮电大学承办的“企业家进高校”前沿大课堂在南京邮电大学仙林校区圆满举行。金篆信科有限责任公司总工程师吕伟初教授应邀作专题报告，学校相关部门负责人以及计算机学院、软件学院、网络空间安全学院师生现场参加讲座，活动通过线上直播面向社会公众开放。吕伟初教授以《铸魂强基赋能：基础软件——重构数字时代的底层逻辑与创新原力》为题，为在场师生带来了一场振奋人心的前沿分享。报告用一组震撼的数据勾勒出我国基础软件领域的真实图景，以分布式数据库的逆袭为典型案例，生动阐释了“换道超车”的中国智慧。在交流环节，吕教授与在场师生围绕AI与基础软件的融合发展趋势展开深入探讨。他指出，AI正深刻重塑操作系统、数据库、开发工具及工业软件等核心领域，为技术创新和产业变革带来全新可能。整场报告数据翔实、案例生动、视野开阔，既有对“卡脖子”难题的清醒剖析，也有对“换道超车”成功案例的精准解读，更饱含着对青年一代投身基础软件事业的殷切期待。现场师生表示，通过此次报告，更加深刻理解了基础软件的战略意义，也更加坚定了为科技自立自强贡献力量的决心。（撰稿人：陈红",
+        "2026-06-10 南京邮电大学举办江苏省“企业家进高校”前沿大课堂：吕伟初教授畅谈基础软件底层逻辑与创新原力",
+        "南京邮电大学举办江苏省“企业家进高校”前沿大课堂：吕伟初教授畅谈基础软件底层逻辑与创新原力"
+      ],
+      "sources": [
+        "https://cs.njupt.edu.cn/",
+        "https://cs.njupt.edu.cn/18737/list.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ],
+      "status_code": 200
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/56/f6/9c8f0b1a421e8c6b038105e8b5f8/136f559a-b38d-4cb1-b8af-4b3756f8ff23.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/56/f6/9c8f0b1a421e8c6b038105e8b5f8/136f559a-b38d-4cb1-b8af-4b3756f8ff23.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0626/c18737a305503/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/56/f6/9c8f0b1a421e8c6b038105e8b5f8/f8e95a16-a45f-43c6-8b66-bcace5f7515e.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/56/f6/9c8f0b1a421e8c6b038105e8b5f8/f8e95a16-a45f-43c6-8b66-bcace5f7515e.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0626/c18737a305503/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
     }
   }
 }

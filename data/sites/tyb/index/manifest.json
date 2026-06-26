@@ -1,27 +1,27 @@
 {
   "site_id": "tyb",
-  "generated_at": "2026-06-26T02:06:26.922374+00:00",
+  "generated_at": "2026-06-26T08:49:13.535323+00:00",
   "totals": {
     "sections": 265,
     "nav_nodes": 64,
     "homepage_modules": 0,
-    "list_pages": 238,
-    "detail_pages": 2163,
-    "low_content_detail_pages": 679,
+    "list_pages": 240,
+    "detail_pages": 2173,
+    "low_content_detail_pages": 681,
     "attachments": 154,
     "external_links": 50,
-    "edges": 689,
-    "url_outcomes": 4821
+    "edges": 842,
+    "url_outcomes": 4837
   },
   "outcomes": {
     "attachment_metadata_only": 187,
-    "crawled_detail_ok": 1925,
+    "crawled_detail_ok": 1933,
     "crawled_homepage_ok": 1,
-    "crawled_list_ok": 238,
+    "crawled_list_ok": 240,
     "cross_domain_article_link_recorded": 10,
     "external_link_recorded": 36,
     "external_policy_link_recorded": 1,
-    "inline_image_recorded": 2247,
+    "inline_image_recorded": 2253,
     "inline_link_recorded": 176
   },
   "errors": [],
@@ -3938,7 +3938,8 @@
         "https://tyb.njupt.edu.cn/7254/list12.htm",
         "https://tyb.njupt.edu.cn/7254/list13.htm",
         "https://tyb.njupt.edu.cn/7254/list.htm",
-        "https://tyb.njupt.edu.cn/7254/list1.htm"
+        "https://tyb.njupt.edu.cn/7254/list1.htm",
+        "https://tyb.njupt.edu.cn/7254/list14.htm"
       ],
       "section_ids": [
         "tyb_notice",
@@ -4132,7 +4133,8 @@
         "https://tyb.njupt.edu.cn/7254/list12.htm",
         "https://tyb.njupt.edu.cn/7254/list.htm",
         "https://tyb.njupt.edu.cn/7254/list13.htm",
-        "https://tyb.njupt.edu.cn/7254/list1.htm"
+        "https://tyb.njupt.edu.cn/7254/list1.htm",
+        "https://tyb.njupt.edu.cn/7254/list14.htm"
       ],
       "section_ids": [
         "tyb_notice",
@@ -4525,7 +4527,8 @@
         "https://tyb.njupt.edu.cn/7254/list11.htm",
         "https://tyb.njupt.edu.cn/7254/list12.htm",
         "https://tyb.njupt.edu.cn/7254/list13.htm",
-        "https://tyb.njupt.edu.cn/7254/list1.htm"
+        "https://tyb.njupt.edu.cn/7254/list1.htm",
+        "https://tyb.njupt.edu.cn/7254/list14.htm"
       ],
       "section_ids": [
         "tyb_notice",
@@ -8524,7 +8527,8 @@
         "第四十四届田径运动会成绩公告"
       ],
       "sources": [
-        "https://tyb.njupt.edu.cn/7254/list13.htm"
+        "https://tyb.njupt.edu.cn/7254/list13.htm",
+        "https://tyb.njupt.edu.cn/7254/list14.htm"
       ],
       "section_ids": [
         "tyb_notice",
@@ -8554,7 +8558,8 @@
         "第四十三届田径运动会成绩公告"
       ],
       "sources": [
-        "https://tyb.njupt.edu.cn/7254/list13.htm"
+        "https://tyb.njupt.edu.cn/7254/list13.htm",
+        "https://tyb.njupt.edu.cn/7254/list14.htm"
       ],
       "section_ids": [
         "tyb_notice",
@@ -54574,7 +54579,8 @@
         "体育部庆祝元旦"
       ],
       "sources": [
-        "https://tyb.njupt.edu.cn/7253/list37.htm"
+        "https://tyb.njupt.edu.cn/7253/list37.htm",
+        "https://tyb.njupt.edu.cn/7253/list39.htm"
       ],
       "section_ids": [
         "tyb_home_link_28e2e7079847",
@@ -54604,7 +54610,8 @@
         "南京邮电大学体育运动委员会召开2014年终工作会议"
       ],
       "sources": [
-        "https://tyb.njupt.edu.cn/7253/list37.htm"
+        "https://tyb.njupt.edu.cn/7253/list37.htm",
+        "https://tyb.njupt.edu.cn/7253/list39.htm"
       ],
       "section_ids": [
         "tyb_home_link_28e2e7079847",
@@ -54634,7 +54641,8 @@
         "第八届阳光体育冬季长跑活动启动仪式"
       ],
       "sources": [
-        "https://tyb.njupt.edu.cn/7253/list37.htm"
+        "https://tyb.njupt.edu.cn/7253/list37.htm",
+        "https://tyb.njupt.edu.cn/7253/list39.htm"
       ],
       "section_ids": [
         "tyb_home_link_28e2e7079847",
@@ -54664,7 +54672,8 @@
         "2014年南京大学生棋类联盟第七届围棋赛我校获得佳绩"
       ],
       "sources": [
-        "https://tyb.njupt.edu.cn/7253/list37.htm"
+        "https://tyb.njupt.edu.cn/7253/list37.htm",
+        "https://tyb.njupt.edu.cn/7253/list39.htm"
       ],
       "section_ids": [
         "tyb_home_link_28e2e7079847",
@@ -54694,7 +54703,8 @@
         "我校女子双打在江苏省运动会羽毛球赛中进入四强"
       ],
       "sources": [
-        "https://tyb.njupt.edu.cn/7253/list37.htm"
+        "https://tyb.njupt.edu.cn/7253/list37.htm",
+        "https://tyb.njupt.edu.cn/7253/list39.htm"
       ],
       "section_ids": [
         "tyb_home_link_28e2e7079847",
@@ -54724,7 +54734,8 @@
         "体育部2013年度总结大会召开"
       ],
       "sources": [
-        "https://tyb.njupt.edu.cn/7253/list37.htm"
+        "https://tyb.njupt.edu.cn/7253/list37.htm",
+        "https://tyb.njupt.edu.cn/7253/list39.htm"
       ],
       "section_ids": [
         "tyb_home_link_28e2e7079847",
@@ -54754,7 +54765,8 @@
         "体育部2013年下半年第十七周文明卫生流动红旗评比"
       ],
       "sources": [
-        "https://tyb.njupt.edu.cn/7253/list37.htm"
+        "https://tyb.njupt.edu.cn/7253/list37.htm",
+        "https://tyb.njupt.edu.cn/7253/list39.htm"
       ],
       "section_ids": [
         "tyb_home_link_28e2e7079847",
@@ -54784,7 +54796,8 @@
         "体育部2013年下半年第十六周文明卫生流动红旗评比"
       ],
       "sources": [
-        "https://tyb.njupt.edu.cn/7253/list38.htm"
+        "https://tyb.njupt.edu.cn/7253/list38.htm",
+        "https://tyb.njupt.edu.cn/7253/list39.htm"
       ],
       "section_ids": [
         "tyb_home_link_28e2e7079847",
@@ -54814,7 +54827,8 @@
         "体育部教师南邮大型主题诗歌、散文朗诵比赛活动简报"
       ],
       "sources": [
-        "https://tyb.njupt.edu.cn/7253/list38.htm"
+        "https://tyb.njupt.edu.cn/7253/list38.htm",
+        "https://tyb.njupt.edu.cn/7253/list39.htm"
       ],
       "section_ids": [
         "tyb_home_link_28e2e7079847",
@@ -76267,7 +76281,8 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm"
+        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm",
+        "https://tyb.njupt.edu.cn/2015/0530/c7253a82309/page.htm"
       ],
       "section_ids": [
         "tyb_direct_detail_links"
@@ -76279,7 +76294,8 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm"
+        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm",
+        "https://tyb.njupt.edu.cn/2015/0530/c7253a82309/page.htm"
       ],
       "section_ids": [
         "tyb_direct_detail_links"
@@ -76291,7 +76307,8 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm"
+        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm",
+        "https://tyb.njupt.edu.cn/2015/0530/c7253a82309/page.htm"
       ],
       "section_ids": [
         "tyb_direct_detail_links"
@@ -76303,7 +76320,8 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm"
+        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm",
+        "https://tyb.njupt.edu.cn/2015/0530/c7253a82309/page.htm"
       ],
       "section_ids": [
         "tyb_direct_detail_links"
@@ -76315,7 +76333,8 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm"
+        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm",
+        "https://tyb.njupt.edu.cn/2015/0530/c7253a82309/page.htm"
       ],
       "section_ids": [
         "tyb_direct_detail_links"
@@ -76327,7 +76346,8 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm"
+        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm",
+        "https://tyb.njupt.edu.cn/2015/0530/c7253a82309/page.htm"
       ],
       "section_ids": [
         "tyb_direct_detail_links"
@@ -76339,7 +76359,8 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm"
+        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm",
+        "https://tyb.njupt.edu.cn/2015/0530/c7253a82309/page.htm"
       ],
       "section_ids": [
         "tyb_direct_detail_links"
@@ -76351,7 +76372,8 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm"
+        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm",
+        "https://tyb.njupt.edu.cn/2015/0530/c7253a82309/page.htm"
       ],
       "section_ids": [
         "tyb_direct_detail_links"
@@ -76363,7 +76385,8 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm"
+        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm",
+        "https://tyb.njupt.edu.cn/2015/0530/c7253a82309/page.htm"
       ],
       "section_ids": [
         "tyb_direct_detail_links"
@@ -76375,7 +76398,8 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm"
+        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm",
+        "https://tyb.njupt.edu.cn/2015/0530/c7253a82309/page.htm"
       ],
       "section_ids": [
         "tyb_direct_detail_links"
@@ -76387,7 +76411,8 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm"
+        "https://tyb.njupt.edu.cn/2015/0530/c7234a82309/page.htm",
+        "https://tyb.njupt.edu.cn/2015/0530/c7253a82309/page.htm"
       ],
       "section_ids": [
         "tyb_direct_detail_links"
@@ -76399,7 +76424,8 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://tyb.njupt.edu.cn/2015/0601/c7234a80855/page.htm"
+        "https://tyb.njupt.edu.cn/2015/0601/c7234a80855/page.htm",
+        "https://tyb.njupt.edu.cn/2015/0601/c7253a80855/page.htm"
       ],
       "section_ids": [
         "tyb_direct_detail_links"
@@ -88861,7 +88887,8 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://tyb.njupt.edu.cn/2026/0623/c7253a305289/page.htm"
+        "https://tyb.njupt.edu.cn/2026/0623/c7253a305289/page.htm",
+        "https://tyb.njupt.edu.cn/2026/0623/c7257a305289/page.htm"
       ],
       "section_ids": [
         "tyb_direct_detail_links"
@@ -88873,7 +88900,8 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://tyb.njupt.edu.cn/2026/0623/c7253a305289/page.htm"
+        "https://tyb.njupt.edu.cn/2026/0623/c7253a305289/page.htm",
+        "https://tyb.njupt.edu.cn/2026/0623/c7257a305289/page.htm"
       ],
       "section_ids": [
         "tyb_direct_detail_links"
@@ -88989,6 +89017,236 @@
       "labels": [],
       "sources": [
         "https://tyb.njupt.edu.cn/2026/0625/c7253a305394/page.htm"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ]
+    },
+    "https://tyb.njupt.edu.cn/2026/0623/c7257a305289/page.htm": {
+      "url": "https://tyb.njupt.edu.cn/2026/0623/c7257a305289/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "<a href='/2026/0623/c7257a305289/page.htm' target='_blank' title='我校2026年“信达杯”足球赛圆满落幕'>我校2026年“信达杯”足球赛圆满落幕</a>",
+        "我校2026年“信达杯”足球赛圆满落幕"
+      ],
+      "sources": [
+        "https://tyb.njupt.edu.cn/"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://tyb.njupt.edu.cn/2026/0623/c7257a305316/page.htm": {
+      "url": "https://tyb.njupt.edu.cn/2026/0623/c7257a305316/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "<a href='/2026/0623/c7257a305316/page.htm' target='_blank' title='我校2026年“信达杯”乒乓球联赛圆满落幕'>我校2026年“信达杯”乒乓球联赛圆满落幕</a>",
+        "我校2026年“信达杯”乒乓球联赛圆满落幕"
+      ],
+      "sources": [
+        "https://tyb.njupt.edu.cn/"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://tyb.njupt.edu.cn/2026/0623/c7257a305313/page.htm": {
+      "url": "https://tyb.njupt.edu.cn/2026/0623/c7257a305313/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "<a href='/2026/0623/c7257a305313/page.htm' target='_blank' title='我校2026年“信达杯”排球联赛圆满落幕'>我校2026年“信达杯”排球联赛圆满落幕</a>",
+        "我校2026年“信达杯”排球联赛圆满落幕"
+      ],
+      "sources": [
+        "https://tyb.njupt.edu.cn/"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://tyb.njupt.edu.cn/2026/0623/c7257a305304/page.htm": {
+      "url": "https://tyb.njupt.edu.cn/2026/0623/c7257a305304/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "<a href='/2026/0623/c7257a305304/page.htm' target='_blank' title='我校2026年“信达杯”篮球赛总决赛圆满落幕'>我校2026年“信达杯”篮球赛总决赛圆满落幕</a>",
+        "我校2026年“信达杯”篮球赛总决赛圆满落幕"
+      ],
+      "sources": [
+        "https://tyb.njupt.edu.cn/"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://tyb.njupt.edu.cn/7254/list14.htm": {
+      "url": "https://tyb.njupt.edu.cn/7254/list14.htm",
+      "target_type": "section_list_page",
+      "outcome": "crawled_list_ok",
+      "labels": [
+        "尾页"
+      ],
+      "sources": [
+        "https://tyb.njupt.edu.cn/7254/list13.htm"
+      ],
+      "section_ids": [
+        "tyb_inline_section_e03c1db1108d"
+      ],
+      "status_code": 200
+    },
+    "https://tyb.njupt.edu.cn/7253/list39.htm": {
+      "url": "https://tyb.njupt.edu.cn/7253/list39.htm",
+      "target_type": "section_list_page",
+      "outcome": "crawled_list_ok",
+      "labels": [
+        "尾页"
+      ],
+      "sources": [
+        "https://tyb.njupt.edu.cn/7253/list38.htm"
+      ],
+      "section_ids": [
+        "tyb_inline_section_ed0222023475"
+      ],
+      "status_code": 200
+    },
+    "https://tyb.njupt.edu.cn/2015/0530/c7253a82309/page.htm": {
+      "url": "https://tyb.njupt.edu.cn/2015/0530/c7253a82309/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "第八届阳光体育冬季长跑活动启动仪式"
+      ],
+      "sources": [
+        "https://tyb.njupt.edu.cn/7253/list39.htm"
+      ],
+      "section_ids": [
+        "tyb_inline_section_ed0222023475",
+        "tyb_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://tyb.njupt.edu.cn/2015/0601/c7253a80855/page.htm": {
+      "url": "https://tyb.njupt.edu.cn/2015/0601/c7253a80855/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "仙林高校教职工足球比赛顺利结束"
+      ],
+      "sources": [
+        "https://tyb.njupt.edu.cn/7253/list39.htm"
+      ],
+      "section_ids": [
+        "tyb_inline_section_ed0222023475",
+        "tyb_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://tyb.njupt.edu.cn/2015/0601/c7253a80865/page.htm": {
+      "url": "https://tyb.njupt.edu.cn/2015/0601/c7253a80865/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "第五届南京邮电大学运动会羽毛球联赛圆满落幕"
+      ],
+      "sources": [
+        "https://tyb.njupt.edu.cn/7253/list39.htm"
+      ],
+      "section_ids": [
+        "tyb_inline_section_ed0222023475",
+        "tyb_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://tyb.njupt.edu.cn/2015/0601/c7253a80868/page.htm": {
+      "url": "https://tyb.njupt.edu.cn/2015/0601/c7253a80868/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2012年安踏南京邮电大学水泥户外篮球联赛圆满落幕"
+      ],
+      "sources": [
+        "https://tyb.njupt.edu.cn/7253/list39.htm"
+      ],
+      "section_ids": [
+        "tyb_inline_section_ed0222023475",
+        "tyb_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://tyb.njupt.edu.cn/_upload/article/images/ab/6d/065c0be24111b3366511321f1392/73e13211-5e93-428e-b025-61d2844193df.jpg": {
+      "url": "https://tyb.njupt.edu.cn/_upload/article/images/ab/6d/065c0be24111b3366511321f1392/73e13211-5e93-428e-b025-61d2844193df.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://tyb.njupt.edu.cn/2026/0623/c7257a305316/page.htm"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ]
+    },
+    "https://tyb.njupt.edu.cn/_upload/article/images/ab/6d/065c0be24111b3366511321f1392/d14597fd-c5e3-496a-af81-2ff48ee08fb4.jpg": {
+      "url": "https://tyb.njupt.edu.cn/_upload/article/images/ab/6d/065c0be24111b3366511321f1392/d14597fd-c5e3-496a-af81-2ff48ee08fb4.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://tyb.njupt.edu.cn/2026/0623/c7257a305316/page.htm"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ]
+    },
+    "https://tyb.njupt.edu.cn/_upload/article/images/1c/22/4aab6acd4388887c5ff6c665f780/e7d36080-bd6f-421c-89ef-1c27cfdb12db.jpg": {
+      "url": "https://tyb.njupt.edu.cn/_upload/article/images/1c/22/4aab6acd4388887c5ff6c665f780/e7d36080-bd6f-421c-89ef-1c27cfdb12db.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://tyb.njupt.edu.cn/2026/0623/c7257a305313/page.htm"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ]
+    },
+    "https://tyb.njupt.edu.cn/_upload/article/images/1c/22/4aab6acd4388887c5ff6c665f780/b2e00dde-85ff-4233-a345-b1dffdf9a44c.jpg": {
+      "url": "https://tyb.njupt.edu.cn/_upload/article/images/1c/22/4aab6acd4388887c5ff6c665f780/b2e00dde-85ff-4233-a345-b1dffdf9a44c.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://tyb.njupt.edu.cn/2026/0623/c7257a305313/page.htm"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ]
+    },
+    "https://tyb.njupt.edu.cn/_upload/article/images/1c/22/4aab6acd4388887c5ff6c665f780/de7c6163-5c45-4fd3-9615-0822db2bb02f.jpg": {
+      "url": "https://tyb.njupt.edu.cn/_upload/article/images/1c/22/4aab6acd4388887c5ff6c665f780/de7c6163-5c45-4fd3-9615-0822db2bb02f.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://tyb.njupt.edu.cn/2026/0623/c7257a305313/page.htm"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ]
+    },
+    "https://tyb.njupt.edu.cn/_upload/article/images/58/ef/239e2c1f4d04a384323d6f3e4c42/2430a9f9-3b11-405a-8628-20f81bb99021.jpg": {
+      "url": "https://tyb.njupt.edu.cn/_upload/article/images/58/ef/239e2c1f4d04a384323d6f3e4c42/2430a9f9-3b11-405a-8628-20f81bb99021.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://tyb.njupt.edu.cn/2026/0623/c7257a305304/page.htm"
       ],
       "section_ids": [
         "tyb_direct_detail_links"
