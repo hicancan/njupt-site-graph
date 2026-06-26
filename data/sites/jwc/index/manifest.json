@@ -1,21 +1,21 @@
 {
   "site_id": "jwc",
-  "generated_at": "2026-06-25T02:02:55.336662+00:00",
+  "generated_at": "2026-06-26T02:04:34.526657+00:00",
   "totals": {
     "sections": 139,
     "nav_nodes": 119,
     "homepage_modules": 8,
     "list_pages": 661,
-    "detail_pages": 6988,
-    "low_content_detail_pages": 817,
+    "detail_pages": 6990,
+    "low_content_detail_pages": 818,
     "attachments": 7914,
     "external_links": 744,
-    "edges": 16339,
-    "url_outcomes": 19261
+    "edges": 16340,
+    "url_outcomes": 19263
   },
   "outcomes": {
     "attachment_metadata_only": 7192,
-    "crawled_detail_ok": 6936,
+    "crawled_detail_ok": 6938,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 661,
     "cross_domain_article_link_recorded": 60,
@@ -4132,10 +4132,13 @@
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "南京邮电大学关于教授为本科生上课的规定 2021-01-25"
+        "南京邮电大学关于教授为本科生上课的规定 2021-01-25",
+        "首页",
+        "关闭此页"
       ],
       "sources": [
-        "https://jwc.njupt.edu.cn/1746/list3.htm"
+        "https://jwc.njupt.edu.cn/1746/list3.htm",
+        "https://jwc.njupt.edu.cn/2021/0125/c1746a180633/page.htm"
       ],
       "section_ids": [
         "jwc_rules_root"
@@ -273105,6 +273108,36 @@
       "section_ids": [
         "jwc_homepage_jw_news_module"
       ]
+    },
+    "https://jwc.njupt.edu.cn/2026/0625/c1746a305440/page.htm": {
+      "url": "https://jwc.njupt.edu.cn/2026/0625/c1746a305440/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "南京邮电大学普通高等教育本科毕业生学士学位授予办法（修订） 2026-06-25"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/1746/list.htm"
+      ],
+      "section_ids": [
+        "jwc_rules_root"
+      ],
+      "status_code": 200
+    },
+    "https://jwc.njupt.edu.cn/2026/0625/c1751a305440/page.htm": {
+      "url": "https://jwc.njupt.edu.cn/2026/0625/c1751a305440/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "南京邮电大学普通高等教育本科毕业生学士学位授予办法（修订） 2026-06-25"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/1751/list.htm"
+      ],
+      "section_ids": [
+        "jwc_home_link_dd35727c9247"
+      ],
+      "status_code": 200
     }
   }
 }

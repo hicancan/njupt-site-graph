@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-24T14:02:47.166949+00:00",
+  "generated_at": "2026-06-26T02:04:29.643946+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 132,
     "homepage_modules": 0,
     "list_pages": 7,
-    "detail_pages": 112,
+    "detail_pages": 114,
     "low_content_detail_pages": 26,
     "attachments": 22,
     "external_links": 50,
     "edges": 644,
-    "url_outcomes": 497
+    "url_outcomes": 507
   },
   "outcomes": {
     "attachment_metadata_only": 23,
-    "crawled_detail_ok": 112,
+    "crawled_detail_ok": 114,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 7,
     "cross_domain_article_link_recorded": 2,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 75,
-    "inline_image_recorded": 225,
+    "inline_image_recorded": 233,
     "section_list_page_recorded": 3
   },
   "errors": [],
@@ -3982,7 +3982,8 @@
       "sources": [
         "https://www.njupt.edu.cn/53/list.htm",
         "https://www.njupt.edu.cn/53/list2.htm",
-        "https://www.njupt.edu.cn/"
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -4034,7 +4035,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/53/list.htm",
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -5916,7 +5918,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/",
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -6086,7 +6089,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/",
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -7080,6 +7084,136 @@
         "www_notice"
       ],
       "status_code": 200
+    },
+    "https://www.njupt.edu.cn/2026/0625/c53a305466/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0625/c53a305466/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.06.25 蒙古邮政首席执行官Telmen Gerelt到访南邮",
+        "2026 06.25 蒙古邮政首席执行官Telmen Gerelt到访南邮 6月24日下午，蒙古邮政股份有限公司首席执行官Telmen Gerelt、副首席执行官Khosbayar Nanzad一行到访南京邮电大学，双方在仙林校区行政楼举行专题交流座谈会并签署合作备忘录。南邮党委书记郭宇锋、副校长刘青山出席，管理学院，现代邮政学院、智慧交通学院，国际合作交流处负责人参加交流。会议现场 郭宇锋对蒙古邮政代表团表示热烈欢迎，介绍了南邮的办学底蕴与特色优势。他说，中蒙邮政事业通道畅通、往来密切，与万国邮联都保持密切沟通与协作，希望双方持续深化技术共享、产学研协同创新，合力打造中蒙邮政领域产教融合标杆样板，以邮政数字化合作赋能两国跨境电商发展，助力中蒙双边经贸往来提质增效、民心相通。 Telmen Gerelt详细介绍了蒙古邮政整体运营、跨境寄递、电商物流发展现状与发展规划。当前蒙古国跨境商贸、邮政数字化转型需求迫切，企业亟需数字化、物联网、智慧物流领域专业人才与技术支撑。他表示，南邮在信息通信、现代邮政领域的学科积淀、科研成果与人才培养体系高度契合蒙古邮政发展需求，期待双方搭建长效合作机制。 座谈环节，双方围绕共建邮政数字化交流平台、联合开展邮政管理骨干研"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/2026/0625/c53a305462/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0625/c53a305462/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.06.19 江苏省首个量子科技学院在南邮成立",
+        "2026 06.19 江苏省首个量子科技学院在南邮成立 6月18日，南京邮电大学量子科技学院成立大会暨量子计算科学与器件省高校重点实验室第一届学术委员会会议举行。会上，江苏省首个量子科技学院正式揭牌成立。 中国科学院院士、南京大学教授、重点实验室学术委员会主任邹志刚，江苏省教育厅科学技术与产业处副处长徐宁，校党委书记郭宇锋，校长叶美兰，原江苏大学校长颜晓红，以及学界、企业界代表和学校相关职能部门负责人出席会议。校党委常委、副校长肖甫主持会议。 郭宇锋书记指出，南京邮电大学主动对接国家战略需求，前瞻布局量子科技前沿方向，充分发挥电子信息学科交叉优势，锚定“量电融合”特色路径，系统构建量子信息人才培养体系。他强调，量子科技学院要坚持战略引领，着力打造“量电融合”特色学科高地，完善协同育人机制，加快拔尖创新人才培育，为服务国家重大战略和江苏地方产业发展贡献南邮力量。 邹志刚院士表示，南京邮电大学成立量子科技学院并启动省高校重点实验室建设，是主动服务国家战略需求和江苏量子产业布局的重要举措。他希望学术委员会充分发挥智囊领航作用，在学科方向凝练、科研规划布局、人才培养创新和重大课题攻关等方面积极建言献策，为实验室高质量发展提供战略指引和智力"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/75/1e/6331d95e484eaf7c403cf118881f/7b353dd4-84a3-49ac-ac14-ea2690829059.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/75/1e/6331d95e484eaf7c403cf118881f/7b353dd4-84a3-49ac-ac14-ea2690829059.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0625/c53a305466/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/75/1e/6331d95e484eaf7c403cf118881f/e422f15a-952c-4a51-832a-2afb7b2de024.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/75/1e/6331d95e484eaf7c403cf118881f/e422f15a-952c-4a51-832a-2afb7b2de024.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0625/c53a305466/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/75/1e/6331d95e484eaf7c403cf118881f/9a4f3b2a-7d27-4c05-ba56-2c69ae59bd5f.png": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/75/1e/6331d95e484eaf7c403cf118881f/9a4f3b2a-7d27-4c05-ba56-2c69ae59bd5f.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0625/c53a305466/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/5c/d9/835f5ee341bfaf29c101b614560d/15da7b39-1eec-4f4b-a7d4-3daa74bff34c.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/5c/d9/835f5ee341bfaf29c101b614560d/15da7b39-1eec-4f4b-a7d4-3daa74bff34c.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0625/c53a305462/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/5c/d9/835f5ee341bfaf29c101b614560d/69114798-5dc7-48e3-b689-9f8c9fb787b2.png": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/5c/d9/835f5ee341bfaf29c101b614560d/69114798-5dc7-48e3-b689-9f8c9fb787b2.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0625/c53a305462/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/5c/d9/835f5ee341bfaf29c101b614560d/1818c739-19ad-4a9d-ab73-0fad0ced0cb0.png": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/5c/d9/835f5ee341bfaf29c101b614560d/1818c739-19ad-4a9d-ab73-0fad0ced0cb0.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0625/c53a305462/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/5c/d9/835f5ee341bfaf29c101b614560d/4ae50c0f-fd48-44e7-8fc5-45a8bc76fe45.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/5c/d9/835f5ee341bfaf29c101b614560d/4ae50c0f-fd48-44e7-8fc5-45a8bc76fe45.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0625/c53a305462/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/5c/d9/835f5ee341bfaf29c101b614560d/990a658b-da9d-46c1-bfe6-68552f49eb20.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/5c/d9/835f5ee341bfaf29c101b614560d/990a658b-da9d-46c1-bfe6-68552f49eb20.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0625/c53a305462/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
     }
   }
 }

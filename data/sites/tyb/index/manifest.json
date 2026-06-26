@@ -1,6 +1,6 @@
 {
   "site_id": "tyb",
-  "generated_at": "2026-06-25T02:05:02.431810+00:00",
+  "generated_at": "2026-06-26T02:06:26.922374+00:00",
   "totals": {
     "sections": 265,
     "nav_nodes": 64,
@@ -10,7 +10,7 @@
     "low_content_detail_pages": 679,
     "attachments": 154,
     "external_links": 50,
-    "edges": 765,
+    "edges": 689,
     "url_outcomes": 4821
   },
   "outcomes": {

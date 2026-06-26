@@ -1,6 +1,6 @@
 {
   "site_id": "cs",
-  "generated_at": "2026-06-24T08:54:59.151112+00:00",
+  "generated_at": "2026-06-26T02:07:50.873118+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 52,
@@ -10,7 +10,7 @@
     "low_content_detail_pages": 14,
     "attachments": 9,
     "external_links": 98,
-    "edges": 717,
+    "edges": 714,
     "url_outcomes": 2097
   },
   "outcomes": {
@@ -26752,10 +26752,12 @@
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "网络空间安全一级学科2026年申请考核制博士研究生招生实施细则"
+        "网络空间安全一级学科2026年申请考核制博士研究生招生实施细则",
+        "2025 12-17 网络空间安全一级学科2026年申请考核制博士研究生招生实施细则"
       ],
       "sources": [
-        "https://cs.njupt.edu.cn/18738/list.htm"
+        "https://cs.njupt.edu.cn/18738/list.htm",
+        "https://cs.njupt.edu.cn/"
       ],
       "section_ids": [
         "cs_notice"

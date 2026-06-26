@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-24T08:50:55.768546+00:00",
+  "generated_at": "2026-06-26T02:04:32.265523+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -759,7 +759,21 @@
       "position": 66
     },
     {
-      "node_id": "4115834526baf59157fd",
+      "node_id": "b5684a062036cb8585e8",
+      "site_id": "www",
+      "label": "2026.06.25 蒙古邮政首席执行官Telmen Gerelt到访南邮",
+      "url": "https://www.njupt.edu.cn/2026/0625/c53a305466/page.htm",
+      "nav_path": [
+        "2026.06.25 蒙古邮政首席执行官Telmen Gerelt到访南邮"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 67
+    },
+    {
+      "node_id": "510f7d16ea0985787224",
       "site_id": "www",
       "label": "2026.06.23 南邮召开2026年红色校史研究工作会",
       "url": "https://www.njupt.edu.cn/2026/0623/c53a305261/page.htm",
@@ -770,10 +784,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 67
+      "position": 68
     },
     {
-      "node_id": "084c8d55db44206ba4a3",
+      "node_id": "7fef04d2d6decbcaa0db",
       "site_id": "www",
       "label": "2026.06.20 Nature Nanotechnology刊发汪联辉/丁显光教授团队在生物囊泡肿瘤免疫治疗领域进展",
       "url": "https://www.njupt.edu.cn/2026/0620/c53a305196/page.htm",
@@ -784,29 +798,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 68
-    },
-    {
-      "node_id": "a51716123a0964daf518",
-      "site_id": "www",
-      "label": "2026.06.16 南邮教师获省高校青年教师教学竞赛暨全国高校青年教师教学竞赛选拔赛工科组第一名",
-      "url": "https://www.njupt.edu.cn/2026/0617/c53a305043/page.htm",
-      "nav_path": [
-        "2026.06.16 南邮教师获省高校青年教师教学竞赛暨全国高校青年教师教学竞赛选拔赛工科组第一名"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
       "position": 69
     },
     {
-      "node_id": "3a7f7fb882119c067a09",
+      "node_id": "cfa55399525be38c5955",
       "site_id": "www",
-      "label": "2026.06.16 南邮举行2026届本科生毕业典礼暨学位授予仪式",
-      "url": "https://www.njupt.edu.cn/2026/0616/c53a305026/page.htm",
+      "label": "2026.06.19 江苏省首个量子科技学院在南邮成立",
+      "url": "https://www.njupt.edu.cn/2026/0625/c53a305462/page.htm",
       "nav_path": [
-        "2026.06.16 南邮举行2026届本科生毕业典礼暨学位授予仪式"
+        "2026.06.19 江苏省首个量子科技学院在南邮成立"
       ],
       "depth": 1,
       "target_type": "detail_article_page",
@@ -815,12 +815,12 @@
       "position": 70
     },
     {
-      "node_id": "958f6d544ade78c23ee4",
+      "node_id": "f873bf4e6b10ed0730cc",
       "site_id": "www",
-      "label": "2026.06.16 南邮承办“数智时代的人口与社会治理”研讨会",
-      "url": "https://www.njupt.edu.cn/2026/0616/c53a305020/page.htm",
+      "label": "2026.06.16 南邮教师获省高校青年教师教学竞赛暨全国高校青年教师教学竞赛选拔赛工科组第一名",
+      "url": "https://www.njupt.edu.cn/2026/0617/c53a305043/page.htm",
       "nav_path": [
-        "2026.06.16 南邮承办“数智时代的人口与社会治理”研讨会"
+        "2026.06.16 南邮教师获省高校青年教师教学竞赛暨全国高校青年教师教学竞赛选拔赛工科组第一名"
       ],
       "depth": 1,
       "target_type": "detail_article_page",

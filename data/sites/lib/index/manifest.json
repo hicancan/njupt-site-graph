@@ -1,6 +1,6 @@
 {
   "site_id": "lib",
-  "generated_at": "2026-06-25T02:02:57.663162+00:00",
+  "generated_at": "2026-06-26T02:04:24.499552+00:00",
   "totals": {
     "sections": 42,
     "nav_nodes": 31,
@@ -9,9 +9,9 @@
     "detail_pages": 1142,
     "low_content_detail_pages": 77,
     "attachments": 108,
-    "external_links": 521,
-    "edges": 1733,
-    "url_outcomes": 3870
+    "external_links": 530,
+    "edges": 1742,
+    "url_outcomes": 3900
   },
   "outcomes": {
     "attachment_metadata_only": 107,
@@ -19,7 +19,7 @@
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 117,
     "cross_domain_article_link_recorded": 3,
-    "external_link_recorded": 449,
+    "external_link_recorded": 479,
     "external_policy_link_recorded": 7,
     "external_system_link_recorded": 1,
     "inline_image_recorded": 2007,
@@ -47306,7 +47306,8 @@
       ],
       "sources": [
         "https://lib.njupt.edu.cn/1422/list.htm",
-        "https://lib.njupt.edu.cn/1423/list2.htm"
+        "https://lib.njupt.edu.cn/1423/list2.htm",
+        "https://lib.njupt.edu.cn/1423/list4.htm"
       ],
       "section_ids": [
         "lib_home_link_d1d7bcc66765",
@@ -47363,7 +47364,8 @@
         "图书交换驿站｜003《往里走，安顿自己》"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1422/list.htm"
+        "https://lib.njupt.edu.cn/1422/list.htm",
+        "https://lib.njupt.edu.cn/1422/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_d1d7bcc66765"
@@ -47377,7 +47379,8 @@
         "图书交换驿站｜004《南京传》"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1422/list.htm"
+        "https://lib.njupt.edu.cn/1422/list.htm",
+        "https://lib.njupt.edu.cn/1422/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_d1d7bcc66765"
@@ -47391,7 +47394,8 @@
         "图书交换驿站｜005《你当像鸟飞往你的山》"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1422/list.htm"
+        "https://lib.njupt.edu.cn/1422/list.htm",
+        "https://lib.njupt.edu.cn/1422/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_d1d7bcc66765"
@@ -47405,7 +47409,8 @@
         "图书交换驿站｜006 《皮囊》"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1422/list.htm"
+        "https://lib.njupt.edu.cn/1422/list.htm",
+        "https://lib.njupt.edu.cn/1422/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_d1d7bcc66765"
@@ -47419,7 +47424,8 @@
         "图书交换驿站｜007 《钢铁是怎样练成的》"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1422/list.htm"
+        "https://lib.njupt.edu.cn/1422/list.htm",
+        "https://lib.njupt.edu.cn/1422/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_d1d7bcc66765"
@@ -47433,7 +47439,8 @@
         "图书交换驿站｜008 《蘑菇圈》"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1422/list.htm"
+        "https://lib.njupt.edu.cn/1422/list.htm",
+        "https://lib.njupt.edu.cn/1422/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_d1d7bcc66765"
@@ -47587,7 +47594,8 @@
         "跟图书馆走进《我的阿勒泰》"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1422/list2.htm"
+        "https://lib.njupt.edu.cn/1422/list2.htm",
+        "https://lib.njupt.edu.cn/1422/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_d1d7bcc66765"
@@ -47601,7 +47609,8 @@
         "驿苑书话｜党纪学习荐读书单（一）"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1422/list2.htm"
+        "https://lib.njupt.edu.cn/1422/list2.htm",
+        "https://lib.njupt.edu.cn/1422/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_d1d7bcc66765"
@@ -47615,7 +47624,8 @@
         "开卷有益——零借阅图书系列推荐③"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1422/list2.htm"
+        "https://lib.njupt.edu.cn/1422/list2.htm",
+        "https://lib.njupt.edu.cn/1422/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_d1d7bcc66765"
@@ -47629,7 +47639,8 @@
         "开卷有益"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1422/list2.htm"
+        "https://lib.njupt.edu.cn/1422/list2.htm",
+        "https://lib.njupt.edu.cn/1422/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_d1d7bcc66765"
@@ -47716,7 +47727,8 @@
         "开卷有益——零借阅图书系列推荐②"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1422/list2.htm"
+        "https://lib.njupt.edu.cn/1422/list2.htm",
+        "https://lib.njupt.edu.cn/1422/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_d1d7bcc66765"
@@ -47730,7 +47742,8 @@
         "知识产权专题图书推荐"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1422/list2.htm"
+        "https://lib.njupt.edu.cn/1422/list2.htm",
+        "https://lib.njupt.edu.cn/1422/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_d1d7bcc66765"
@@ -47900,7 +47913,8 @@
         "以书会友，与“星”共熠 |“阅读之星”邀您共赴书香之约！（三）"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list.htm"
+        "https://lib.njupt.edu.cn/1423/list.htm",
+        "https://lib.njupt.edu.cn/1423/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -47914,7 +47928,8 @@
         "以书会友，与“星”共熠 |“阅读之星”邀您共赴书香之约（二）"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list.htm"
+        "https://lib.njupt.edu.cn/1423/list.htm",
+        "https://lib.njupt.edu.cn/1423/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -47928,7 +47943,8 @@
         "以书会友，与“星”共熠 |“阅读之星”邀您共赴书香之约（一）"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list.htm"
+        "https://lib.njupt.edu.cn/1423/list.htm",
+        "https://lib.njupt.edu.cn/1423/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -47942,7 +47958,8 @@
         "新书速递 2025013期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list.htm"
+        "https://lib.njupt.edu.cn/1423/list.htm",
+        "https://lib.njupt.edu.cn/1423/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -47956,7 +47973,8 @@
         "新书速递 2025012期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list.htm"
+        "https://lib.njupt.edu.cn/1423/list.htm",
+        "https://lib.njupt.edu.cn/1423/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -47970,7 +47988,8 @@
         "新书速递 2025011期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list.htm"
+        "https://lib.njupt.edu.cn/1423/list.htm",
+        "https://lib.njupt.edu.cn/1423/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -47984,7 +48003,8 @@
         "新书速递 2025010期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list.htm"
+        "https://lib.njupt.edu.cn/1423/list.htm",
+        "https://lib.njupt.edu.cn/1423/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -47998,7 +48018,8 @@
         "新书速递 2025009期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list.htm"
+        "https://lib.njupt.edu.cn/1423/list.htm",
+        "https://lib.njupt.edu.cn/1423/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48012,7 +48033,8 @@
         "书享盛宴|邮你爱阅读，周周好书单——「薪火·燎原」红色精神传承计划"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list.htm"
+        "https://lib.njupt.edu.cn/1423/list.htm",
+        "https://lib.njupt.edu.cn/1423/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48026,7 +48048,8 @@
         "新书速递 2025008期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list.htm"
+        "https://lib.njupt.edu.cn/1423/list.htm",
+        "https://lib.njupt.edu.cn/1423/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48040,7 +48063,8 @@
         "书享盛宴|邮你爱阅读，周周好书单——【时光·对话】经典重读手册"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list.htm"
+        "https://lib.njupt.edu.cn/1423/list.htm",
+        "https://lib.njupt.edu.cn/1423/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48054,7 +48078,8 @@
         "新书速递2025007期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list.htm"
+        "https://lib.njupt.edu.cn/1423/list.htm",
+        "https://lib.njupt.edu.cn/1423/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48068,7 +48093,8 @@
         "新书速递2025006期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list.htm"
+        "https://lib.njupt.edu.cn/1423/list.htm",
+        "https://lib.njupt.edu.cn/1423/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48082,7 +48108,8 @@
         "新书速递 2025005期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list.htm"
+        "https://lib.njupt.edu.cn/1423/list.htm",
+        "https://lib.njupt.edu.cn/1423/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48111,7 +48138,8 @@
         "新书速递 2025004期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list2.htm"
+        "https://lib.njupt.edu.cn/1423/list2.htm",
+        "https://lib.njupt.edu.cn/1423/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48125,7 +48153,8 @@
         "新书速递 2025003期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list2.htm"
+        "https://lib.njupt.edu.cn/1423/list2.htm",
+        "https://lib.njupt.edu.cn/1423/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48139,7 +48168,8 @@
         "新书速递2025002期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list2.htm"
+        "https://lib.njupt.edu.cn/1423/list2.htm",
+        "https://lib.njupt.edu.cn/1423/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48153,7 +48183,8 @@
         "新书速递202501期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list2.htm"
+        "https://lib.njupt.edu.cn/1423/list2.htm",
+        "https://lib.njupt.edu.cn/1423/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48167,7 +48198,8 @@
         "新书速递 2024033期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list2.htm"
+        "https://lib.njupt.edu.cn/1423/list2.htm",
+        "https://lib.njupt.edu.cn/1423/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48181,7 +48213,8 @@
         "新书速递 2024032期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list2.htm"
+        "https://lib.njupt.edu.cn/1423/list2.htm",
+        "https://lib.njupt.edu.cn/1423/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48195,7 +48228,8 @@
         "新书速递2024031期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list2.htm"
+        "https://lib.njupt.edu.cn/1423/list2.htm",
+        "https://lib.njupt.edu.cn/1423/list4.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48209,7 +48243,8 @@
         "新书速递2024030期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list2.htm"
+        "https://lib.njupt.edu.cn/1423/list2.htm",
+        "https://lib.njupt.edu.cn/1423/list4.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48223,7 +48258,8 @@
         "新书速递2024029期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list2.htm"
+        "https://lib.njupt.edu.cn/1423/list2.htm",
+        "https://lib.njupt.edu.cn/1423/list4.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48237,7 +48273,8 @@
         "新书速递 2024028期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list2.htm"
+        "https://lib.njupt.edu.cn/1423/list2.htm",
+        "https://lib.njupt.edu.cn/1423/list4.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48251,7 +48288,8 @@
         "新书速递2024027期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list2.htm"
+        "https://lib.njupt.edu.cn/1423/list2.htm",
+        "https://lib.njupt.edu.cn/1423/list4.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48265,7 +48303,8 @@
         "新书速递2024026期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list2.htm"
+        "https://lib.njupt.edu.cn/1423/list2.htm",
+        "https://lib.njupt.edu.cn/1423/list4.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48279,7 +48318,8 @@
         "新书速递2024025期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list2.htm"
+        "https://lib.njupt.edu.cn/1423/list2.htm",
+        "https://lib.njupt.edu.cn/1423/list4.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48308,7 +48348,8 @@
         "新书速递 2024024期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list3.htm"
+        "https://lib.njupt.edu.cn/1423/list3.htm",
+        "https://lib.njupt.edu.cn/1423/list4.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48322,7 +48363,8 @@
         "新书速递 2024023期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list3.htm"
+        "https://lib.njupt.edu.cn/1423/list3.htm",
+        "https://lib.njupt.edu.cn/1423/list4.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48336,7 +48378,8 @@
         "新书速递2024022期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list3.htm"
+        "https://lib.njupt.edu.cn/1423/list3.htm",
+        "https://lib.njupt.edu.cn/1423/list4.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48350,7 +48393,8 @@
         "新书速递2024021期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list3.htm"
+        "https://lib.njupt.edu.cn/1423/list3.htm",
+        "https://lib.njupt.edu.cn/1423/list4.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48364,7 +48408,8 @@
         "新书速递 2024020期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list3.htm"
+        "https://lib.njupt.edu.cn/1423/list3.htm",
+        "https://lib.njupt.edu.cn/1423/list4.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48378,7 +48423,8 @@
         "新书速递2024019期"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1423/list3.htm"
+        "https://lib.njupt.edu.cn/1423/list3.htm",
+        "https://lib.njupt.edu.cn/1423/list4.htm"
       ],
       "section_ids": [
         "lib_home_link_724db6fa0c25"
@@ -48715,7 +48761,8 @@
         "南京邮电大学首届“金川杯”书画大赛圆满落幕"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list.htm"
+        "https://lib.njupt.edu.cn/hdhg/list.htm",
+        "https://lib.njupt.edu.cn/hdhg/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -48729,7 +48776,8 @@
         "南邮这场展览带你致敬雨花英烈！"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list.htm"
+        "https://lib.njupt.edu.cn/hdhg/list.htm",
+        "https://lib.njupt.edu.cn/hdhg/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -48937,7 +48985,8 @@
         "金陵书香携手行 中外学子共品读"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list2.htm"
+        "https://lib.njupt.edu.cn/hdhg/list2.htm",
+        "https://lib.njupt.edu.cn/hdhg/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -48951,7 +49000,8 @@
         "图书馆暑期阅读推广系列活动"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/hdhg/list2.htm"
+        "https://lib.njupt.edu.cn/hdhg/list2.htm",
+        "https://lib.njupt.edu.cn/hdhg/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
@@ -52657,6 +52707,426 @@
         "lib_home_link_1eeb4bf11f78"
       ],
       "status_code": 200
+    },
+    "https://mp.weixin.qq.com/s/ZU5onvAbAtv67wPDb8-88g": {
+      "url": "https://mp.weixin.qq.com/s/ZU5onvAbAtv67wPDb8-88g",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "开卷有益—2026年度零借阅图书系列推荐③"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1422/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_d1d7bcc66765"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/ng2hFFVXhzQzvwYmwAfbvw": {
+      "url": "https://mp.weixin.qq.com/s/ng2hFFVXhzQzvwYmwAfbvw",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "开卷有益—2026年度零借阅图书系列推荐②"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1422/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_d1d7bcc66765"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/Nuk1eFyLezX5vvJqQs0d6g": {
+      "url": "https://mp.weixin.qq.com/s/Nuk1eFyLezX5vvJqQs0d6g",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "开卷有益—2026年度零借阅图书系列推荐①"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1422/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_d1d7bcc66765"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/Ff4ZDDzra-djpUGZr8ReSg": {
+      "url": "https://mp.weixin.qq.com/s/Ff4ZDDzra-djpUGZr8ReSg",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "2025年度开卷有益零借阅图书系列推荐⑧"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1422/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_d1d7bcc66765"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/14ikYMH5MoeGfuKAEM7y6w": {
+      "url": "https://mp.weixin.qq.com/s/14ikYMH5MoeGfuKAEM7y6w",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "开卷有益—2025年度零借阅图书系列推荐⑥"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1422/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_d1d7bcc66765"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/mVX-8y5bmGyVAy-gwBiOEw": {
+      "url": "https://mp.weixin.qq.com/s/mVX-8y5bmGyVAy-gwBiOEw",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "开卷有益—2025年度零借阅图书系列推荐⑤"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1422/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_d1d7bcc66765"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/lOEIRdsclbEOVbc6wQvlOQ": {
+      "url": "https://mp.weixin.qq.com/s/lOEIRdsclbEOVbc6wQvlOQ",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新书速递 20260010"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/elHY4R5cbdVdxeyVIhSLBg": {
+      "url": "https://mp.weixin.qq.com/s/elHY4R5cbdVdxeyVIhSLBg",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新书速递 2026009"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/NMj1REDIbAEOOfheIAEzQg": {
+      "url": "https://mp.weixin.qq.com/s/NMj1REDIbAEOOfheIAEzQg",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新书速递 2026008"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/2H1Q_xp9fMyAgB0aPinFtg": {
+      "url": "https://mp.weixin.qq.com/s/2H1Q_xp9fMyAgB0aPinFtg",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新书速递2026007"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/Alt7YXCUpgHKZg0-kr3FsQ": {
+      "url": "https://mp.weixin.qq.com/s/Alt7YXCUpgHKZg0-kr3FsQ",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新书速递 20260006"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/REou4CelrBBmzP6CavmhEg": {
+      "url": "https://mp.weixin.qq.com/s/REou4CelrBBmzP6CavmhEg",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新书速递 2026005"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/SlqHLGaEOhyilvliMYhSug": {
+      "url": "https://mp.weixin.qq.com/s/SlqHLGaEOhyilvliMYhSug",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新书速递 2026004"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/HBUXtwplCW64kShXRzRViw": {
+      "url": "https://mp.weixin.qq.com/s/HBUXtwplCW64kShXRzRViw",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新书速递2026003"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/2ucimVC1-CLKtFRshXjWTQ": {
+      "url": "https://mp.weixin.qq.com/s/2ucimVC1-CLKtFRshXjWTQ",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新书速递 2026002"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/iBuZAm-X4Ruj66vA4j16OA": {
+      "url": "https://mp.weixin.qq.com/s/iBuZAm-X4Ruj66vA4j16OA",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新书速递 2026001"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/JGQmRip_TsXpTjcjT7KeGQ": {
+      "url": "https://mp.weixin.qq.com/s/JGQmRip_TsXpTjcjT7KeGQ",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新书速递 2025025"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/-fDmDRQlQBCBDCZeGdF6mw": {
+      "url": "https://mp.weixin.qq.com/s/-fDmDRQlQBCBDCZeGdF6mw",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新书速递 2025024"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/KL6933PiYndu5VqJyupDog": {
+      "url": "https://mp.weixin.qq.com/s/KL6933PiYndu5VqJyupDog",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新书速递 2025023"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/Zjztjbu3DvoTcnoauxpItw": {
+      "url": "https://mp.weixin.qq.com/s/Zjztjbu3DvoTcnoauxpItw",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新书速递20250022"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/xmq_68jpjsfwqZzFQcaa8w": {
+      "url": "https://mp.weixin.qq.com/s/xmq_68jpjsfwqZzFQcaa8w",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新书速递 20250021"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list2.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/7IuK3N_hCSUXiR34_3jC-Q": {
+      "url": "https://mp.weixin.qq.com/s/7IuK3N_hCSUXiR34_3jC-Q",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "驿苑书话|新书速递 20250020"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list2.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/mcwARvX2k9EJ7U9Tro-JKg": {
+      "url": "https://mp.weixin.qq.com/s/mcwARvX2k9EJ7U9Tro-JKg",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新书速递 20250019"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list2.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/s1fddQwdtDX6VUkuLOVlRA": {
+      "url": "https://mp.weixin.qq.com/s/s1fddQwdtDX6VUkuLOVlRA",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新书速递20250018"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list2.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/JvyNx-T8rr1reuT0iHTObQ": {
+      "url": "https://mp.weixin.qq.com/s/JvyNx-T8rr1reuT0iHTObQ",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新书速递 2025017"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list2.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/IltSoCX9918iw_keoGy_fQ": {
+      "url": "https://mp.weixin.qq.com/s/IltSoCX9918iw_keoGy_fQ",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新书速递2025016"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list2.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/7-mKu0aq13aPi5wr6wBa5A": {
+      "url": "https://mp.weixin.qq.com/s/7-mKu0aq13aPi5wr6wBa5A",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新书速递2025015"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list2.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/jS3JGLTr5A4p0gF6-G-Okg": {
+      "url": "https://mp.weixin.qq.com/s/jS3JGLTr5A4p0gF6-G-Okg",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "新书速递 2025014"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/1423/list2.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_724db6fa0c25"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/YAiT63sCu30AuW2QiPG42Q": {
+      "url": "https://mp.weixin.qq.com/s/YAiT63sCu30AuW2QiPG42Q",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "邂逅绝美中国色，这场国风分享会太精彩啦！"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/hdhg/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_1eeb4bf11f78"
+      ]
+    },
+    "https://mp.weixin.qq.com/s/yf9cZbdol3VmAhEWibW12w": {
+      "url": "https://mp.weixin.qq.com/s/yf9cZbdol3VmAhEWibW12w",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "藏在十二月令里的中式浪漫｜图书馆这场花事分享会太治愈啦！"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/hdhg/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_1eeb4bf11f78"
+      ]
     }
   }
 }

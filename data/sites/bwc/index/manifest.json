@@ -1,28 +1,28 @@
 {
   "site_id": "bwc",
-  "generated_at": "2026-06-25T02:05:27.190805+00:00",
+  "generated_at": "2026-06-26T02:06:38.827319+00:00",
   "totals": {
     "sections": 152,
     "nav_nodes": 15,
     "homepage_modules": 0,
     "list_pages": 127,
-    "detail_pages": 1402,
+    "detail_pages": 1403,
     "low_content_detail_pages": 102,
     "attachments": 158,
     "external_links": 43,
     "edges": 277,
-    "url_outcomes": 3680
+    "url_outcomes": 3682
   },
   "outcomes": {
     "attachment_metadata_only": 176,
-    "crawled_detail_ok": 1275,
+    "crawled_detail_ok": 1276,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 127,
     "cross_domain_article_link_recorded": 2,
     "external_link_recorded": 34,
     "external_policy_link_recorded": 5,
     "homepage_link_recorded": 1,
-    "inline_image_recorded": 2051,
+    "inline_image_recorded": 2052,
     "inline_link_recorded": 8
   },
   "errors": [],
@@ -67886,7 +67886,8 @@
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "保卫处组织召开校园安保服务满意度评议会"
+        "保卫处组织召开校园安保服务满意度评议会",
+        "保卫处组织召开三牌楼校区校园安保服务满意度评议会"
       ],
       "sources": [
         "https://bwc.njupt.edu.cn/"
@@ -68028,6 +68029,33 @@
       ],
       "section_ids": [
         "bwc_home_link_03c4a63b1b24"
+      ]
+    },
+    "https://bwc.njupt.edu.cn/2026/0626/c510a305481/page.htm": {
+      "url": "https://bwc.njupt.edu.cn/2026/0626/c510a305481/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "保卫处组织召开仙林校区校园安保服务满意度评议会"
+      ],
+      "sources": [
+        "https://bwc.njupt.edu.cn/"
+      ],
+      "section_ids": [
+        "bwc_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://bwc.njupt.edu.cn/_upload/article/images/f2/b9/7db607624e07ba34385f7eda9363/addfa021-a560-43a2-9099-d42ada04597a.png": {
+      "url": "https://bwc.njupt.edu.cn/_upload/article/images/f2/b9/7db607624e07ba34385f7eda9363/addfa021-a560-43a2-9099-d42ada04597a.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://bwc.njupt.edu.cn/2026/0626/c510a305481/page.htm"
+      ],
+      "section_ids": [
+        "bwc_direct_detail_links"
       ]
     }
   }
