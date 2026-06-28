@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-26T13:56:57.148533+00:00",
+  "generated_at": "2026-06-28T13:09:58.536221+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -1403,7 +1403,35 @@
       "position": 113
     },
     {
-      "node_id": "eb88eea164786028ef4e",
+      "node_id": "b73b04deeaf165b8fabb",
+      "site_id": "www",
+      "label": "2026.06.28 二十年，他们把机器人竞赛做到极致！",
+      "url": "https://mp.weixin.qq.com/s/hG2NtcLOEWeLsk5aRIFU4w",
+      "nav_path": [
+        "2026.06.28 二十年，他们把机器人竞赛做到极致！"
+      ],
+      "depth": 1,
+      "target_type": "external_link",
+      "same_domain": false,
+      "parent_id": null,
+      "position": 114
+    },
+    {
+      "node_id": "29f5d9eb3d6235ce5ea6",
+      "site_id": "www",
+      "label": "2026.06.23 南京邮电大学召开2026年红色校史研究工作会",
+      "url": "https://mp.weixin.qq.com/s/C8ojPYs-NP5OW6uXL5ed_A",
+      "nav_path": [
+        "2026.06.23 南京邮电大学召开2026年红色校史研究工作会"
+      ],
+      "depth": 1,
+      "target_type": "external_link",
+      "same_domain": false,
+      "parent_id": null,
+      "position": 115
+    },
+    {
+      "node_id": "1ae4295ca58c5b402e5c",
       "site_id": "www",
       "label": "2026.06.20 江苏省首个量子科技学院在南京邮电大学成立",
       "url": "https://mp.weixin.qq.com/s/0Nbb9bQaBd65TZWaA0omwA",
@@ -1414,43 +1442,15 @@
       "target_type": "external_link",
       "same_domain": false,
       "parent_id": null,
-      "position": 114
+      "position": 116
     },
     {
-      "node_id": "5effc8bf0406e823e174",
+      "node_id": "48a50a5d5ddab180f884",
       "site_id": "www",
       "label": "2026.06.19 这个端午，和南邮AI一起“数”说金陵夏日！",
       "url": "https://mp.weixin.qq.com/s/1b9ZU0bih248DhPqE87fYQ",
       "nav_path": [
         "2026.06.19 这个端午，和南邮AI一起“数”说金陵夏日！"
-      ],
-      "depth": 1,
-      "target_type": "external_link",
-      "same_domain": false,
-      "parent_id": null,
-      "position": 115
-    },
-    {
-      "node_id": "70192a7ad3e6105ad33a",
-      "site_id": "www",
-      "label": "2026.06.15 邮梦启新程！直击南邮2026届研究生毕业典礼！",
-      "url": "https://mp.weixin.qq.com/s/M-kilXwU6ecS3NGBwOlbgQ",
-      "nav_path": [
-        "2026.06.15 邮梦启新程！直击南邮2026届研究生毕业典礼！"
-      ],
-      "depth": 1,
-      "target_type": "external_link",
-      "same_domain": false,
-      "parent_id": null,
-      "position": 116
-    },
-    {
-      "node_id": "5ee9c23730f90409e74a",
-      "site_id": "www",
-      "label": "2026.06.14 “南”忘，“邮”你！",
-      "url": "https://mp.weixin.qq.com/s/h_oaEfDGO5bOcuEDDeGK_A",
-      "nav_path": [
-        "2026.06.14 “南”忘，“邮”你！"
       ],
       "depth": 1,
       "target_type": "external_link",

@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-26T13:56:52.268061+00:00",
+  "generated_at": "2026-06-28T13:09:56.521333+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 132,
@@ -11,7 +11,7 @@
     "attachments": 22,
     "external_links": 50,
     "edges": 644,
-    "url_outcomes": 511
+    "url_outcomes": 513
   },
   "outcomes": {
     "attachment_metadata_only": 23,
@@ -19,7 +19,7 @@
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 7,
     "cross_domain_article_link_recorded": 2,
-    "external_link_recorded": 46,
+    "external_link_recorded": 48,
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 75,
@@ -7269,6 +7269,30 @@
       "section_ids": [
         "www_news"
       ]
+    },
+    "https://mp.weixin.qq.com/s/hG2NtcLOEWeLsk5aRIFU4w": {
+      "url": "https://mp.weixin.qq.com/s/hG2NtcLOEWeLsk5aRIFU4w",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "2026.06.28 二十年，他们把机器人竞赛做到极致！"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://mp.weixin.qq.com/s/C8ojPYs-NP5OW6uXL5ed_A": {
+      "url": "https://mp.weixin.qq.com/s/C8ojPYs-NP5OW6uXL5ed_A",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "2026.06.23 南京邮电大学召开2026年红色校史研究工作会"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
     }
   }
 }
