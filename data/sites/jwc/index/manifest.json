@@ -1,6 +1,6 @@
 {
   "site_id": "jwc",
-  "generated_at": "2026-06-26T08:47:09.467495+00:00",
+  "generated_at": "2026-06-28T03:30:32.310598+00:00",
   "totals": {
     "sections": 139,
     "nav_nodes": 119,
@@ -15,10 +15,11 @@
   },
   "outcomes": {
     "attachment_metadata_only": 7192,
-    "crawled_detail_ok": 6940,
+    "crawled_detail_ok": 6938,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 661,
     "cross_domain_article_link_recorded": 61,
+    "error": 2,
     "external_link_recorded": 263,
     "external_policy_link_recorded": 40,
     "external_system_link_recorded": 5,
@@ -245114,7 +245115,7 @@
     "https://jwc.njupt.edu.cn/2025/0527/c1600a284410/page.htm": {
       "url": "https://jwc.njupt.edu.cn/2025/0527/c1600a284410/page.htm",
       "target_type": "detail_article_page",
-      "outcome": "crawled_detail_ok",
+      "outcome": "error",
       "labels": [
         "复旦大学打造百余门“AI大课”撬动人才培养模式变革 2025-05-27"
       ],
@@ -245124,12 +245125,13 @@
       "section_ids": [
         "jwc_homepage_external_opinion_module"
       ],
-      "status_code": 200
+      "status_code": 200,
+      "error": "HTTPSConnectionPool(host='jwc.njupt.edu.cn', port=443): Max retries exceeded with url: /2025/0527/c1600a284410/page.htm (Caused by NewConnectionError(\"HTTPSConnection(host='jwc.njupt.edu.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
     },
     "https://jwc.njupt.edu.cn/2025/0520/c1600a283969/page.htm": {
       "url": "https://jwc.njupt.edu.cn/2025/0520/c1600a283969/page.htm",
       "target_type": "detail_article_page",
-      "outcome": "crawled_detail_ok",
+      "outcome": "error",
       "labels": [
         "首届全国高校教师数智教育创新大赛全国总决赛在汉举行 2025-05-20"
       ],
@@ -245139,7 +245141,8 @@
       "section_ids": [
         "jwc_homepage_external_opinion_module"
       ],
-      "status_code": 200
+      "status_code": 200,
+      "error": "HTTPSConnectionPool(host='jwc.njupt.edu.cn', port=443): Max retries exceeded with url: /2025/0520/c1600a283969/page.htm (Caused by NewConnectionError(\"HTTPSConnection(host='jwc.njupt.edu.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
     },
     "https://jwc.njupt.edu.cn/2025/0512/c1600a283410/page.htm": {
       "url": "https://jwc.njupt.edu.cn/2025/0512/c1600a283410/page.htm",
