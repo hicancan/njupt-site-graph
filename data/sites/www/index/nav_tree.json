@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-28T13:09:58.536221+00:00",
+  "generated_at": "2026-06-29T10:17:58.513675+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -759,7 +759,35 @@
       "position": 66
     },
     {
-      "node_id": "b5684a062036cb8585e8",
+      "node_id": "52c873dfd686c74e1c13",
+      "site_id": "www",
+      "label": "2026.06.29 南邮1972级校友、国际电信联盟原秘书长赵厚麟回校与青年教师交流座谈",
+      "url": "https://www.njupt.edu.cn/2026/0629/c53a305552/page.htm",
+      "nav_path": [
+        "2026.06.29 南邮1972级校友、国际电信联盟原秘书长赵厚麟回校与青年教师交流座谈"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 67
+    },
+    {
+      "node_id": "37cacc8cb25a1a102c0d",
+      "site_id": "www",
+      "label": "2026.06.25 叶美兰校长率队赴江西省教育厅、教育考试院调研交流",
+      "url": "https://www.njupt.edu.cn/2026/0629/c53a305553/page.htm",
+      "nav_path": [
+        "2026.06.25 叶美兰校长率队赴江西省教育厅、教育考试院调研交流"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 68
+    },
+    {
+      "node_id": "ab0c66f8466d022626dc",
       "site_id": "www",
       "label": "2026.06.25 蒙古邮政首席执行官Telmen Gerelt到访南邮",
       "url": "https://www.njupt.edu.cn/2026/0625/c53a305466/page.htm",
@@ -770,10 +798,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 67
+      "position": 69
     },
     {
-      "node_id": "6d7bf37d5bfd2c3c46b3",
+      "node_id": "feb768f50c259d60dcb7",
       "site_id": "www",
       "label": "2026.06.24 南邮举行黄一潇兼职教授授聘仪式",
       "url": "https://www.njupt.edu.cn/2026/0626/c53a305527/page.htm",
@@ -784,43 +812,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 68
+      "position": 70
     },
     {
-      "node_id": "168dc2024a0bda0ee8fc",
+      "node_id": "852951f354ae9e97b17f",
       "site_id": "www",
       "label": "2026.06.23 南邮召开2026年红色校史研究工作会",
       "url": "https://www.njupt.edu.cn/2026/0623/c53a305261/page.htm",
       "nav_path": [
         "2026.06.23 南邮召开2026年红色校史研究工作会"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 69
-    },
-    {
-      "node_id": "a4f9062c1fdd9c355936",
-      "site_id": "www",
-      "label": "2026.06.20 Nature Nanotechnology刊发汪联辉/丁显光教授团队在生物囊泡肿瘤免疫治疗领域进展",
-      "url": "https://www.njupt.edu.cn/2026/0620/c53a305196/page.htm",
-      "nav_path": [
-        "2026.06.20 Nature Nanotechnology刊发汪联辉/丁显光教授团队在生物囊泡肿瘤免疫治疗领域进展"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 70
-    },
-    {
-      "node_id": "0f86ed231248d2070e7c",
-      "site_id": "www",
-      "label": "2026.06.19 江苏省首个量子科技学院在南邮成立",
-      "url": "https://www.njupt.edu.cn/2026/0625/c53a305462/page.htm",
-      "nav_path": [
-        "2026.06.19 江苏省首个量子科技学院在南邮成立"
       ],
       "depth": 1,
       "target_type": "detail_article_page",

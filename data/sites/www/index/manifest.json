@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-28T13:09:56.521333+00:00",
+  "generated_at": "2026-06-29T10:17:55.607074+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 132,
     "homepage_modules": 0,
     "list_pages": 7,
-    "detail_pages": 115,
-    "low_content_detail_pages": 26,
+    "detail_pages": 118,
+    "low_content_detail_pages": 27,
     "attachments": 22,
     "external_links": 50,
-    "edges": 644,
-    "url_outcomes": 513
+    "edges": 646,
+    "url_outcomes": 520
   },
   "outcomes": {
     "attachment_metadata_only": 23,
-    "crawled_detail_ok": 115,
+    "crawled_detail_ok": 118,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 7,
     "cross_domain_article_link_recorded": 2,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 75,
-    "inline_image_recorded": 236,
+    "inline_image_recorded": 240,
     "section_list_page_recorded": 3
   },
   "errors": [],
@@ -3871,7 +3871,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/53/list.htm",
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -3899,7 +3900,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/53/list.htm",
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -5903,7 +5905,8 @@
       "labels": [],
       "sources": [
         "https://www.njupt.edu.cn/2025/0925/c72a289417/page.htm",
-        "https://www.njupt.edu.cn/2025/0425/c72a282420/page.htm"
+        "https://www.njupt.edu.cn/2025/0425/c72a282420/page.htm",
+        "https://www.njupt.edu.cn/2026/0622/c72a305239/page.htm"
       ],
       "section_ids": [
         "www_notice"
@@ -6305,7 +6308,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/",
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -6889,10 +6893,13 @@
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "2026 06.22 第十五届“挑战杯”中国大学生创业计划竞赛公示"
+        "2026 06.22 第十五届“挑战杯”中国大学生创业计划竞赛公示",
+        "首页",
+        "关闭此页"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/72/list.htm"
+        "https://www.njupt.edu.cn/72/list.htm",
+        "https://www.njupt.edu.cn/2026/0622/c72a305239/page.htm"
       ],
       "section_ids": [
         "www_notice"
@@ -6922,7 +6929,8 @@
         "2026 06.15 南邮举办2026年老年健身运动会 6月12日上午，南京邮电大学2026年老年健身运动会在三牌楼校区羽毛球馆举行。校党委常委、副校长周亮出席开幕式，党委办公室、校长办公室，工会，体育部，离退休工作处等相关部门负责人与200余名老同志参加。 周亮代表学校党政向全体老同志致以亲切问候。他表示，学校将继续用心用情做好离退休服务保障工作，积极为老同志们“老有所学、老有所养、老有所乐、老有所为”搭建广阔平台。希望广大老同志一如既往关心支持学校建设，为学校事业高质量发展传递正能量，再添新贡献。开幕式现场 开幕式上，老年舞蹈队舞姿优美，演绎了《一条大河》里的家国情怀；女声小合唱队歌声动人，唱响《我们的生活充满阳光》；健身操队刚柔并济，展现了《五行健身操》的科学健身韵味；模特队步态优雅，以《一路风华》展现了新时代老年人的魅力风采。一幕幕精彩的演出，赢得了现场阵阵热烈掌声。开幕式表演瞬间比赛瞬间 本次老年健身运动会共设置定点投篮、排球发准、棒击地滚球、飞镖、套圈、钓鱼、沙袋掷准、羽毛球对击和桌上冰壶投准等九个运动项目。赛场上，老同志们精神饱满、兴致盎然，在轻松愉悦的氛围中切磋技艺、交流情谊，充分展现了南邮离退休教职工健康乐观、积"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -7223,7 +7231,8 @@
       "outcome": "crawled_detail_ok",
       "labels": [
         "2026.06.24 南邮举行黄一潇兼职教授授聘仪式",
-        "2026 06.24 南邮举行黄一潇兼职教授授聘仪式 6月23日下午，顺丰科技运筹优化算法高级工程师黄一潇博士受聘南京邮电大学兼职教授仪式在三牌楼校区科学会堂举行。南邮副校长肖甫为黄一潇颁发聘书和校徽，现代邮政学院、智慧交通学院负责人和师生代表参加活动。 肖甫对黄一潇加盟南邮表示热烈欢迎。他说，快递物流已成为服务民生、支撑新发展格局的战略性产业，黄一潇博士深耕运筹优化算法领域，主导研发的网络规划算法项目获2025年弗兰兹·厄德曼全球决赛奖，参与的顺丰超脑2.0获2025年CCF科技成果奖，是将企业真实需求与前沿技术方法紧密结合的优秀代表。南邮在交通运输、物流管理、邮政工程等领域的办学积淀深厚，与顺丰开展本科创新人才联合培养，期待与黄一潇博士携手共育人才、共促创新。 黄一潇在受聘感言中表示，非常荣幸加盟南邮。他回顾了从清华园到顺丰的求学与从业历程，深切感受到理论研究与工程实践相互促进的重要性。表示将把顺丰在智能物流网络规划领域积累的前沿实践经验带入课堂与科研，与师生共同探索运筹优化在实际工程场景中的更多可能，让更多年轻人有机会站在真实问题的第一线，做有价值、有影响力的研究。 授聘仪式结束后，黄一潇以运筹学在物流网络的应用实践为主题"
+        "2026 06.24 南邮举行黄一潇兼职教授授聘仪式 6月23日下午，顺丰科技运筹优化算法高级工程师黄一潇博士受聘南京邮电大学兼职教授仪式在三牌楼校区科学会堂举行。南邮副校长肖甫为黄一潇颁发聘书和校徽，现代邮政学院、智慧交通学院负责人和师生代表参加活动。 肖甫对黄一潇加盟南邮表示热烈欢迎。他说，快递物流已成为服务民生、支撑新发展格局的战略性产业，黄一潇博士深耕运筹优化算法领域，主导研发的网络规划算法项目获2025年弗兰兹·厄德曼全球决赛奖，参与的顺丰超脑2.0获2025年CCF科技成果奖，是将企业真实需求与前沿技术方法紧密结合的优秀代表。南邮在交通运输、物流管理、邮政工程等领域的办学积淀深厚，与顺丰开展本科创新人才联合培养，期待与黄一潇博士携手共育人才、共促创新。 黄一潇在受聘感言中表示，非常荣幸加盟南邮。他回顾了从清华园到顺丰的求学与从业历程，深切感受到理论研究与工程实践相互促进的重要性。表示将把顺丰在智能物流网络规划领域积累的前沿实践经验带入课堂与科研，与师生共同探索运筹优化在实际工程场景中的更多可能，让更多年轻人有机会站在真实问题的第一线，做有价值、有影响力的研究。 授聘仪式结束后，黄一潇以运筹学在物流网络的应用实践为主题",
+        "2026 06.24 南邮举行黄一潇兼职教授授聘仪式 6月23日下午，顺丰科技运筹优化算法高级工程师黄一潇博士受聘南京邮电大学兼职教授仪式在三牌楼校区科学会堂举行。南邮副校长肖甫为黄一潇颁发聘书和校徽，人事处，现代邮政学院、智慧交通学院负责人和师生代表参加活动。授聘仪式现场 肖甫对黄一潇加盟南邮表示热烈欢迎。他说，快递物流已成为服务民生、支撑新发展格局的战略性产业，黄一潇博士深耕运筹优化算法领域，主导研发的网络规划算法项目获2025年弗兰兹·厄德曼全球决赛奖，参与的顺丰超脑2.0获2025年CCF科技成果奖，是将企业真实需求与前沿技术方法紧密结合的优秀代表。南邮在交通运输、物流管理、邮政工程等领域的办学积淀深厚，与顺丰开展本科创新人才联合培养，期待与黄一潇博士携手共育人才、共促创新。颁发聘书和校徽 黄一潇在受聘感言中表示，非常荣幸加盟南邮。他回顾了从清华园到顺丰的求学与从业历程，深切感受到理论研究与工程实践相互促进的重要性。表示将把顺丰在智能物流网络规划领域积累的前沿实践经验带入课堂与科研，与师生共同探索运筹优化在实际工程场景中的更多可能，让更多年轻人有机会站在真实问题的第一线，做有价值、有影响力的研究。 授聘仪式结束后，黄一潇"
       ],
       "sources": [
         "https://www.njupt.edu.cn/",
@@ -7293,6 +7302,103 @@
         "https://www.njupt.edu.cn/"
       ],
       "section_ids": []
+    },
+    "https://www.njupt.edu.cn/2026/0629/c53a305552/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0629/c53a305552/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.06.29 南邮1972级校友、国际电信联盟原秘书长赵厚麟回校与青年教师交流座谈",
+        "2026 06.29 南邮1972级校友、国际电信联盟原秘书长赵厚麟回校与青年教师交流座谈 6月29日上午，南京邮电大学1972级校友、国际电信联盟原秘书长赵厚麟回到南邮，在仙林校区与青年教师交流座谈。学校党委书记郭宇锋主持座谈会，副校长周亮参加交流。交流座谈会现场 郭宇锋对赵厚麟回到母校表示热烈欢迎，真诚感谢他长期以来对学校事业发展的关心和支持，并简要介绍了南邮近年来在人才队伍建设、青年教师培养等方面取得的成效。 赵厚麟深情回忆了在南邮求学的青春岁月，感念恩师谆谆教诲为个人发展奠定的坚实基础。他说，一所大学的底蕴与高度，归根结底取决于教师队伍的厚度与水平。从建校之初至今，南邮的每一次跨越发展，都离不开一代代教师的辛勤耕耘与无私奉献。教师强则学校强，青年教师是学校的未来，南邮的发展取决于青年教师们的眼界、格局与担当。赵厚麟讲话 座谈会上，青年教师踊跃发言，就科研攻关、学术评价、人才引进、学科发展趋势、思政工作等话题畅谈思考与困惑。赵厚麟认真倾听青年教师的发言，结合自己的丰富阅历，逐一回应大家的关切。他寄语青年教师：要立德修身、潜心育人，学会因材施教并挖掘学生潜能，厚植学生的家国情怀与使命担当；要立足当下、前瞻布局，敏锐把握量子通信、大数据、超级计算等前沿方向，拓宽国"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/2026/0629/c53a305553/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0629/c53a305553/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.06.25 叶美兰校长率队赴江西省教育厅、教育考试院调研交流",
+        "2026 06.25 叶美兰校长率队赴江西省教育厅、教育考试院调研交流 6月24日，南京邮电大学校长叶美兰带队赴江西省教育厅、教育考试院开展专题交流，共商省校招生协作与产教融合长效发展事宜。江西省委教育工委书记吴永明，省教育考试院党委书记刘彪文及相关处室负责人参加座谈，南邮对外联络处、产业合作处、物联网学院负责人一同参加。调研交流现场 会上，双方围绕校院招生联动、全方位深化省校合作开展深入研讨。刘彪文介绍江西省教育考试院机构职能与服务理念，分析江西生源特征与高考竞争形势，分享该院为争取优质高校招生计划推出的系列创新举措；针对下一阶段招生宣传工作，提出覆盖时间、内容、队伍三大维度的“三三制”工作构想，建议搭建地市“高考直通站”宣传平台，持续深化校地产学研协同。 叶美兰感谢江西省教育厅及考试院对南邮招生工作的支持。她指出，南邮作为国家“双一流”建设高校，已形成以电子信息为特色、多学科交融的发展格局，在大数据、人工智能、物联网、集成电路等前沿领域拥有显著科研优势，为国家和区域经济发展持续输送高素质人才。南邮毕业生以“基础厚、宽口径、创新强”著称，深造率超50%，就业质量位居全省前列，广受用人单位好评。她说，江西生源优质，南邮高度重视在赣招生，热忱欢迎优秀"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/2026/0629/c72a305547/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0629/c72a305547/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026 06.26 后勤管理处、后勤服务集团2026年暑假工作安排"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/72/list.htm"
+      ],
+      "section_ids": [
+        "www_notice"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/5a/43/0ab5ea8e4eaab6ef14efa8ad2b82/686f4c20-182e-4702-9546-e5155c0fa49d.png": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/5a/43/0ab5ea8e4eaab6ef14efa8ad2b82/686f4c20-182e-4702-9546-e5155c0fa49d.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0629/c53a305552/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/5a/43/0ab5ea8e4eaab6ef14efa8ad2b82/875f52bd-48c7-4161-80ba-86aafc948c76.png": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/5a/43/0ab5ea8e4eaab6ef14efa8ad2b82/875f52bd-48c7-4161-80ba-86aafc948c76.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0629/c53a305552/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/76/99/e93094954318ab9e1274c3d19b0d/ad3d2f55-00d0-45d7-b175-fbb9b8a88234.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/76/99/e93094954318ab9e1274c3d19b0d/ad3d2f55-00d0-45d7-b175-fbb9b8a88234.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0629/c53a305553/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/76/99/e93094954318ab9e1274c3d19b0d/187dd0fc-78bc-48ad-b2d7-d8bed33946fd.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/76/99/e93094954318ab9e1274c3d19b0d/187dd0fc-78bc-48ad-b2d7-d8bed33946fd.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0629/c53a305553/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
     }
   }
 }

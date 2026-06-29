@@ -1,28 +1,28 @@
 {
   "site_id": "lib",
-  "generated_at": "2026-06-29T02:08:56.230645+00:00",
+  "generated_at": "2026-06-29T10:17:53.008314+00:00",
   "totals": {
     "sections": 42,
     "nav_nodes": 31,
     "homepage_modules": 0,
     "list_pages": 117,
-    "detail_pages": 1143,
+    "detail_pages": 1144,
     "low_content_detail_pages": 77,
     "attachments": 108,
     "external_links": 530,
     "edges": 1742,
-    "url_outcomes": 3901
+    "url_outcomes": 3905
   },
   "outcomes": {
     "attachment_metadata_only": 107,
-    "crawled_detail_ok": 1108,
+    "crawled_detail_ok": 1109,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 117,
     "cross_domain_article_link_recorded": 3,
     "external_link_recorded": 479,
     "external_policy_link_recorded": 7,
     "external_system_link_recorded": 1,
-    "inline_image_recorded": 2007,
+    "inline_image_recorded": 2010,
     "inline_link_recorded": 71
   },
   "errors": [],
@@ -16330,7 +16330,8 @@
         "图书馆学科服务走进理学院"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1428/list.htm"
+        "https://lib.njupt.edu.cn/1428/list.htm",
+        "https://lib.njupt.edu.cn/1428/list2.htm"
       ],
       "section_ids": [
         "lib_home_link_a7ce4abf4855"
@@ -18013,7 +18014,8 @@
         "我馆赴北京兄弟高校图书馆开展专题调研学习"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1428/list2.htm"
+        "https://lib.njupt.edu.cn/1428/list2.htm",
+        "https://lib.njupt.edu.cn/1428/list3.htm"
       ],
       "section_ids": [
         "lib_home_link_a7ce4abf4855"
@@ -53145,6 +53147,58 @@
         "lib_notice"
       ],
       "status_code": 200
+    },
+    "https://lib.njupt.edu.cn/2026/0629/c1428a305546/page.htm": {
+      "url": "https://lib.njupt.edu.cn/2026/0629/c1428a305546/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "校知识产权信息服务中心赴迈皋桥街道开展交流座谈"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/",
+        "https://lib.njupt.edu.cn/1428/list.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_a7ce4abf4855"
+      ],
+      "status_code": 200
+    },
+    "https://lib.njupt.edu.cn/_upload/article/images/b4/c1/748fca2a41c789ae92abd54ff84f/5ea784b1-4518-4b38-a69e-a8fe82130ff6.jpg": {
+      "url": "https://lib.njupt.edu.cn/_upload/article/images/b4/c1/748fca2a41c789ae92abd54ff84f/5ea784b1-4518-4b38-a69e-a8fe82130ff6.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://lib.njupt.edu.cn/2026/0629/c1428a305546/page.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_a7ce4abf4855"
+      ]
+    },
+    "https://lib.njupt.edu.cn/_upload/article/images/b4/c1/748fca2a41c789ae92abd54ff84f/94b099b2-ca52-4df1-befb-d6f7e3c64323.jpg": {
+      "url": "https://lib.njupt.edu.cn/_upload/article/images/b4/c1/748fca2a41c789ae92abd54ff84f/94b099b2-ca52-4df1-befb-d6f7e3c64323.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://lib.njupt.edu.cn/2026/0629/c1428a305546/page.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_a7ce4abf4855"
+      ]
+    },
+    "https://lib.njupt.edu.cn/_upload/article/images/b4/c1/748fca2a41c789ae92abd54ff84f/d4cd0d3c-94c7-4769-a6fc-cc86c6b3648b.jpg": {
+      "url": "https://lib.njupt.edu.cn/_upload/article/images/b4/c1/748fca2a41c789ae92abd54ff84f/d4cd0d3c-94c7-4769-a6fc-cc86c6b3648b.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://lib.njupt.edu.cn/2026/0629/c1428a305546/page.htm"
+      ],
+      "section_ids": [
+        "lib_home_link_a7ce4abf4855"
+      ]
     }
   }
 }
