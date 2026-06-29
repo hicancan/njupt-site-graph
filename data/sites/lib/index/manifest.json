@@ -1,21 +1,21 @@
 {
   "site_id": "lib",
-  "generated_at": "2026-06-26T02:04:24.499552+00:00",
+  "generated_at": "2026-06-29T02:08:56.230645+00:00",
   "totals": {
     "sections": 42,
     "nav_nodes": 31,
     "homepage_modules": 0,
     "list_pages": 117,
-    "detail_pages": 1142,
+    "detail_pages": 1143,
     "low_content_detail_pages": 77,
     "attachments": 108,
     "external_links": 530,
     "edges": 1742,
-    "url_outcomes": 3900
+    "url_outcomes": 3901
   },
   "outcomes": {
     "attachment_metadata_only": 107,
-    "crawled_detail_ok": 1107,
+    "crawled_detail_ok": 1108,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 117,
     "cross_domain_article_link_recorded": 3,
@@ -1736,7 +1736,8 @@
         "图书馆关于2025年清明节开放安排的通知"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1429/list.htm"
+        "https://lib.njupt.edu.cn/1429/list.htm",
+        "https://lib.njupt.edu.cn/1429/list2.htm"
       ],
       "section_ids": [
         "lib_notice"
@@ -2120,7 +2121,8 @@
         "2024年暑假图书馆开放通知"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1429/list2.htm"
+        "https://lib.njupt.edu.cn/1429/list2.htm",
+        "https://lib.njupt.edu.cn/1429/list3.htm"
       ],
       "section_ids": [
         "lib_notice"
@@ -53127,6 +53129,22 @@
       "section_ids": [
         "lib_home_link_1eeb4bf11f78"
       ]
+    },
+    "https://lib.njupt.edu.cn/2026/0629/c1429a305540/page.htm": {
+      "url": "https://lib.njupt.edu.cn/2026/0629/c1429a305540/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026年暑假图书馆开放通知"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/",
+        "https://lib.njupt.edu.cn/1429/list.htm"
+      ],
+      "section_ids": [
+        "lib_notice"
+      ],
+      "status_code": 200
     }
   }
 }
