@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-01T02:08:58.475559+00:00",
+  "generated_at": "2026-07-01T09:25:54.810203+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 132,
     "homepage_modules": 0,
     "list_pages": 7,
-    "detail_pages": 119,
+    "detail_pages": 120,
     "low_content_detail_pages": 27,
     "attachments": 22,
     "external_links": 50,
     "edges": 646,
-    "url_outcomes": 523
+    "url_outcomes": 525
   },
   "outcomes": {
     "attachment_metadata_only": 23,
-    "crawled_detail_ok": 119,
+    "crawled_detail_ok": 120,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 7,
     "cross_domain_article_link_recorded": 2,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 76,
-    "inline_image_recorded": 241,
+    "inline_image_recorded": 242,
     "section_list_page_recorded": 3
   },
   "errors": [],
@@ -3731,7 +3731,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/53/list.htm",
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -6293,7 +6294,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/",
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -7438,6 +7440,35 @@
       "labels": [],
       "sources": [
         "https://www.njupt.edu.cn/2026/0630/c53a305617/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/2026/0701/c53a305661/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0701/c53a305661/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.07.01 南邮党委理论学习中心组举行集体学习会",
+        "2026 07.01 南邮党委理论学习中心组举行集体学习会 7月1日上午，南京邮电大学党委理论学习中心组举行集体学习会。校党委书记、党委理论学习中心组组长郭宇锋主持学习会，校长叶美兰列席会议。学习会现场 全体成员共同观看全国党建工作座谈会、中央党的建设工作领导小组《关于学习贯彻习近平党建思想的通知》学习视频。校党委常委、副校长肖甫、刘青山领学树立和践行正确政绩观正反面典型案例。马克思主义学院院长史献芝领学习近平总书记对推动哲学社会科学高质量发展作出的重要指示精神，党委统战部常务副部长胡玉东领学《中华人民共和国民族团结进步促进法》。 上午10点，全体成员共同观看直播，学习习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话精神。 会上，校党委常委、副校长肖甫、刘青山、谢平，胡玉东，史献芝结合工作实际，分别作重点发言。 会议要求，要把学习贯彻习近平党建思想作为当前和今后一个时期的重要政治任务，深化党的创新理论武装，加强党对学校的全面领导，持之以恒推进全面从严治党。要着力推动哲学社会科学高质量发展，持续优化学科布局，加强理论研究阐释。要深入贯彻民族团结进步促进法，持续健全工作格局，推动责任落实到位，加强思想政治引领。 会议强调，要"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/33/4c/aa18c4534d4ab3e8f0fcdd2c3e91/f2b9af3b-a499-41bf-ac0a-030a1e58c9be.png": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/33/4c/aa18c4534d4ab3e8f0fcdd2c3e91/f2b9af3b-a499-41bf-ac0a-030a1e58c9be.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0701/c53a305661/page.htm"
       ],
       "section_ids": [
         "www_news"

@@ -1,27 +1,27 @@
 {
   "site_id": "tyb",
-  "generated_at": "2026-07-01T02:11:35.517111+00:00",
+  "generated_at": "2026-07-01T09:28:14.856784+00:00",
   "totals": {
     "sections": 265,
     "nav_nodes": 64,
     "homepage_modules": 0,
     "list_pages": 240,
-    "detail_pages": 2175,
+    "detail_pages": 2176,
     "low_content_detail_pages": 681,
     "attachments": 154,
     "external_links": 50,
     "edges": 689,
-    "url_outcomes": 4844
+    "url_outcomes": 4847
   },
   "outcomes": {
     "attachment_metadata_only": 187,
-    "crawled_detail_ok": 1935,
+    "crawled_detail_ok": 1936,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 240,
     "cross_domain_article_link_recorded": 10,
     "external_link_recorded": 36,
     "external_policy_link_recorded": 1,
-    "inline_image_recorded": 2258,
+    "inline_image_recorded": 2260,
     "inline_link_recorded": 176
   },
   "errors": [],
@@ -89339,6 +89339,46 @@
       "labels": [],
       "sources": [
         "https://tyb.njupt.edu.cn/2026/0630/c7257a305601/page.htm"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ]
+    },
+    "https://tyb.njupt.edu.cn/2026/0701/c18439a305643/page.htm": {
+      "url": "https://tyb.njupt.edu.cn/2026/0701/c18439a305643/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "<a href='/2026/0701/c18439a305643/page.htm' target='_blank' title='我校飞盘队在江苏省飞盘锦标赛中斩获冠军'>我校飞盘队在江苏省飞盘锦标赛中斩获冠军</a>",
+        "我校飞盘队在江苏省飞盘锦标赛中斩获冠军"
+      ],
+      "sources": [
+        "https://tyb.njupt.edu.cn/"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://tyb.njupt.edu.cn/_upload/article/images/44/d7/2b8c7e674d7a80a7b9beaf98b2cc/b6e26625-53a0-4095-9de9-81ba6aec861a.png": {
+      "url": "https://tyb.njupt.edu.cn/_upload/article/images/44/d7/2b8c7e674d7a80a7b9beaf98b2cc/b6e26625-53a0-4095-9de9-81ba6aec861a.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://tyb.njupt.edu.cn/2026/0701/c18439a305643/page.htm"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ]
+    },
+    "https://tyb.njupt.edu.cn/_upload/article/images/44/d7/2b8c7e674d7a80a7b9beaf98b2cc/913da4dc-5698-4c31-bed8-8a9f7809af5b.png": {
+      "url": "https://tyb.njupt.edu.cn/_upload/article/images/44/d7/2b8c7e674d7a80a7b9beaf98b2cc/913da4dc-5698-4c31-bed8-8a9f7809af5b.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://tyb.njupt.edu.cn/2026/0701/c18439a305643/page.htm"
       ],
       "section_ids": [
         "tyb_direct_detail_links"

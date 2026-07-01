@@ -1,6 +1,6 @@
 {
   "site_id": "xxb",
-  "generated_at": "2026-07-01T02:09:00.607509+00:00",
+  "generated_at": "2026-07-01T09:25:56.060582+00:00",
   "totals": {
     "sections": 95,
     "nav_nodes": 47,
@@ -9,9 +9,9 @@
     "detail_pages": 983,
     "low_content_detail_pages": 127,
     "attachments": 139,
-    "external_links": 104,
+    "external_links": 105,
     "edges": 309,
-    "url_outcomes": 1860
+    "url_outcomes": 1861
   },
   "outcomes": {
     "attachment_metadata_only": 90,
@@ -19,7 +19,7 @@
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 89,
     "cross_domain_article_link_recorded": 1,
-    "external_link_recorded": 78,
+    "external_link_recorded": 79,
     "external_policy_link_recorded": 4,
     "external_system_link_recorded": 3,
     "inline_image_recorded": 691,
@@ -34272,6 +34272,18 @@
       "section_ids": [
         "xxb_direct_detail_links"
       ]
+    },
+    "https://mp.weixin.qq.com/s/hy_hJjIAqEDbSgJX5X8zKQ": {
+      "url": "https://mp.weixin.qq.com/s/hy_hJjIAqEDbSgJX5X8zKQ",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "网络安全和信息化2026年6月工作报告"
+      ],
+      "sources": [
+        "https://xxb.njupt.edu.cn/"
+      ],
+      "section_ids": []
     }
   }
 }
