@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-29T10:17:58.513675+00:00",
+  "generated_at": "2026-07-01T02:09:02.500883+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -759,7 +759,21 @@
       "position": 66
     },
     {
-      "node_id": "52c873dfd686c74e1c13",
+      "node_id": "91eccb6999a16c72c0db",
+      "site_id": "www",
+      "label": "2026.06.30 郭宇锋书记讲授树立和践行正确政绩观学习教育专题党课",
+      "url": "https://www.njupt.edu.cn/2026/0630/c53a305617/page.htm",
+      "nav_path": [
+        "2026.06.30 郭宇锋书记讲授树立和践行正确政绩观学习教育专题党课"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 67
+    },
+    {
+      "node_id": "b3246f8d31d57260dff9",
       "site_id": "www",
       "label": "2026.06.29 南邮1972级校友、国际电信联盟原秘书长赵厚麟回校与青年教师交流座谈",
       "url": "https://www.njupt.edu.cn/2026/0629/c53a305552/page.htm",
@@ -770,10 +784,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 67
+      "position": 68
     },
     {
-      "node_id": "37cacc8cb25a1a102c0d",
+      "node_id": "4dc802fe9d899f60e0ef",
       "site_id": "www",
       "label": "2026.06.25 叶美兰校长率队赴江西省教育厅、教育考试院调研交流",
       "url": "https://www.njupt.edu.cn/2026/0629/c53a305553/page.htm",
@@ -784,10 +798,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 68
+      "position": 69
     },
     {
-      "node_id": "ab0c66f8466d022626dc",
+      "node_id": "a33e8044a72b94fb06d2",
       "site_id": "www",
       "label": "2026.06.25 蒙古邮政首席执行官Telmen Gerelt到访南邮",
       "url": "https://www.njupt.edu.cn/2026/0625/c53a305466/page.htm",
@@ -798,29 +812,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 69
+      "position": 70
     },
     {
-      "node_id": "feb768f50c259d60dcb7",
+      "node_id": "dfe22b1d4e8d3f6f1949",
       "site_id": "www",
       "label": "2026.06.24 南邮举行黄一潇兼职教授授聘仪式",
       "url": "https://www.njupt.edu.cn/2026/0626/c53a305527/page.htm",
       "nav_path": [
         "2026.06.24 南邮举行黄一潇兼职教授授聘仪式"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 70
-    },
-    {
-      "node_id": "852951f354ae9e97b17f",
-      "site_id": "www",
-      "label": "2026.06.23 南邮召开2026年红色校史研究工作会",
-      "url": "https://www.njupt.edu.cn/2026/0623/c53a305261/page.htm",
-      "nav_path": [
-        "2026.06.23 南邮召开2026年红色校史研究工作会"
       ],
       "depth": 1,
       "target_type": "detail_article_page",
@@ -899,12 +899,12 @@
       "position": 76
     },
     {
-      "node_id": "d64a39cb53e5d32fae70",
+      "node_id": "db943df06a8ce29588f0",
       "site_id": "www",
-      "label": "【江苏卫视】四方携手签约 推动广电视听行业转型升级",
-      "url": "https://www.njupt.edu.cn/2026/0604/c17125a303423/page.htm",
+      "label": "【新华日报】以人为本推动高质量充分就业",
+      "url": "https://www.njupt.edu.cn/2026/0630/c17125a305623/page.htm",
       "nav_path": [
-        "【江苏卫视】四方携手签约 推动广电视听行业转型升级"
+        "【新华日报】以人为本推动高质量充分就业"
       ],
       "depth": 1,
       "target_type": "detail_article_page",

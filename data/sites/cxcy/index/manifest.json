@@ -1,21 +1,21 @@
 {
   "site_id": "cxcy",
-  "generated_at": "2026-06-26T08:47:05.398727+00:00",
+  "generated_at": "2026-07-01T02:09:00.307533+00:00",
   "totals": {
     "sections": 39,
     "nav_nodes": 29,
     "homepage_modules": 5,
     "list_pages": 83,
-    "detail_pages": 615,
-    "low_content_detail_pages": 82,
-    "attachments": 205,
+    "detail_pages": 617,
+    "low_content_detail_pages": 83,
+    "attachments": 207,
     "external_links": 63,
-    "edges": 1089,
-    "url_outcomes": 1325
+    "edges": 1091,
+    "url_outcomes": 1329
   },
   "outcomes": {
-    "attachment_metadata_only": 203,
-    "crawled_detail_ok": 593,
+    "attachment_metadata_only": 205,
+    "crawled_detail_ok": 595,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 83,
     "cross_domain_article_link_recorded": 2,
@@ -19197,6 +19197,66 @@
       "labels": [],
       "sources": [
         "https://cxcy.njupt.edu.cn/2026/0626/c11336a305509/page.htm"
+      ],
+      "section_ids": [
+        "cxcy_home_module_b3b0e005b420"
+      ]
+    },
+    "https://cxcy.njupt.edu.cn/2026/0630/c11336a305599/page.htm": {
+      "url": "https://cxcy.njupt.edu.cn/2026/0630/c11336a305599/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "【校赛成绩公示】南京邮电大学第五届大学生智慧城市技术应用与创意设计大赛获奖情况公示"
+      ],
+      "sources": [
+        "https://cxcy.njupt.edu.cn/",
+        "https://cxcy.njupt.edu.cn/tzgg/list.htm"
+      ],
+      "section_ids": [
+        "cxcy_home_module_b3b0e005b420"
+      ],
+      "status_code": 200
+    },
+    "https://cxcy.njupt.edu.cn/2026/0630/c11336a305576/page.htm": {
+      "url": "https://cxcy.njupt.edu.cn/2026/0630/c11336a305576/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "【科创竞赛】关于我校学生参加2026年第十八届全国高校大学生数学竞赛的通知"
+      ],
+      "sources": [
+        "https://cxcy.njupt.edu.cn/",
+        "https://cxcy.njupt.edu.cn/tzgg/list.htm"
+      ],
+      "section_ids": [
+        "cxcy_home_module_b3b0e005b420"
+      ],
+      "status_code": 200
+    },
+    "https://cxcy.njupt.edu.cn/_upload/article/files/3e/3c/337239144b5791408118faf9bd4b/3228865e-f724-4af3-9a52-3e9504420e3e.docx": {
+      "url": "https://cxcy.njupt.edu.cn/_upload/article/files/3e/3c/337239144b5791408118faf9bd4b/3228865e-f724-4af3-9a52-3e9504420e3e.docx",
+      "target_type": "attachment_file",
+      "outcome": "attachment_metadata_only",
+      "labels": [
+        "南京邮电大学第五届大学生智慧城市技术应用与创意设计大赛-获奖公示20260630.docx"
+      ],
+      "sources": [
+        "https://cxcy.njupt.edu.cn/2026/0630/c11336a305599/page.htm"
+      ],
+      "section_ids": [
+        "cxcy_home_module_b3b0e005b420"
+      ]
+    },
+    "https://cxcy.njupt.edu.cn/_upload/article/files/f0/9a/5fbd102a4961926e61c2b17148c0/6923a6f7-229b-43a9-ab26-c872a15efaeb.pdf": {
+      "url": "https://cxcy.njupt.edu.cn/_upload/article/files/f0/9a/5fbd102a4961926e61c2b17148c0/6923a6f7-229b-43a9-ab26-c872a15efaeb.pdf",
+      "target_type": "attachment_file",
+      "outcome": "attachment_metadata_only",
+      "labels": [
+        "202606 关于我校学生参加2026年第十八届全国高校大学生数学竞赛的通知.pdf"
+      ],
+      "sources": [
+        "https://cxcy.njupt.edu.cn/2026/0630/c11336a305576/page.htm"
       ],
       "section_ids": [
         "cxcy_home_module_b3b0e005b420"

@@ -1,26 +1,26 @@
 {
   "site_id": "scie",
-  "generated_at": "2026-06-26T14:01:37.595426+00:00",
+  "generated_at": "2026-07-01T02:13:27.395808+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 57,
     "homepage_modules": 2,
     "list_pages": 40,
-    "detail_pages": 539,
+    "detail_pages": 540,
     "low_content_detail_pages": 2,
     "attachments": 0,
     "external_links": 8,
     "edges": 654,
-    "url_outcomes": 1971
+    "url_outcomes": 1978
   },
   "outcomes": {
-    "crawled_detail_ok": 538,
+    "crawled_detail_ok": 539,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 40,
     "cross_domain_article_link_recorded": 1,
     "external_link_recorded": 7,
     "homepage_link_recorded": 69,
-    "inline_image_recorded": 1315
+    "inline_image_recorded": 1321
   },
   "errors": [],
   "quality": {
@@ -963,7 +963,8 @@
       "outcome": "crawled_detail_ok",
       "labels": [
         "安徽大学电子信息工程学院来通信与信息工程学院调研交流",
-        "2026-04-03 安徽大学电子信息工程学院来通信与信息工程学院调研交流 3月27日，安徽大学电子信息工程学院副院长丁大为一行来通信与信息工程学院调研交流。交流会由通信与信息工程学院副院长施政主持。 施政对丁大为一行表示热烈欢迎，并介绍了学校和学院概况、学院事业发展取得的成果，期待未来与安徽大学电子信息工程学院在学科建设、人才培养等关键领域开展深入合作。 丁大为对此表示感谢，介绍了本次调研的主题，从学科概况、师资队伍、科研与教学平台、人才培养等方面介绍了安徽大学电子信息工程学院的相关情况。 通信与信息工程学院院长助理吴晓欢、通信工程系主任王玉峰、信息工程系主任刘子威、信息与通信工程实验教学中心副主任卢敏代表学院分别汇报了专业培养方案和实验室建设相关工作。 最后，施政还介绍了学院数智课程和学科引擎的建设情况。 双方就课程体系、培养方案设置和实验室建设等方面开展了深入交流。 安徽大学电子信息工程学院电子科学与技术系主任张艳、电工电子实验教学中心主任胡永兵、电子信息工程系副主任沈川；学院教学秘书潘雯参加了本次调研交流。（撰稿：潘雯、吴晓欢 编辑：吕瑞兰 审核：施政、徐雷）"
+        "2026-04-03 安徽大学电子信息工程学院来通信与信息工程学院调研交流 3月27日，安徽大学电子信息工程学院副院长丁大为一行来通信与信息工程学院调研交流。交流会由通信与信息工程学院副院长施政主持。 施政对丁大为一行表示热烈欢迎，并介绍了学校和学院概况、学院事业发展取得的成果，期待未来与安徽大学电子信息工程学院在学科建设、人才培养等关键领域开展深入合作。 丁大为对此表示感谢，介绍了本次调研的主题，从学科概况、师资队伍、科研与教学平台、人才培养等方面介绍了安徽大学电子信息工程学院的相关情况。 通信与信息工程学院院长助理吴晓欢、通信工程系主任王玉峰、信息工程系主任刘子威、信息与通信工程实验教学中心副主任卢敏代表学院分别汇报了专业培养方案和实验室建设相关工作。 最后，施政还介绍了学院数智课程和学科引擎的建设情况。 双方就课程体系、培养方案设置和实验室建设等方面开展了深入交流。 安徽大学电子信息工程学院电子科学与技术系主任张艳、电工电子实验教学中心主任胡永兵、电子信息工程系副主任沈川；学院教学秘书潘雯参加了本次调研交流。（撰稿：潘雯、吴晓欢 编辑：吕瑞兰 审核：施政、徐雷）",
+        "2026-04-03 安徽大学电子信息工程学院来通信与信息工程学院调研交流"
       ],
       "sources": [
         "https://scie.njupt.edu.cn/",
@@ -22724,7 +22725,8 @@
         "南京邮电大学“通信工程”2025软科世界一流学科排名进入全球Top20"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/jxky/list.htm"
+        "https://scie.njupt.edu.cn/jxky/list.htm",
+        "https://scie.njupt.edu.cn/jxky/list2.htm"
       ],
       "section_ids": [
         "scie_teaching"
@@ -23045,7 +23047,8 @@
         "我院博士生王林宁入选中国科协青年人才托举工程博士生专项计划"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/jxky/list2.htm"
+        "https://scie.njupt.edu.cn/jxky/list2.htm",
+        "https://scie.njupt.edu.cn/jxky/list3.htm"
       ],
       "section_ids": [
         "scie_teaching"
@@ -25702,6 +25705,95 @@
       ],
       "section_ids": [
         "scie_news"
+      ]
+    },
+    "https://scie.njupt.edu.cn/2026/0630/c12648a305566/page.htm": {
+      "url": "https://scie.njupt.edu.cn/2026/0630/c12648a305566/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "通信与信息工程学院开展新老教师“同上一堂课”教学研讨暨专项督导讲习营活动",
+        "2026-06-30 通信与信息工程学院开展新老教师“同上一堂课”教学研讨暨专项督导讲习营活动 6月26日下午，通信与信息工程学院在教东204教室开展新老教师“同上一堂课”教学研讨暨专项督导讲习营活动，此次活动以“AI赋能教学，提升教学成效”为主题。叶蕾老师和徐挺挺老师进行教学展示，校级教学督导张玲华，院级教学督导赵生妹、解培中、何雪云等专家出席并参与点评，学院副院长施政、教学中心负责人和青年教师代表参会研讨。活动由信号与信息处理教学中心副主任朱艳主持。 青年教师徐挺挺围绕《数字信号处理》课程“利用DFT进行连续信号的频谱分析”章节进行教学展示。从科研项目中的频谱分析实例切入，融入学科前沿知识，系统讲解了用DFT进行频谱分析的步骤、碰到的问题和解决方法。徐老师注重启发学生思考、引导课堂互动，展现了良好的课堂驾驭能力与扎实的专业基础。青年教师徐挺挺进行授课展示 随后，叶蕾老师围绕同一主题开展了精彩的示范授课。课程以频谱分析的应用案例为引，系统阐述了DFT分析连续信号频谱的核心要点与易错问题，并实现了课程思政的无痕融入。她充分利用雨课堂AI讲伴推送动态交互资源，通过生动的仿真演示将抽象理论形象化，清晰呈现了加窗处理的对比效果，有效突破了教学难点，充分展现了资深教师精湛的教学艺"
+      ],
+      "sources": [
+        "https://scie.njupt.edu.cn/",
+        "https://scie.njupt.edu.cn/jxky/list.htm"
+      ],
+      "section_ids": [
+        "scie_teaching"
+      ],
+      "status_code": 200
+    },
+    "https://scie.njupt.edu.cn/_upload/article/images/24/da/74e592c943e290aa2e8f0115c4f3/2a058845-ac21-4a09-8b98-5647b957ed28.jpg": {
+      "url": "https://scie.njupt.edu.cn/_upload/article/images/24/da/74e592c943e290aa2e8f0115c4f3/2a058845-ac21-4a09-8b98-5647b957ed28.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://scie.njupt.edu.cn/2026/0630/c12648a305566/page.htm"
+      ],
+      "section_ids": [
+        "scie_teaching"
+      ]
+    },
+    "https://scie.njupt.edu.cn/_upload/article/images/24/da/74e592c943e290aa2e8f0115c4f3/8378f437-9d5a-481d-9a20-de9551fb5ef0.png": {
+      "url": "https://scie.njupt.edu.cn/_upload/article/images/24/da/74e592c943e290aa2e8f0115c4f3/8378f437-9d5a-481d-9a20-de9551fb5ef0.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://scie.njupt.edu.cn/2026/0630/c12648a305566/page.htm"
+      ],
+      "section_ids": [
+        "scie_teaching"
+      ]
+    },
+    "https://scie.njupt.edu.cn/_upload/article/images/24/da/74e592c943e290aa2e8f0115c4f3/8f39a15f-4a7c-4327-b242-0f38acac1792.jpg": {
+      "url": "https://scie.njupt.edu.cn/_upload/article/images/24/da/74e592c943e290aa2e8f0115c4f3/8f39a15f-4a7c-4327-b242-0f38acac1792.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://scie.njupt.edu.cn/2026/0630/c12648a305566/page.htm"
+      ],
+      "section_ids": [
+        "scie_teaching"
+      ]
+    },
+    "https://scie.njupt.edu.cn/_upload/article/images/24/da/74e592c943e290aa2e8f0115c4f3/45a62f5c-f8fb-48d0-ab4f-59d2c90bfa99.png": {
+      "url": "https://scie.njupt.edu.cn/_upload/article/images/24/da/74e592c943e290aa2e8f0115c4f3/45a62f5c-f8fb-48d0-ab4f-59d2c90bfa99.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://scie.njupt.edu.cn/2026/0630/c12648a305566/page.htm"
+      ],
+      "section_ids": [
+        "scie_teaching"
+      ]
+    },
+    "https://scie.njupt.edu.cn/_upload/article/images/24/da/74e592c943e290aa2e8f0115c4f3/d5539a31-4d15-450f-9c0f-54037ae36da5.png": {
+      "url": "https://scie.njupt.edu.cn/_upload/article/images/24/da/74e592c943e290aa2e8f0115c4f3/d5539a31-4d15-450f-9c0f-54037ae36da5.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://scie.njupt.edu.cn/2026/0630/c12648a305566/page.htm"
+      ],
+      "section_ids": [
+        "scie_teaching"
+      ]
+    },
+    "https://scie.njupt.edu.cn/_upload/article/images/24/da/74e592c943e290aa2e8f0115c4f3/183c8d89-51fc-4a57-b97e-ef0f202a6544.png": {
+      "url": "https://scie.njupt.edu.cn/_upload/article/images/24/da/74e592c943e290aa2e8f0115c4f3/183c8d89-51fc-4a57-b97e-ef0f202a6544.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://scie.njupt.edu.cn/2026/0630/c12648a305566/page.htm"
+      ],
+      "section_ids": [
+        "scie_teaching"
       ]
     }
   }

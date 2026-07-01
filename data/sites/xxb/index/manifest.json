@@ -1,28 +1,28 @@
 {
   "site_id": "xxb",
-  "generated_at": "2026-06-25T02:02:55.462433+00:00",
+  "generated_at": "2026-07-01T02:09:00.607509+00:00",
   "totals": {
     "sections": 95,
     "nav_nodes": 47,
     "homepage_modules": 0,
     "list_pages": 89,
-    "detail_pages": 982,
+    "detail_pages": 983,
     "low_content_detail_pages": 127,
     "attachments": 139,
     "external_links": 104,
     "edges": 309,
-    "url_outcomes": 1858
+    "url_outcomes": 1860
   },
   "outcomes": {
     "attachment_metadata_only": 90,
-    "crawled_detail_ok": 893,
+    "crawled_detail_ok": 894,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 89,
     "cross_domain_article_link_recorded": 1,
     "external_link_recorded": 78,
     "external_policy_link_recorded": 4,
     "external_system_link_recorded": 3,
-    "inline_image_recorded": 690,
+    "inline_image_recorded": 691,
     "inline_link_recorded": 9
   },
   "errors": [],
@@ -34241,6 +34241,33 @@
       "labels": [],
       "sources": [
         "https://xxb.njupt.edu.cn/2026/0609/c14443a303882/page.htm"
+      ],
+      "section_ids": [
+        "xxb_direct_detail_links"
+      ]
+    },
+    "https://xxb.njupt.edu.cn/2026/0630/c14443a305611/page.htm": {
+      "url": "https://xxb.njupt.edu.cn/2026/0630/c14443a305611/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "机关党委信息办支部：深入学习贯彻习近平党建思想"
+      ],
+      "sources": [
+        "https://xxb.njupt.edu.cn/"
+      ],
+      "section_ids": [
+        "xxb_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://xxb.njupt.edu.cn/_upload/article/images/44/19/09dce9c441fea5f7a97a091a85a3/0ebc2ac9-6531-41c3-adfb-ec5acaa6b0e1.jpg": {
+      "url": "https://xxb.njupt.edu.cn/_upload/article/images/44/19/09dce9c441fea5f7a97a091a85a3/0ebc2ac9-6531-41c3-adfb-ec5acaa6b0e1.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://xxb.njupt.edu.cn/2026/0630/c14443a305611/page.htm"
       ],
       "section_ids": [
         "xxb_direct_detail_links"

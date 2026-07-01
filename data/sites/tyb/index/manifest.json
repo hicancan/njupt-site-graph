@@ -1,27 +1,27 @@
 {
   "site_id": "tyb",
-  "generated_at": "2026-06-26T13:59:03.669310+00:00",
+  "generated_at": "2026-07-01T02:11:35.517111+00:00",
   "totals": {
     "sections": 265,
     "nav_nodes": 64,
     "homepage_modules": 0,
     "list_pages": 240,
-    "detail_pages": 2173,
+    "detail_pages": 2175,
     "low_content_detail_pages": 681,
     "attachments": 154,
     "external_links": 50,
     "edges": 689,
-    "url_outcomes": 4837
+    "url_outcomes": 4844
   },
   "outcomes": {
     "attachment_metadata_only": 187,
-    "crawled_detail_ok": 1933,
+    "crawled_detail_ok": 1935,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 240,
     "cross_domain_article_link_recorded": 10,
     "external_link_recorded": 36,
     "external_policy_link_recorded": 1,
-    "inline_image_recorded": 2253,
+    "inline_image_recorded": 2258,
     "inline_link_recorded": 176
   },
   "errors": [],
@@ -89247,6 +89247,98 @@
       "labels": [],
       "sources": [
         "https://tyb.njupt.edu.cn/2026/0623/c7257a305304/page.htm"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ]
+    },
+    "https://tyb.njupt.edu.cn/2026/0630/c7257a305605/page.htm": {
+      "url": "https://tyb.njupt.edu.cn/2026/0630/c7257a305605/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "<a href='/2026/0630/c7257a305605/page.htm' target='_blank' title='2026年南邮 “信达杯” 院系羽毛球联赛圆满落幕'>2026年南邮 “信达杯” 院系羽毛球联赛圆满落幕</a>",
+        "2026年南邮 “信达杯” 院系羽毛球联赛圆满落幕"
+      ],
+      "sources": [
+        "https://tyb.njupt.edu.cn/"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://tyb.njupt.edu.cn/2026/0630/c7257a305601/page.htm": {
+      "url": "https://tyb.njupt.edu.cn/2026/0630/c7257a305601/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "<a href='/2026/0630/c7257a305601/page.htm' target='_blank' title='我校2026年“信达杯”网球联赛圆满落幕'>我校2026年“信达杯”网球联赛圆满落幕</a>",
+        "我校2026年“信达杯”网球联赛圆满落幕"
+      ],
+      "sources": [
+        "https://tyb.njupt.edu.cn/"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://tyb.njupt.edu.cn/_upload/article/images/d2/93/b983a9954289bbecaf16b1da08d2/f5f7b602-1f7d-4cd1-ae73-05d93e707503.jpg": {
+      "url": "https://tyb.njupt.edu.cn/_upload/article/images/d2/93/b983a9954289bbecaf16b1da08d2/f5f7b602-1f7d-4cd1-ae73-05d93e707503.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://tyb.njupt.edu.cn/2026/0630/c7257a305605/page.htm"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ]
+    },
+    "https://tyb.njupt.edu.cn/_upload/article/images/d2/93/b983a9954289bbecaf16b1da08d2/c21e95a7-d915-46f6-87fc-110758af466a.jpg": {
+      "url": "https://tyb.njupt.edu.cn/_upload/article/images/d2/93/b983a9954289bbecaf16b1da08d2/c21e95a7-d915-46f6-87fc-110758af466a.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://tyb.njupt.edu.cn/2026/0630/c7257a305605/page.htm"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ]
+    },
+    "https://tyb.njupt.edu.cn/_upload/article/images/d2/93/b983a9954289bbecaf16b1da08d2/19e2d281-934f-42d5-93e4-16b73bae1994.jpg": {
+      "url": "https://tyb.njupt.edu.cn/_upload/article/images/d2/93/b983a9954289bbecaf16b1da08d2/19e2d281-934f-42d5-93e4-16b73bae1994.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://tyb.njupt.edu.cn/2026/0630/c7257a305605/page.htm"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ]
+    },
+    "https://tyb.njupt.edu.cn/_upload/article/images/fe/5a/d5d504f64ce481033478e48903f4/0d059b02-b5b1-43bb-b696-424c3e23a6c3.jpg": {
+      "url": "https://tyb.njupt.edu.cn/_upload/article/images/fe/5a/d5d504f64ce481033478e48903f4/0d059b02-b5b1-43bb-b696-424c3e23a6c3.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://tyb.njupt.edu.cn/2026/0630/c7257a305601/page.htm"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ]
+    },
+    "https://tyb.njupt.edu.cn/_upload/article/images/fe/5a/d5d504f64ce481033478e48903f4/acd903a7-b4b6-45d6-9e8f-25cc598f8c5a.jpg": {
+      "url": "https://tyb.njupt.edu.cn/_upload/article/images/fe/5a/d5d504f64ce481033478e48903f4/acd903a7-b4b6-45d6-9e8f-25cc598f8c5a.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://tyb.njupt.edu.cn/2026/0630/c7257a305601/page.htm"
       ],
       "section_ids": [
         "tyb_direct_detail_links"

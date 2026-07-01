@@ -1,29 +1,29 @@
 {
   "site_id": "www",
-  "generated_at": "2026-06-29T10:17:55.607074+00:00",
+  "generated_at": "2026-07-01T02:08:58.475559+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 132,
     "homepage_modules": 0,
     "list_pages": 7,
-    "detail_pages": 118,
+    "detail_pages": 119,
     "low_content_detail_pages": 27,
     "attachments": 22,
     "external_links": 50,
     "edges": 646,
-    "url_outcomes": 520
+    "url_outcomes": 523
   },
   "outcomes": {
     "attachment_metadata_only": 23,
-    "crawled_detail_ok": 118,
+    "crawled_detail_ok": 119,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 7,
     "cross_domain_article_link_recorded": 2,
     "external_link_recorded": 48,
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 2,
-    "homepage_link_recorded": 75,
-    "inline_image_recorded": 240,
+    "homepage_link_recorded": 76,
+    "inline_image_recorded": 241,
     "section_list_page_recorded": 3
   },
   "errors": [],
@@ -3831,7 +3831,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/53/list.htm",
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -6166,7 +6167,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/",
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -7395,6 +7397,47 @@
       "labels": [],
       "sources": [
         "https://www.njupt.edu.cn/2026/0629/c53a305553/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/2026/0630/c53a305617/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0630/c53a305617/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.06.30 郭宇锋书记讲授树立和践行正确政绩观学习教育专题党课",
+        "2026 06.30 郭宇锋书记讲授树立和践行正确政绩观学习教育专题党课 6月30日，校党委书记郭宇锋以“正风树绩守初心 笃行实干担使命 全面开创学校‘十五五’时期高质量发展新篇章”为题，为全校党员干部讲授党课。校党政领导班子成员、全体中层干部参加，派驻纪检监察组组长、纪委书记周和林主持党课。郭宇锋讲授树立和践行正确政绩观学习教育专题党课 郭宇锋指出，在中国共产党成立105周年之际，党中央明确习近平党建思想，是我们党历史上的一件大事。习近平总书记关于树立和践行正确政绩观的重要论述，是习近平党建思想的重要组成部分。要把学习贯彻习近平党建思想与树立和践行正确政绩观学习教育有机结合起来，坚持立党为公、为民造福、科学决策、真抓实干，真正创造经得起历史、实践和师生检验的实绩。 郭宇锋强调，习近平总书记关于树立和践行正确政绩观的重要论述，深刻阐明了树立和践行正确政绩观的重大意义、根本立场、价值取向、内在要求、实践路径、重要抓手、根本保障，为全党开展好学习教育指明了方向、提供了根本遵循。要提高站位、深学细悟，深刻领会树立和践行正确政绩观的重要意义；要立足发展、对标检视，清醒认识我们在树立和践行正确政绩观方面存在的差距不足；要求真务实、真抓实干，以正确政绩观引领学校"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/2026/0630/c17125a305623/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0630/c17125a305623/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "homepage_link_recorded",
+      "labels": [
+        "【新华日报】以人为本推动高质量充分就业"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/7f/f3/dc36c0c742eab7e56eb4471e28da/9919b5d7-8f36-47b3-ba5d-b4b7f81097fe.png": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/7f/f3/dc36c0c742eab7e56eb4471e28da/9919b5d7-8f36-47b3-ba5d-b4b7f81097fe.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0630/c53a305617/page.htm"
       ],
       "section_ids": [
         "www_news"
