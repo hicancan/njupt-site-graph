@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-01T09:25:57.400656+00:00",
+  "generated_at": "2026-07-01T14:02:40.443643+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -773,7 +773,21 @@
       "position": 67
     },
     {
-      "node_id": "1a60071dc5b197d922d8",
+      "node_id": "45e8be276cae90dd1992",
+      "site_id": "www",
+      "label": "2026.07.01 南邮举办“邮创未来·产智融合”人工智能（软件）产业专利转化供需对接活动",
+      "url": "https://www.njupt.edu.cn/2026/0701/c53a305667/page.htm",
+      "nav_path": [
+        "2026.07.01 南邮举办“邮创未来·产智融合”人工智能（软件）产业专利转化供需对接活动"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 68
+    },
+    {
+      "node_id": "3b82f588a13dde3e5bb3",
       "site_id": "www",
       "label": "2026.06.30 郭宇锋书记讲授树立和践行正确政绩观学习教育专题党课",
       "url": "https://www.njupt.edu.cn/2026/0630/c53a305617/page.htm",
@@ -784,10 +798,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 68
+      "position": 69
     },
     {
-      "node_id": "c2f45e33d988d99adf23",
+      "node_id": "485d6662b9b7e69286cf",
       "site_id": "www",
       "label": "2026.06.29 南邮1972级校友、国际电信联盟原秘书长赵厚麟回校与青年教师交流座谈",
       "url": "https://www.njupt.edu.cn/2026/0629/c53a305552/page.htm",
@@ -798,29 +812,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 69
+      "position": 70
     },
     {
-      "node_id": "992578232f0a28c5ef99",
+      "node_id": "10b8c0ebfce2e1345998",
       "site_id": "www",
       "label": "2026.06.25 叶美兰校长率队赴江西省教育厅、教育考试院调研交流",
       "url": "https://www.njupt.edu.cn/2026/0629/c53a305553/page.htm",
       "nav_path": [
         "2026.06.25 叶美兰校长率队赴江西省教育厅、教育考试院调研交流"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 70
-    },
-    {
-      "node_id": "acb32d6556573c1f7ba3",
-      "site_id": "www",
-      "label": "2026.06.25 蒙古邮政首席执行官Telmen Gerelt到访南邮",
-      "url": "https://www.njupt.edu.cn/2026/0625/c53a305466/page.htm",
-      "nav_path": [
-        "2026.06.25 蒙古邮政首席执行官Telmen Gerelt到访南邮"
       ],
       "depth": 1,
       "target_type": "detail_article_page",

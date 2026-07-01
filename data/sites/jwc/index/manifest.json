@@ -1,6 +1,6 @@
 {
   "site_id": "jwc",
-  "generated_at": "2026-06-29T10:17:55.178670+00:00",
+  "generated_at": "2026-07-01T14:02:42.095098+00:00",
   "totals": {
     "sections": 139,
     "nav_nodes": 119,
@@ -9,9 +9,9 @@
     "detail_pages": 6992,
     "low_content_detail_pages": 819,
     "attachments": 7914,
-    "external_links": 747,
-    "edges": 16340,
-    "url_outcomes": 19270
+    "external_links": 748,
+    "edges": 16342,
+    "url_outcomes": 19271
   },
   "outcomes": {
     "attachment_metadata_only": 7192,
@@ -21,7 +21,7 @@
     "cross_domain_article_link_recorded": 62,
     "error": 2,
     "external_link_recorded": 263,
-    "external_policy_link_recorded": 40,
+    "external_policy_link_recorded": 41,
     "external_system_link_recorded": 5,
     "inline_image_recorded": 3985,
     "inline_link_recorded": 121
@@ -3823,7 +3823,8 @@
         "南京邮电大学学生选读课程实施细则（修订） 2024-04-30"
       ],
       "sources": [
-        "https://jwc.njupt.edu.cn/1746/list.htm"
+        "https://jwc.njupt.edu.cn/1746/list.htm",
+        "https://jwc.njupt.edu.cn/1746/list2.htm"
       ],
       "section_ids": [
         "jwc_rules_root"
@@ -3999,7 +4000,8 @@
       "sources": [
         "https://jwc.njupt.edu.cn/1746/list2.htm",
         "https://jwc.njupt.edu.cn/1747/list.htm",
-        "https://jwc.njupt.edu.cn/1750/list.htm"
+        "https://jwc.njupt.edu.cn/1750/list.htm",
+        "https://jwc.njupt.edu.cn/1747/list2.htm"
       ],
       "section_ids": [
         "jwc_rules_root",
@@ -4017,7 +4019,8 @@
       "sources": [
         "https://jwc.njupt.edu.cn/1746/list2.htm",
         "https://jwc.njupt.edu.cn/1747/list2.htm",
-        "https://jwc.njupt.edu.cn/1750/list.htm"
+        "https://jwc.njupt.edu.cn/1750/list.htm",
+        "https://jwc.njupt.edu.cn/1750/list2.htm"
       ],
       "section_ids": [
         "jwc_rules_root",
@@ -4089,7 +4092,8 @@
       "sources": [
         "https://jwc.njupt.edu.cn/1746/list2.htm",
         "https://jwc.njupt.edu.cn/1747/list2.htm",
-        "https://jwc.njupt.edu.cn/1750/list2.htm"
+        "https://jwc.njupt.edu.cn/1750/list2.htm",
+        "https://jwc.njupt.edu.cn/1746/list3.htm"
       ],
       "section_ids": [
         "jwc_rules_root",
@@ -4870,7 +4874,8 @@
       "sources": [
         "https://jwc.njupt.edu.cn/1746/list5.htm",
         "https://jwc.njupt.edu.cn/1747/list2.htm",
-        "https://jwc.njupt.edu.cn/1750/list2.htm"
+        "https://jwc.njupt.edu.cn/1750/list2.htm",
+        "https://jwc.njupt.edu.cn/1747/list3.htm"
       ],
       "section_ids": [
         "jwc_rules_root",
@@ -250946,7 +250951,8 @@
         "政策文件",
         "教育部财政部关于实施高等学校本科教学质量与教学改革工程的意见 2013-01-20",
         "关于进一步加强高等学校本科教学工作的若干意见 2013-01-20",
-        "关于加强高等学校本科教学工作，提高教学质量的若干意见 2013-01-20"
+        "关于加强高等学校本科教学工作，提高教学质量的若干意见 2013-01-20",
+        "关于进一步深化本科教学改革全面提高教学质量的若干意见 2013-01-20"
       ],
       "sources": [
         "https://jwc.njupt.edu.cn/1750/list.htm",
@@ -273251,6 +273257,24 @@
       ],
       "section_ids": [
         "jwc_homepage_jw_news_module"
+      ]
+    },
+    "https://www.gov.cn/zhengce/content/202606/content_7073640.htm": {
+      "url": "https://www.gov.cn/zhengce/content/202606/content_7073640.htm",
+      "target_type": "external_link",
+      "outcome": "external_policy_link_recorded",
+      "labels": [
+        "国务院关于印发《教育发展“十五五”规划》的通知 2026-07-01"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/1746/list.htm",
+        "https://jwc.njupt.edu.cn/1747/list.htm",
+        "https://jwc.njupt.edu.cn/1750/list.htm"
+      ],
+      "section_ids": [
+        "jwc_rules_root",
+        "jwc_home_link_30af99bdf0f0",
+        "jwc_home_link_bfe7a9cd8b54"
       ]
     }
   }
