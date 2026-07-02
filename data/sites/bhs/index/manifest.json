@@ -1,21 +1,21 @@
 {
   "site_id": "bhs",
-  "generated_at": "2026-06-25T02:07:39.127144+00:00",
+  "generated_at": "2026-07-02T02:06:05.349214+00:00",
   "totals": {
     "sections": 224,
     "nav_nodes": 37,
     "homepage_modules": 0,
     "list_pages": 191,
-    "detail_pages": 1333,
+    "detail_pages": 1334,
     "low_content_detail_pages": 382,
     "attachments": 32,
     "external_links": 172,
     "edges": 367,
-    "url_outcomes": 3502
+    "url_outcomes": 3504
   },
   "outcomes": {
     "attachment_metadata_only": 26,
-    "crawled_detail_ok": 1142,
+    "crawled_detail_ok": 1143,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 191,
     "cross_domain_article_link_recorded": 34,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 1,
     "homepage_link_recorded": 1,
-    "inline_image_recorded": 1945,
+    "inline_image_recorded": 1946,
     "inline_link_recorded": 38
   },
   "errors": [],
@@ -64478,6 +64478,34 @@
         "bhs_inline_section_12057cddbd15"
       ],
       "status_code": 200
+    },
+    "https://bhs.njupt.edu.cn/2026/0702/c4807a305673/page.htm": {
+      "url": "https://bhs.njupt.edu.cn/2026/0702/c4807a305673/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "<a href='/2026/0702/c4807a305673/page.htm' target='_blank' title='贝尔英才学院召开督导讲习营交流研讨会'>贝尔英才学院召开督导讲习营交流研讨会</a>",
+        "贝尔英才学院召开督导讲习营交流研讨会"
+      ],
+      "sources": [
+        "https://bhs.njupt.edu.cn/"
+      ],
+      "section_ids": [
+        "bhs_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://bhs.njupt.edu.cn/_upload/article/images/a4/d6/55f07aed4f14a8821bd67c02c5e5/f7495d6f-f7be-4ef7-946e-d648c7008aa9.jpg": {
+      "url": "https://bhs.njupt.edu.cn/_upload/article/images/a4/d6/55f07aed4f14a8821bd67c02c5e5/f7495d6f-f7be-4ef7-946e-d648c7008aa9.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://bhs.njupt.edu.cn/2026/0702/c4807a305673/page.htm"
+      ],
+      "section_ids": [
+        "bhs_direct_detail_links"
+      ]
     }
   }
 }

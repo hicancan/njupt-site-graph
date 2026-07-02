@@ -1,20 +1,20 @@
 {
   "site_id": "scie",
-  "generated_at": "2026-07-01T02:13:27.395808+00:00",
+  "generated_at": "2026-07-02T02:05:46.422604+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 57,
     "homepage_modules": 2,
     "list_pages": 40,
-    "detail_pages": 540,
+    "detail_pages": 542,
     "low_content_detail_pages": 2,
     "attachments": 0,
     "external_links": 8,
     "edges": 654,
-    "url_outcomes": 1978
+    "url_outcomes": 1980
   },
   "outcomes": {
-    "crawled_detail_ok": 539,
+    "crawled_detail_ok": 541,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 40,
     "cross_domain_article_link_recorded": 1,
@@ -1733,10 +1733,12 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://scie.njupt.edu.cn/2026/0514/c2889a301913/page.htm"
+        "https://scie.njupt.edu.cn/2026/0514/c2889a301913/page.htm",
+        "https://scie.njupt.edu.cn/2026/0514/c12648a301913/page.htm"
       ],
       "section_ids": [
-        "scie_news"
+        "scie_news",
+        "scie_teaching"
       ]
     },
     "https://scie.njupt.edu.cn/_upload/article/images/98/60/ce7a738a48ce86cd1c02e41baeb8/3a7ff055-d7fa-402b-93c9-45b7aa2d748d.png": {
@@ -1745,10 +1747,12 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://scie.njupt.edu.cn/2026/0514/c2889a301913/page.htm"
+        "https://scie.njupt.edu.cn/2026/0514/c2889a301913/page.htm",
+        "https://scie.njupt.edu.cn/2026/0514/c12648a301913/page.htm"
       ],
       "section_ids": [
-        "scie_news"
+        "scie_news",
+        "scie_teaching"
       ]
     },
     "https://scie.njupt.edu.cn/2026/0423/c2889a300689/page.htm": {
@@ -1773,10 +1777,12 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://scie.njupt.edu.cn/2026/0423/c2889a300689/page.htm"
+        "https://scie.njupt.edu.cn/2026/0423/c2889a300689/page.htm",
+        "https://scie.njupt.edu.cn/2026/0423/c12648a300689/page.htm"
       ],
       "section_ids": [
-        "scie_news"
+        "scie_news",
+        "scie_teaching"
       ]
     },
     "https://scie.njupt.edu.cn/_upload/article/images/e8/ae/474c543e4703a70bca7a9bfc78c8/ee520bc9-0ec7-445f-89e1-0f435b70443a.png": {
@@ -1785,10 +1791,12 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://scie.njupt.edu.cn/2026/0423/c2889a300689/page.htm"
+        "https://scie.njupt.edu.cn/2026/0423/c2889a300689/page.htm",
+        "https://scie.njupt.edu.cn/2026/0423/c12648a300689/page.htm"
       ],
       "section_ids": [
-        "scie_news"
+        "scie_news",
+        "scie_teaching"
       ]
     },
     "https://scie.njupt.edu.cn/2026/0422/c2889a300536/page.htm": {
@@ -22695,7 +22703,8 @@
         "通信与信息工程学院周亮教授荣获德国洪堡研究奖"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/jxky/list.htm"
+        "https://scie.njupt.edu.cn/jxky/list.htm",
+        "https://scie.njupt.edu.cn/jxky/list2.htm"
       ],
       "section_ids": [
         "scie_teaching"
@@ -22710,7 +22719,8 @@
         "通信与信息工程学院邹玉龙教授当选2026年度IEEE Fellow"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/jxky/list.htm"
+        "https://scie.njupt.edu.cn/jxky/list.htm",
+        "https://scie.njupt.edu.cn/jxky/list2.htm"
       ],
       "section_ids": [
         "scie_teaching"
@@ -23017,7 +23027,8 @@
         "我院教师参加第一届电子信息本科人才培养大会"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/jxky/list2.htm"
+        "https://scie.njupt.edu.cn/jxky/list2.htm",
+        "https://scie.njupt.edu.cn/jxky/list3.htm"
       ],
       "section_ids": [
         "scie_teaching"
@@ -23032,7 +23043,8 @@
         "我校举行信息与通信工程国家级实验教学示范中心、通信与信息网络国家级虚拟仿真实验教学中心教指委2024年度工作会议"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/jxky/list2.htm"
+        "https://scie.njupt.edu.cn/jxky/list2.htm",
+        "https://scie.njupt.edu.cn/jxky/list3.htm"
       ],
       "section_ids": [
         "scie_teaching"
@@ -25795,6 +25807,40 @@
       "section_ids": [
         "scie_teaching"
       ]
+    },
+    "https://scie.njupt.edu.cn/2026/0514/c12648a301913/page.htm": {
+      "url": "https://scie.njupt.edu.cn/2026/0514/c12648a301913/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026-04-23 喜报│通信学院研究生获校 “十大学术之星” 荣誉称号",
+        "喜报│通信学院研究生获校 “十大学术之星” 荣誉称号"
+      ],
+      "sources": [
+        "https://scie.njupt.edu.cn/",
+        "https://scie.njupt.edu.cn/jxky/list.htm"
+      ],
+      "section_ids": [
+        "scie_teaching"
+      ],
+      "status_code": 200
+    },
+    "https://scie.njupt.edu.cn/2026/0423/c12648a300689/page.htm": {
+      "url": "https://scie.njupt.edu.cn/2026/0423/c12648a300689/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026-04-23 通信与信息工程学院获得3项2025年度中国电子学会科学技术奖",
+        "通信与信息工程学院获得3项2025年度中国电子学会科学技术奖"
+      ],
+      "sources": [
+        "https://scie.njupt.edu.cn/",
+        "https://scie.njupt.edu.cn/jxky/list.htm"
+      ],
+      "section_ids": [
+        "scie_teaching"
+      ],
+      "status_code": 200
     }
   }
 }
