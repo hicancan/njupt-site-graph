@@ -1,22 +1,24 @@
 {
   "version": "sitegraph-coverage-v1",
   "site_id": "xxgk",
-  "generated_at": "2026-07-02T10:24:42.716187+00:00",
-  "crawl_mode": "full",
+  "generated_at": "2026-07-02T19:09:41.163947+00:00",
+  "crawl_mode": "incremental",
+  "evidence_source": "full_crawl",
   "coverage_status": "complete",
   "incomplete_reasons": [],
   "audit_evidence_ref": "../reports/audit_evidence.md",
+  "audit_evidence_json_ref": "../reports/audit_evidence.json",
   "sections": {
-    "total": 8,
+    "total": 9,
     "by_source": {
       "archive_section": 1,
       "declared_section": 1,
       "homepage_module": 2,
-      "homepage_nav": 4
+      "homepage_nav": 5
     },
     "by_type": {
       "direct_detail_links": 1,
-      "homepage_link_section": 4,
+      "homepage_link_section": 5,
       "homepage_module": 2,
       "list": 1
     }
@@ -123,7 +125,5 @@
     "exclusions": []
   },
   "errors": [],
-  "output_root": "D:\\code\\github\\hicancan\\njupt-site-graph\\data\\sites\\xxgk\\index",
-  "evidence_source": "full_crawl",
-  "audit_evidence_json_ref": "../reports/audit_evidence.json"
+  "output_root": "data/sites/xxgk/index"
 }

@@ -1,11 +1,13 @@
 {
   "version": "sitegraph-coverage-v1",
   "site_id": "gzzd",
-  "generated_at": "2026-07-02T10:24:42.708088+00:00",
-  "crawl_mode": "full",
+  "generated_at": "2026-07-02T19:09:02.256785+00:00",
+  "crawl_mode": "incremental",
+  "evidence_source": "full_crawl",
   "coverage_status": "complete",
   "incomplete_reasons": [],
   "audit_evidence_ref": "../reports/audit_evidence.md",
+  "audit_evidence_json_ref": "../reports/audit_evidence.json",
   "sections": {
     "total": 13,
     "by_source": {
@@ -185,7 +187,5 @@
     "exclusions": []
   },
   "errors": [],
-  "output_root": "D:\\code\\github\\hicancan\\njupt-site-graph\\data\\sites\\gzzd\\index",
-  "evidence_source": "full_crawl",
-  "audit_evidence_json_ref": "../reports/audit_evidence.json"
+  "output_root": "data/sites/gzzd/index"
 }

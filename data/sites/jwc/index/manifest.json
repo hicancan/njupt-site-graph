@@ -1,21 +1,21 @@
 {
   "site_id": "jwc",
-  "generated_at": "2026-07-02T08:38:52.906364+00:00",
+  "generated_at": "2026-07-02T19:05:57.170389+00:00",
   "totals": {
     "sections": 139,
     "nav_nodes": 119,
     "homepage_modules": 8,
     "list_pages": 661,
-    "detail_pages": 6993,
-    "low_content_detail_pages": 820,
+    "detail_pages": 6995,
+    "low_content_detail_pages": 822,
     "attachments": 7914,
     "external_links": 748,
-    "edges": 16342,
-    "url_outcomes": 19272
+    "edges": 16346,
+    "url_outcomes": 19274
   },
   "outcomes": {
     "attachment_metadata_only": 7192,
-    "crawled_detail_ok": 6939,
+    "crawled_detail_ok": 6941,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 661,
     "cross_domain_article_link_recorded": 62,
@@ -33,12 +33,12 @@
     "attachment_policy": "metadata_only",
     "external_link_policy": "record_only",
     "coverage_status": "complete",
+    "evidence_source": "full_crawl",
     "audit_evidence_ref": "../reports/audit_evidence.md",
+    "audit_evidence_json_ref": "../reports/audit_evidence.json",
     "pagination_terminal_verified": true,
     "unknown_url_count": 0,
-    "excluded_url_count": 0,
-    "evidence_source": "full_crawl",
-    "audit_evidence_json_ref": "../reports/audit_evidence.json"
+    "excluded_url_count": 0
   },
   "url_outcomes": {
     "https://jwc.njupt.edu.cn/": {
@@ -273300,6 +273300,46 @@
         "jwc_homepage_notice_module"
       ],
       "status_code": 200
+    },
+    "https://jwc.njupt.edu.cn/2026/0702/c1594a305845/page.htm": {
+      "url": "https://jwc.njupt.edu.cn/2026/0702/c1594a305845/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "【教务管理办公室】关于拟同意顾峣同学转学的公示 07-02",
+        "【教务管理办公室】关于拟同意顾峣同学转学的公示 2026-07-02",
+        "首页",
+        "关闭此页"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/",
+        "https://jwc.njupt.edu.cn/1594/list.htm",
+        "https://jwc.njupt.edu.cn/2026/0702/c1594a305845/page.htm"
+      ],
+      "section_ids": [
+        "jwc_homepage_notice_module"
+      ],
+      "status_code": 200
+    },
+    "https://jwc.njupt.edu.cn/2026/0702/c1594a305849/page.htm": {
+      "url": "https://jwc.njupt.edu.cn/2026/0702/c1594a305849/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "【教务管理办公室】关于2025-2026学年第二学期全日制本科生转专业学生名单的公示 07-02",
+        "【教务管理办公室】关于2025-2026学年第二学期全日制本科生转专业学生名单的公示 2026-07-02",
+        "首页",
+        "关闭此页"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/",
+        "https://jwc.njupt.edu.cn/1594/list.htm",
+        "https://jwc.njupt.edu.cn/2026/0702/c1594a305849/page.htm"
+      ],
+      "section_ids": [
+        "jwc_homepage_notice_module"
+      ],
+      "status_code": 200
     }
   },
   "coverage": {
@@ -274827,10 +274867,10 @@
     "exclusions": []
   },
   "coverage_status": "complete",
+  "evidence_source": "full_crawl",
   "audit_evidence_ref": "../reports/audit_evidence.md",
+  "audit_evidence_json_ref": "../reports/audit_evidence.json",
   "pagination_terminal_verified": true,
   "unknown_url_count": 0,
-  "excluded_url_count": 0,
-  "evidence_source": "full_crawl",
-  "audit_evidence_json_ref": "../reports/audit_evidence.json"
+  "excluded_url_count": 0
 }

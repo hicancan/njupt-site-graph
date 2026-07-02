@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-02T10:25:24.498912+00:00",
+  "generated_at": "2026-07-02T19:05:56.173110+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 133,
@@ -10,7 +10,7 @@
     "low_content_detail_pages": 94,
     "attachments": 420,
     "external_links": 139,
-    "edges": 11550,
+    "edges": 11552,
     "url_outcomes": 7808
   },
   "outcomes": {
@@ -35,12 +35,12 @@
     "attachment_policy": "metadata_only",
     "external_link_policy": "record_only",
     "coverage_status": "complete_with_exclusions",
+    "evidence_source": "full_crawl",
     "audit_evidence_ref": "../reports/audit_evidence.md",
+    "audit_evidence_json_ref": "../reports/audit_evidence.json",
     "pagination_terminal_verified": true,
     "unknown_url_count": 0,
-    "excluded_url_count": 2,
-    "evidence_source": "full_crawl",
-    "audit_evidence_json_ref": "../reports/audit_evidence.json"
+    "excluded_url_count": 2
   },
   "url_outcomes": {
     "https://www.njupt.edu.cn/": {
@@ -3333,10 +3333,13 @@
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "2025 09.24 关于公布学校第四届大学生网络文化节和网络教育优秀作品推选展示..."
+        "2025 09.24 关于公布学校第四届大学生网络文化节和网络教育优秀作品推选展示...",
+        "首页",
+        "关闭此页"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/72/list2.htm"
+        "https://www.njupt.edu.cn/72/list2.htm",
+        "https://www.njupt.edu.cn/2025/0925/c72a289417/page.htm"
       ],
       "section_ids": [
         "www_notice"
@@ -23277,7 +23280,8 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://www.njupt.edu.cn/_s14/_t42/1b/51/c612a6993/page.psp"
+        "https://www.njupt.edu.cn/_s14/_t42/1b/51/c612a6993/page.psp",
+        "https://www.njupt.edu.cn/2025/0925/c72a289417/page.htm"
       ],
       "section_ids": [
         "www_notice"
@@ -103761,10 +103765,10 @@
     "exclusions": []
   },
   "coverage_status": "complete_with_exclusions",
+  "evidence_source": "full_crawl",
   "audit_evidence_ref": "../reports/audit_evidence.md",
+  "audit_evidence_json_ref": "../reports/audit_evidence.json",
   "pagination_terminal_verified": true,
   "unknown_url_count": 0,
-  "excluded_url_count": 2,
-  "evidence_source": "full_crawl",
-  "audit_evidence_json_ref": "../reports/audit_evidence.json"
+  "excluded_url_count": 2
 }

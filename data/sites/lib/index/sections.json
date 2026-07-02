@@ -840,5 +840,85 @@
       "type": "none"
     },
     "source": "archive_section"
+  },
+  {
+    "section_id": "lib_home_link_844f7eb3fbbc",
+    "site_id": "lib",
+    "name": "组织机构",
+    "url": "https://lib.njupt.edu.cn/1380/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "组织机构"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_nav"
+  },
+  {
+    "section_id": "lib_home_link_7bbb7874a94a",
+    "site_id": "lib",
+    "name": "查找学位论文",
+    "url": "https://lib.njupt.edu.cn/1393/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "查找学位论文"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_nav"
+  },
+  {
+    "section_id": "lib_home_link_428a45f06ccd",
+    "site_id": "lib",
+    "name": "图书推荐",
+    "url": "https://lib.njupt.edu.cn/1398/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "图书推荐"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_nav"
+  },
+  {
+    "section_id": "lib_home_link_540da97a0bd4",
+    "site_id": "lib",
+    "name": "读者入馆向导",
+    "url": "https://lib.njupt.edu.cn/1400/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "读者入馆向导"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_nav"
   }
 ]

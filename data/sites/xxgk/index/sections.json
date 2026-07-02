@@ -162,5 +162,25 @@
       "type": "none"
     },
     "source": "archive_section"
+  },
+  {
+    "section_id": "xxgk_home_link_34a5d266324a",
+    "site_id": "xxgk",
+    "name": "10. 其他",
+    "url": "https://xxgk.njupt.edu.cn/xxgkml/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "10. 其他"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_nav"
   }
 ]

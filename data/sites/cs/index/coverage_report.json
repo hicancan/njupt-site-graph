@@ -1,11 +1,13 @@
 {
   "version": "sitegraph-coverage-v1",
   "site_id": "cs",
-  "generated_at": "2026-07-02T10:24:42.732706+00:00",
-  "crawl_mode": "full",
+  "generated_at": "2026-07-02T19:09:48.696286+00:00",
+  "crawl_mode": "incremental",
+  "evidence_source": "full_crawl",
   "coverage_status": "complete",
   "incomplete_reasons": [],
   "audit_evidence_ref": "../reports/audit_evidence.md",
+  "audit_evidence_json_ref": "../reports/audit_evidence.json",
   "sections": {
     "total": 4,
     "by_source": {
@@ -85,7 +87,5 @@
     "exclusions": []
   },
   "errors": [],
-  "output_root": "D:\\code\\github\\hicancan\\njupt-site-graph\\data\\sites\\cs\\index",
-  "evidence_source": "full_crawl",
-  "audit_evidence_json_ref": "../reports/audit_evidence.json"
+  "output_root": "data/sites/cs/index"
 }

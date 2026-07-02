@@ -1,8 +1,8 @@
 {
   "site_id": "lib",
-  "generated_at": "2026-06-29T10:17:53.008314+00:00",
+  "generated_at": "2026-07-02T19:05:59.917621+00:00",
   "totals": {
-    "sections": 42,
+    "sections": 46,
     "nav_nodes": 31,
     "homepage_modules": 0,
     "list_pages": 117,
@@ -32,12 +32,12 @@
     "attachment_policy": "metadata_only",
     "external_link_policy": "record_only",
     "coverage_status": "complete",
+    "evidence_source": "full_crawl",
     "audit_evidence_ref": "../reports/audit_evidence.md",
+    "audit_evidence_json_ref": "../reports/audit_evidence.json",
     "pagination_terminal_verified": true,
     "unknown_url_count": 0,
-    "excluded_url_count": 0,
-    "evidence_source": "full_crawl",
-    "audit_evidence_json_ref": "../reports/audit_evidence.json"
+    "excluded_url_count": 0
   },
   "url_outcomes": {
     "https://lib.njupt.edu.cn/": {
@@ -79,7 +79,8 @@
       ],
       "section_ids": [
         "lib_home_link_c45dc9e3c7b3",
-        "lib_home_link_823030519d75"
+        "lib_home_link_823030519d75",
+        "lib_home_link_428a45f06ccd"
       ]
     },
     "https://lib.njupt.edu.cn/2025/0424/c18333a282290/page.htm": {
@@ -142,7 +143,8 @@
         "https://lib.njupt.edu.cn/1380/list.htm"
       ],
       "section_ids": [
-        "lib_home_link_8b5386d6765e"
+        "lib_home_link_8b5386d6765e",
+        "lib_home_link_844f7eb3fbbc"
       ],
       "status_code": 200
     },
@@ -293,7 +295,8 @@
       ],
       "section_ids": [
         "lib_home_link_72c4e9d47fb3",
-        "lib_home_link_59c42f0d87dc"
+        "lib_home_link_59c42f0d87dc",
+        "lib_home_link_540da97a0bd4"
       ],
       "status_code": 200
     },
@@ -406,7 +409,8 @@
         "https://lib.njupt.edu.cn/1393/list.htm"
       ],
       "section_ids": [
-        "lib_home_link_cb0c7f1a4cdd"
+        "lib_home_link_cb0c7f1a4cdd",
+        "lib_home_link_7bbb7874a94a"
       ],
       "status_code": 200
     },
@@ -451,7 +455,8 @@
         "https://lib.njupt.edu.cn/1398/list.htm"
       ],
       "section_ids": [
-        "lib_home_link_823030519d75"
+        "lib_home_link_823030519d75",
+        "lib_home_link_428a45f06ccd"
       ],
       "status_code": 200
     },
@@ -484,7 +489,8 @@
         "https://lib.njupt.edu.cn/1400/list.htm"
       ],
       "section_ids": [
-        "lib_home_link_59c42f0d87dc"
+        "lib_home_link_59c42f0d87dc",
+        "lib_home_link_540da97a0bd4"
       ],
       "status_code": 200
     },
@@ -15497,7 +15503,8 @@
       ],
       "section_ids": [
         "lib_home_link_cb0c7f1a4cdd",
-        "lib_direct_detail_links"
+        "lib_direct_detail_links",
+        "lib_home_link_7bbb7874a94a"
       ]
     },
     "https://lib.njupt.edu.cn/2011/0329/c1379a20660/page.htm": {
@@ -15512,7 +15519,8 @@
       ],
       "section_ids": [
         "lib_home_link_59c42f0d87dc",
-        "lib_direct_detail_links"
+        "lib_direct_detail_links",
+        "lib_home_link_540da97a0bd4"
       ],
       "status_code": 200
     },
@@ -15528,7 +15536,8 @@
       ],
       "section_ids": [
         "lib_home_link_59c42f0d87dc",
-        "lib_direct_detail_links"
+        "lib_direct_detail_links",
+        "lib_home_link_540da97a0bd4"
       ],
       "status_code": 200
     },
@@ -15544,7 +15553,8 @@
       ],
       "section_ids": [
         "lib_home_link_59c42f0d87dc",
-        "lib_direct_detail_links"
+        "lib_direct_detail_links",
+        "lib_home_link_540da97a0bd4"
       ],
       "status_code": 200
     },
@@ -15560,7 +15570,8 @@
       ],
       "section_ids": [
         "lib_home_link_59c42f0d87dc",
-        "lib_direct_detail_links"
+        "lib_direct_detail_links",
+        "lib_home_link_540da97a0bd4"
       ],
       "status_code": 200
     },
@@ -15579,7 +15590,8 @@
       ],
       "section_ids": [
         "lib_home_link_59c42f0d87dc",
-        "lib_direct_detail_links"
+        "lib_direct_detail_links",
+        "lib_home_link_540da97a0bd4"
       ],
       "status_code": 200
     },
@@ -15595,7 +15607,8 @@
       ],
       "section_ids": [
         "lib_home_link_59c42f0d87dc",
-        "lib_direct_detail_links"
+        "lib_direct_detail_links",
+        "lib_home_link_540da97a0bd4"
       ],
       "status_code": 200
     },
@@ -15611,7 +15624,8 @@
       ],
       "section_ids": [
         "lib_home_link_59c42f0d87dc",
-        "lib_direct_detail_links"
+        "lib_direct_detail_links",
+        "lib_home_link_540da97a0bd4"
       ],
       "status_code": 200
     },
@@ -15627,7 +15641,8 @@
       ],
       "section_ids": [
         "lib_home_link_59c42f0d87dc",
-        "lib_direct_detail_links"
+        "lib_direct_detail_links",
+        "lib_home_link_540da97a0bd4"
       ],
       "status_code": 200
     },
@@ -15643,7 +15658,8 @@
       ],
       "section_ids": [
         "lib_home_link_59c42f0d87dc",
-        "lib_direct_detail_links"
+        "lib_direct_detail_links",
+        "lib_home_link_540da97a0bd4"
       ],
       "status_code": 200
     },
@@ -15659,7 +15675,8 @@
       ],
       "section_ids": [
         "lib_home_link_59c42f0d87dc",
-        "lib_direct_detail_links"
+        "lib_direct_detail_links",
+        "lib_home_link_540da97a0bd4"
       ],
       "status_code": 200
     },
@@ -15674,7 +15691,8 @@
         "https://lib.njupt.edu.cn/1400/list.htm"
       ],
       "section_ids": [
-        "lib_home_link_59c42f0d87dc"
+        "lib_home_link_59c42f0d87dc",
+        "lib_home_link_540da97a0bd4"
       ]
     },
     "http://10.20.235.44/ClientWeb/xcus/ic2/Default.aspx": {
@@ -53666,10 +53684,10 @@
     "exclusions": []
   },
   "coverage_status": "complete",
+  "evidence_source": "full_crawl",
   "audit_evidence_ref": "../reports/audit_evidence.md",
+  "audit_evidence_json_ref": "../reports/audit_evidence.json",
   "pagination_terminal_verified": true,
   "unknown_url_count": 0,
-  "excluded_url_count": 0,
-  "evidence_source": "full_crawl",
-  "audit_evidence_json_ref": "../reports/audit_evidence.json"
+  "excluded_url_count": 0
 }

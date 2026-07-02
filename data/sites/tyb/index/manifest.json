@@ -1,8 +1,8 @@
 {
   "site_id": "tyb",
-  "generated_at": "2026-07-01T09:28:14.856784+00:00",
+  "generated_at": "2026-07-02T19:08:06.455062+00:00",
   "totals": {
-    "sections": 265,
+    "sections": 266,
     "nav_nodes": 64,
     "homepage_modules": 0,
     "list_pages": 240,
@@ -31,12 +31,12 @@
     "attachment_policy": "metadata_only",
     "external_link_policy": "record_only",
     "coverage_status": "complete",
+    "evidence_source": "full_crawl",
     "audit_evidence_ref": "../reports/audit_evidence.md",
+    "audit_evidence_json_ref": "../reports/audit_evidence.json",
     "pagination_terminal_verified": true,
     "unknown_url_count": 0,
-    "excluded_url_count": 0,
-    "evidence_source": "full_crawl",
-    "audit_evidence_json_ref": "../reports/audit_evidence.json"
+    "excluded_url_count": 0
   },
   "url_outcomes": {
     "https://tyb.njupt.edu.cn/": {
@@ -3433,7 +3433,8 @@
         "tyb_home_link_633485fdc908",
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -3457,7 +3458,8 @@
         "tyb_home_link_633485fdc908",
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -3481,7 +3483,8 @@
         "tyb_home_link_633485fdc908",
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -3505,7 +3508,8 @@
         "tyb_home_link_633485fdc908",
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -3529,7 +3533,8 @@
         "tyb_home_link_633485fdc908",
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -3553,7 +3558,8 @@
         "tyb_home_link_633485fdc908",
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26012,7 +26018,8 @@
         "tyb_home_link_633485fdc908",
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26034,7 +26041,8 @@
         "tyb_home_link_633485fdc908",
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26056,7 +26064,8 @@
         "tyb_home_link_633485fdc908",
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26078,7 +26087,8 @@
         "tyb_home_link_633485fdc908",
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26100,7 +26110,8 @@
         "tyb_home_link_633485fdc908",
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26122,7 +26133,8 @@
         "tyb_home_link_633485fdc908",
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26144,7 +26156,8 @@
         "tyb_home_link_633485fdc908",
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26166,7 +26179,8 @@
         "tyb_home_link_633485fdc908",
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26251,7 +26265,8 @@
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_1f7df141fa01",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26273,7 +26288,8 @@
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_1f7df141fa01",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26295,7 +26311,8 @@
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_1f7df141fa01",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26317,7 +26334,8 @@
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_1f7df141fa01",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26339,7 +26357,8 @@
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_1f7df141fa01",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26361,7 +26380,8 @@
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_1f7df141fa01",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26383,7 +26403,8 @@
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_1f7df141fa01",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26405,7 +26426,8 @@
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_1f7df141fa01",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26427,7 +26449,8 @@
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_1f7df141fa01",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26449,7 +26472,8 @@
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_1f7df141fa01",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26471,7 +26495,8 @@
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_1f7df141fa01",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26493,7 +26518,8 @@
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_1f7df141fa01",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26515,7 +26541,8 @@
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_1f7df141fa01",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -26537,7 +26564,8 @@
         "tyb_inline_section_d34802f1879e",
         "tyb_inline_section_1f7df141fa01",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_direct_detail_links"
+        "tyb_direct_detail_links",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -29242,7 +29270,8 @@
         "下一页>>",
         "赛事战况",
         "<<上一页",
-        "第一页"
+        "第一页",
+        "更多 +"
       ],
       "sources": [
         "https://tyb.njupt.edu.cn/ssxw/list.htm",
@@ -29254,7 +29283,8 @@
         "tyb_home_link_633485fdc908",
         "tyb_inline_section_1f7df141fa01",
         "tyb_inline_section_f2e868c272e4",
-        "tyb_inline_section_94ba7c12a2a8"
+        "tyb_inline_section_94ba7c12a2a8",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -29293,7 +29323,8 @@
         "tyb_inline_section_a884d2aae3e7",
         "tyb_inline_section_d70525cefbbf",
         "tyb_inline_section_b93815652192",
-        "tyb_inline_section_be881ded2416"
+        "tyb_inline_section_be881ded2416",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -29328,7 +29359,8 @@
         "tyb_inline_section_a884d2aae3e7",
         "tyb_inline_section_d70525cefbbf",
         "tyb_inline_section_b93815652192",
-        "tyb_inline_section_be881ded2416"
+        "tyb_inline_section_be881ded2416",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -29354,7 +29386,8 @@
         "tyb_inline_section_1f7df141fa01",
         "tyb_inline_section_f2e868c272e4",
         "tyb_inline_section_94ba7c12a2a8",
-        "tyb_inline_section_b09aaa33f0c5"
+        "tyb_inline_section_b09aaa33f0c5",
+        "tyb_home_link_fec17ea7fc3c"
       ],
       "status_code": 200
     },
@@ -91621,10 +91654,10 @@
     "exclusions": []
   },
   "coverage_status": "complete",
+  "evidence_source": "full_crawl",
   "audit_evidence_ref": "../reports/audit_evidence.md",
+  "audit_evidence_json_ref": "../reports/audit_evidence.json",
   "pagination_terminal_verified": true,
   "unknown_url_count": 0,
-  "excluded_url_count": 0,
-  "evidence_source": "full_crawl",
-  "audit_evidence_json_ref": "../reports/audit_evidence.json"
+  "excluded_url_count": 0
 }

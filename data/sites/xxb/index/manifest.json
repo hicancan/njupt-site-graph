@@ -1,8 +1,8 @@
 {
   "site_id": "xxb",
-  "generated_at": "2026-07-01T09:25:56.060582+00:00",
+  "generated_at": "2026-07-02T19:05:57.650885+00:00",
   "totals": {
-    "sections": 95,
+    "sections": 96,
     "nav_nodes": 47,
     "homepage_modules": 0,
     "list_pages": 89,
@@ -32,12 +32,12 @@
     "attachment_policy": "metadata_only",
     "external_link_policy": "record_only",
     "coverage_status": "complete",
+    "evidence_source": "full_crawl",
     "audit_evidence_ref": "../reports/audit_evidence.md",
+    "audit_evidence_json_ref": "../reports/audit_evidence.json",
     "pagination_terminal_verified": true,
     "unknown_url_count": 0,
-    "excluded_url_count": 0,
-    "evidence_source": "full_crawl",
-    "audit_evidence_json_ref": "../reports/audit_evidence.json"
+    "excluded_url_count": 0
   },
   "url_outcomes": {
     "https://xxb.njupt.edu.cn/": {
@@ -2517,7 +2517,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -2536,7 +2537,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -2555,7 +2557,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -2574,7 +2577,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -2593,7 +2597,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -2612,7 +2617,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3560,7 +3566,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3578,7 +3585,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3596,7 +3604,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3614,7 +3623,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3632,7 +3642,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3650,7 +3661,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3668,7 +3680,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3686,7 +3699,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3704,7 +3718,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3722,7 +3737,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3740,7 +3756,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3758,7 +3775,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3776,7 +3794,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3794,7 +3813,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3812,7 +3832,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3830,7 +3851,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3848,7 +3870,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3866,7 +3889,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3884,7 +3908,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3902,7 +3927,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3920,7 +3946,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3938,7 +3965,8 @@
       "section_ids": [
         "xxb_home_link_096433140f11",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3950,7 +3978,8 @@
         "下一页>>",
         "党员学习",
         "<<上一页",
-        "第一页"
+        "第一页",
+        "显示更多"
       ],
       "sources": [
         "https://xxb.njupt.edu.cn/dyxx/list.htm",
@@ -3962,7 +3991,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_inline_section_f9a3f8580208"
+        "xxb_inline_section_f9a3f8580208",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -3992,7 +4022,8 @@
         "xxb_inline_section_1b6a356e4e19",
         "xxb_inline_section_d3fea81da921",
         "xxb_inline_section_f9a3f8580208",
-        "xxb_inline_section_fe565cd4945c"
+        "xxb_inline_section_fe565cd4945c",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4010,7 +4041,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4028,7 +4060,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4046,7 +4079,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4064,7 +4098,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4082,7 +4117,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4100,7 +4136,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4118,7 +4155,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4136,7 +4174,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4154,7 +4193,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4172,7 +4212,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4190,7 +4231,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4208,7 +4250,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4226,7 +4269,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4244,7 +4288,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4262,7 +4307,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4280,7 +4326,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4298,7 +4345,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4316,7 +4364,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4334,7 +4383,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4352,7 +4402,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4370,7 +4421,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4388,7 +4440,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4406,7 +4459,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4424,7 +4478,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4442,7 +4497,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4460,7 +4516,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4478,7 +4535,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4496,7 +4554,8 @@
         "xxb_home_link_096433140f11",
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
-        "xxb_direct_detail_links"
+        "xxb_direct_detail_links",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4522,7 +4581,8 @@
         "xxb_inline_section_1b6a356e4e19",
         "xxb_inline_section_d3fea81da921",
         "xxb_inline_section_f9a3f8580208",
-        "xxb_inline_section_fe565cd4945c"
+        "xxb_inline_section_fe565cd4945c",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -4548,7 +4608,8 @@
         "xxb_inline_section_ed2f2ddb1c40",
         "xxb_inline_section_d3fea81da921",
         "xxb_inline_section_f9a3f8580208",
-        "xxb_inline_section_fe565cd4945c"
+        "xxb_inline_section_fe565cd4945c",
+        "xxb_home_link_b9a711792955"
       ],
       "status_code": 200
     },
@@ -35180,10 +35241,10 @@
     "exclusions": []
   },
   "coverage_status": "complete",
+  "evidence_source": "full_crawl",
   "audit_evidence_ref": "../reports/audit_evidence.md",
+  "audit_evidence_json_ref": "../reports/audit_evidence.json",
   "pagination_terminal_verified": true,
   "unknown_url_count": 0,
-  "excluded_url_count": 0,
-  "evidence_source": "full_crawl",
-  "audit_evidence_json_ref": "../reports/audit_evidence.json"
+  "excluded_url_count": 0
 }

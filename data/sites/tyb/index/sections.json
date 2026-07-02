@@ -5494,5 +5494,25 @@
     },
     "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/sdsfjs/list1.htm"
+  },
+  {
+    "section_id": "tyb_home_link_fec17ea7fc3c",
+    "site_id": "tyb",
+    "name": "更多 +",
+    "url": "https://tyb.njupt.edu.cn/ssxw/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "更多 +"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_nav"
   }
 ]

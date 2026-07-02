@@ -1940,5 +1940,25 @@
     },
     "source": "inline_section_link",
     "source_url": "https://xxb.njupt.edu.cn/5251/list10.htm"
+  },
+  {
+    "section_id": "xxb_home_link_b9a711792955",
+    "site_id": "xxb",
+    "name": "显示更多",
+    "url": "https://xxb.njupt.edu.cn/dyxx/list.htm",
+    "section_type": "homepage_link_section",
+    "nav_path": [
+      "首页",
+      "显示更多"
+    ],
+    "crawlable": true,
+    "business_tags": [
+      "homepage_link"
+    ],
+    "pagination": {
+      "type": "next_link",
+      "max_pages_safety": 500
+    },
+    "source": "homepage_nav"
   }
 ]

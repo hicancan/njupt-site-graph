@@ -1,8 +1,8 @@
 {
   "site_id": "xxgk",
-  "generated_at": "2026-06-25T02:06:24.585828+00:00",
+  "generated_at": "2026-07-02T19:09:24.405626+00:00",
   "totals": {
-    "sections": 8,
+    "sections": 9,
     "nav_nodes": 15,
     "homepage_modules": 4,
     "list_pages": 7,
@@ -29,12 +29,12 @@
     "attachment_policy": "metadata_only",
     "external_link_policy": "record_only",
     "coverage_status": "complete",
+    "evidence_source": "full_crawl",
     "audit_evidence_ref": "../reports/audit_evidence.md",
+    "audit_evidence_json_ref": "../reports/audit_evidence.json",
     "pagination_terminal_verified": true,
     "unknown_url_count": 0,
-    "excluded_url_count": 0,
-    "evidence_source": "full_crawl",
-    "audit_evidence_json_ref": "../reports/audit_evidence.json"
+    "excluded_url_count": 0
   },
   "url_outcomes": {
     "https://xxgk.njupt.edu.cn/": {
@@ -93,7 +93,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ],
       "status_code": 200
     },
@@ -149,7 +150,8 @@
       ],
       "section_ids": [
         "xxgk_latest",
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "https://zbb.njupt.edu.cn/zbgghwl/index.chtml": {
@@ -216,7 +218,8 @@
       ],
       "section_ids": [
         "xxgk_home_link_b4c93b6125ee",
-        "xxgk_home_module_77dfcc43ade1"
+        "xxgk_home_module_77dfcc43ade1",
+        "xxgk_home_link_34a5d266324a"
       ],
       "status_code": 200
     },
@@ -346,7 +349,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "https://www.njupt.edu.cn/17226/list.htm": {
@@ -360,7 +364,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "https://www.njupt.edu.cn/17221/list.htm": {
@@ -374,7 +379,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://gzzd.njupt.edu.cn/main.psp": {
@@ -388,7 +394,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://gonghui.njupt.edu.cn/ldh/list.htm": {
@@ -402,7 +409,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "https://kxjsc.njupt.edu.cn/xswyh_13598/list.htm": {
@@ -416,7 +424,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "https://kxjsc.njupt.edu.cn/xswyh_13591/list.htm": {
@@ -430,7 +439,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "https://fzghc.njupt.edu.cn/2022/0602/c4421a222332/page.psp": {
@@ -444,7 +454,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://xb.njupt.edu.cn/2011/0329/c7965a89495/page.htm": {
@@ -458,7 +469,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://zs.njupt.edu.cn/2562/list.htm": {
@@ -472,7 +484,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://zs.njupt.edu.cn/2563/list.htm": {
@@ -486,7 +499,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "https://zs.njupt.edu.cn/12721/list.htm": {
@@ -500,7 +514,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://zs.njupt.edu.cn/2579/list.htm": {
@@ -514,7 +529,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://zs.njupt.edu.cn/2564/list.htm": {
@@ -528,7 +544,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://zs.njupt.edu.cn/2581/list.htm": {
@@ -542,7 +559,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://zs.njupt.edu.cn/zdwgsjcljg/list.htm": {
@@ -556,7 +574,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://cwc.njupt.edu.cn/805/list.htm": {
@@ -570,7 +589,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://gzc.njupt.edu.cn/821/list.htm": {
@@ -584,7 +604,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://jijin.njupt.edu.cn/12925/list.htm": {
@@ -598,7 +619,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "https://zcgs.njupt.edu.cn/xxgkwxw/list.htm": {
@@ -612,7 +634,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "https://zbb.njupt.edu.cn/": {
@@ -626,7 +649,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://cwc.njupt.edu.cn/800/list.htm": {
@@ -642,7 +666,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://zzb.njupt.edu.cn/gbjz_16369/list.htm": {
@@ -656,7 +681,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://exchange.njupt.edu.cn/xldygcgwjwqk/list.htm": {
@@ -670,7 +696,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://rsc.njupt.edu.cn/620/list.htm": {
@@ -684,7 +711,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://rsc.njupt.edu.cn/585/list.htm": {
@@ -698,7 +726,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://rsc.njupt.edu.cn/621/list.htm": {
@@ -712,7 +741,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://jwc.njupt.edu.cn/p1770c1681/list.htm": {
@@ -730,7 +760,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "https://njupt.91job.org.cn/sub-station/notificationList?xxdm=10293&lmid=3597": {
@@ -744,7 +775,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "https://njupt.91job.org.cn/sub-station/notificationList?xxdm=10293&lmid=43748BDAB0D4493FE0630100007FB3B8": {
@@ -759,7 +791,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://ac.njupt.edu.cn/ndbg/list.htm": {
@@ -773,7 +806,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://pg.njupt.edu.cn/2017/0921/c1062a113438/page.htm": {
@@ -787,7 +821,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://jwc.njupt.edu.cn/1535/list.htm": {
@@ -801,7 +836,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://ygb.njupt.edu.cn/3786/list.htm": {
@@ -815,7 +851,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://xsc.njupt.edu.cn/1160/list.htm": {
@@ -829,7 +866,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "https://xsc.njupt.edu.cn/1169/list.htm": {
@@ -843,7 +881,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://xsc.njupt.edu.cn/1157/list.htm": {
@@ -857,7 +896,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://ygb.njupt.edu.cn/xskjsj/list.htm": {
@@ -871,7 +911,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "https://xsc.njupt.edu.cn/xfjs/list.htm": {
@@ -885,7 +926,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://kxjsc.njupt.edu.cn/xswyh_13591/list.htm": {
@@ -899,7 +941,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://kxjsc.njupt.edu.cn/xswyh_13598/list.htm": {
@@ -913,7 +956,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "https://pg.njupt.edu.cn/2016/0707/c14020a14778/page.htm": {
@@ -927,7 +971,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://jwc.njupt.edu.cn/1537/list.htm": {
@@ -941,7 +986,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://pg.njupt.edu.cn/2011/0909/c14020a14636/page.htm": {
@@ -955,7 +1001,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "https://xkb.njupt.edu.cn/xzbsssxwsqsh/list.htm": {
@@ -969,7 +1016,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://xkb.njupt.edu.cn/nxzxwsqxkhzyxwsqdcl/list.htm": {
@@ -983,7 +1031,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "https://exchange.njupt.edu.cn/7458/list.htm": {
@@ -997,7 +1046,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://exchange.njupt.edu.cn/7463/list.htm": {
@@ -1011,7 +1061,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "http://xb.njupt.edu.cn/7965/list.htm": {
@@ -1025,7 +1076,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "https://xb.njupt.edu.cn/2017/1106/c7965a116563/page.psp": {
@@ -1039,7 +1091,8 @@
         "https://xxgk.njupt.edu.cn/xxgkml/list.htm"
       ],
       "section_ids": [
-        "xxgk_home_link_b4c93b6125ee"
+        "xxgk_home_link_b4c93b6125ee",
+        "xxgk_home_link_34a5d266324a"
       ]
     },
     "https://xxgk.njupt.edu.cn/_upload/article/files/91/1f/bd63bcb04750b5edeba714750d98/ff6a310b-77bc-472c-a73e-d0cde8d789f3.doc": {
@@ -1229,10 +1282,10 @@
     "exclusions": []
   },
   "coverage_status": "complete",
+  "evidence_source": "full_crawl",
   "audit_evidence_ref": "../reports/audit_evidence.md",
+  "audit_evidence_json_ref": "../reports/audit_evidence.json",
   "pagination_terminal_verified": true,
   "unknown_url_count": 0,
-  "excluded_url_count": 0,
-  "evidence_source": "full_crawl",
-  "audit_evidence_json_ref": "../reports/audit_evidence.json"
+  "excluded_url_count": 0
 }
