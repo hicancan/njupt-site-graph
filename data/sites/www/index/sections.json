@@ -16,7 +16,7 @@
     ],
     "pagination": {
       "type": "next_link",
-      "max_pages_safety": 3
+      "max_pages_safety": 80
     },
     "item_container_selector": "body"
   },
@@ -37,7 +37,7 @@
     ],
     "pagination": {
       "type": "next_link",
-      "max_pages_safety": 3
+      "max_pages_safety": 80
     },
     "item_container_selector": "body"
   },
@@ -58,7 +58,7 @@
     ],
     "pagination": {
       "type": "next_link",
-      "max_pages_safety": 3
+      "max_pages_safety": 80
     },
     "item_container_selector": "body"
   }

@@ -16,13 +16,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "EAB99994A44EB044E0530100007FB579",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -43,13 +44,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "3602",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -70,13 +72,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "3603",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -98,13 +101,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "EA4183CAE9CCCED2E0530100007FB6E8",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -126,13 +130,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "DCC4E74DFCE934C2E0530100007F739B",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -153,13 +158,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "3604",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -179,13 +185,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "3596",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -206,13 +213,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "3597",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -233,13 +241,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "3598",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -260,13 +269,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "3599",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -286,13 +296,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "EA4183CAE9D0CED2E0530100007FB6E8",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -313,13 +324,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "EA4183CAE9D1CED2E0530100007FB6E8",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -340,13 +352,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "EA4183CAE9D2CED2E0530100007FB6E8",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -367,13 +380,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "EA4183CAE9D3CED2E0530100007FB6E8",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -394,13 +408,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "EA45DDCC961CED7AE0530100007F54C4",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -421,13 +436,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "EA45DDCC961DED7AE0530100007F54C4",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -448,13 +464,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "217E79FBC0335B79E0630100007FFFE7",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -475,13 +492,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "18006784DC636735E0630100007F40EF",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -502,13 +520,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "43748BDAB0D4493FE0630100007FB3B8",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -528,13 +547,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "EABAEA21A4B84FA6E0530100007F46B9",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -555,13 +575,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "EABAEA21A4B94FA6E0530100007F46B9",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -582,13 +603,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "EABAEA21A4BA4FA6E0530100007F46B9",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -609,13 +631,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "EABAEA21A4BB4FA6E0530100007F46B9",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -635,13 +658,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "3593",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -662,13 +686,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "01BF5C824F3766F1E0630100007FC7C5",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -689,13 +714,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "3607",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -716,13 +742,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "3609",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -743,13 +770,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "1D7C2F3946AB655BE0630100007F848E",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   },
   {
@@ -770,13 +798,14 @@
     ],
     "pagination": {
       "type": "api",
-      "max_pages_safety": 1
+      "max_pages_safety": 40
     },
     "source": "job91_api",
     "api": {
       "endpoint": "/web/wsjysc/wzsy/getLbsj",
       "lmid": "1DBDE8795AF8F913E0630100007F12DE",
-      "row": 120
+      "row": 120,
+      "page_param": "page"
     }
   }
 ]

@@ -16,4 +16,6 @@ htmlcov/
 /docs/
 /prompts/
 /reports/
-/data/sites/*/reports/
+/data/sites/*/reports/*
+!/data/sites/*/reports/
+!/data/sites/*/reports/audit_evidence.md

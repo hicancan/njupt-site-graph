@@ -1,0 +1,88 @@
+{
+  "version": "sitegraph-coverage-v1",
+  "site_id": "cs",
+  "generated_at": "2026-07-02T10:24:42.732706+00:00",
+  "crawl_mode": "full",
+  "coverage_status": "complete",
+  "incomplete_reasons": [],
+  "audit_evidence_ref": "../reports/audit_evidence.md",
+  "sections": {
+    "total": 4,
+    "by_source": {
+      "unknown": 4
+    },
+    "by_type": {
+      "list": 3,
+      "resource_list": 1
+    }
+  },
+  "pages": {
+    "list_pages": 38,
+    "detail_pages": 458
+  },
+  "attachments": {
+    "policy": "metadata_only",
+    "count": 9
+  },
+  "external_links": {
+    "policy": "record_only",
+    "count": 97
+  },
+  "pagination": {
+    "terminal_verified": true,
+    "sections_checked": 4,
+    "safety_cap_hits": [],
+    "evidence": [
+      {
+        "section_id": "cs_news",
+        "section_name": "学院新闻",
+        "section_url": "https://cs.njupt.edu.cn/18737/list.htm",
+        "last_url": "https://cs.njupt.edu.cn/18737/list35.htm",
+        "next_url": null,
+        "pages_crawled": 35,
+        "max_pages_safety": 50,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cs_notice",
+        "section_name": "通知公告",
+        "section_url": "https://cs.njupt.edu.cn/18738/list.htm",
+        "last_url": "https://cs.njupt.edu.cn/18738/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 50,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cs_student_work",
+        "section_name": "学生工作",
+        "section_url": "https://cs.njupt.edu.cn/18733/list.htm",
+        "last_url": "https://cs.njupt.edu.cn/18733/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 50,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cs_download",
+        "section_name": "下载专区",
+        "section_url": "https://cs.njupt.edu.cn/18735/list.htm",
+        "last_url": "https://cs.njupt.edu.cn/18735/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 50,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      }
+    ]
+  },
+  "urls": {
+    "unknown_url_count": 0,
+    "excluded_url_count": 0
+  },
+  "errors": [],
+  "output_root": "D:\\code\\github\\hicancan\\njupt-site-graph\\data\\sites\\cs\\index"
+}

@@ -30,7 +30,12 @@
     "all_discovered_urls_have_outcomes": true,
     "errors": 0,
     "attachment_policy": "metadata_only",
-    "external_link_policy": "record_only"
+    "external_link_policy": "record_only",
+    "coverage_status": "complete",
+    "audit_evidence_ref": "../reports/audit_evidence.md",
+    "pagination_terminal_verified": true,
+    "unknown_url_count": 0,
+    "excluded_url_count": 0
   },
   "url_outcomes": {
     "https://cxcy.njupt.edu.cn/": {
@@ -19262,5 +19267,434 @@
         "cxcy_home_module_b3b0e005b420"
       ]
     }
-  }
+  },
+  "coverage": {
+    "pagination": [
+      {
+        "section_id": "cxcy_download_center",
+        "section_name": "下载中心",
+        "section_url": "https://cxcy.njupt.edu.cn/15468/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15468/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_competition_notices",
+        "section_name": "学科竞赛相关通知",
+        "section_url": "https://cxcy.njupt.edu.cn/15495/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15495/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_6b7c0aa54912",
+        "section_name": "学院简介",
+        "section_url": "https://cxcy.njupt.edu.cn/15461/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15461/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_b1e925492719",
+        "section_name": "学院概况",
+        "section_url": "https://cxcy.njupt.edu.cn/15485/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15485/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_b500cd9105df",
+        "section_name": "现任领导",
+        "section_url": "https://cxcy.njupt.edu.cn/15486/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15486/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_c2907f987734",
+        "section_name": "联系方式",
+        "section_url": "https://cxcy.njupt.edu.cn/15487/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15487/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_fa33abd8f4b8",
+        "section_name": "规章制度",
+        "section_url": "https://cxcy.njupt.edu.cn/15462/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15462/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_d82c625db55f",
+        "section_name": "上级文件",
+        "section_url": "https://cxcy.njupt.edu.cn/15488/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15488/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_ace95b7831b0",
+        "section_name": "学校规章",
+        "section_url": "https://cxcy.njupt.edu.cn/15489/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15489/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_8f225f64226b",
+        "section_name": "双创教育",
+        "section_url": "https://cxcy.njupt.edu.cn/15463/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15463/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_c05663cc8ce4",
+        "section_name": "创新创业课程",
+        "section_url": "https://cxcy.njupt.edu.cn/15490/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15490/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_5b560dd1c7a2",
+        "section_name": "创新创业培训",
+        "section_url": "https://cxcy.njupt.edu.cn/15491/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15491/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_83ba19d134b3",
+        "section_name": "创新创业师资",
+        "section_url": "https://cxcy.njupt.edu.cn/15492/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15492/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_module_52b0f85f6c15",
+        "section_name": "双创项目",
+        "section_url": "https://cxcy.njupt.edu.cn/scxm/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/scxm/list2.htm",
+        "next_url": null,
+        "pages_crawled": 2,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_041b5f6f073d",
+        "section_name": "大创项目",
+        "section_url": "https://cxcy.njupt.edu.cn/15464/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15464/list2.htm",
+        "next_url": null,
+        "pages_crawled": 2,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_45fee025c17e",
+        "section_name": "相关通知",
+        "section_url": "https://cxcy.njupt.edu.cn/15493/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15493/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_754032460167",
+        "section_name": "立项公示",
+        "section_url": "https://cxcy.njupt.edu.cn/15494/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15494/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_5c1f1d62069f",
+        "section_name": "学科竞赛",
+        "section_url": "https://cxcy.njupt.edu.cn/15465/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15465/list7.htm",
+        "next_url": null,
+        "pages_crawled": 7,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_393be12910a3",
+        "section_name": "通讯报道",
+        "section_url": "https://cxcy.njupt.edu.cn/15496/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15496/list7.htm",
+        "next_url": null,
+        "pages_crawled": 7,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_16eef21a537f",
+        "section_name": "双创活动",
+        "section_url": "https://cxcy.njupt.edu.cn/15466/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15466/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_79424eda8e3a",
+        "section_name": "双创基地",
+        "section_url": "https://cxcy.njupt.edu.cn/15467/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15467/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_c117033e68c8",
+        "section_name": "党群工作",
+        "section_url": "https://cxcy.njupt.edu.cn/dqgz/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/dqgz/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_a3158bf0375d",
+        "section_name": "党建工作",
+        "section_url": "https://cxcy.njupt.edu.cn/17828/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/17828/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_40d50c30d61c",
+        "section_name": "分工会",
+        "section_url": "https://cxcy.njupt.edu.cn/17829/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/17829/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_fdb763d9a49d",
+        "section_name": "师德师风建设",
+        "section_url": "https://cxcy.njupt.edu.cn/17830/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/17830/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_67323af2acd5",
+        "section_name": "信息公开",
+        "section_url": "https://cxcy.njupt.edu.cn/xxgk/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/xxgk/list2.htm",
+        "next_url": null,
+        "pages_crawled": 2,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_04ccbc4b4254",
+        "section_name": "会议信息",
+        "section_url": "https://cxcy.njupt.edu.cn/18403/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/18403/list2.htm",
+        "next_url": null,
+        "pages_crawled": 2,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_4163165cb735",
+        "section_name": "书记信箱",
+        "section_url": "https://cxcy.njupt.edu.cn/18404/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/18404/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_93f5b6a9d937",
+        "section_name": "院长信箱",
+        "section_url": "https://cxcy.njupt.edu.cn/18405/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/18405/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_module_824f590b522f",
+        "section_name": "新闻资讯",
+        "section_url": "https://cxcy.njupt.edu.cn/xwzx/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/xwzx/list13.htm",
+        "next_url": null,
+        "pages_crawled": 13,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_module_b3b0e005b420",
+        "section_name": "通知公告",
+        "section_url": "https://cxcy.njupt.edu.cn/tzgg/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/tzgg/list17.htm",
+        "next_url": null,
+        "pages_crawled": 17,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_module_b9ace8091620",
+        "section_name": "竞赛成果",
+        "section_url": "https://cxcy.njupt.edu.cn/jscx/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/jscx/list2.htm",
+        "next_url": null,
+        "pages_crawled": 2,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_cb8e1249269c",
+        "section_name": "大学生创业园",
+        "section_url": "https://cxcy.njupt.edu.cn/15471/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15471/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_957e12d04a63",
+        "section_name": "双创平台",
+        "section_url": "https://cxcy.njupt.edu.cn/15472/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15472/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_565fec67f4a8",
+        "section_name": "双创导师",
+        "section_url": "https://cxcy.njupt.edu.cn/15473/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15473/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_f53c732a7841",
+        "section_name": "大学生创协",
+        "section_url": "https://cxcy.njupt.edu.cn/15474/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15474/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_dcb5cd755c27",
+        "section_name": "路演大厅",
+        "section_url": "https://cxcy.njupt.edu.cn/15475/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15475/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cxcy_home_link_27329c01954c",
+        "section_name": "双创信息管理系统",
+        "section_url": "https://cxcy.njupt.edu.cn/15476/list.htm",
+        "last_url": "https://cxcy.njupt.edu.cn/15476/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      }
+    ],
+    "unknown_urls": [],
+    "exclusions": []
+  },
+  "coverage_status": "complete",
+  "audit_evidence_ref": "../reports/audit_evidence.md",
+  "pagination_terminal_verified": true,
+  "unknown_url_count": 0,
+  "excluded_url_count": 0
 }

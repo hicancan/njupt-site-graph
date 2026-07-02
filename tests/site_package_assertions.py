@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import re
 from pathlib import Path
+from datetime import date
 
 
 PACKAGE_FILES = [
@@ -16,6 +17,7 @@ PACKAGE_FILES = [
     'edges.jsonl',
     'manifest.json',
     'homepage_modules.json',
+    'coverage_report.json',
 ]
 
 UNKNOWN_ALLOWLIST_FILE = 'unknown_url_allowlist.json'
@@ -57,6 +59,22 @@ def assert_manifest_complete(site_id: str) -> dict:
     assert manifest['quality']['errors'] == 0, json.dumps(errors[:10], ensure_ascii=False, indent=2)
     assert manifest['quality']['attachment_policy'] == 'metadata_only'
     assert manifest['quality']['external_link_policy'] == 'record_only'
+    assert manifest['coverage_status'] == 'complete'
+    assert manifest['quality']['coverage_status'] == 'complete'
+    assert manifest['pagination_terminal_verified'] is True
+    assert manifest['unknown_url_count'] == 0
+    assert manifest['audit_evidence_ref']
+    coverage = read_json(root / 'coverage_report.json')
+    assert coverage['site_id'] == site_id
+    assert coverage['coverage_status'] == 'complete'
+    assert coverage['pagination']['terminal_verified'] is True
+    assert coverage['audit_evidence_ref'] == manifest['audit_evidence_ref']
+    for exclusion in coverage['urls'].get('exclusions', []):
+        assert exclusion['reason']
+        assert exclusion['scope']
+        assert exclusion['expiry'] >= date.today().isoformat()
+    audit_path = root / manifest['audit_evidence_ref']
+    assert audit_path.exists(), f'{site_id} missing audit evidence {manifest["audit_evidence_ref"]}'
     assert errors == []
     assert manifest['url_outcomes']
     assert_unknown_outcomes_allowlisted(site_id, manifest)

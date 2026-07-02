@@ -31,7 +31,12 @@
     "all_discovered_urls_have_outcomes": true,
     "errors": 0,
     "attachment_policy": "metadata_only",
-    "external_link_policy": "record_only"
+    "external_link_policy": "record_only",
+    "coverage_status": "complete",
+    "audit_evidence_ref": "../reports/audit_evidence.md",
+    "pagination_terminal_verified": true,
+    "unknown_url_count": 0,
+    "excluded_url_count": 0
   },
   "url_outcomes": {
     "https://cs.njupt.edu.cn/": {
@@ -27177,5 +27182,60 @@
         "cs_news"
       ]
     }
-  }
+  },
+  "coverage": {
+    "pagination": [
+      {
+        "section_id": "cs_news",
+        "section_name": "学院新闻",
+        "section_url": "https://cs.njupt.edu.cn/18737/list.htm",
+        "last_url": "https://cs.njupt.edu.cn/18737/list35.htm",
+        "next_url": null,
+        "pages_crawled": 35,
+        "max_pages_safety": 50,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cs_notice",
+        "section_name": "通知公告",
+        "section_url": "https://cs.njupt.edu.cn/18738/list.htm",
+        "last_url": "https://cs.njupt.edu.cn/18738/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 50,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cs_student_work",
+        "section_name": "学生工作",
+        "section_url": "https://cs.njupt.edu.cn/18733/list.htm",
+        "last_url": "https://cs.njupt.edu.cn/18733/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 50,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "cs_download",
+        "section_name": "下载专区",
+        "section_url": "https://cs.njupt.edu.cn/18735/list.htm",
+        "last_url": "https://cs.njupt.edu.cn/18735/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 50,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      }
+    ],
+    "unknown_urls": [],
+    "exclusions": []
+  },
+  "coverage_status": "complete",
+  "audit_evidence_ref": "../reports/audit_evidence.md",
+  "pagination_terminal_verified": true,
+  "unknown_url_count": 0,
+  "excluded_url_count": 0
 }

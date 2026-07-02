@@ -1,11 +1,11 @@
 {
   "site_id": "job91",
-  "generated_at": "2026-07-02T08:41:30.342369+00:00",
+  "generated_at": "2026-07-02T10:25:11.044477+00:00",
   "totals": {
     "sections": 29,
     "nav_nodes": 29,
     "homepage_modules": 29,
-    "list_pages": 29,
+    "list_pages": 24,
     "detail_pages": 976,
     "low_content_detail_pages": 847,
     "attachments": 0,
@@ -23,7 +23,12 @@
     "all_discovered_urls_have_outcomes": true,
     "errors": 0,
     "attachment_policy": "metadata_only",
-    "external_link_policy": "record_only"
+    "external_link_policy": "record_only",
+    "coverage_status": "complete",
+    "audit_evidence_ref": "../reports/audit_evidence.md",
+    "pagination_terminal_verified": true,
+    "unknown_url_count": 0,
+    "excluded_url_count": 0
   },
   "url_outcomes": {
     "https://njupt.91job.org.cn/": {
@@ -15164,5 +15169,335 @@
       ],
       "status_code": 200
     }
-  }
+  },
+  "coverage": {
+    "pagination": [
+      {
+        "section_id": "job91_1a47ced34641",
+        "section_name": "新闻公告",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/EAB99994A44EB044E0530100007FB579",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/EAB99994A44EB044E0530100007FB579",
+        "next_url": null,
+        "pages_crawled": 0,
+        "max_pages_safety": 40,
+        "termination_reason": "empty_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_f79ac1b74a8f",
+        "section_name": "通知公告",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/3602",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/3602?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "short_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_7488d30cc301",
+        "section_name": "新闻速递",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/3603",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/3603?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "api_duplicate_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_54068010e125",
+        "section_name": "院系就业动态",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9CCCED2E0530100007FB6E8",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9CCCED2E0530100007FB6E8?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "short_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_0d4d0da9e718",
+        "section_name": "访企拓岗促就业",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "short_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_8a47e2520d1b",
+        "section_name": "校内公示",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/3604",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/3604?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "api_duplicate_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_669d3decb9a4",
+        "section_name": "就业政策",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/3596",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/3596",
+        "next_url": null,
+        "pages_crawled": 0,
+        "max_pages_safety": 40,
+        "termination_reason": "empty_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_db096d0b6cf3",
+        "section_name": "国家政策",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/3597",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/3597?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "short_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_15496879b106",
+        "section_name": "省级政策",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/3598",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/3598?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "short_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_53a42a405d1b",
+        "section_name": "校级政策",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/3599",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/3599?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "short_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_0fc3fb795522",
+        "section_name": "就业信息",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9D0CED2E0530100007FB6E8",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9D0CED2E0530100007FB6E8",
+        "next_url": null,
+        "pages_crawled": 0,
+        "max_pages_safety": 40,
+        "termination_reason": "empty_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_81944a378e58",
+        "section_name": "招聘会",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9D1CED2E0530100007FB6E8",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9D1CED2E0530100007FB6E8?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "api_duplicate_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_d6770d799451",
+        "section_name": "宣讲会",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9D2CED2E0530100007FB6E8",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9D2CED2E0530100007FB6E8?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "api_duplicate_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_312cdd9cb508",
+        "section_name": "招聘岗位",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9D3CED2E0530100007FB6E8",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9D3CED2E0530100007FB6E8?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "short_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_8c62d4700f1c",
+        "section_name": "实习专区",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/EA45DDCC961CED7AE0530100007F54C4",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/EA45DDCC961CED7AE0530100007F54C4?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "short_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_3bac1206eb58",
+        "section_name": "选调动态",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/EA45DDCC961DED7AE0530100007F54C4",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/EA45DDCC961DED7AE0530100007F54C4?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "short_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_2c7b16d904d7",
+        "section_name": "招聘公告",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/217E79FBC0335B79E0630100007FFFE7",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/217E79FBC0335B79E0630100007FFFE7?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "short_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_ac6fe35c1944",
+        "section_name": "地方引才专区",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/18006784DC636735E0630100007F40EF",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/18006784DC636735E0630100007F40EF?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "short_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_50f148fb825d",
+        "section_name": "就业质量年度报告",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/43748BDAB0D4493FE0630100007FB3B8",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/43748BDAB0D4493FE0630100007FB3B8?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "short_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_ffa1a5321f0c",
+        "section_name": "就业指导",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/EABAEA21A4B84FA6E0530100007F46B9",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/EABAEA21A4B84FA6E0530100007F46B9",
+        "next_url": null,
+        "pages_crawled": 0,
+        "max_pages_safety": 40,
+        "termination_reason": "empty_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_0ad9a0f3e077",
+        "section_name": "职业课程",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/EABAEA21A4B94FA6E0530100007F46B9",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/EABAEA21A4B94FA6E0530100007F46B9?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "short_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_38bc957178eb",
+        "section_name": "求职技巧",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/EABAEA21A4BA4FA6E0530100007F46B9",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/EABAEA21A4BA4FA6E0530100007F46B9?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "short_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_2072d7b0e93c",
+        "section_name": "行业知识",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/EABAEA21A4BB4FA6E0530100007F46B9",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/EABAEA21A4BB4FA6E0530100007F46B9?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "short_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_bf52167e6353",
+        "section_name": "日常服务",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/3593",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/3593",
+        "next_url": null,
+        "pages_crawled": 0,
+        "max_pages_safety": 40,
+        "termination_reason": "empty_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_97ab56116f3f",
+        "section_name": "联系我们",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/01BF5C824F3766F1E0630100007FC7C5",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/01BF5C824F3766F1E0630100007FC7C5?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "short_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_0d0a4fcb7dff",
+        "section_name": "生源信息",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/3607",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/3607?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "short_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_e576d823c743",
+        "section_name": "操作指南（用人单位）",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/3609",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/3609?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "short_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_8fad75d9f559",
+        "section_name": "常用下载",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/1D7C2F3946AB655BE0630100007F848E",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/1D7C2F3946AB655BE0630100007F848E?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "short_page",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "job91_0143f585c4e5",
+        "section_name": "操作指南（毕业生）",
+        "section_url": "https://njupt.91job.org.cn/sub-station/list/1DBDE8795AF8F913E0630100007F12DE",
+        "last_url": "https://njupt.91job.org.cn/sub-station/list/1DBDE8795AF8F913E0630100007F12DE?page=1",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 40,
+        "termination_reason": "short_page",
+        "terminal_verified": true
+      }
+    ],
+    "unknown_urls": [],
+    "exclusions": []
+  },
+  "coverage_status": "complete",
+  "audit_evidence_ref": "../reports/audit_evidence.md",
+  "pagination_terminal_verified": true,
+  "unknown_url_count": 0,
+  "excluded_url_count": 0
 }

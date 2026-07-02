@@ -30,6 +30,9 @@ def test_sitegraph_package_validator_rejects_oversized_manifests():
     script = Path("scripts/sitegraph_registry.py").read_text(encoding="utf-8")
     assert "MAX_MANIFEST_BYTES = 25 * 1024 * 1024" in script
     assert "manifest is too large" in script
+    assert "coverage_report.json" in script
+    assert "coverage_status must be complete" in script
+    assert "audit_evidence_ref" in script
 
 
 def test_update_sitegraph_workflow_dispatches_search_after_success():

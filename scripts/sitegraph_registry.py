@@ -4,6 +4,7 @@ import argparse
 import json
 import subprocess
 import sys
+from datetime import date
 from pathlib import Path
 
 
@@ -20,6 +21,7 @@ PACKAGE_FILES = (
     "edges.jsonl",
     "manifest.json",
     "homepage_modules.json",
+    "coverage_report.json",
 )
 MAX_MANIFEST_BYTES = 25 * 1024 * 1024
 
@@ -131,6 +133,33 @@ def validate_packages(args: argparse.Namespace) -> None:
         if quality.get("errors") != 0 or errors:
             preview = json.dumps(errors[:10], ensure_ascii=False, indent=2)
             raise SystemExit(f"{site_id} package contains crawl errors:\n{preview}")
+        coverage_path = package_root / "coverage_report.json"
+        coverage = json.loads(coverage_path.read_text(encoding="utf-8"))
+        if coverage.get("site_id") != site_id:
+            raise SystemExit(f"{coverage_path} site_id mismatch: expected {site_id}, got {coverage.get('site_id')!r}")
+        if manifest.get("coverage_status") != "complete" or quality.get("coverage_status") != "complete":
+            raise SystemExit(f"{site_id} coverage_status must be complete")
+        if coverage.get("coverage_status") != "complete":
+            raise SystemExit(f"{site_id} coverage report is not complete: {coverage.get('incomplete_reasons')!r}")
+        audit_ref = manifest.get("audit_evidence_ref") or quality.get("audit_evidence_ref") or coverage.get("audit_evidence_ref")
+        if not isinstance(audit_ref, str) or not audit_ref.strip():
+            raise SystemExit(f"{site_id} missing audit_evidence_ref")
+        audit_path = package_root / audit_ref
+        if not audit_path.exists():
+            raise SystemExit(f"{site_id} audit evidence is missing: {audit_ref}")
+        if manifest.get("pagination_terminal_verified") is not True:
+            raise SystemExit(f"{site_id} pagination_terminal_verified must be true")
+        if int(manifest.get("unknown_url_count") or 0) != 0:
+            raise SystemExit(f"{site_id} unknown_url_count must be zero")
+        exclusions = (coverage.get("urls") or {}).get("exclusions") or []
+        today = date.today().isoformat()
+        for exclusion in exclusions:
+            if not isinstance(exclusion, dict):
+                raise SystemExit(f"{site_id} coverage exclusion entries must be objects")
+            if not exclusion.get("reason") or not exclusion.get("scope") or not exclusion.get("expiry"):
+                raise SystemExit(f"{site_id} coverage exclusions require reason, scope and expiry")
+            if str(exclusion["expiry"]) < today:
+                raise SystemExit(f"{site_id} coverage exclusion expired: {exclusion!r}")
 
 
 def summary(_args: argparse.Namespace) -> None:
@@ -150,6 +179,7 @@ def summary(_args: argparse.Namespace) -> None:
                 "external_links": totals.get("external_links"),
                 "url_outcomes": totals.get("url_outcomes"),
                 "errors": (manifest.get("quality") or {}).get("errors"),
+                "coverage_status": manifest.get("coverage_status"),
             }
         )
     print(json.dumps(rows, ensure_ascii=False, indent=2))

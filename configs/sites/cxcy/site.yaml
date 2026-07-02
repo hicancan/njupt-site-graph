@@ -14,6 +14,7 @@ crawl_policy:
   external_link_policy: record_only
   attachment_policy: metadata_only
   chrome_required_for_modeling: true
+  audit_evidence_ref: ../reports/audit_evidence.md
   auto_discover_sections_from_homepage: true
 
 selectors:

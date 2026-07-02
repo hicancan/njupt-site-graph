@@ -27,7 +27,12 @@
     "all_discovered_urls_have_outcomes": true,
     "errors": 0,
     "attachment_policy": "metadata_only",
-    "external_link_policy": "record_only"
+    "external_link_policy": "record_only",
+    "coverage_status": "complete",
+    "audit_evidence_ref": "../reports/audit_evidence.md",
+    "pagination_terminal_verified": true,
+    "unknown_url_count": 0,
+    "excluded_url_count": 0
   },
   "url_outcomes": {
     "https://xxgk.njupt.edu.cn/": {
@@ -1137,5 +1142,93 @@
         "xxgk_home_link_82960fd62da4"
       ]
     }
-  }
+  },
+  "coverage": {
+    "pagination": [
+      {
+        "section_id": "xxgk_latest",
+        "section_name": "最新公开信息",
+        "section_url": "https://xxgk.njupt.edu.cn/zxgkxx/list.htm",
+        "last_url": "https://xxgk.njupt.edu.cn/zxgkxx/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "xxgk_home_link_ce70c6e835be",
+        "section_name": "信息公开指南",
+        "section_url": "https://xxgk.njupt.edu.cn/xxgkzn/list.htm",
+        "last_url": "https://xxgk.njupt.edu.cn/xxgkzn/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "xxgk_home_link_b4c93b6125ee",
+        "section_name": "信息公开目录",
+        "section_url": "https://xxgk.njupt.edu.cn/xxgkml/list.htm",
+        "last_url": "https://xxgk.njupt.edu.cn/xxgkml/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "xxgk_home_link_d57215095356",
+        "section_name": "依申请公开",
+        "section_url": "https://xxgk.njupt.edu.cn/ysqgk/list.htm",
+        "last_url": "https://xxgk.njupt.edu.cn/ysqgk/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "xxgk_home_module_77dfcc43ade1",
+        "section_name": "信息公开工作年度报告",
+        "section_url": "https://xxgk.njupt.edu.cn/xxgkgzndbg/list.htm",
+        "last_url": "https://xxgk.njupt.edu.cn/xxgkgzndbg/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "xxgk_home_module_382e4f7de6de",
+        "section_name": "服务指南",
+        "section_url": "https://xxgk.njupt.edu.cn/xxgkzd/list.htm",
+        "last_url": "https://xxgk.njupt.edu.cn/xxgkzd/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "xxgk_home_link_82960fd62da4",
+        "section_name": "信息公开受理",
+        "section_url": "https://xxgk.njupt.edu.cn/xxgksl/list.htm",
+        "last_url": "https://xxgk.njupt.edu.cn/xxgksl/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      }
+    ],
+    "unknown_urls": [],
+    "exclusions": []
+  },
+  "coverage_status": "complete",
+  "audit_evidence_ref": "../reports/audit_evidence.md",
+  "pagination_terminal_verified": true,
+  "unknown_url_count": 0,
+  "excluded_url_count": 0
 }

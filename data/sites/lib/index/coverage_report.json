@@ -1,0 +1,500 @@
+{
+  "version": "sitegraph-coverage-v1",
+  "site_id": "lib",
+  "generated_at": "2026-07-02T10:24:42.367774+00:00",
+  "crawl_mode": "full",
+  "coverage_status": "complete",
+  "incomplete_reasons": [],
+  "audit_evidence_ref": "../reports/audit_evidence.md",
+  "sections": {
+    "total": 42,
+    "by_source": {
+      "homepage_link": 39,
+      "inline_link": 1,
+      "manifest_backfill": 1,
+      "unknown": 1
+    },
+    "by_type": {
+      "direct_detail_links": 1,
+      "homepage_link_section": 39,
+      "inline_section_link": 1,
+      "list": 1
+    }
+  },
+  "pages": {
+    "list_pages": 117,
+    "detail_pages": 1144
+  },
+  "attachments": {
+    "policy": "metadata_only",
+    "count": 108
+  },
+  "external_links": {
+    "policy": "record_only",
+    "count": 530
+  },
+  "pagination": {
+    "terminal_verified": true,
+    "sections_checked": 41,
+    "safety_cap_hits": [],
+    "evidence": [
+      {
+        "section_id": "lib_notice",
+        "section_name": "通知公告",
+        "section_url": "https://lib.njupt.edu.cn/1429/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1429/list27.htm",
+        "next_url": null,
+        "pages_crawled": 27,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_f17558f6f8f2",
+        "section_name": "本馆概况",
+        "section_url": "https://lib.njupt.edu.cn/1378/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1378/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_26aee5af526a",
+        "section_name": "本馆简介",
+        "section_url": "https://lib.njupt.edu.cn/1379/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1379/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_8b5386d6765e",
+        "section_name": "部门设置",
+        "section_url": "https://lib.njupt.edu.cn/1380/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1380/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_1cc9ae77df78",
+        "section_name": "服务流程",
+        "section_url": "https://lib.njupt.edu.cn/1381/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1381/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_0cda236aadd5",
+        "section_name": "馆藏分布",
+        "section_url": "https://lib.njupt.edu.cn/1382/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1382/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_77fd1a44c187",
+        "section_name": "楼层布局",
+        "section_url": "https://lib.njupt.edu.cn/lcbj/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/lcbj/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_165336d5fabb",
+        "section_name": "入馆须知",
+        "section_url": "https://lib.njupt.edu.cn/1383/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1383/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_9a439f756012",
+        "section_name": "开放时间",
+        "section_url": "https://lib.njupt.edu.cn/1384/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1384/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_ceaa1539a20f",
+        "section_name": "借阅规则",
+        "section_url": "https://lib.njupt.edu.cn/1385/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1385/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_0c6b91cb8433",
+        "section_name": "馆长寄语",
+        "section_url": "https://lib.njupt.edu.cn/gzjy/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/gzjy/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_0ec59c3ea2d5",
+        "section_name": "馆务信息",
+        "section_url": "https://lib.njupt.edu.cn/gwxx/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/gwxx/list3.htm",
+        "next_url": null,
+        "pages_crawled": 3,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_72c4e9d47fb3",
+        "section_name": "电子资源",
+        "section_url": "https://lib.njupt.edu.cn/1386/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1386/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_acfdfe8b78a5",
+        "section_name": "中文数据库",
+        "section_url": "https://lib.njupt.edu.cn/1387/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1387/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_57f9de175392",
+        "section_name": "外文数据库",
+        "section_url": "https://lib.njupt.edu.cn/1388/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1388/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_05c803c9e0a8",
+        "section_name": "试用数据库",
+        "section_url": "https://lib.njupt.edu.cn/1389/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1389/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_91bbc2ee2257",
+        "section_name": "电子图书",
+        "section_url": "https://lib.njupt.edu.cn/1390/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1390/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_38e2047b5be5",
+        "section_name": "在线学习",
+        "section_url": "https://lib.njupt.edu.cn/1391/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1391/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_e348e6288ffb",
+        "section_name": "OA学术资源",
+        "section_url": "https://lib.njupt.edu.cn/1392/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1392/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_cb0c7f1a4cdd",
+        "section_name": "本校学位论文",
+        "section_url": "https://lib.njupt.edu.cn/1393/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1393/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_c45dc9e3c7b3",
+        "section_name": "读者服务",
+        "section_url": "https://lib.njupt.edu.cn/1395/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1395/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_823030519d75",
+        "section_name": "图书荐购",
+        "section_url": "https://lib.njupt.edu.cn/1398/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1398/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_59c42f0d87dc",
+        "section_name": "新读者向导",
+        "section_url": "https://lib.njupt.edu.cn/1400/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1400/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_7def3f5e8dd4",
+        "section_name": "研读室预约",
+        "section_url": "https://lib.njupt.edu.cn/1402/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1402/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_5bf74ec6fa39",
+        "section_name": "移动图书馆",
+        "section_url": "https://lib.njupt.edu.cn/1404/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1404/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_15bcce222d70",
+        "section_name": "VPN服务",
+        "section_url": "https://lib.njupt.edu.cn/1408/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1408/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_4ca78f6da3ed",
+        "section_name": "常见问题",
+        "section_url": "https://lib.njupt.edu.cn/1409/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1409/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_27351e838d54",
+        "section_name": "科技查新",
+        "section_url": "https://lib.njupt.edu.cn/1411/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1411/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_adca365ba7cc",
+        "section_name": "查收查引",
+        "section_url": "https://lib.njupt.edu.cn/cscyxt/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/cscyxt/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_ec4d7654b024",
+        "section_name": "图书捐赠",
+        "section_url": "https://lib.njupt.edu.cn/tsjz/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/tsjz/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_a7ce4abf4855",
+        "section_name": "显示更多",
+        "section_url": "https://lib.njupt.edu.cn/1428/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1428/list42.htm",
+        "next_url": null,
+        "pages_crawled": 42,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_3eb9dd740106",
+        "section_name": "原文传递",
+        "section_url": "https://lib.njupt.edu.cn/1413/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1413/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_a8f262802d97",
+        "section_name": "新生入馆教育",
+        "section_url": "https://lib.njupt.edu.cn/1414/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1414/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_3d3cbf9ba74e",
+        "section_name": "信息素养教育",
+        "section_url": "https://lib.njupt.edu.cn/xxsyjy/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/xxsyjy/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_609a9a2777d9",
+        "section_name": "阅读推广",
+        "section_url": "https://lib.njupt.edu.cn/1420/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1420/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_e95b9057b779",
+        "section_name": "书林驿",
+        "section_url": "https://lib.njupt.edu.cn/1421/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1421/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_d1d7bcc66765",
+        "section_name": "馆员荐书",
+        "section_url": "https://lib.njupt.edu.cn/1422/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1422/list3.htm",
+        "next_url": null,
+        "pages_crawled": 3,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_724db6fa0c25",
+        "section_name": "柚子荐读",
+        "section_url": "https://lib.njupt.edu.cn/1423/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/1423/list4.htm",
+        "next_url": null,
+        "pages_crawled": 4,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_1eeb4bf11f78",
+        "section_name": "活动回顾",
+        "section_url": "https://lib.njupt.edu.cn/hdhg/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/hdhg/list3.htm",
+        "next_url": null,
+        "pages_crawled": 3,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_home_link_c0c028d2b6f3",
+        "section_name": "馆舍风貌",
+        "section_url": "https://lib.njupt.edu.cn/gsfm/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/gsfm/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      },
+      {
+        "section_id": "lib_inline_section_066b0cc34143",
+        "section_name": "http://lib.njupt.edu.cn/s/36/t/472/p/1/c/6013/d/6864/list.htm",
+        "section_url": "https://lib.njupt.edu.cn/_t83/1421/list.htm",
+        "last_url": "https://lib.njupt.edu.cn/_t83/1421/list.htm",
+        "next_url": null,
+        "pages_crawled": 1,
+        "max_pages_safety": 500,
+        "termination_reason": "existing_package_under_safety_cap",
+        "terminal_verified": true
+      }
+    ]
+  },
+  "urls": {
+    "unknown_url_count": 0,
+    "excluded_url_count": 0
+  },
+  "errors": [],
+  "output_root": "D:\\code\\github\\hicancan\\njupt-site-graph\\data\\sites\\lib\\index"
+}
