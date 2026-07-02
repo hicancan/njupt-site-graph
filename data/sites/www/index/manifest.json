@@ -1,29 +1,29 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-02T02:01:44.163619+00:00",
+  "generated_at": "2026-07-02T08:38:55.711435+00:00",
   "totals": {
     "sections": 3,
-    "nav_nodes": 132,
+    "nav_nodes": 133,
     "homepage_modules": 0,
     "list_pages": 7,
-    "detail_pages": 123,
-    "low_content_detail_pages": 28,
+    "detail_pages": 124,
+    "low_content_detail_pages": 29,
     "attachments": 22,
     "external_links": 50,
-    "edges": 646,
-    "url_outcomes": 536
+    "edges": 648,
+    "url_outcomes": 542
   },
   "outcomes": {
     "attachment_metadata_only": 23,
-    "crawled_detail_ok": 123,
+    "crawled_detail_ok": 124,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 7,
     "cross_domain_article_link_recorded": 2,
-    "external_link_recorded": 48,
+    "external_link_recorded": 52,
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 76,
-    "inline_image_recorded": 250,
+    "inline_image_recorded": 251,
     "section_list_page_recorded": 3
   },
   "errors": [],
@@ -7622,6 +7622,83 @@
         "www_news"
       ],
       "status_code": 200
+    },
+    "https://www.njupt.edu.cn/2026/0702/c17121a305734/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0702/c17121a305734/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "中国科协科技导报社史永超副社长学术报告：科技期刊投稿写作及SCIENCE伙伴期刊RESEARCH推介会 2026-07-06 10:00:00 材料学科楼219会议室",
+        "2026 07.02 中国科协科技导报社史永超副社长学术报告：科技期刊投稿写作及SCIENCE伙伴期刊RESEARCH推介会"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/yg/list.htm"
+      ],
+      "section_ids": [
+        "www_academic_events"
+      ],
+      "status_code": 200
+    },
+    "https://mp.weixin.qq.com/s/TNqqSv--lnPqDhH9oGWaaQ": {
+      "url": "https://mp.weixin.qq.com/s/TNqqSv--lnPqDhH9oGWaaQ",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "2026.07.02 报考南邮的N个理由"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://mp.weixin.qq.com/s/CWE2MFSa25Mtn14hYkwdpw": {
+      "url": "https://mp.weixin.qq.com/s/CWE2MFSa25Mtn14hYkwdpw",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "2026.07.01 南邮干部师生热议习近平总书记“七一”重要讲话"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://mp.weixin.qq.com/s/s8qdiHI150lVj-ZHKzjKIQ": {
+      "url": "https://mp.weixin.qq.com/s/s8qdiHI150lVj-ZHKzjKIQ",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "2026.06.30 南邮1972级校友、国际电信联盟原秘书长赵厚麟回校与青年教师交流座谈"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://mp.weixin.qq.com/s/dJ3mf3HoImRhAJKkV6Gmzw": {
+      "url": "https://mp.weixin.qq.com/s/dJ3mf3HoImRhAJKkV6Gmzw",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "2026.06.29 无创新 不南邮，等你来！"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/d1/62/cc035dc940069aaf82f9f90052ab/a4109506-50ca-41b8-8cfe-75c0945c2ac4.png": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/d1/62/cc035dc940069aaf82f9f90052ab/a4109506-50ca-41b8-8cfe-75c0945c2ac4.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0702/c17121a305734/page.htm"
+      ],
+      "section_ids": [
+        "www_academic_events"
+      ]
     }
   }
 }

@@ -1,21 +1,21 @@
 {
   "site_id": "jwc",
-  "generated_at": "2026-07-01T14:02:42.095098+00:00",
+  "generated_at": "2026-07-02T08:38:52.906364+00:00",
   "totals": {
     "sections": 139,
     "nav_nodes": 119,
     "homepage_modules": 8,
     "list_pages": 661,
-    "detail_pages": 6992,
-    "low_content_detail_pages": 819,
+    "detail_pages": 6993,
+    "low_content_detail_pages": 820,
     "attachments": 7914,
     "external_links": 748,
     "edges": 16342,
-    "url_outcomes": 19271
+    "url_outcomes": 19272
   },
   "outcomes": {
     "attachment_metadata_only": 7192,
-    "crawled_detail_ok": 6938,
+    "crawled_detail_ok": 6939,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 661,
     "cross_domain_article_link_recorded": 62,
@@ -273276,6 +273276,23 @@
         "jwc_home_link_30af99bdf0f0",
         "jwc_home_link_bfe7a9cd8b54"
       ]
+    },
+    "https://jwc.njupt.edu.cn/2026/0702/c1594a305677/page.htm": {
+      "url": "https://jwc.njupt.edu.cn/2026/0702/c1594a305677/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "【教务管理办公室】关于2026年下半年全国英语等级考试（PETS）报名的通知 07-02",
+        "【教务管理办公室】关于2026年下半年全国英语等级考试（PETS）报名的通知 2026-07-02"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/",
+        "https://jwc.njupt.edu.cn/1594/list.htm"
+      ],
+      "section_ids": [
+        "jwc_homepage_notice_module"
+      ],
+      "status_code": 200
     }
   }
 }
