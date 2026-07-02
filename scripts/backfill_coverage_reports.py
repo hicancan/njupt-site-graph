@@ -103,6 +103,10 @@ def _backfill_site(site: dict[str, str]) -> None:
         external_links=external_links,
         incremental=False,
     )
+    report["evidence_source"] = "backfill"
+    if report.get("coverage_status") in {"complete", "complete_with_exclusions"}:
+        report["coverage_status"] = "incomplete"
+        report.setdefault("incomplete_reasons", []).append("backfill coverage report is not terminal full-crawl evidence")
     apply_coverage_to_manifest(manifest, report)
     write_coverage_report(package_root, report, incremental=False)
     write_json(package_root / "manifest.json", manifest)

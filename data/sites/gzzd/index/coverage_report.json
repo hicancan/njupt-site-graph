@@ -9,8 +9,8 @@
   "sections": {
     "total": 13,
     "by_source": {
-      "homepage_link": 12,
-      "unknown": 1
+      "declared_section": 1,
+      "homepage_nav": 12
     },
     "by_type": {
       "homepage_link_section": 12,
@@ -181,8 +181,11 @@
   },
   "urls": {
     "unknown_url_count": 0,
-    "excluded_url_count": 0
+    "excluded_url_count": 0,
+    "exclusions": []
   },
   "errors": [],
-  "output_root": "D:\\code\\github\\hicancan\\njupt-site-graph\\data\\sites\\gzzd\\index"
+  "output_root": "D:\\code\\github\\hicancan\\njupt-site-graph\\data\\sites\\gzzd\\index",
+  "evidence_source": "full_crawl",
+  "audit_evidence_json_ref": "../reports/audit_evidence.json"
 }

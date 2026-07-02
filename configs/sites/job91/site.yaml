@@ -17,6 +17,7 @@ crawl_policy:
   attachment_policy: metadata_only
   chrome_required_for_modeling: true
   audit_evidence_ref: ../reports/audit_evidence.md
+  audit_evidence_json_ref: ../reports/audit_evidence.json
   auto_discover_sections_from_homepage: false
 
 selectors:

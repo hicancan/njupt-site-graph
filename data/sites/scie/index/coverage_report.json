@@ -9,7 +9,7 @@
   "sections": {
     "total": 4,
     "by_source": {
-      "unknown": 4
+      "declared_section": 4
     },
     "by_type": {
       "list": 4
@@ -80,8 +80,11 @@
   },
   "urls": {
     "unknown_url_count": 0,
-    "excluded_url_count": 0
+    "excluded_url_count": 0,
+    "exclusions": []
   },
   "errors": [],
-  "output_root": "D:\\code\\github\\hicancan\\njupt-site-graph\\data\\sites\\scie\\index"
+  "output_root": "D:\\code\\github\\hicancan\\njupt-site-graph\\data\\sites\\scie\\index",
+  "evidence_source": "full_crawl",
+  "audit_evidence_json_ref": "../reports/audit_evidence.json"
 }

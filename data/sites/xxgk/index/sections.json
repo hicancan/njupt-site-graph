@@ -17,7 +17,8 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "item_container_selector": ".news_list.list2, .news_list2.list2"
+    "item_container_selector": ".news_list.list2, .news_list2.list2",
+    "source": "declared_section"
   },
   {
     "section_id": "xxgk_home_link_ce70c6e835be",
@@ -37,7 +38,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "xxgk_home_link_b4c93b6125ee",
@@ -57,7 +58,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "xxgk_home_link_d57215095356",
@@ -77,7 +78,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "xxgk_home_module_77dfcc43ade1",
@@ -141,7 +142,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "xxgk_direct_detail_links",
@@ -160,6 +161,6 @@
     "pagination": {
       "type": "none"
     },
-    "source": "manifest_backfill"
+    "source": "archive_section"
   }
 ]

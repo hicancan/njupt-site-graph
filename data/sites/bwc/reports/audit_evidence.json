@@ -1,0 +1,435 @@
+{
+  "version": "njupt-site-audit-evidence-v1",
+  "site_id": "bwc",
+  "method": "structured_package_evidence_with_browser_audit_required",
+  "homepage": {
+    "url": "https://bwc.njupt.edu.cn/",
+    "domain": "bwc.njupt.edu.cn"
+  },
+  "navigation_entries": [
+    {
+      "label": "机构简介",
+      "url": "https://bwc.njupt.edu.cn/506/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "机构简介"
+      ]
+    },
+    {
+      "label": "机构设置",
+      "url": "https://bwc.njupt.edu.cn/507/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "机构设置"
+      ]
+    },
+    {
+      "label": "联系方式",
+      "url": "https://bwc.njupt.edu.cn/508/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "联系方式"
+      ]
+    },
+    {
+      "label": "工作职能",
+      "url": "https://bwc.njupt.edu.cn/509/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "工作职能"
+      ]
+    },
+    {
+      "label": "办事指南",
+      "url": "https://bwc.njupt.edu.cn/bszn/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "办事指南"
+      ]
+    },
+    {
+      "label": "治安交通",
+      "url": "https://bwc.njupt.edu.cn/zajt/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "治安交通"
+      ]
+    },
+    {
+      "label": "校园消防",
+      "url": "https://bwc.njupt.edu.cn/xyxf/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "校园消防"
+      ]
+    },
+    {
+      "label": "户籍事务",
+      "url": "https://bwc.njupt.edu.cn/hjsw/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "户籍事务"
+      ]
+    }
+  ],
+  "homepage_modules": [],
+  "section_samples": [
+    {
+      "section_id": "bwc_service_guide",
+      "name": "办事指南",
+      "url": "https://bwc.njupt.edu.cn/bszn/list.htm",
+      "source": "declared_section",
+      "section_type": "list",
+      "nav_path": [
+        "办事指南"
+      ]
+    },
+    {
+      "section_id": "bwc_home_link_84a451a2b858",
+      "name": "机构简介",
+      "url": "https://bwc.njupt.edu.cn/506/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "机构简介"
+      ]
+    },
+    {
+      "section_id": "bwc_home_link_a774b07941d3",
+      "name": "机构设置",
+      "url": "https://bwc.njupt.edu.cn/507/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "机构设置"
+      ]
+    },
+    {
+      "section_id": "bwc_home_link_ed2735f97404",
+      "name": "联系方式",
+      "url": "https://bwc.njupt.edu.cn/508/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "联系方式"
+      ]
+    },
+    {
+      "section_id": "bwc_home_link_846bed70ab00",
+      "name": "工作职能",
+      "url": "https://bwc.njupt.edu.cn/509/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "工作职能"
+      ]
+    },
+    {
+      "section_id": "bwc_home_link_531efd5c4c75",
+      "name": "治安交通",
+      "url": "https://bwc.njupt.edu.cn/zajt/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "治安交通"
+      ]
+    },
+    {
+      "section_id": "bwc_home_link_97ae45759f9a",
+      "name": "校园消防",
+      "url": "https://bwc.njupt.edu.cn/xyxf/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "校园消防"
+      ]
+    },
+    {
+      "section_id": "bwc_home_link_13421ad44c1a",
+      "name": "户籍事务",
+      "url": "https://bwc.njupt.edu.cn/hjsw/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "户籍事务"
+      ]
+    }
+  ],
+  "list_page_samples": [
+    {
+      "section_id": "bwc_service_guide",
+      "url": "https://bwc.njupt.edu.cn/bszn/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "bwc_home_link_84a451a2b858",
+      "url": "https://bwc.njupt.edu.cn/506/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "bwc_home_link_a774b07941d3",
+      "url": "https://bwc.njupt.edu.cn/507/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "bwc_home_link_ed2735f97404",
+      "url": "https://bwc.njupt.edu.cn/508/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "bwc_home_link_846bed70ab00",
+      "url": "https://bwc.njupt.edu.cn/509/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "bwc_home_link_531efd5c4c75",
+      "url": "https://bwc.njupt.edu.cn/zajt/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "bwc_home_link_97ae45759f9a",
+      "url": "https://bwc.njupt.edu.cn/xyxf/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "bwc_home_link_13421ad44c1a",
+      "url": "https://bwc.njupt.edu.cn/hjsw/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    }
+  ],
+  "pagination_terminal_samples": [
+    {
+      "section_id": "bwc_service_guide",
+      "last_url": "https://bwc.njupt.edu.cn/bszn/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "bwc_home_link_84a451a2b858",
+      "last_url": "https://bwc.njupt.edu.cn/506/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "bwc_home_link_a774b07941d3",
+      "last_url": "https://bwc.njupt.edu.cn/507/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "bwc_home_link_ed2735f97404",
+      "last_url": "https://bwc.njupt.edu.cn/508/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "bwc_home_link_846bed70ab00",
+      "last_url": "https://bwc.njupt.edu.cn/509/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "bwc_home_link_531efd5c4c75",
+      "last_url": "https://bwc.njupt.edu.cn/zajt/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "bwc_home_link_97ae45759f9a",
+      "last_url": "https://bwc.njupt.edu.cn/xyxf/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "bwc_home_link_13421ad44c1a",
+      "last_url": "https://bwc.njupt.edu.cn/hjsw/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    }
+  ],
+  "detail_page_samples": [
+    {
+      "section_id": "bwc_service_guide",
+      "url": "https://bwc.njupt.edu.cn/bszn/list.htm",
+      "title": "办事指南",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "bwc_home_link_84a451a2b858",
+      "url": "https://bwc.njupt.edu.cn/506/list.htm",
+      "title": "机构简介",
+      "content_status": "normal_content"
+    },
+    {
+      "section_id": "bwc_home_link_a774b07941d3",
+      "url": "https://bwc.njupt.edu.cn/507/list.htm",
+      "title": "机构设置",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "bwc_home_link_ed2735f97404",
+      "url": "https://bwc.njupt.edu.cn/508/list.htm",
+      "title": "联系方式",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "bwc_home_link_846bed70ab00",
+      "url": "https://bwc.njupt.edu.cn/509/list.htm",
+      "title": "工作职能",
+      "content_status": "normal_content"
+    },
+    {
+      "section_id": "bwc_home_link_531efd5c4c75",
+      "url": "https://bwc.njupt.edu.cn/zajt/list.htm",
+      "title": "治安交通",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "bwc_home_link_97ae45759f9a",
+      "url": "https://bwc.njupt.edu.cn/xyxf/list.htm",
+      "title": "校园消防",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "bwc_home_link_13421ad44c1a",
+      "url": "https://bwc.njupt.edu.cn/hjsw/list.htm",
+      "title": "户籍事务",
+      "content_status": "low_content"
+    }
+  ],
+  "attachment_samples": [
+    {
+      "parent_url": "https://bwc.njupt.edu.cn/2026/0522/c543a302513/page.htm",
+      "name": "附件.docx",
+      "url": "https://bwc.njupt.edu.cn/_upload/article/files/09/ab/643a97824447a034c9de942b9658/ec17732e-5c78-4695-b81d-c6549656351b.docx",
+      "extension": "docx"
+    },
+    {
+      "parent_url": "https://bwc.njupt.edu.cn/2026/0403/c543a299083/page.htm",
+      "name": "附件.docx",
+      "url": "https://bwc.njupt.edu.cn/_upload/article/files/2e/34/2a5a075c4a78b546a0bf1a405e2a/d3d3748a-c1d5-49ac-88dc-021884541405.docx",
+      "extension": "docx"
+    },
+    {
+      "parent_url": "https://bwc.njupt.edu.cn/2026/0320/c543a298123/page.htm",
+      "name": "附件.docx",
+      "url": "https://bwc.njupt.edu.cn/_upload/article/files/9e/00/583805774623856c5f83caf42d6d/bf72199d-04d3-485f-8765-7c658998f4ce.docx",
+      "extension": "docx"
+    },
+    {
+      "parent_url": "https://bwc.njupt.edu.cn/2021/1228/c13887a214126/page.htm",
+      "name": "附件.docx",
+      "url": "https://bwc.njupt.edu.cn/_upload/article/files/6e/14/3b03b6ec4f26b6aa69f56b209652/656232cb-9eb3-4baf-ba05-156d0d5d36a1.docx",
+      "extension": "docx"
+    },
+    {
+      "parent_url": "https://bwc.njupt.edu.cn/2021/1228/c13887a214122/page.htm",
+      "name": "〔 2019 〕 2 号",
+      "url": "https://bwc.njupt.edu.cn/_upload/article/files/98/e5/a20f855149ba8405c3e866710223/b26fe4d8-02cc-4956-9194-714f463c8bb7.docx",
+      "extension": "docx"
+    },
+    {
+      "parent_url": "https://bwc.njupt.edu.cn/2020/1019/c13887a186937/page.htm",
+      "name": "南京邮电大学动用明火安全管理规定.doc",
+      "url": "https://bwc.njupt.edu.cn/_upload/article/files/7d/bf/a392fb924891b83888fd94af82d5/54461088-9151-4414-b527-a1284bb6558f.doc",
+      "extension": "doc"
+    },
+    {
+      "parent_url": "https://bwc.njupt.edu.cn/2020/1019/c13887a186938/page.htm",
+      "name": "南京邮电大学校园治安综合治理目标管理考核办法.doc",
+      "url": "https://bwc.njupt.edu.cn/_upload/article/files/17/37/9616c0154dcd9122970629d418c5/ec59a47b-3f01-47ce-afff-fcad4fcc4b44.doc",
+      "extension": "doc"
+    },
+    {
+      "parent_url": "https://bwc.njupt.edu.cn/2016/1226/c13887a186940/page.htm",
+      "name": "南京邮电大学外来务工人员登记表.doc",
+      "url": "https://bwc.njupt.edu.cn/_upload/article/files/80/47/bb791c6946d0967b99dedae52b47/e90db570-31bc-46f6-b3e3-89b77e242a95.doc",
+      "extension": "doc"
+    }
+  ],
+  "external_boundaries": [
+    {
+      "source_url": "https://bwc.njupt.edu.cn/",
+      "url": "https://serve.njupt.edu.cn/dashboard/app/25/flow/todo",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://bwc.njupt.edu.cn/",
+      "url": "https://aqjy.njupt.edu.cn/",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://bwc.njupt.edu.cn/",
+      "url": "https://www.12371.cn/zqzjg/",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://bwc.njupt.edu.cn/",
+      "url": "https://www.12371.cn/special/20jsizqh/",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://bwc.njupt.edu.cn/",
+      "url": "https://www.12371.cn/special/cidian/cxll/",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://bwc.njupt.edu.cn/",
+      "url": "https://study.njupt.edu.cn/web/index",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://bwc.njupt.edu.cn/2024/1118/c510a274370/page.htm",
+      "url": "https://sys.njupt.edu.cn/",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://bwc.njupt.edu.cn/2024/1118/c510a274370/page.htm",
+      "url": "http://xsc.njupt.edu.cn/",
+      "category": "external_link"
+    }
+  ],
+  "console_errors": [],
+  "network_errors": [],
+  "exclusions": [],
+  "coverage_report_ref": "../index/coverage_report.json"
+}

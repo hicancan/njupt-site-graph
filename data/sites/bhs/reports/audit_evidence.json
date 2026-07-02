@@ -1,0 +1,435 @@
+{
+  "version": "njupt-site-audit-evidence-v1",
+  "site_id": "bhs",
+  "method": "structured_package_evidence_with_browser_audit_required",
+  "homepage": {
+    "url": "https://bhs.njupt.edu.cn/",
+    "domain": "bhs.njupt.edu.cn"
+  },
+  "navigation_entries": [
+    {
+      "label": "学院概况",
+      "url": "https://bhs.njupt.edu.cn/4810/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "学院概况"
+      ]
+    },
+    {
+      "label": "学院简介",
+      "url": "https://bhs.njupt.edu.cn/4811/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "学院简介"
+      ]
+    },
+    {
+      "label": "学院领导",
+      "url": "https://bhs.njupt.edu.cn/4812/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "学院领导"
+      ]
+    },
+    {
+      "label": "机构设置",
+      "url": "https://bhs.njupt.edu.cn/4813/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "机构设置"
+      ]
+    },
+    {
+      "label": "微信平台",
+      "url": "https://bhs.njupt.edu.cn/wxpt/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "微信平台"
+      ]
+    },
+    {
+      "label": "联系我们",
+      "url": "https://bhs.njupt.edu.cn/4815/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "联系我们"
+      ]
+    },
+    {
+      "label": "教学教务",
+      "url": "https://bhs.njupt.edu.cn/4783/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "教学教务"
+      ]
+    },
+    {
+      "label": "教学安排",
+      "url": "https://bhs.njupt.edu.cn/4786/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "教学安排"
+      ]
+    }
+  ],
+  "homepage_modules": [],
+  "section_samples": [
+    {
+      "section_id": "bhs_notice",
+      "name": "通知公告",
+      "url": "https://bhs.njupt.edu.cn/4808/list.htm",
+      "source": "declared_section",
+      "section_type": "list",
+      "nav_path": [
+        "通知公告"
+      ]
+    },
+    {
+      "section_id": "bhs_home_link_c18f6a05dfdd",
+      "name": "学院概况",
+      "url": "https://bhs.njupt.edu.cn/4810/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "学院概况"
+      ]
+    },
+    {
+      "section_id": "bhs_home_link_82afb8c8a661",
+      "name": "学院简介",
+      "url": "https://bhs.njupt.edu.cn/4811/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "学院简介"
+      ]
+    },
+    {
+      "section_id": "bhs_home_link_7dfa96542c86",
+      "name": "学院领导",
+      "url": "https://bhs.njupt.edu.cn/4812/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "学院领导"
+      ]
+    },
+    {
+      "section_id": "bhs_home_link_b9d6bfd677e2",
+      "name": "机构设置",
+      "url": "https://bhs.njupt.edu.cn/4813/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "机构设置"
+      ]
+    },
+    {
+      "section_id": "bhs_home_link_7f6d3eca5579",
+      "name": "微信平台",
+      "url": "https://bhs.njupt.edu.cn/wxpt/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "微信平台"
+      ]
+    },
+    {
+      "section_id": "bhs_home_link_8579b0241a17",
+      "name": "联系我们",
+      "url": "https://bhs.njupt.edu.cn/4815/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "联系我们"
+      ]
+    },
+    {
+      "section_id": "bhs_home_link_145bec84b895",
+      "name": "教学教务",
+      "url": "https://bhs.njupt.edu.cn/4783/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "教学教务"
+      ]
+    }
+  ],
+  "list_page_samples": [
+    {
+      "section_id": "bhs_notice",
+      "url": "https://bhs.njupt.edu.cn/4808/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "bhs_home_link_c18f6a05dfdd",
+      "url": "https://bhs.njupt.edu.cn/4810/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "bhs_home_link_82afb8c8a661",
+      "url": "https://bhs.njupt.edu.cn/4811/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "bhs_home_link_7dfa96542c86",
+      "url": "https://bhs.njupt.edu.cn/4812/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "bhs_home_link_b9d6bfd677e2",
+      "url": "https://bhs.njupt.edu.cn/4813/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "bhs_home_link_7f6d3eca5579",
+      "url": "https://bhs.njupt.edu.cn/wxpt/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "bhs_home_link_8579b0241a17",
+      "url": "https://bhs.njupt.edu.cn/4815/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "bhs_home_link_145bec84b895",
+      "url": "https://bhs.njupt.edu.cn/4783/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    }
+  ],
+  "pagination_terminal_samples": [
+    {
+      "section_id": "bhs_notice",
+      "last_url": "https://bhs.njupt.edu.cn/4808/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "bhs_home_link_c18f6a05dfdd",
+      "last_url": "https://bhs.njupt.edu.cn/4810/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "bhs_home_link_82afb8c8a661",
+      "last_url": "https://bhs.njupt.edu.cn/4811/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "bhs_home_link_7dfa96542c86",
+      "last_url": "https://bhs.njupt.edu.cn/4812/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "bhs_home_link_b9d6bfd677e2",
+      "last_url": "https://bhs.njupt.edu.cn/4813/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "bhs_home_link_7f6d3eca5579",
+      "last_url": "https://bhs.njupt.edu.cn/wxpt/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "bhs_home_link_8579b0241a17",
+      "last_url": "https://bhs.njupt.edu.cn/4815/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "bhs_home_link_145bec84b895",
+      "last_url": "https://bhs.njupt.edu.cn/4783/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    }
+  ],
+  "detail_page_samples": [
+    {
+      "section_id": "bhs_notice",
+      "url": "https://bhs.njupt.edu.cn/4808/list.htm",
+      "title": "通知公告",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "bhs_home_link_c18f6a05dfdd",
+      "url": "https://bhs.njupt.edu.cn/4810/list.htm",
+      "title": "学院简介",
+      "content_status": "normal_content"
+    },
+    {
+      "section_id": "bhs_home_link_82afb8c8a661",
+      "url": "https://bhs.njupt.edu.cn/4811/list.htm",
+      "title": "学院简介",
+      "content_status": "normal_content"
+    },
+    {
+      "section_id": "bhs_home_link_7dfa96542c86",
+      "url": "https://bhs.njupt.edu.cn/4812/list.htm",
+      "title": "学院领导",
+      "content_status": "normal_content"
+    },
+    {
+      "section_id": "bhs_home_link_b9d6bfd677e2",
+      "url": "https://bhs.njupt.edu.cn/4813/list.htm",
+      "title": "机构设置",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "bhs_home_link_7f6d3eca5579",
+      "url": "https://bhs.njupt.edu.cn/wxpt/list.htm",
+      "title": "微信平台",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "bhs_home_link_8579b0241a17",
+      "url": "https://bhs.njupt.edu.cn/4815/list.htm",
+      "title": "联系我们",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "bhs_home_link_145bec84b895",
+      "url": "https://bhs.njupt.edu.cn/4783/list.htm",
+      "title": "教学安排",
+      "content_status": "low_content"
+    }
+  ],
+  "attachment_samples": [
+    {
+      "parent_url": "https://bhs.njupt.edu.cn/2024/0513/c4789a262692/page.htm",
+      "name": "附件1：2024年第十届全国大学生物理实验竞赛（创新）命题类题目.pdf",
+      "url": "https://bhs.njupt.edu.cn/_upload/article/files/aa/41/00be770c4f6a911d6cb08b03f2a3/3792dfc7-3afc-463d-b882-4b409a336504.pdf",
+      "extension": "pdf"
+    },
+    {
+      "parent_url": "https://bhs.njupt.edu.cn/2024/0513/c4789a262692/page.htm",
+      "name": "附件2：南京邮电大学第十七届物理与实验科技作品创新竞赛申报书.doc",
+      "url": "https://bhs.njupt.edu.cn/_upload/article/files/aa/41/00be770c4f6a911d6cb08b03f2a3/5da181d5-d8cd-4cb3-b7e7-fc72660408b5.doc",
+      "extension": "doc"
+    },
+    {
+      "parent_url": "https://bhs.njupt.edu.cn/2024/0513/c4789a262571/page.htm",
+      "name": "2024",
+      "url": "http://cmswebsite.ai-learning.net/u/cms/tjjmds/202402/261511185705.docx",
+      "extension": "docx"
+    },
+    {
+      "parent_url": "https://bhs.njupt.edu.cn/2024/0513/c4789a262571/page.htm",
+      "name": "年（第十届）全国大学生统计建模大赛各省赛区承办院校名单",
+      "url": "http://cmswebsite.ai-learning.net/u/cms/tjjmds/202402/261511185705.docx",
+      "extension": "docx"
+    },
+    {
+      "parent_url": "https://bhs.njupt.edu.cn/2024/0513/c4789a262571/page.htm",
+      "name": "2024",
+      "url": "http://cmswebsite.ai-learning.net/u/cms/tjjmds/202402/261510564vry.doc",
+      "extension": "doc"
+    },
+    {
+      "parent_url": "https://bhs.njupt.edu.cn/2024/0513/c4789a262571/page.htm",
+      "name": "年（第十届）全国大学生统计建模大赛承诺书",
+      "url": "http://cmswebsite.ai-learning.net/u/cms/tjjmds/202402/261510564vry.doc",
+      "extension": "doc"
+    },
+    {
+      "parent_url": "https://bhs.njupt.edu.cn/2024/0513/c4789a262571/page.htm",
+      "name": "2024",
+      "url": "http://cmswebsite.ai-learning.net/u/cms/tjjmds/202402/271513460r3n.docx",
+      "extension": "docx"
+    },
+    {
+      "parent_url": "https://bhs.njupt.edu.cn/2024/0513/c4789a262571/page.htm",
+      "name": "年（第十届）全国大学生统计建模大赛各赛区院校负责人、参赛队长",
+      "url": "http://cmswebsite.ai-learning.net/u/cms/tjjmds/202402/271513460r3n.docx",
+      "extension": "docx"
+    }
+  ],
+  "external_boundaries": [
+    {
+      "source_url": "https://bhs.njupt.edu.cn/2026/0601/c4786a303088/page.htm",
+      "url": "https://jwc.njupt.edu.cn/2026/0529/c1594a302927/page.htm",
+      "category": "cross_domain_article_link"
+    },
+    {
+      "source_url": "https://bhs.njupt.edu.cn/2025/1224/c4808a295276/page.htm",
+      "url": "https://jwc.njupt.edu.cn/2025/1224/c1594a295254/page.htm",
+      "category": "cross_domain_article_link"
+    },
+    {
+      "source_url": "https://bhs.njupt.edu.cn/2025/1224/c4808a295275/page.htm",
+      "url": "https://jwc.njupt.edu.cn/2025/1224/c1594a295256/page.htm",
+      "category": "cross_domain_article_link"
+    },
+    {
+      "source_url": "https://bhs.njupt.edu.cn/2025/1118/c4786a292186/page.htm",
+      "url": "https://jwc.njupt.edu.cn/2025/1118/c1594a292167/page.htm",
+      "category": "cross_domain_article_link"
+    },
+    {
+      "source_url": "https://bhs.njupt.edu.cn/2025/1027/c4786a290725/page.htm",
+      "url": "https://jwc.njupt.edu.cn/2025/1027/c1594a290654/page.htm",
+      "category": "cross_domain_article_link"
+    },
+    {
+      "source_url": "https://bhs.njupt.edu.cn/2025/1021/c4786a290421/page.htm",
+      "url": "https://jwc.njupt.edu.cn/2025/1016/c1594a290055/page.htm",
+      "category": "cross_domain_article_link"
+    },
+    {
+      "source_url": "https://bhs.njupt.edu.cn/2025/0922/c4786a289173/page.htm",
+      "url": "https://jwc.njupt.edu.cn/2025/0922/c1594a289155/page.htm",
+      "category": "cross_domain_article_link"
+    },
+    {
+      "source_url": "https://bhs.njupt.edu.cn/2025/0922/c4786a289175/page.htm",
+      "url": "https://jwc.njupt.edu.cn/2025/0910/c1594a288469/page.htm",
+      "category": "cross_domain_article_link"
+    }
+  ],
+  "console_errors": [],
+  "network_errors": [],
+  "exclusions": [],
+  "coverage_report_ref": "../index/coverage_report.json"
+}

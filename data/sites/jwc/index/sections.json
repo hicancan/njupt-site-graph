@@ -17,7 +17,8 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "item_container_selector": ".news_list.list2"
+    "item_container_selector": ".news_list.list2",
+    "source": "declared_section"
   },
   {
     "section_id": "jwc_download_student_forms",
@@ -39,7 +40,8 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "item_container_selector": ".news_list.list2"
+    "item_container_selector": ".news_list.list2",
+    "source": "declared_section"
   },
   {
     "section_id": "jwc_homepage_notice_module",
@@ -60,7 +62,8 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "item_container_selector": ".news_list.list2"
+    "item_container_selector": ".news_list.list2",
+    "source": "declared_section"
   },
   {
     "section_id": "jwc_homepage_news_module",
@@ -81,7 +84,8 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "item_container_selector": ".news_list.list2"
+    "item_container_selector": ".news_list.list2",
+    "source": "declared_section"
   },
   {
     "section_id": "jwc_homepage_jw_news_module",
@@ -102,7 +106,8 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "item_container_selector": ".news_list.list2"
+    "item_container_selector": ".news_list.list2",
+    "source": "declared_section"
   },
   {
     "section_id": "jwc_homepage_teaching_reform_module",
@@ -123,7 +128,8 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "item_container_selector": ".news_list.list2"
+    "item_container_selector": ".news_list.list2",
+    "source": "declared_section"
   },
   {
     "section_id": "jwc_homepage_external_opinion_module",
@@ -144,7 +150,8 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "item_container_selector": ".news_list.list2"
+    "item_container_selector": ".news_list.list2",
+    "source": "declared_section"
   },
   {
     "section_id": "jwc_home_link_d5e557b7bf03",
@@ -164,7 +171,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_305fdc4f5e1c",
@@ -184,7 +191,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_fc2c72a21841",
@@ -204,7 +211,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_4dc2a367b580",
@@ -224,7 +231,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_edb39dc27093",
@@ -244,7 +251,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_0158fe378904",
@@ -264,7 +271,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_a5a93e39b53b",
@@ -284,7 +291,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_30af99bdf0f0",
@@ -304,7 +311,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_311e2a333158",
@@ -324,7 +331,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_58f15d69981b",
@@ -344,7 +351,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_bfe7a9cd8b54",
@@ -364,7 +371,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_dd35727c9247",
@@ -384,7 +391,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_978d67afab3f",
@@ -404,7 +411,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_e1e542e91fc9",
@@ -424,7 +431,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_fba32a15bd50",
@@ -444,7 +451,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_0790f6986162",
@@ -464,7 +471,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_197c0a55bac3",
@@ -484,7 +491,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_242ff3421f32",
@@ -504,7 +511,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_b020e2164d9e",
@@ -524,7 +531,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_a5f895271909",
@@ -544,7 +551,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_323a443861f8",
@@ -564,7 +571,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_881b88a391ce",
@@ -584,7 +591,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_fbee98870484",
@@ -604,7 +611,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_59099716bc6f",
@@ -624,7 +631,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_49c141948401",
@@ -644,7 +651,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_1b5c3a45fa90",
@@ -664,7 +671,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_e34c88d046f2",
@@ -684,7 +691,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_6b5394e7d644",
@@ -704,7 +711,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_de853cbf02e4",
@@ -724,7 +731,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_432d034e0adb",
@@ -744,7 +751,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_8dcdd5d2605d",
@@ -764,7 +771,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_47ff10217f8f",
@@ -784,7 +791,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_30e0882dec9f",
@@ -804,7 +811,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_dd583ad07723",
@@ -824,7 +831,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_9deb76df8697",
@@ -844,7 +851,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_e401f11c5f7f",
@@ -864,7 +871,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_57dd4e76bd27",
@@ -884,7 +891,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_14b987c648ab",
@@ -904,7 +911,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_985b84ad807c",
@@ -924,7 +931,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_6bf45e7462be",
@@ -944,7 +951,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_96d52d3a0866",
@@ -964,7 +971,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_36be2d2a02c1",
@@ -984,7 +991,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_b44fc08f67ff",
@@ -1004,7 +1011,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_006e248ec9af",
@@ -1024,7 +1031,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_5b89cba8a471",
@@ -1044,7 +1051,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_cbb564e0098b",
@@ -1064,7 +1071,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_d7ba4d095870",
@@ -1084,7 +1091,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_332b057ead65",
@@ -1104,7 +1111,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_e99320285600",
@@ -1124,7 +1131,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_2a04d4a80cc3",
@@ -1144,7 +1151,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_25c6f5ed89c9",
@@ -1164,7 +1171,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_736f049d597b",
@@ -1184,7 +1191,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_3ba816c22186",
@@ -1204,7 +1211,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_faa4d0f74cda",
@@ -1224,7 +1231,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_f42003f7779c",
@@ -1244,7 +1251,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_ac5a9b2b57ee",
@@ -1264,7 +1271,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_1772f281015c",
@@ -1284,7 +1291,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_681acacbed27",
@@ -1304,7 +1311,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_8b55b962271f",
@@ -1324,7 +1331,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_12537b67a465",
@@ -1344,7 +1351,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_6ac12c990ca0",
@@ -1364,7 +1371,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_8f5868924cde",
@@ -1384,7 +1391,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_afde05307990",
@@ -1404,7 +1411,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_5fa70e288bf6",
@@ -1424,7 +1431,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_eac1b448ec1d",
@@ -1444,7 +1451,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_96e9d58cc088",
@@ -1464,7 +1471,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_73d6becf8845",
@@ -1484,7 +1491,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_40dec3dc239c",
@@ -1504,7 +1511,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_583f63b107a5",
@@ -1524,7 +1531,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_8ba2100d4ede",
@@ -1544,7 +1551,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_8d9ee435bc8d",
@@ -1564,7 +1571,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_92dd5a7b3216",
@@ -1584,7 +1591,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_ad2fbab7ffe5",
@@ -1604,7 +1611,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_5ca02a2cd5fd",
@@ -1624,7 +1631,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_d83f85def033",
@@ -1644,7 +1651,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_7d80addd53ab",
@@ -1664,7 +1671,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_b6cad3105bca",
@@ -1684,7 +1691,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_3aca24ab030b",
@@ -1704,7 +1711,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_4b088528562d",
@@ -1724,7 +1731,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_45c127006cf8",
@@ -1744,7 +1751,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_2dfb728a2f41",
@@ -1764,7 +1771,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_350581d05002",
@@ -1784,7 +1791,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_e78f777eec8a",
@@ -1804,7 +1811,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_d89a01fd3e8a",
@@ -1824,7 +1831,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_db6c39c65219",
@@ -1844,7 +1851,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_7bacdafc4412",
@@ -1864,7 +1871,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_b40c3b0765b3",
@@ -1884,7 +1891,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_2cb785e941c1",
@@ -1904,7 +1911,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_7bc2c247c3ba",
@@ -1924,7 +1931,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_20238e105060",
@@ -1944,7 +1951,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_179e02018d65",
@@ -1964,7 +1971,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_ae8bc2341bcb",
@@ -1984,7 +1991,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_d8cc45b54a2a",
@@ -2004,7 +2011,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_3b215df98ff7",
@@ -2024,7 +2031,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_b51c1a979259",
@@ -2044,7 +2051,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_4caac6fa0b5c",
@@ -2064,7 +2071,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_55baf3d150eb",
@@ -2084,7 +2091,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_297b39035def",
@@ -2104,7 +2111,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_58476f9e5f19",
@@ -2124,7 +2131,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_1f2453bfdc25",
@@ -2144,7 +2151,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_2e685d4ef560",
@@ -2164,7 +2171,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_3e20523b01ca",
@@ -2184,7 +2191,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_7e0fa272815a",
@@ -2204,7 +2211,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_bcf357317532",
@@ -2224,7 +2231,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_c8a4ce2fbd3d",
@@ -2244,7 +2251,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_7ce6de4fd3d3",
@@ -2264,7 +2271,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_6ec7056d4b70",
@@ -2284,7 +2291,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_d46345583e62",
@@ -2304,7 +2311,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_db438013cf2a",
@@ -2324,7 +2331,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_287448874fe6",
@@ -2344,7 +2351,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_77cebc8d2a4f",
@@ -2364,7 +2371,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_c1562c0f0c7a",
@@ -2384,7 +2391,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_module_8c416cb0a096",
@@ -2426,7 +2433,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_b92f37f37ee0",
@@ -2446,7 +2453,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_b009ba03b8f5",
@@ -2466,7 +2473,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_4f32903ba0c2",
@@ -2486,7 +2493,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_c8a1e307e5e1",
@@ -2506,7 +2513,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_9cb72c9cd068",
@@ -2526,7 +2533,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_c13759a4c0df",
@@ -2546,7 +2553,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_860650153043",
@@ -2566,7 +2573,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_dbec04e96205",
@@ -2586,7 +2593,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_835055f3dc8d",
@@ -2606,7 +2613,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_1e9e25c1383f",
@@ -2626,7 +2633,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_home_link_55a5e4d3f99b",
@@ -2646,7 +2653,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "jwc_inline_section_45de8de3313e",
@@ -2666,7 +2673,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://jwc.njupt.edu.cn/2024/0930/c1594a270711/page.htm"
   },
   {
@@ -2687,7 +2694,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://jwc.njupt.edu.cn/2017/0217/c1594a101708/page.htm"
   },
   {
@@ -2708,7 +2715,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://jwc.njupt.edu.cn/2016/1013/c1594a32562/page.htm"
   },
   {
@@ -2729,7 +2736,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://jwc.njupt.edu.cn/2016/0705/c1594a32002/page.htm"
   },
   {
@@ -2750,7 +2757,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://jwc.njupt.edu.cn/2015/0828/c1594a30237/page.htm"
   },
   {
@@ -2771,7 +2778,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://jwc.njupt.edu.cn/2015/1116/c1596a20591/page.htm"
   },
   {
@@ -2791,6 +2798,6 @@
     "pagination": {
       "type": "none"
     },
-    "source": "manifest_backfill"
+    "source": "archive_section"
   }
 ]

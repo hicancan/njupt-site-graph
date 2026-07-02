@@ -18,7 +18,8 @@
       "type": "next_link",
       "max_pages_safety": 80
     },
-    "item_container_selector": "body"
+    "item_container_selector": "body",
+    "source": "declared_section"
   },
   {
     "section_id": "www_news",
@@ -39,7 +40,8 @@
       "type": "next_link",
       "max_pages_safety": 80
     },
-    "item_container_selector": "body"
+    "item_container_selector": "body",
+    "source": "declared_section"
   },
   {
     "section_id": "www_academic_events",
@@ -60,6 +62,7 @@
       "type": "next_link",
       "max_pages_safety": 80
     },
-    "item_container_selector": "body"
+    "item_container_selector": "body",
+    "source": "declared_section"
   }
 ]

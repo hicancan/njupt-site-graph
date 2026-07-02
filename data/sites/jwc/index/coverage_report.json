@@ -9,11 +9,11 @@
   "sections": {
     "total": 139,
     "by_source": {
-      "homepage_link": 124,
+      "archive_section": 1,
+      "declared_section": 7,
       "homepage_module": 1,
-      "inline_link": 6,
-      "manifest_backfill": 1,
-      "unknown": 7
+      "homepage_nav": 124,
+      "inline_section_link": 6
     },
     "by_type": {
       "direct_detail_links": 1,
@@ -1563,8 +1563,11 @@
   },
   "urls": {
     "unknown_url_count": 0,
-    "excluded_url_count": 0
+    "excluded_url_count": 0,
+    "exclusions": []
   },
   "errors": [],
-  "output_root": "D:\\code\\github\\hicancan\\njupt-site-graph\\data\\sites\\jwc\\index"
+  "output_root": "D:\\code\\github\\hicancan\\njupt-site-graph\\data\\sites\\jwc\\index",
+  "evidence_source": "full_crawl",
+  "audit_evidence_json_ref": "../reports/audit_evidence.json"
 }

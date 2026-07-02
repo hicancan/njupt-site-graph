@@ -17,7 +17,8 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "item_container_selector": ".news_list.list2, .news_list2.list2, body"
+    "item_container_selector": ".news_list.list2, .news_list2.list2, body",
+    "source": "declared_section"
   },
   {
     "section_id": "fwlc_home_link_ac29fe2832ce",
@@ -37,7 +38,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_ac490cda2ca8",
@@ -57,7 +58,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_652d7f926c90",
@@ -77,7 +78,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_69b835cd3492",
@@ -97,7 +98,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_28339dc7b062",
@@ -117,7 +118,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_72f85d7c4965",
@@ -137,7 +138,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_026bd76a9490",
@@ -157,7 +158,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_e13cff6e9689",
@@ -177,7 +178,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_a836f67f1fa1",
@@ -197,7 +198,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_d426f4740901",
@@ -217,7 +218,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_562c2fdd0830",
@@ -237,7 +238,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_cd9795162ba2",
@@ -257,7 +258,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_7096a436decf",
@@ -277,7 +278,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_cb87889423cf",
@@ -297,7 +298,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_84af3e916a0e",
@@ -317,7 +318,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_ede02edb1170",
@@ -337,7 +338,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_6598ee8849f1",
@@ -357,7 +358,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_ad7b88bccb36",
@@ -377,7 +378,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_a3e82647c968",
@@ -397,7 +398,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_5c2db68ec3f3",
@@ -417,7 +418,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_0598188d3c11",
@@ -437,7 +438,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_4043cb8bdc79",
@@ -457,7 +458,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_1b41106d13d8",
@@ -477,7 +478,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_home_link_3e3b06902717",
@@ -497,7 +498,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "fwlc_direct_detail_links",
@@ -516,6 +517,6 @@
     "pagination": {
       "type": "none"
     },
-    "source": "manifest_backfill"
+    "source": "archive_section"
   }
 ]

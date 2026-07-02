@@ -1,0 +1,346 @@
+{
+  "version": "njupt-site-audit-evidence-v1",
+  "site_id": "fwlc",
+  "method": "structured_package_evidence_with_browser_audit_required",
+  "homepage": {
+    "url": "https://fwlc.njupt.edu.cn/",
+    "domain": "fwlc.njupt.edu.cn"
+  },
+  "navigation_entries": [
+    {
+      "label": "关闭此页",
+      "url": "https://fwlc.njupt.edu.cn/",
+      "target_type": "homepage",
+      "nav_path": [
+        "关闭此页"
+      ]
+    }
+  ],
+  "homepage_modules": [],
+  "section_samples": [
+    {
+      "section_id": "fwlc_undergraduate",
+      "name": "本科生服务",
+      "url": "https://fwlc.njupt.edu.cn/bkxsfw/list.htm",
+      "source": "declared_section",
+      "section_type": "list",
+      "nav_path": [
+        "本科生服务"
+      ]
+    },
+    {
+      "section_id": "fwlc_home_link_ac29fe2832ce",
+      "name": "办文办会",
+      "url": "https://fwlc.njupt.edu.cn/dbwxb/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "办文办会"
+      ]
+    },
+    {
+      "section_id": "fwlc_home_link_ac490cda2ca8",
+      "name": "纪检监察",
+      "url": "https://fwlc.njupt.edu.cn/jjjc/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "纪检监察"
+      ]
+    },
+    {
+      "section_id": "fwlc_home_link_652d7f926c90",
+      "name": "基层党建",
+      "url": "https://fwlc.njupt.edu.cn/dwgz/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "基层党建"
+      ]
+    },
+    {
+      "section_id": "fwlc_home_link_69b835cd3492",
+      "name": "宣传工作",
+      "url": "https://fwlc.njupt.edu.cn/xcgz/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "宣传工作"
+      ]
+    },
+    {
+      "section_id": "fwlc_home_link_28339dc7b062",
+      "name": "统战群团",
+      "url": "https://fwlc.njupt.edu.cn/tzqt/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "统战群团"
+      ]
+    },
+    {
+      "section_id": "fwlc_home_link_72f85d7c4965",
+      "name": "研究生服务",
+      "url": "https://fwlc.njupt.edu.cn/yjsfw/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "研究生服务"
+      ]
+    },
+    {
+      "section_id": "fwlc_home_link_026bd76a9490",
+      "name": "安全保卫",
+      "url": "https://fwlc.njupt.edu.cn/aqbw/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "安全保卫"
+      ]
+    }
+  ],
+  "list_page_samples": [
+    {
+      "section_id": "fwlc_undergraduate",
+      "url": "https://fwlc.njupt.edu.cn/bkxsfw/list.htm",
+      "page_index": 1,
+      "item_count": 1,
+      "status": "ok"
+    },
+    {
+      "section_id": "fwlc_undergraduate",
+      "url": "https://fwlc.njupt.edu.cn/bkxsfw/list2.htm",
+      "page_index": 2,
+      "item_count": 22,
+      "status": "ok"
+    },
+    {
+      "section_id": "fwlc_home_link_ac29fe2832ce",
+      "url": "https://fwlc.njupt.edu.cn/dbwxb/list.htm",
+      "page_index": 1,
+      "item_count": 11,
+      "status": "ok"
+    },
+    {
+      "section_id": "fwlc_home_link_ac490cda2ca8",
+      "url": "https://fwlc.njupt.edu.cn/jjjc/list.htm",
+      "page_index": 1,
+      "item_count": 2,
+      "status": "ok"
+    },
+    {
+      "section_id": "fwlc_home_link_652d7f926c90",
+      "url": "https://fwlc.njupt.edu.cn/dwgz/list.htm",
+      "page_index": 1,
+      "item_count": 5,
+      "status": "ok"
+    },
+    {
+      "section_id": "fwlc_home_link_69b835cd3492",
+      "url": "https://fwlc.njupt.edu.cn/xcgz/list.htm",
+      "page_index": 1,
+      "item_count": 12,
+      "status": "ok"
+    },
+    {
+      "section_id": "fwlc_home_link_28339dc7b062",
+      "url": "https://fwlc.njupt.edu.cn/tzqt/list.htm",
+      "page_index": 1,
+      "item_count": 10,
+      "status": "ok"
+    },
+    {
+      "section_id": "fwlc_home_link_72f85d7c4965",
+      "url": "https://fwlc.njupt.edu.cn/yjsfw/list.htm",
+      "page_index": 1,
+      "item_count": 18,
+      "status": "ok"
+    }
+  ],
+  "pagination_terminal_samples": [
+    {
+      "section_id": "fwlc_undergraduate",
+      "last_url": "https://fwlc.njupt.edu.cn/bkxsfw/list2.htm",
+      "pages_crawled": 2,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "fwlc_home_link_ac29fe2832ce",
+      "last_url": "https://fwlc.njupt.edu.cn/dbwxb/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "fwlc_home_link_ac490cda2ca8",
+      "last_url": "https://fwlc.njupt.edu.cn/jjjc/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "fwlc_home_link_652d7f926c90",
+      "last_url": "https://fwlc.njupt.edu.cn/dwgz/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "fwlc_home_link_69b835cd3492",
+      "last_url": "https://fwlc.njupt.edu.cn/xcgz/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "fwlc_home_link_28339dc7b062",
+      "last_url": "https://fwlc.njupt.edu.cn/tzqt/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "fwlc_home_link_72f85d7c4965",
+      "last_url": "https://fwlc.njupt.edu.cn/yjsfw/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "fwlc_home_link_026bd76a9490",
+      "last_url": "https://fwlc.njupt.edu.cn/aqbw/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    }
+  ],
+  "detail_page_samples": [
+    {
+      "section_id": "fwlc_undergraduate",
+      "url": "https://fwlc.njupt.edu.cn/2021/1025/c14734a207724/page.htm",
+      "title": "01学生证相关业务办理流程",
+      "published_at": "2025-07-03",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "fwlc_undergraduate",
+      "url": "https://fwlc.njupt.edu.cn/2021/1025/c14734a207723/page.htm",
+      "title": "02心理咨询流程",
+      "published_at": "2025-07-03",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "fwlc_undergraduate",
+      "url": "https://fwlc.njupt.edu.cn/2021/1025/c14734a207722/page.htm",
+      "title": "03国家奖助学金工作流程",
+      "published_at": "2021-10-25",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "fwlc_undergraduate",
+      "url": "https://fwlc.njupt.edu.cn/2021/1025/c14734a207721/page.htm",
+      "title": "04国家助学贷款工作流程",
+      "published_at": "2021-10-25",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "fwlc_undergraduate",
+      "url": "https://fwlc.njupt.edu.cn/2021/1025/c14734a207720/page.htm",
+      "title": "05学生处分流程",
+      "published_at": "2021-10-25",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "fwlc_undergraduate",
+      "url": "https://fwlc.njupt.edu.cn/2021/1025/c14734a207719/page.htm",
+      "title": "06学生处分评议流程",
+      "published_at": "2021-10-25",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "fwlc_undergraduate",
+      "url": "https://fwlc.njupt.edu.cn/2021/1025/c14734a207434/page.htm",
+      "title": "07家庭经济困难学生认定工作流程",
+      "published_at": "2021-10-25",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "fwlc_undergraduate",
+      "url": "https://fwlc.njupt.edu.cn/2021/1025/c14734a207433/page.htm",
+      "title": "08住院医疗费用理赔商业保险报销流程",
+      "published_at": "2021-10-25",
+      "content_status": "low_content"
+    }
+  ],
+  "attachment_samples": [
+    {
+      "parent_url": "https://fwlc.njupt.edu.cn/2021/1025/c14734a207724/page.htm",
+      "name": "01学生证相关业务办理流程.pdf",
+      "url": "https://fwlc.njupt.edu.cn/_upload/article/files/52/03/50aa2ae944d9818a4d2543a80e22/d0ab9fb1-e03d-4b39-9767-92f4348b261a.pdf",
+      "extension": "pdf"
+    },
+    {
+      "parent_url": "https://fwlc.njupt.edu.cn/2021/1025/c14734a207723/page.htm",
+      "name": "02心理咨询流程.pdf",
+      "url": "https://fwlc.njupt.edu.cn/_upload/article/files/dc/6d/3137c9784c6aac46c59ed1a32106/7a85d1d6-8d5c-471a-9533-ccca42aab022.pdf",
+      "extension": "pdf"
+    },
+    {
+      "parent_url": "https://fwlc.njupt.edu.cn/2021/1025/c14734a207722/page.htm",
+      "name": "03国家奖助学金工作流程.pdf",
+      "url": "https://fwlc.njupt.edu.cn/_upload/article/files/a4/c4/27ee042d42158746487c37645477/8d698999-64b1-42c4-9bbd-efa35a1cd7cc.pdf",
+      "extension": "pdf"
+    },
+    {
+      "parent_url": "https://fwlc.njupt.edu.cn/2021/1025/c14734a207721/page.htm",
+      "name": "04国家助学贷款工作流程.pdf",
+      "url": "https://fwlc.njupt.edu.cn/_upload/article/files/e6/a7/21470def4b9eb350212a696f792f/79898bc6-ac52-4b76-8297-c924a871bdbf.pdf",
+      "extension": "pdf"
+    },
+    {
+      "parent_url": "https://fwlc.njupt.edu.cn/2021/1025/c14734a207720/page.htm",
+      "name": "05学生处分流程.pdf",
+      "url": "https://fwlc.njupt.edu.cn/_upload/article/files/f9/40/8dfe85de4568b36aa440afa96986/d60fa3e0-2bc1-4530-bd42-664d6b911adb.pdf",
+      "extension": "pdf"
+    },
+    {
+      "parent_url": "https://fwlc.njupt.edu.cn/2021/1025/c14734a207719/page.htm",
+      "name": "06学生处分评议流程.pdf",
+      "url": "https://fwlc.njupt.edu.cn/_upload/article/files/0b/7c/046bc603456fa28a87b82412667b/03342a8b-0899-41ac-aba5-90ebd2d19fae.pdf",
+      "extension": "pdf"
+    },
+    {
+      "parent_url": "https://fwlc.njupt.edu.cn/2021/1025/c14734a207434/page.htm",
+      "name": "07家庭经济困难学生认定工作流程.pdf",
+      "url": "https://fwlc.njupt.edu.cn/_upload/article/files/66/9e/43a893624163ae749b5a67508880/ce18d1ac-490d-4bdd-8b5d-d8963304ef4b.pdf",
+      "extension": "pdf"
+    },
+    {
+      "parent_url": "https://fwlc.njupt.edu.cn/2021/1025/c14734a207433/page.htm",
+      "name": "08住院医疗费用理赔商业保险报销流程.pdf",
+      "url": "https://fwlc.njupt.edu.cn/_upload/article/files/b3/5c/1d28dbac4f7f8bf1b80b67394f7b/1bd10909-b56e-4a45-8199-a3c21f0aa90d.pdf",
+      "extension": "pdf"
+    }
+  ],
+  "external_boundaries": [],
+  "console_errors": [],
+  "network_errors": [],
+  "exclusions": [],
+  "coverage_report_ref": "../index/coverage_report.json"
+}

@@ -17,7 +17,8 @@
       "type": "next_link",
       "max_pages_safety": 50
     },
-    "item_container_selector": ".news_list.list2, .news_list2.list2"
+    "item_container_selector": ".news_list.list2, .news_list2.list2",
+    "source": "declared_section"
   },
   {
     "section_id": "scie_teaching",
@@ -38,7 +39,8 @@
       "type": "next_link",
       "max_pages_safety": 50
     },
-    "item_container_selector": ".news_list.list2, .news_list2.list2"
+    "item_container_selector": ".news_list.list2, .news_list2.list2",
+    "source": "declared_section"
   },
   {
     "section_id": "scie_student_work",
@@ -58,7 +60,8 @@
       "type": "next_link",
       "max_pages_safety": 50
     },
-    "item_container_selector": ".news_list.list2, .news_list2.list2"
+    "item_container_selector": ".news_list.list2, .news_list2.list2",
+    "source": "declared_section"
   },
   {
     "section_id": "scie_events",
@@ -78,6 +81,7 @@
       "type": "next_link",
       "max_pages_safety": 50
     },
-    "item_container_selector": ".news_list.list2, .news_list2.list2"
+    "item_container_selector": ".news_list.list2, .news_list2.list2",
+    "source": "declared_section"
   }
 ]

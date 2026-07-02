@@ -1,0 +1,346 @@
+{
+  "version": "njupt-site-audit-evidence-v1",
+  "site_id": "gzzd",
+  "method": "structured_package_evidence_with_browser_audit_required",
+  "homepage": {
+    "url": "https://gzzd.njupt.edu.cn/",
+    "domain": "gzzd.njupt.edu.cn"
+  },
+  "navigation_entries": [
+    {
+      "label": "关闭此页",
+      "url": "https://gzzd.njupt.edu.cn/",
+      "target_type": "homepage",
+      "nav_path": [
+        "关闭此页"
+      ]
+    }
+  ],
+  "homepage_modules": [],
+  "section_samples": [
+    {
+      "section_id": "gzzd_student",
+      "name": "学生",
+      "url": "https://gzzd.njupt.edu.cn/xs/list.htm",
+      "source": "declared_section",
+      "section_type": "list",
+      "nav_path": [
+        "学生"
+      ]
+    },
+    {
+      "section_id": "gzzd_home_link_6d5a5d48c3da",
+      "name": "通知公告",
+      "url": "https://gzzd.njupt.edu.cn/tzgg/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "通知公告"
+      ]
+    },
+    {
+      "section_id": "gzzd_home_link_4d1f3ecb612e",
+      "name": "教职工",
+      "url": "https://gzzd.njupt.edu.cn/jzg/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "教职工"
+      ]
+    },
+    {
+      "section_id": "gzzd_home_link_33a5700482e1",
+      "name": "组织建设",
+      "url": "https://gzzd.njupt.edu.cn/zzjs/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "组织建设"
+      ]
+    },
+    {
+      "section_id": "gzzd_home_link_c799196aaddd",
+      "name": "安全保卫",
+      "url": "https://gzzd.njupt.edu.cn/aqbw/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "安全保卫"
+      ]
+    },
+    {
+      "section_id": "gzzd_home_link_c6bf64c6e817",
+      "name": "宣传思想",
+      "url": "https://gzzd.njupt.edu.cn/xc/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "宣传思想"
+      ]
+    },
+    {
+      "section_id": "gzzd_home_link_8bf1d081ba3c",
+      "name": "纪检监察",
+      "url": "https://gzzd.njupt.edu.cn/jwwjc/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "纪检监察"
+      ]
+    },
+    {
+      "section_id": "gzzd_home_link_5aaba1473d45",
+      "name": "群团组织",
+      "url": "https://gzzd.njupt.edu.cn/gh/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "群团组织"
+      ]
+    }
+  ],
+  "list_page_samples": [
+    {
+      "section_id": "gzzd_student",
+      "url": "https://gzzd.njupt.edu.cn/xs/list.htm",
+      "page_index": 1,
+      "item_count": 1,
+      "status": "ok"
+    },
+    {
+      "section_id": "gzzd_student",
+      "url": "https://gzzd.njupt.edu.cn/xs/list2.htm",
+      "page_index": 2,
+      "item_count": 15,
+      "status": "ok"
+    },
+    {
+      "section_id": "gzzd_home_link_6d5a5d48c3da",
+      "url": "https://gzzd.njupt.edu.cn/tzgg/list.htm",
+      "page_index": 1,
+      "item_count": 21,
+      "status": "ok"
+    },
+    {
+      "section_id": "gzzd_home_link_6d5a5d48c3da",
+      "url": "https://gzzd.njupt.edu.cn/tzgg/list2.htm",
+      "page_index": 2,
+      "item_count": 8,
+      "status": "ok"
+    },
+    {
+      "section_id": "gzzd_home_link_4d1f3ecb612e",
+      "url": "https://gzzd.njupt.edu.cn/jzg/list.htm",
+      "page_index": 1,
+      "item_count": 21,
+      "status": "ok"
+    },
+    {
+      "section_id": "gzzd_home_link_33a5700482e1",
+      "url": "https://gzzd.njupt.edu.cn/zzjs/list.htm",
+      "page_index": 1,
+      "item_count": 42,
+      "status": "ok"
+    },
+    {
+      "section_id": "gzzd_home_link_c799196aaddd",
+      "url": "https://gzzd.njupt.edu.cn/aqbw/list.htm",
+      "page_index": 1,
+      "item_count": 48,
+      "status": "ok"
+    },
+    {
+      "section_id": "gzzd_home_link_c6bf64c6e817",
+      "url": "https://gzzd.njupt.edu.cn/xc/list.htm",
+      "page_index": 1,
+      "item_count": 46,
+      "status": "ok"
+    }
+  ],
+  "pagination_terminal_samples": [
+    {
+      "section_id": "gzzd_student",
+      "last_url": "https://gzzd.njupt.edu.cn/xs/list2.htm",
+      "pages_crawled": 2,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "gzzd_home_link_6d5a5d48c3da",
+      "last_url": "https://gzzd.njupt.edu.cn/tzgg/list2.htm",
+      "pages_crawled": 2,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "gzzd_home_link_4d1f3ecb612e",
+      "last_url": "https://gzzd.njupt.edu.cn/jzg/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "gzzd_home_link_33a5700482e1",
+      "last_url": "https://gzzd.njupt.edu.cn/zzjs/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "gzzd_home_link_c799196aaddd",
+      "last_url": "https://gzzd.njupt.edu.cn/aqbw/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "gzzd_home_link_c6bf64c6e817",
+      "last_url": "https://gzzd.njupt.edu.cn/xc/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "gzzd_home_link_8bf1d081ba3c",
+      "last_url": "https://gzzd.njupt.edu.cn/jwwjc/list2.htm",
+      "pages_crawled": 2,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "gzzd_home_link_5aaba1473d45",
+      "last_url": "https://gzzd.njupt.edu.cn/gh/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    }
+  ],
+  "detail_page_samples": [
+    {
+      "section_id": "gzzd_student",
+      "url": "https://gzzd.njupt.edu.cn/2024/0701/c14564a286842/page.htm",
+      "title": "校学发〔2024〕13号：关于发布《南京邮电大学关于加强家庭经济困难学生发展型资助育人工作的实施意见（试行）》的通知",
+      "published_at": "2025-07-03",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "gzzd_student",
+      "url": "https://gzzd.njupt.edu.cn/2023/1117/c14564a250154/page.htm",
+      "title": "校学发〔2023〕13号：本科优秀学生评选办法",
+      "published_at": "2023-11-17",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "gzzd_student",
+      "url": "https://gzzd.njupt.edu.cn/2021/0916/c14564a252241/page.htm",
+      "title": "校研发〔2020〕20号：南京邮电大学博士研究生培养与学位工作规定（修订）",
+      "published_at": "2021-09-16",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "gzzd_student",
+      "url": "https://gzzd.njupt.edu.cn/2021/0916/c14564a252242/page.htm",
+      "title": "校研发〔2020〕21号：关于发布《南京邮电大学招收推荐优秀应届本科毕业生免试攻读研究生（含直接攻读博士学位研究生）办法》的通知",
+      "published_at": "2021-09-16",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "gzzd_student",
+      "url": "https://gzzd.njupt.edu.cn/2021/0916/c14564a252243/page.htm",
+      "title": "校研发〔2020〕32号：关于发布《南京邮电大学研究生学科竞赛管理办法》的通知",
+      "published_at": "2021-09-16",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "gzzd_student",
+      "url": "https://gzzd.njupt.edu.cn/2021/0916/c14564a252244/page.htm",
+      "title": "校研发〔2020〕36号：关于修订《南京邮电大学研究生学位论文抽检评议不合格处理办法》的通知",
+      "published_at": "2021-09-16",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "gzzd_student",
+      "url": "https://gzzd.njupt.edu.cn/2021/0916/c14564a252245/page.htm",
+      "title": "校研发〔2021〕19号：关于发布《南京邮电大学研究生申请学位学术成果要求（修订）》的通知",
+      "published_at": "2021-09-16",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "gzzd_student",
+      "url": "https://gzzd.njupt.edu.cn/2021/0914/c14564a205187/page.htm",
+      "title": "校学发〔2021〕1号：关于印发《南京邮电大学家庭经济困难学生认定工作实施办法》的通知",
+      "published_at": "2021-08-30",
+      "content_status": "low_content"
+    }
+  ],
+  "attachment_samples": [
+    {
+      "parent_url": "https://gzzd.njupt.edu.cn/2024/0701/c14564a286842/page.htm",
+      "name": "校学发〔2024〕13号：关于发布《南京邮电大学关于加强家庭经济困难学生发展型资助育人工作的实施意见（试行）》的通知.pdf",
+      "url": "https://gzzd.njupt.edu.cn/_upload/article/files/37/70/2b28e1f84bbbbf3baeeff0dce186/c2d76a79-8b0c-49f2-8e9b-669093ee978a.pdf",
+      "extension": "pdf"
+    },
+    {
+      "parent_url": "https://gzzd.njupt.edu.cn/2023/1117/c14564a250154/page.htm",
+      "name": "校学发〔2023〕13号：本科优秀学生评选办法.pdf",
+      "url": "https://gzzd.njupt.edu.cn/_upload/article/files/54/92/839fceb945bf91f4a7ca3bb2d355/af0f4ced-c4c8-49a6-b74a-95396ec740e2.pdf",
+      "extension": "pdf"
+    },
+    {
+      "parent_url": "https://gzzd.njupt.edu.cn/xs/list2.htm",
+      "name": "校学发〔2023〕12号：本科学生能力测评办法",
+      "url": "https://gzzd.njupt.edu.cn/_upload/article/files/bb/b3/308cac194b57bd716c0a8e5a6405/3877a4b8-d973-47a2-bd14-24475d44b89c.pdf",
+      "extension": "pdf"
+    },
+    {
+      "parent_url": "https://gzzd.njupt.edu.cn/2021/0916/c14564a252241/page.htm",
+      "name": "校研发〔2020〕20号：南京邮电大学博士研究生培养与学位工作规定（修订）.pdf",
+      "url": "https://gzzd.njupt.edu.cn/_upload/article/files/53/43/ebae57e34406b3bf91ee32fb5293/2944da26-cea7-408d-9502-96f5c671e516.pdf",
+      "extension": "pdf"
+    },
+    {
+      "parent_url": "https://gzzd.njupt.edu.cn/2021/0916/c14564a252242/page.htm",
+      "name": "校研发〔2020〕21号：关于发布《南京邮电大学招收推荐优秀应届本科毕业生免试攻读研究生（含直接攻读博士学位研究生）办法》的通知.pdf",
+      "url": "https://gzzd.njupt.edu.cn/_upload/article/files/42/26/6e9b46304cfba393a131c771e3a2/3ea8e74e-51d2-44ea-9606-764be7616e6f.pdf",
+      "extension": "pdf"
+    },
+    {
+      "parent_url": "https://gzzd.njupt.edu.cn/2021/0916/c14564a252243/page.htm",
+      "name": "校研发〔2020〕32号：关于发布《南京邮电大学研究生学科竞赛管理办法》的通知.pdf",
+      "url": "https://gzzd.njupt.edu.cn/_upload/article/files/8b/5d/a850645a480dafbff478e4696a43/3a28d56e-2bce-4f16-9049-3a4e53082bb0.pdf",
+      "extension": "pdf"
+    },
+    {
+      "parent_url": "https://gzzd.njupt.edu.cn/2021/0916/c14564a252244/page.htm",
+      "name": "校研发〔2020〕36号：关于修订《南京邮电大学研究生学位论文抽检评议不合格处理办法》的通知.pdf",
+      "url": "https://gzzd.njupt.edu.cn/_upload/article/files/7f/0e/45908eda4963bcabfcdc55c9515b/ffe22398-70da-4087-808f-85656ae951b2.pdf",
+      "extension": "pdf"
+    },
+    {
+      "parent_url": "https://gzzd.njupt.edu.cn/2021/0916/c14564a252245/page.htm",
+      "name": "校研发〔2021〕19号：关于发布《南京邮电大学研究生申请学位学术成果要求（修订）》的通知.pdf",
+      "url": "https://gzzd.njupt.edu.cn/_upload/article/files/a0/c8/96a64f4648648e8e4943dd112e49/88eb2523-309d-46f7-8e1d-6bec6803c228.pdf",
+      "extension": "pdf"
+    }
+  ],
+  "external_boundaries": [],
+  "console_errors": [],
+  "network_errors": [],
+  "exclusions": [],
+  "coverage_report_ref": "../index/coverage_report.json"
+}

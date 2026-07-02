@@ -19,3 +19,4 @@ htmlcov/
 /data/sites/*/reports/*
 !/data/sites/*/reports/
 !/data/sites/*/reports/audit_evidence.md
+!/data/sites/*/reports/audit_evidence.json

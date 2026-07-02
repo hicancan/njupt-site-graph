@@ -18,7 +18,8 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "item_container_selector": ".news_list.list2, .news_list2.list2"
+    "item_container_selector": ".news_list.list2, .news_list2.list2",
+    "source": "declared_section"
   },
   {
     "section_id": "lib_home_link_f17558f6f8f2",
@@ -38,7 +39,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_26aee5af526a",
@@ -58,7 +59,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_8b5386d6765e",
@@ -78,7 +79,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_1cc9ae77df78",
@@ -98,7 +99,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_0cda236aadd5",
@@ -118,7 +119,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_77fd1a44c187",
@@ -138,7 +139,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_165336d5fabb",
@@ -158,7 +159,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_9a439f756012",
@@ -178,7 +179,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_ceaa1539a20f",
@@ -198,7 +199,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_0c6b91cb8433",
@@ -218,7 +219,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_0ec59c3ea2d5",
@@ -238,7 +239,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_72c4e9d47fb3",
@@ -258,7 +259,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_acfdfe8b78a5",
@@ -278,7 +279,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_57f9de175392",
@@ -298,7 +299,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_05c803c9e0a8",
@@ -318,7 +319,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_91bbc2ee2257",
@@ -338,7 +339,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_38e2047b5be5",
@@ -358,7 +359,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_e348e6288ffb",
@@ -378,7 +379,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_cb0c7f1a4cdd",
@@ -398,7 +399,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_c45dc9e3c7b3",
@@ -418,7 +419,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_823030519d75",
@@ -438,7 +439,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_59c42f0d87dc",
@@ -458,7 +459,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_7def3f5e8dd4",
@@ -478,7 +479,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_5bf74ec6fa39",
@@ -498,7 +499,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_15bcce222d70",
@@ -518,7 +519,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_4ca78f6da3ed",
@@ -538,7 +539,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_27351e838d54",
@@ -558,7 +559,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_adca365ba7cc",
@@ -578,7 +579,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_ec4d7654b024",
@@ -598,7 +599,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_a7ce4abf4855",
@@ -618,7 +619,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_3eb9dd740106",
@@ -638,7 +639,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_a8f262802d97",
@@ -658,7 +659,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_3d3cbf9ba74e",
@@ -678,7 +679,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_609a9a2777d9",
@@ -698,7 +699,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_e95b9057b779",
@@ -718,7 +719,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_d1d7bcc66765",
@@ -738,7 +739,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_724db6fa0c25",
@@ -758,7 +759,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_1eeb4bf11f78",
@@ -778,7 +779,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_home_link_c0c028d2b6f3",
@@ -798,7 +799,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "lib_inline_section_066b0cc34143",
@@ -818,7 +819,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://lib.njupt.edu.cn/2015/1021/c1428a19493/page.htm"
   },
   {
@@ -838,6 +839,6 @@
     "pagination": {
       "type": "none"
     },
-    "source": "manifest_backfill"
+    "source": "archive_section"
   }
 ]

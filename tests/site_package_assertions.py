@@ -59,22 +59,45 @@ def assert_manifest_complete(site_id: str) -> dict:
     assert manifest['quality']['errors'] == 0, json.dumps(errors[:10], ensure_ascii=False, indent=2)
     assert manifest['quality']['attachment_policy'] == 'metadata_only'
     assert manifest['quality']['external_link_policy'] == 'record_only'
-    assert manifest['coverage_status'] == 'complete'
-    assert manifest['quality']['coverage_status'] == 'complete'
+    allowed_statuses = {'complete', 'complete_with_exclusions'}
+    assert manifest['coverage_status'] in allowed_statuses
+    assert manifest['quality']['coverage_status'] == manifest['coverage_status']
+    assert manifest['evidence_source'] == 'full_crawl'
+    assert manifest['quality']['evidence_source'] == 'full_crawl'
     assert manifest['pagination_terminal_verified'] is True
     assert manifest['unknown_url_count'] == 0
     assert manifest['audit_evidence_ref']
+    assert manifest['audit_evidence_json_ref']
     coverage = read_json(root / 'coverage_report.json')
     assert coverage['site_id'] == site_id
-    assert coverage['coverage_status'] == 'complete'
+    assert coverage['coverage_status'] == manifest['coverage_status']
+    assert coverage['evidence_source'] == 'full_crawl'
     assert coverage['pagination']['terminal_verified'] is True
     assert coverage['audit_evidence_ref'] == manifest['audit_evidence_ref']
-    for exclusion in coverage['urls'].get('exclusions', []):
+    assert coverage['audit_evidence_json_ref'] == manifest['audit_evidence_json_ref']
+    exclusions = coverage['urls'].get('exclusions', [])
+    assert manifest['coverage_status'] == ('complete_with_exclusions' if exclusions else 'complete')
+    invalid_sources = set((coverage['sections'].get('by_source') or {})) - {
+        'declared_section',
+        'homepage_nav',
+        'homepage_module',
+        'inline_section_link',
+        'api_category',
+        'archive_section',
+    }
+    assert invalid_sources == set()
+    for exclusion in exclusions:
         assert exclusion['reason']
         assert exclusion['scope']
+        assert exclusion['evidence_url']
+        assert exclusion['owner_action']
         assert exclusion['expiry'] >= date.today().isoformat()
     audit_path = root / manifest['audit_evidence_ref']
     assert audit_path.exists(), f'{site_id} missing audit evidence {manifest["audit_evidence_ref"]}'
+    audit_json_path = root / manifest['audit_evidence_json_ref']
+    assert audit_json_path.exists(), f'{site_id} missing audit JSON evidence {manifest["audit_evidence_json_ref"]}'
+    audit_json = read_json(audit_json_path)
+    assert audit_json['site_id'] == site_id
     assert errors == []
     assert manifest['url_outcomes']
     assert_unknown_outcomes_allowlisted(site_id, manifest)

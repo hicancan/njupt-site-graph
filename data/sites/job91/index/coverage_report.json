@@ -9,7 +9,7 @@
   "sections": {
     "total": 29,
     "by_source": {
-      "job91_api": 29
+      "api_category": 29
     },
     "by_type": {
       "api_list": 29
@@ -355,8 +355,11 @@
   },
   "urls": {
     "unknown_url_count": 0,
-    "excluded_url_count": 0
+    "excluded_url_count": 0,
+    "exclusions": []
   },
   "errors": [],
-  "output_root": "data\\sites\\job91\\index"
+  "output_root": "data\\sites\\job91\\index",
+  "evidence_source": "full_crawl",
+  "audit_evidence_json_ref": "../reports/audit_evidence.json"
 }

@@ -1,0 +1,467 @@
+{
+  "version": "njupt-site-audit-evidence-v1",
+  "site_id": "cxcy",
+  "method": "structured_package_evidence_with_browser_audit_required",
+  "homepage": {
+    "url": "https://cxcy.njupt.edu.cn/",
+    "domain": "cxcy.njupt.edu.cn"
+  },
+  "navigation_entries": [
+    {
+      "label": "学院简介",
+      "url": "https://cxcy.njupt.edu.cn/15461/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "学院简介"
+      ]
+    },
+    {
+      "label": "学院概况",
+      "url": "https://cxcy.njupt.edu.cn/15485/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "学院概况"
+      ]
+    },
+    {
+      "label": "现任领导",
+      "url": "https://cxcy.njupt.edu.cn/15486/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "现任领导"
+      ]
+    },
+    {
+      "label": "联系方式",
+      "url": "https://cxcy.njupt.edu.cn/15487/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "联系方式"
+      ]
+    },
+    {
+      "label": "规章制度",
+      "url": "https://cxcy.njupt.edu.cn/15462/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "规章制度"
+      ]
+    },
+    {
+      "label": "上级文件",
+      "url": "https://cxcy.njupt.edu.cn/15488/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "上级文件"
+      ]
+    },
+    {
+      "label": "学校规章",
+      "url": "https://cxcy.njupt.edu.cn/15489/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "学校规章"
+      ]
+    },
+    {
+      "label": "双创教育",
+      "url": "https://cxcy.njupt.edu.cn/15463/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "双创教育"
+      ]
+    }
+  ],
+  "homepage_modules": [
+    {
+      "name": "新闻资讯",
+      "url": "https://cxcy.njupt.edu.cn/",
+      "list_url": "https://cxcy.njupt.edu.cn/xwzx/list.htm",
+      "source": "browser_audit"
+    },
+    {
+      "name": "通知公告",
+      "url": "https://cxcy.njupt.edu.cn/",
+      "list_url": "https://cxcy.njupt.edu.cn/tzgg/list.htm",
+      "source": "browser_audit"
+    },
+    {
+      "name": "双创项目",
+      "url": "https://cxcy.njupt.edu.cn/",
+      "list_url": "https://cxcy.njupt.edu.cn/scxm/list.htm",
+      "source": "browser_audit"
+    },
+    {
+      "name": "竞赛成果",
+      "url": "https://cxcy.njupt.edu.cn/",
+      "list_url": "https://cxcy.njupt.edu.cn/jscx/list.htm",
+      "source": "browser_audit"
+    },
+    {
+      "name": "友情链接",
+      "url": "https://cxcy.njupt.edu.cn/"
+    }
+  ],
+  "section_samples": [
+    {
+      "section_id": "cxcy_download_center",
+      "name": "下载中心",
+      "url": "https://cxcy.njupt.edu.cn/15468/list.htm",
+      "source": "declared_section",
+      "section_type": "resource_list",
+      "nav_path": [
+        "下载中心"
+      ]
+    },
+    {
+      "section_id": "cxcy_competition_notices",
+      "name": "学科竞赛相关通知",
+      "url": "https://cxcy.njupt.edu.cn/15495/list.htm",
+      "source": "declared_section",
+      "section_type": "list",
+      "nav_path": [
+        "双创项目",
+        "学科竞赛",
+        "相关通知"
+      ]
+    },
+    {
+      "section_id": "cxcy_home_link_6b7c0aa54912",
+      "name": "学院简介",
+      "url": "https://cxcy.njupt.edu.cn/15461/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "学院简介"
+      ]
+    },
+    {
+      "section_id": "cxcy_home_link_b1e925492719",
+      "name": "学院概况",
+      "url": "https://cxcy.njupt.edu.cn/15485/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "学院概况"
+      ]
+    },
+    {
+      "section_id": "cxcy_home_link_b500cd9105df",
+      "name": "现任领导",
+      "url": "https://cxcy.njupt.edu.cn/15486/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "现任领导"
+      ]
+    },
+    {
+      "section_id": "cxcy_home_link_c2907f987734",
+      "name": "联系方式",
+      "url": "https://cxcy.njupt.edu.cn/15487/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "联系方式"
+      ]
+    },
+    {
+      "section_id": "cxcy_home_link_fa33abd8f4b8",
+      "name": "规章制度",
+      "url": "https://cxcy.njupt.edu.cn/15462/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "规章制度"
+      ]
+    },
+    {
+      "section_id": "cxcy_home_link_d82c625db55f",
+      "name": "上级文件",
+      "url": "https://cxcy.njupt.edu.cn/15488/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "上级文件"
+      ]
+    }
+  ],
+  "list_page_samples": [
+    {
+      "section_id": "cxcy_download_center",
+      "url": "https://cxcy.njupt.edu.cn/15468/list.htm",
+      "page_index": 1,
+      "item_count": 3,
+      "status": "ok"
+    },
+    {
+      "section_id": "cxcy_competition_notices",
+      "url": "https://cxcy.njupt.edu.cn/15495/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "cxcy_home_link_6b7c0aa54912",
+      "url": "https://cxcy.njupt.edu.cn/15461/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "cxcy_home_link_b1e925492719",
+      "url": "https://cxcy.njupt.edu.cn/15485/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "cxcy_home_link_b500cd9105df",
+      "url": "https://cxcy.njupt.edu.cn/15486/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "cxcy_home_link_c2907f987734",
+      "url": "https://cxcy.njupt.edu.cn/15487/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "cxcy_home_link_fa33abd8f4b8",
+      "url": "https://cxcy.njupt.edu.cn/15462/list.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "cxcy_home_link_d82c625db55f",
+      "url": "https://cxcy.njupt.edu.cn/15488/list.htm",
+      "page_index": 1,
+      "item_count": 3,
+      "status": "ok"
+    }
+  ],
+  "pagination_terminal_samples": [
+    {
+      "section_id": "cxcy_download_center",
+      "last_url": "https://cxcy.njupt.edu.cn/15468/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "cxcy_competition_notices",
+      "last_url": "https://cxcy.njupt.edu.cn/15495/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "cxcy_home_link_6b7c0aa54912",
+      "last_url": "https://cxcy.njupt.edu.cn/15461/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "cxcy_home_link_b1e925492719",
+      "last_url": "https://cxcy.njupt.edu.cn/15485/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "cxcy_home_link_b500cd9105df",
+      "last_url": "https://cxcy.njupt.edu.cn/15486/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "cxcy_home_link_c2907f987734",
+      "last_url": "https://cxcy.njupt.edu.cn/15487/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "cxcy_home_link_fa33abd8f4b8",
+      "last_url": "https://cxcy.njupt.edu.cn/15462/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "cxcy_home_link_d82c625db55f",
+      "last_url": "https://cxcy.njupt.edu.cn/15488/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    }
+  ],
+  "detail_page_samples": [
+    {
+      "section_id": "cxcy_competition_notices",
+      "url": "https://cxcy.njupt.edu.cn/15495/list.htm",
+      "title": "相关通知",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "cxcy_home_link_6b7c0aa54912",
+      "url": "https://cxcy.njupt.edu.cn/15461/list.htm",
+      "title": "学院概况",
+      "content_status": "normal_content"
+    },
+    {
+      "section_id": "cxcy_home_link_b1e925492719",
+      "url": "https://cxcy.njupt.edu.cn/15485/list.htm",
+      "title": "学院概况",
+      "content_status": "normal_content"
+    },
+    {
+      "section_id": "cxcy_home_link_b500cd9105df",
+      "url": "https://cxcy.njupt.edu.cn/15486/list.htm",
+      "title": "现任领导",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "cxcy_home_link_c2907f987734",
+      "url": "https://cxcy.njupt.edu.cn/15487/list.htm",
+      "title": "联系方式",
+      "content_status": "normal_content"
+    },
+    {
+      "section_id": "cxcy_home_link_fa33abd8f4b8",
+      "url": "https://cxcy.njupt.edu.cn/15462/list.htm",
+      "title": "规章制度",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "cxcy_home_link_d82c625db55f",
+      "url": "https://cxcy.njupt.edu.cn/2022/0712/c15488a224090/page.htm",
+      "title": "国务院办公厅关于进一步支持大学生创新创业的指导意见",
+      "published_at": "2020-09-30",
+      "content_status": "normal_content"
+    },
+    {
+      "section_id": "cxcy_home_link_d82c625db55f",
+      "url": "https://cxcy.njupt.edu.cn/2022/0712/c15488a224089/page.htm",
+      "title": "国务院办公厅关于深化高等学校创新创业教育改革的实施意见",
+      "published_at": "2018-01-05",
+      "content_status": "normal_content"
+    }
+  ],
+  "attachment_samples": [
+    {
+      "parent_url": "https://cxcy.njupt.edu.cn/2022/0712/c15489a224094/page.htm",
+      "name": "大学生创新创业训练计划项目结题验收标准.doc",
+      "url": "https://cxcy.njupt.edu.cn/_upload/article/files/6b/95/120ff84b4714b8278ff0440fabaa/4354159e-68b4-4fdd-a505-e1bab3d654cb.doc",
+      "extension": "doc"
+    },
+    {
+      "parent_url": "https://cxcy.njupt.edu.cn/2022/0712/c15489a224094/page.htm",
+      "name": "南京邮电大学本科生创新创业竞赛管理规定.doc",
+      "url": "https://cxcy.njupt.edu.cn/_upload/article/files/6b/95/120ff84b4714b8278ff0440fabaa/ce764746-336a-477c-bbe1-52b981a27d6a.doc",
+      "extension": "doc"
+    },
+    {
+      "parent_url": "https://cxcy.njupt.edu.cn/2022/0712/c15489a224092/page.htm",
+      "name": "南京邮电大学本科生创新创业竞赛管理规定.doc",
+      "url": "https://cxcy.njupt.edu.cn/_upload/article/files/4c/5b/178764bc4a938832db7fed018d28/0da2249f-41a3-4932-882e-9229f47aa743.doc",
+      "extension": "doc"
+    },
+    {
+      "parent_url": "https://cxcy.njupt.edu.cn/2026/0210/c15464a297050/page.htm",
+      "name": "附件：2024年度南京邮电大学大学生创新创业训练计划项目立项汇总表.xls",
+      "url": "https://cxcy.njupt.edu.cn/_upload/article/files/c2/a2/8697dcfd4399979cff0afd013abf/9e39df25-4823-49ff-8162-80c22114bf96.xls",
+      "extension": "xls"
+    },
+    {
+      "parent_url": "https://cxcy.njupt.edu.cn/2026/0210/c15464a297048/page.htm",
+      "name": "2023年度南京邮电大学大学生创新创业训练计划项目结题验收成绩公示.xls",
+      "url": "https://cxcy.njupt.edu.cn/_upload/article/files/4d/26/bd84fd884965b195d46eca952565/1ae61516-f71a-457a-b74e-48017f5815f7.xls",
+      "extension": "xls"
+    },
+    {
+      "parent_url": "https://cxcy.njupt.edu.cn/2026/0210/c15464a297042/page.htm",
+      "name": "2022年度南京邮电大学大学生创新创业训练计划项目结题验收成绩公示.xls",
+      "url": "https://cxcy.njupt.edu.cn/_upload/article/files/ba/84/3e865e824b6a90a6bb5778bc117b/f21b3ba1-d054-45d8-9049-118b752e1981.xls",
+      "extension": "xls"
+    },
+    {
+      "parent_url": "https://cxcy.njupt.edu.cn/2026/0210/c15464a297044/page.htm",
+      "name": "附件：2023年度南京邮电大学大学生创新创业训练计划项目立项汇总表.xls",
+      "url": "https://cxcy.njupt.edu.cn/_upload/article/files/98/ef/b79d43d64511bb90c9dfd5142d36/63b1a43a-deb4-4726-b250-071f0b781c17.xls",
+      "extension": "xls"
+    },
+    {
+      "parent_url": "https://cxcy.njupt.edu.cn/2026/0210/c15464a297039/page.htm",
+      "name": "附件：2022年度南京邮电大学大学生创新创业训练计划项目立项汇总表（发布版）.xls",
+      "url": "https://cxcy.njupt.edu.cn/_upload/article/files/6a/ca/9668287145f39138d167607867bc/0ae8630e-40b1-4f55-919c-618da7f21a0c.xls",
+      "extension": "xls"
+    }
+  ],
+  "external_boundaries": [
+    {
+      "source_url": "https://cxcy.njupt.edu.cn/2022/0712/c15464a224070/page.htm",
+      "url": "http://180.209.64.18/cxcy/shownews.aspx?newsno=157",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://cxcy.njupt.edu.cn/2026/0210/c15464a297038/page.htm",
+      "url": "http://180.209.64.62/njupt_cx/",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://cxcy.njupt.edu.cn/2024/1017/c15469a271818/page.htm",
+      "url": "http://www.news.cn/politics/leaders/20241017/b5eb326c1c13430ea227ce55d6bfdf1c/c.html",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://cxcy.njupt.edu.cn/2024/0619/c15469a266283/page.htm",
+      "url": "https://www.synopsys.com/designware-ip/processor-solutions/arc-classic-processors/designware-arc-subsystems.html",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://cxcy.njupt.edu.cn/2024/0619/c15469a266283/page.htm",
+      "url": "https://www.synopsys.com/designware-ip/processor-solutions/arc-development-tools.html",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://cxcy.njupt.edu.cn/2024/0619/c15469a266283/page.htm",
+      "url": "https://www.synopsys.com/designware-ip/processor-solutions/asips-tools.html",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://cxcy.njupt.edu.cn/2024/0424/c11384a260924/page.htm",
+      "url": "https://www.njupt.edu.cn/_t44/2024/0421/c53a260540/page.htm",
+      "category": "cross_domain_article_link"
+    },
+    {
+      "source_url": "https://cxcy.njupt.edu.cn/2024/0424/c11384a260923/page.htm",
+      "url": "https://www.njupt.edu.cn/_t44/2024/0424/c53a260894/page.htm",
+      "category": "cross_domain_article_link"
+    }
+  ],
+  "console_errors": [],
+  "network_errors": [],
+  "exclusions": [],
+  "coverage_report_ref": "../index/coverage_report.json"
+}

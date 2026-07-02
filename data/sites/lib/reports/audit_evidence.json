@@ -1,0 +1,444 @@
+{
+  "version": "njupt-site-audit-evidence-v1",
+  "site_id": "lib",
+  "method": "structured_package_evidence_with_browser_audit_required",
+  "homepage": {
+    "url": "https://lib.njupt.edu.cn/",
+    "domain": "lib.njupt.edu.cn"
+  },
+  "navigation_entries": [
+    {
+      "label": "本馆概况",
+      "url": "https://lib.njupt.edu.cn/1378/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "本馆概况"
+      ]
+    },
+    {
+      "label": "本馆简介",
+      "url": "https://lib.njupt.edu.cn/1379/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "本馆简介"
+      ]
+    },
+    {
+      "label": "部门设置",
+      "url": "https://lib.njupt.edu.cn/1380/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "部门设置"
+      ]
+    },
+    {
+      "label": "服务流程",
+      "url": "https://lib.njupt.edu.cn/1381/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "服务流程"
+      ]
+    },
+    {
+      "label": "馆藏分布",
+      "url": "https://lib.njupt.edu.cn/1382/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "馆藏分布"
+      ]
+    },
+    {
+      "label": "楼层布局",
+      "url": "https://lib.njupt.edu.cn/lcbj/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "楼层布局"
+      ]
+    },
+    {
+      "label": "入馆须知",
+      "url": "https://lib.njupt.edu.cn/1383/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "入馆须知"
+      ]
+    },
+    {
+      "label": "开放时间",
+      "url": "https://lib.njupt.edu.cn/1384/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "开放时间"
+      ]
+    }
+  ],
+  "homepage_modules": [],
+  "section_samples": [
+    {
+      "section_id": "lib_notice",
+      "name": "通知公告",
+      "url": "https://lib.njupt.edu.cn/1429/list.htm",
+      "source": "declared_section",
+      "section_type": "list",
+      "nav_path": [
+        "新闻资讯",
+        "通知公告"
+      ]
+    },
+    {
+      "section_id": "lib_home_link_f17558f6f8f2",
+      "name": "本馆概况",
+      "url": "https://lib.njupt.edu.cn/1378/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "本馆概况"
+      ]
+    },
+    {
+      "section_id": "lib_home_link_26aee5af526a",
+      "name": "本馆简介",
+      "url": "https://lib.njupt.edu.cn/1379/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "本馆简介"
+      ]
+    },
+    {
+      "section_id": "lib_home_link_8b5386d6765e",
+      "name": "部门设置",
+      "url": "https://lib.njupt.edu.cn/1380/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "部门设置"
+      ]
+    },
+    {
+      "section_id": "lib_home_link_1cc9ae77df78",
+      "name": "服务流程",
+      "url": "https://lib.njupt.edu.cn/1381/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "服务流程"
+      ]
+    },
+    {
+      "section_id": "lib_home_link_0cda236aadd5",
+      "name": "馆藏分布",
+      "url": "https://lib.njupt.edu.cn/1382/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "馆藏分布"
+      ]
+    },
+    {
+      "section_id": "lib_home_link_77fd1a44c187",
+      "name": "楼层布局",
+      "url": "https://lib.njupt.edu.cn/lcbj/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "楼层布局"
+      ]
+    },
+    {
+      "section_id": "lib_home_link_165336d5fabb",
+      "name": "入馆须知",
+      "url": "https://lib.njupt.edu.cn/1383/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "入馆须知"
+      ]
+    }
+  ],
+  "list_page_samples": [
+    {
+      "section_id": "lib_notice",
+      "url": "https://lib.njupt.edu.cn/1429/list.htm",
+      "page_index": 1,
+      "item_count": 14,
+      "status": "ok"
+    },
+    {
+      "section_id": "lib_notice",
+      "url": "https://lib.njupt.edu.cn/1429/list2.htm",
+      "page_index": 2,
+      "item_count": 14,
+      "status": "ok"
+    },
+    {
+      "section_id": "lib_notice",
+      "url": "https://lib.njupt.edu.cn/1429/list3.htm",
+      "page_index": 3,
+      "item_count": 14,
+      "status": "ok"
+    },
+    {
+      "section_id": "lib_notice",
+      "url": "https://lib.njupt.edu.cn/1429/list4.htm",
+      "page_index": 4,
+      "item_count": 14,
+      "status": "ok"
+    },
+    {
+      "section_id": "lib_notice",
+      "url": "https://lib.njupt.edu.cn/1429/list5.htm",
+      "page_index": 5,
+      "item_count": 14,
+      "status": "ok"
+    },
+    {
+      "section_id": "lib_notice",
+      "url": "https://lib.njupt.edu.cn/1429/list6.htm",
+      "page_index": 6,
+      "item_count": 14,
+      "status": "ok"
+    },
+    {
+      "section_id": "lib_notice",
+      "url": "https://lib.njupt.edu.cn/1429/list7.htm",
+      "page_index": 7,
+      "item_count": 14,
+      "status": "ok"
+    },
+    {
+      "section_id": "lib_notice",
+      "url": "https://lib.njupt.edu.cn/1429/list8.htm",
+      "page_index": 8,
+      "item_count": 14,
+      "status": "ok"
+    }
+  ],
+  "pagination_terminal_samples": [
+    {
+      "section_id": "lib_notice",
+      "last_url": "https://lib.njupt.edu.cn/1429/list27.htm",
+      "pages_crawled": 27,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "lib_home_link_f17558f6f8f2",
+      "last_url": "https://lib.njupt.edu.cn/1378/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "lib_home_link_26aee5af526a",
+      "last_url": "https://lib.njupt.edu.cn/1379/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "lib_home_link_8b5386d6765e",
+      "last_url": "https://lib.njupt.edu.cn/1380/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "lib_home_link_1cc9ae77df78",
+      "last_url": "https://lib.njupt.edu.cn/1381/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "lib_home_link_0cda236aadd5",
+      "last_url": "https://lib.njupt.edu.cn/1382/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "lib_home_link_77fd1a44c187",
+      "last_url": "https://lib.njupt.edu.cn/lcbj/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "lib_home_link_165336d5fabb",
+      "last_url": "https://lib.njupt.edu.cn/1383/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    }
+  ],
+  "detail_page_samples": [
+    {
+      "section_id": "lib_notice",
+      "url": "https://lib.njupt.edu.cn/2026/0427/c1429a300896/page.htm",
+      "title": "图书馆关于2026年“五一”劳动节开放安排的通知",
+      "published_at": "2026-04-27",
+      "content_status": "normal_content"
+    },
+    {
+      "section_id": "lib_notice",
+      "url": "https://lib.njupt.edu.cn/2026/0401/c1429a298932/page.htm",
+      "title": "图书馆关于2026年清明节开放安排的通知",
+      "published_at": "2026-04-01",
+      "content_status": "normal_content"
+    },
+    {
+      "section_id": "lib_notice",
+      "url": "https://lib.njupt.edu.cn/2026/0311/c1429a297654/page.htm",
+      "title": "关于开展2025年度“阅读之星”评选活动的通知",
+      "published_at": "2026-03-11",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "lib_notice",
+      "url": "https://lib.njupt.edu.cn/2026/0119/c1429a296508/page.htm",
+      "title": "2026年寒假图书馆开放通知",
+      "published_at": "2026-01-19",
+      "content_status": "normal_content"
+    },
+    {
+      "section_id": "lib_notice",
+      "url": "https://lib.njupt.edu.cn/2025/1226/c1429a295395/page.htm",
+      "title": "图书馆关于2026年元旦期间开放安排的通知",
+      "published_at": "2025-12-26",
+      "content_status": "normal_content"
+    },
+    {
+      "section_id": "lib_notice",
+      "url": "https://lib.njupt.edu.cn/2025/1124/c1429a292515/page.htm",
+      "title": "关于举办《回望书香 开卷有益——从<南京的书香>说开去》讲座的通知",
+      "published_at": "2025-11-24",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "lib_notice",
+      "url": "https://lib.njupt.edu.cn/2025/0924/c1429a289287/page.htm",
+      "title": "关于临时延长图书馆开放时间的通知",
+      "published_at": "2025-09-25",
+      "content_status": "normal_content"
+    },
+    {
+      "section_id": "lib_notice",
+      "url": "https://lib.njupt.edu.cn/2025/0924/c1429a289286/page.htm",
+      "title": "图书馆关于2025年国庆节开放安排的通知",
+      "published_at": "2025-09-24",
+      "content_status": "normal_content"
+    }
+  ],
+  "attachment_samples": [
+    {
+      "parent_url": "https://lib.njupt.edu.cn/2025/0314/c1429a279527/page.htm",
+      "name": "附件 ：南京邮电大学2024年度“阅读之星”申报表.docx",
+      "url": "https://lib.njupt.edu.cn/_upload/article/files/c2/26/a9ee88774884af9ed3db6aa475eb/6c369097-8611-4ed1-8f6b-73b97361f259.docx",
+      "extension": "docx"
+    },
+    {
+      "parent_url": "https://lib.njupt.edu.cn/2023/0413/c1429a238779/page.htm",
+      "name": "关于举办南京邮电大学大学生知识产权竞赛暨江苏省大学生知识产权竞赛校内选拔赛的通知.docx",
+      "url": "https://lib.njupt.edu.cn/_upload/article/files/2c/9e/a8c0e8c6484cb2837b3908446212/495060b7-fdb4-4037-9927-09c79859b23e.docx",
+      "extension": "docx"
+    },
+    {
+      "parent_url": "https://lib.njupt.edu.cn/2018/0423/c1429a125640/page.htm",
+      "name": "关于举办2018年馆员书评征集活动（第六季）的通知.pdf",
+      "url": "https://lib.njupt.edu.cn/_upload/article/files/fa/00/9129e9fa4252bc0f4dc3811dfe70/9468396a-ba42-4397-b2c5-38fc86ccc775.pdf",
+      "extension": "pdf"
+    },
+    {
+      "parent_url": "https://lib.njupt.edu.cn/2017/0605/c1429a107107/page.htm",
+      "name": "关于开展“最是书香能致远——2017江苏大学生书偶创意设计作品大赛”活动的通知.pdf",
+      "url": "https://lib.njupt.edu.cn/_upload/article/files/8a/45/a877d31c461283148fbbe23740ab/c1d6043d-2391-48a6-a06a-d0423a12f538.pdf",
+      "extension": "pdf"
+    },
+    {
+      "parent_url": "https://lib.njupt.edu.cn/2017/0504/c1429a103700/page.htm",
+      "name": "中国图书馆学会阅读推广委员会关于举办2017年馆员书评征集活动（第五季）通知.pdf",
+      "url": "https://lib.njupt.edu.cn/_upload/article/files/27/33/775744904a228c8658f0d9238f16/e184c8c6-53fa-4c65-b559-002ac70dbb57.pdf",
+      "extension": "pdf"
+    },
+    {
+      "parent_url": "https://lib.njupt.edu.cn/2017/0504/c1429a103700/page.htm",
+      "name": "书评来稿格式.docx",
+      "url": "https://lib.njupt.edu.cn/_upload/article/files/27/33/775744904a228c8658f0d9238f16/d5bdf068-096b-4f3d-829f-6eabbc268877.docx",
+      "extension": "docx"
+    },
+    {
+      "parent_url": "https://lib.njupt.edu.cn/2015/0331/c1429a18098/page.htm",
+      "name": "关于举办“图书馆员的阅读发现与推介”2015年馆员书评征集活动第三季的通知.pdf",
+      "url": "https://lib.njupt.edu.cn/_upload/article/files/f2/d3/a6f7a843490884a78c79ae419011/40a234be-f059-4985-be3f-bc94c4657359.pdf",
+      "extension": "pdf"
+    },
+    {
+      "parent_url": "https://lib.njupt.edu.cn/2014/0303/c1429a18001/page.htm",
+      "name": "馆员书评活动第二季通知文件.zip",
+      "url": "https://lib.njupt.edu.cn/_upload/article/files/00/ee/f439a43542ef8e8c5fcc87c983cc/61251526-9737-490c-bb95-43739618c519.zip",
+      "extension": "zip"
+    }
+  ],
+  "external_boundaries": [
+    {
+      "source_url": "https://lib.njupt.edu.cn/2022/0317/c1429a217140/page.htm",
+      "url": "http://yz.chaoxing.com/",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://lib.njupt.edu.cn/2021/0318/c1429a187036/page.htm",
+      "url": "http://gp.yuntaigo.com/",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://lib.njupt.edu.cn/2020/0805/c1429a168959/page.htm",
+      "url": "http://rsc.njupt.edu.cn/2020/0803/c631a168874/page.htm",
+      "category": "cross_domain_article_link"
+    },
+    {
+      "source_url": "https://lib.njupt.edu.cn/2020/0619/c1429a167215/page.htm",
+      "url": "http://rsc.njupt.edu.cn/2020/0616/c631a167079/page.htm",
+      "category": "cross_domain_article_link"
+    },
+    {
+      "source_url": "https://lib.njupt.edu.cn/2020/0619/c1429a167214/page.htm",
+      "url": "http://rsc.njupt.edu.cn/2020/0611/c631a166843/page.htm",
+      "category": "cross_domain_article_link"
+    },
+    {
+      "source_url": "https://lib.njupt.edu.cn/2016/0224/c1429a18216/page.htm",
+      "url": "https://ebsco-chinese.webex.com/",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://lib.njupt.edu.cn/2020/0421/c1429a164104/page.htm",
+      "url": "https://ebsco-chinese.webex.com/ebsco-chinese-sc/k2/j.php?MTID=t7f4cd73803733a65b2ee89474fa4cc2a",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://lib.njupt.edu.cn/2020/0421/c1429a164104/page.htm",
+      "url": "https://ebsco-chinese.webex.com/ebsco-chinese-sc/k2/j.php?MTID=t4f22131410d9ef13610098aa15c698a0",
+      "category": "external_link"
+    }
+  ],
+  "console_errors": [],
+  "network_errors": [],
+  "exclusions": [],
+  "coverage_report_ref": "../index/coverage_report.json"
+}

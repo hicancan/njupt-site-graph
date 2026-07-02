@@ -1,0 +1,435 @@
+{
+  "version": "njupt-site-audit-evidence-v1",
+  "site_id": "tyb",
+  "method": "structured_package_evidence_with_browser_audit_required",
+  "homepage": {
+    "url": "https://tyb.njupt.edu.cn/",
+    "domain": "tyb.njupt.edu.cn"
+  },
+  "navigation_entries": [
+    {
+      "label": "部门概况",
+      "url": "https://tyb.njupt.edu.cn/7211/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "部门概况"
+      ]
+    },
+    {
+      "label": "部门简介",
+      "url": "https://tyb.njupt.edu.cn/7212/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "部门简介"
+      ]
+    },
+    {
+      "label": "现任领导",
+      "url": "https://tyb.njupt.edu.cn/7214/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "现任领导"
+      ]
+    },
+    {
+      "label": "组织机构",
+      "url": "https://tyb.njupt.edu.cn/7213/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "组织机构"
+      ]
+    },
+    {
+      "label": "场馆设施",
+      "url": "https://tyb.njupt.edu.cn/7215/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "场馆设施"
+      ]
+    },
+    {
+      "label": "师资队伍",
+      "url": "https://tyb.njupt.edu.cn/7217/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "师资队伍"
+      ]
+    },
+    {
+      "label": "荣誉墙",
+      "url": "https://tyb.njupt.edu.cn/ryq/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "荣誉墙"
+      ]
+    },
+    {
+      "label": "党群天地",
+      "url": "https://tyb.njupt.edu.cn/dztd/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "党群天地"
+      ]
+    }
+  ],
+  "homepage_modules": [],
+  "section_samples": [
+    {
+      "section_id": "tyb_notice",
+      "name": "通知公告",
+      "url": "https://tyb.njupt.edu.cn/7254/list.psp",
+      "source": "declared_section",
+      "section_type": "list",
+      "nav_path": [
+        "通知公告"
+      ]
+    },
+    {
+      "section_id": "tyb_home_link_78d4ac54f710",
+      "name": "部门概况",
+      "url": "https://tyb.njupt.edu.cn/7211/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "部门概况"
+      ]
+    },
+    {
+      "section_id": "tyb_home_link_f37506aef477",
+      "name": "部门简介",
+      "url": "https://tyb.njupt.edu.cn/7212/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "部门简介"
+      ]
+    },
+    {
+      "section_id": "tyb_home_link_958230f93c0f",
+      "name": "现任领导",
+      "url": "https://tyb.njupt.edu.cn/7214/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "现任领导"
+      ]
+    },
+    {
+      "section_id": "tyb_home_link_a53839efd1a5",
+      "name": "组织机构",
+      "url": "https://tyb.njupt.edu.cn/7213/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "组织机构"
+      ]
+    },
+    {
+      "section_id": "tyb_home_link_70de98a372cd",
+      "name": "场馆设施",
+      "url": "https://tyb.njupt.edu.cn/7215/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "场馆设施"
+      ]
+    },
+    {
+      "section_id": "tyb_home_link_470b232489eb",
+      "name": "师资队伍",
+      "url": "https://tyb.njupt.edu.cn/7217/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "师资队伍"
+      ]
+    },
+    {
+      "section_id": "tyb_home_link_8723a61c7fa3",
+      "name": "荣誉墙",
+      "url": "https://tyb.njupt.edu.cn/ryq/list.htm",
+      "source": "homepage_nav",
+      "section_type": "homepage_link_section",
+      "nav_path": [
+        "首页",
+        "荣誉墙"
+      ]
+    }
+  ],
+  "list_page_samples": [
+    {
+      "section_id": "tyb_notice",
+      "url": "https://tyb.njupt.edu.cn/7254/list.psp",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "tyb_inline_section_270dd8fcc957",
+      "url": "https://tyb.njupt.edu.cn/7254/list2.htm",
+      "page_index": 2,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "tyb_inline_section_c96e6cebef72",
+      "url": "https://tyb.njupt.edu.cn/7254/list3.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "tyb_inline_section_24a68c08dcac",
+      "url": "https://tyb.njupt.edu.cn/7254/list4.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "tyb_inline_section_62b66ce61540",
+      "url": "https://tyb.njupt.edu.cn/7254/list5.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "tyb_inline_section_6ea2dcf6ccb7",
+      "url": "https://tyb.njupt.edu.cn/7254/list6.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "tyb_inline_section_2cfd8da5d19b",
+      "url": "https://tyb.njupt.edu.cn/7254/list7.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    },
+    {
+      "section_id": "tyb_inline_section_c76cd489893b",
+      "url": "https://tyb.njupt.edu.cn/7254/list8.htm",
+      "page_index": 1,
+      "item_count": 0,
+      "status": "ok"
+    }
+  ],
+  "pagination_terminal_samples": [
+    {
+      "section_id": "tyb_notice",
+      "last_url": "https://tyb.njupt.edu.cn/7254/list.psp",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "tyb_home_link_78d4ac54f710",
+      "last_url": "https://tyb.njupt.edu.cn/7211/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "tyb_home_link_f37506aef477",
+      "last_url": "https://tyb.njupt.edu.cn/7212/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "tyb_home_link_958230f93c0f",
+      "last_url": "https://tyb.njupt.edu.cn/7214/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "tyb_home_link_a53839efd1a5",
+      "last_url": "https://tyb.njupt.edu.cn/7213/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "tyb_home_link_70de98a372cd",
+      "last_url": "https://tyb.njupt.edu.cn/7215/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "tyb_home_link_470b232489eb",
+      "last_url": "https://tyb.njupt.edu.cn/7217/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "tyb_home_link_8723a61c7fa3",
+      "last_url": "https://tyb.njupt.edu.cn/ryq/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 500,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    }
+  ],
+  "detail_page_samples": [
+    {
+      "section_id": "tyb_notice",
+      "url": "https://tyb.njupt.edu.cn/7254/list.psp",
+      "title": "通知公告",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "tyb_notice",
+      "url": "https://tyb.njupt.edu.cn/7254/list2.htm",
+      "title": "通知公告",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "tyb_notice",
+      "url": "https://tyb.njupt.edu.cn/7254/list3.htm",
+      "title": "通知公告",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "tyb_notice",
+      "url": "https://tyb.njupt.edu.cn/7254/list4.htm",
+      "title": "通知公告",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "tyb_notice",
+      "url": "https://tyb.njupt.edu.cn/7254/list5.htm",
+      "title": "通知公告",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "tyb_notice",
+      "url": "https://tyb.njupt.edu.cn/7254/list6.htm",
+      "title": "通知公告",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "tyb_notice",
+      "url": "https://tyb.njupt.edu.cn/7254/list7.htm",
+      "title": "通知公告",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "tyb_notice",
+      "url": "https://tyb.njupt.edu.cn/7254/list8.htm",
+      "title": "通知公告",
+      "content_status": "low_content"
+    }
+  ],
+  "attachment_samples": [
+    {
+      "parent_url": "https://tyb.njupt.edu.cn/2021/0830/c7254a201864/page.htm",
+      "name": "南京邮电大学运动场馆使用须知及注意事项20251027.docx",
+      "url": "https://tyb.njupt.edu.cn/_upload/article/files/70/02/d3e3ec1842ce83ae27f7e209ecd2/07294eb1-b53a-40e1-9582-e204b024bffd.docx",
+      "extension": "docx"
+    },
+    {
+      "parent_url": "https://tyb.njupt.edu.cn/2021/0830/c7254a201864/page.htm",
+      "name": "校外人员进校举办参加体育活动校园安全注意事项20251027.docx",
+      "url": "https://tyb.njupt.edu.cn/_upload/article/files/70/02/d3e3ec1842ce83ae27f7e209ecd2/49e61629-0388-434e-becb-84c418657ad8.docx",
+      "extension": "docx"
+    },
+    {
+      "parent_url": "https://tyb.njupt.edu.cn/2023/1201/c7254a251119/page.htm",
+      "name": "附件1：南京邮电大学“十佳运动员”评选办法.docx",
+      "url": "https://tyb.njupt.edu.cn/_upload/article/files/73/d9/c545be084602bb3ccb8a388bdc23/cab88796-7d71-4493-882a-9b691db3aa85.docx",
+      "extension": "docx"
+    },
+    {
+      "parent_url": "https://tyb.njupt.edu.cn/2023/1201/c7254a251119/page.htm",
+      "name": "附件2：南京邮电大学“优秀体育干部”评选办法.docx",
+      "url": "https://tyb.njupt.edu.cn/_upload/article/files/73/d9/c545be084602bb3ccb8a388bdc23/9ff96eea-569c-4d5d-a1e5-062e255467bc.docx",
+      "extension": "docx"
+    },
+    {
+      "parent_url": "https://tyb.njupt.edu.cn/2023/1130/c7254a251039/page.htm",
+      "name": "附件：南京邮电大学第五届“大力士”杯拔河比赛报名表.docx",
+      "url": "https://tyb.njupt.edu.cn/_upload/article/files/75/a4/c97c03a74d9aa7d8891df0a49dc6/ae4e0236-1dba-4898-9e89-c6277ce06e10.docx",
+      "extension": "docx"
+    },
+    {
+      "parent_url": "https://tyb.njupt.edu.cn/2023/1009/c7254a247547/page.htm",
+      "name": "附件1：南邮小程序 场地预约功能使用教程.pdf",
+      "url": "https://tyb.njupt.edu.cn/_upload/article/files/88/44/3c8391924fa2831a943ff659f4e4/c436e0a9-1378-48eb-af72-62a8d4d18501.pdf",
+      "extension": "pdf"
+    },
+    {
+      "parent_url": "https://tyb.njupt.edu.cn/2022/1206/c7254a231933/page.htm",
+      "name": "2022-2023-1体育理论课考试.docx",
+      "url": "https://tyb.njupt.edu.cn/_upload/article/files/a5/b2/803853eb4962b1a32e49dfb0eac6/248c5ef8-297a-478d-80fc-c914c0d7b588.docx",
+      "extension": "docx"
+    },
+    {
+      "parent_url": "https://tyb.njupt.edu.cn/2022/1121/c7254a230682/page.htm",
+      "name": "晨跑预警名单.xlsx",
+      "url": "https://tyb.njupt.edu.cn/_upload/article/files/20/9b/86c3602c4d33ac52035e68875e76/d41cbc5b-9b15-4f97-9785-e25168394b13.xlsx",
+      "extension": "xlsx"
+    }
+  ],
+  "external_boundaries": [
+    {
+      "source_url": "https://tyb.njupt.edu.cn/7253/list1.htm",
+      "url": "https://www.njupt.edu.cn/_t44/2026/0326/c235a298558/page.htm",
+      "category": "cross_domain_article_link"
+    },
+    {
+      "source_url": "https://tyb.njupt.edu.cn/7253/list1.htm",
+      "url": "https://www.njupt.edu.cn/_t44/2026/0318/c235a298035/page.htm",
+      "category": "cross_domain_article_link"
+    },
+    {
+      "source_url": "https://tyb.njupt.edu.cn/2022/0505/c7254a220320/page.htm",
+      "url": "https://haokan.baidu.com/v?pd=wisenatural&vid=11656092290048191397",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://tyb.njupt.edu.cn/2020/0216/c7226a162697/page.htm",
+      "url": "https://www.icourse163.org/course/ECNU-45002",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://tyb.njupt.edu.cn/2019/1104/c7254a157592/page.htm",
+      "url": "http://180.209.98.44/sign/signin",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://tyb.njupt.edu.cn/2017/0315/c8546a105409/page.htm",
+      "url": "http://www.jsxf.gov.cn/jsxfHDnew/spgb/dkgb/zelddxzg/201612/t20161222_239416.html",
+      "category": "external_policy_link"
+    },
+    {
+      "source_url": "https://tyb.njupt.edu.cn/2015/1117/c7254a81405/page.htm",
+      "url": "http://tyb.njust.edu.cn/",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://tyb.njupt.edu.cn/2015/1027/c7254a81377/page.htm",
+      "url": "http://njupt.ihodoo.com/",
+      "category": "external_link"
+    }
+  ],
+  "console_errors": [],
+  "network_errors": [],
+  "exclusions": [],
+  "coverage_report_ref": "../index/coverage_report.json"
+}

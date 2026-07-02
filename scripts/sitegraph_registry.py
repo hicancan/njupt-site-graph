@@ -24,6 +24,52 @@ PACKAGE_FILES = (
     "coverage_report.json",
 )
 MAX_MANIFEST_BYTES = 25 * 1024 * 1024
+CONSUMABLE_COVERAGE_STATUSES = {"complete", "complete_with_exclusions"}
+ALLOWED_SECTION_SOURCES = {
+    "declared_section",
+    "homepage_nav",
+    "homepage_module",
+    "inline_section_link",
+    "api_category",
+    "archive_section",
+}
+
+
+def _resolve_package_ref(package_root: Path, value: str) -> Path:
+    path = Path(value)
+    if not path.is_absolute():
+        path = package_root / path
+    return path.resolve()
+
+
+def _validate_audit_evidence_json(site_id: str, package_root: Path, ref: str) -> None:
+    audit_path = _resolve_package_ref(package_root, ref)
+    if not audit_path.exists():
+        raise SystemExit(f"{site_id} audit JSON evidence is missing: {ref}")
+    try:
+        payload = json.loads(audit_path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as exc:
+        raise SystemExit(f"{site_id} audit JSON evidence is invalid JSON: {ref}: {exc}") from exc
+    if not isinstance(payload, dict):
+        raise SystemExit(f"{site_id} audit JSON evidence must be an object: {ref}")
+    if payload.get("site_id") != site_id:
+        raise SystemExit(f"{site_id} audit JSON site_id mismatch: {payload.get('site_id')!r}")
+    required_keys = {
+        "homepage",
+        "navigation_entries",
+        "section_samples",
+        "list_page_samples",
+        "pagination_terminal_samples",
+        "detail_page_samples",
+        "attachment_samples",
+        "external_boundaries",
+        "console_errors",
+        "network_errors",
+        "exclusions",
+    }
+    missing = sorted(key for key in required_keys if key not in payload)
+    if missing:
+        raise SystemExit(f"{site_id} audit JSON evidence missing keys: {', '.join(missing)}")
 
 
 def read_registry(include: str | None = None) -> list[dict[str, str]]:
@@ -137,27 +183,58 @@ def validate_packages(args: argparse.Namespace) -> None:
         coverage = json.loads(coverage_path.read_text(encoding="utf-8"))
         if coverage.get("site_id") != site_id:
             raise SystemExit(f"{coverage_path} site_id mismatch: expected {site_id}, got {coverage.get('site_id')!r}")
-        if manifest.get("coverage_status") != "complete" or quality.get("coverage_status") != "complete":
-            raise SystemExit(f"{site_id} coverage_status must be complete")
-        if coverage.get("coverage_status") != "complete":
-            raise SystemExit(f"{site_id} coverage report is not complete: {coverage.get('incomplete_reasons')!r}")
+        manifest_status = str(manifest.get("coverage_status") or "")
+        quality_status = str(quality.get("coverage_status") or "")
+        coverage_status = str(coverage.get("coverage_status") or "")
+        if manifest_status not in CONSUMABLE_COVERAGE_STATUSES or quality_status not in CONSUMABLE_COVERAGE_STATUSES:
+            raise SystemExit(f"{site_id} coverage_status must be complete or complete_with_exclusions")
+        if coverage_status not in CONSUMABLE_COVERAGE_STATUSES:
+            raise SystemExit(f"{site_id} coverage report is not consumable: {coverage.get('incomplete_reasons')!r}")
+        if len({manifest_status, quality_status, coverage_status}) != 1:
+            raise SystemExit(
+                f"{site_id} coverage_status drift: manifest={manifest_status}, quality={quality_status}, report={coverage_status}"
+            )
+        evidence_source = str(coverage.get("evidence_source") or manifest.get("evidence_source") or quality.get("evidence_source") or "")
+        if evidence_source != "full_crawl":
+            raise SystemExit(f"{site_id} evidence_source must be full_crawl, got {evidence_source!r}")
         audit_ref = manifest.get("audit_evidence_ref") or quality.get("audit_evidence_ref") or coverage.get("audit_evidence_ref")
         if not isinstance(audit_ref, str) or not audit_ref.strip():
             raise SystemExit(f"{site_id} missing audit_evidence_ref")
-        audit_path = package_root / audit_ref
+        audit_path = _resolve_package_ref(package_root, audit_ref)
         if not audit_path.exists():
             raise SystemExit(f"{site_id} audit evidence is missing: {audit_ref}")
+        audit_json_ref = (
+            manifest.get("audit_evidence_json_ref")
+            or quality.get("audit_evidence_json_ref")
+            or coverage.get("audit_evidence_json_ref")
+        )
+        if not isinstance(audit_json_ref, str) or not audit_json_ref.strip():
+            raise SystemExit(f"{site_id} missing audit_evidence_json_ref")
+        _validate_audit_evidence_json(site_id, package_root, audit_json_ref)
         if manifest.get("pagination_terminal_verified") is not True:
             raise SystemExit(f"{site_id} pagination_terminal_verified must be true")
         if int(manifest.get("unknown_url_count") or 0) != 0:
             raise SystemExit(f"{site_id} unknown_url_count must be zero")
         exclusions = (coverage.get("urls") or {}).get("exclusions") or []
+        if exclusions and coverage_status != "complete_with_exclusions":
+            raise SystemExit(f"{site_id} packages with exclusions must use complete_with_exclusions")
+        if not exclusions and coverage_status != "complete":
+            raise SystemExit(f"{site_id} packages without exclusions must use complete")
+        section_sources = ((coverage.get("sections") or {}).get("by_source") or {})
+        invalid_sources = sorted(str(source) for source in section_sources if source not in ALLOWED_SECTION_SOURCES)
+        if invalid_sources:
+            raise SystemExit(f"{site_id} has invalid section sources: {', '.join(invalid_sources)}")
         today = date.today().isoformat()
         for exclusion in exclusions:
             if not isinstance(exclusion, dict):
                 raise SystemExit(f"{site_id} coverage exclusion entries must be objects")
-            if not exclusion.get("reason") or not exclusion.get("scope") or not exclusion.get("expiry"):
-                raise SystemExit(f"{site_id} coverage exclusions require reason, scope and expiry")
+            missing = [
+                key
+                for key in ("scope", "reason", "evidence_url", "expiry", "owner_action")
+                if not str(exclusion.get(key) or "").strip()
+            ]
+            if missing:
+                raise SystemExit(f"{site_id} coverage exclusions missing required keys: {', '.join(missing)}")
             if str(exclusion["expiry"]) < today:
                 raise SystemExit(f"{site_id} coverage exclusion expired: {exclusion!r}")
 

@@ -1,0 +1,411 @@
+{
+  "version": "njupt-site-audit-evidence-v1",
+  "site_id": "job91",
+  "method": "structured_package_evidence_with_browser_audit_required",
+  "homepage": {
+    "url": "https://njupt.91job.org.cn/",
+    "domain": "njupt.91job.org.cn"
+  },
+  "navigation_entries": [
+    {
+      "label": "新闻公告",
+      "url": "https://njupt.91job.org.cn/sub-station/list/EAB99994A44EB044E0530100007FB579",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "新闻公告"
+      ]
+    },
+    {
+      "label": "通知公告",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3602",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "新闻公告",
+        "通知公告"
+      ]
+    },
+    {
+      "label": "新闻速递",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3603",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "新闻公告",
+        "新闻速递"
+      ]
+    },
+    {
+      "label": "院系就业动态",
+      "url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9CCCED2E0530100007FB6E8",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "新闻公告",
+        "新闻速递",
+        "院系就业动态"
+      ]
+    },
+    {
+      "label": "访企拓岗促就业",
+      "url": "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "新闻公告",
+        "新闻速递",
+        "访企拓岗促就业"
+      ]
+    },
+    {
+      "label": "校内公示",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3604",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "新闻公告",
+        "校内公示"
+      ]
+    },
+    {
+      "label": "就业政策",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3596",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "就业政策"
+      ]
+    },
+    {
+      "label": "国家政策",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3597",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "就业政策",
+        "国家政策"
+      ]
+    }
+  ],
+  "homepage_modules": [
+    {
+      "name": "新闻公告",
+      "url": "https://njupt.91job.org.cn/sub-station/home/10293",
+      "list_url": "https://njupt.91job.org.cn/sub-station/list/EAB99994A44EB044E0530100007FB579",
+      "source": "job91_api"
+    },
+    {
+      "name": "通知公告",
+      "url": "https://njupt.91job.org.cn/sub-station/home/10293",
+      "list_url": "https://njupt.91job.org.cn/sub-station/list/3602",
+      "source": "job91_api"
+    },
+    {
+      "name": "新闻速递",
+      "url": "https://njupt.91job.org.cn/sub-station/home/10293",
+      "list_url": "https://njupt.91job.org.cn/sub-station/list/3603",
+      "source": "job91_api"
+    },
+    {
+      "name": "院系就业动态",
+      "url": "https://njupt.91job.org.cn/sub-station/home/10293",
+      "list_url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9CCCED2E0530100007FB6E8",
+      "source": "job91_api"
+    },
+    {
+      "name": "访企拓岗促就业",
+      "url": "https://njupt.91job.org.cn/sub-station/home/10293",
+      "list_url": "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B",
+      "source": "job91_api"
+    },
+    {
+      "name": "校内公示",
+      "url": "https://njupt.91job.org.cn/sub-station/home/10293",
+      "list_url": "https://njupt.91job.org.cn/sub-station/list/3604",
+      "source": "job91_api"
+    },
+    {
+      "name": "就业政策",
+      "url": "https://njupt.91job.org.cn/sub-station/home/10293",
+      "list_url": "https://njupt.91job.org.cn/sub-station/list/3596",
+      "source": "job91_api"
+    },
+    {
+      "name": "国家政策",
+      "url": "https://njupt.91job.org.cn/sub-station/home/10293",
+      "list_url": "https://njupt.91job.org.cn/sub-station/list/3597",
+      "source": "job91_api"
+    }
+  ],
+  "section_samples": [
+    {
+      "section_id": "job91_1a47ced34641",
+      "name": "新闻公告",
+      "url": "https://njupt.91job.org.cn/sub-station/list/EAB99994A44EB044E0530100007FB579",
+      "source": "api_category",
+      "section_type": "api_list",
+      "nav_path": [
+        "新闻公告"
+      ]
+    },
+    {
+      "section_id": "job91_f79ac1b74a8f",
+      "name": "通知公告",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3602",
+      "source": "api_category",
+      "section_type": "api_list",
+      "nav_path": [
+        "新闻公告",
+        "通知公告"
+      ]
+    },
+    {
+      "section_id": "job91_7488d30cc301",
+      "name": "新闻速递",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3603",
+      "source": "api_category",
+      "section_type": "api_list",
+      "nav_path": [
+        "新闻公告",
+        "新闻速递"
+      ]
+    },
+    {
+      "section_id": "job91_54068010e125",
+      "name": "院系就业动态",
+      "url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9CCCED2E0530100007FB6E8",
+      "source": "api_category",
+      "section_type": "api_list",
+      "nav_path": [
+        "新闻公告",
+        "新闻速递",
+        "院系就业动态"
+      ]
+    },
+    {
+      "section_id": "job91_0d4d0da9e718",
+      "name": "访企拓岗促就业",
+      "url": "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B",
+      "source": "api_category",
+      "section_type": "api_list",
+      "nav_path": [
+        "新闻公告",
+        "新闻速递",
+        "访企拓岗促就业"
+      ]
+    },
+    {
+      "section_id": "job91_8a47e2520d1b",
+      "name": "校内公示",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3604",
+      "source": "api_category",
+      "section_type": "api_list",
+      "nav_path": [
+        "新闻公告",
+        "校内公示"
+      ]
+    },
+    {
+      "section_id": "job91_669d3decb9a4",
+      "name": "就业政策",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3596",
+      "source": "api_category",
+      "section_type": "api_list",
+      "nav_path": [
+        "就业政策"
+      ]
+    },
+    {
+      "section_id": "job91_db096d0b6cf3",
+      "name": "国家政策",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3597",
+      "source": "api_category",
+      "section_type": "api_list",
+      "nav_path": [
+        "就业政策",
+        "国家政策"
+      ]
+    }
+  ],
+  "list_page_samples": [
+    {
+      "section_id": "job91_f79ac1b74a8f",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3602",
+      "page_index": 1,
+      "item_count": 78,
+      "status": "ok"
+    },
+    {
+      "section_id": "job91_7488d30cc301",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3603",
+      "page_index": 1,
+      "item_count": 120,
+      "status": "ok"
+    },
+    {
+      "section_id": "job91_54068010e125",
+      "url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9CCCED2E0530100007FB6E8",
+      "page_index": 1,
+      "item_count": 37,
+      "status": "ok"
+    },
+    {
+      "section_id": "job91_0d4d0da9e718",
+      "url": "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B",
+      "page_index": 1,
+      "item_count": 37,
+      "status": "ok"
+    },
+    {
+      "section_id": "job91_8a47e2520d1b",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3604",
+      "page_index": 1,
+      "item_count": 120,
+      "status": "ok"
+    },
+    {
+      "section_id": "job91_db096d0b6cf3",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3597",
+      "page_index": 1,
+      "item_count": 19,
+      "status": "ok"
+    },
+    {
+      "section_id": "job91_15496879b106",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3598",
+      "page_index": 1,
+      "item_count": 1,
+      "status": "ok"
+    },
+    {
+      "section_id": "job91_53a42a405d1b",
+      "url": "https://njupt.91job.org.cn/sub-station/list/3599",
+      "page_index": 1,
+      "item_count": 2,
+      "status": "ok"
+    }
+  ],
+  "pagination_terminal_samples": [
+    {
+      "section_id": "job91_1a47ced34641",
+      "last_url": "https://njupt.91job.org.cn/sub-station/list/EAB99994A44EB044E0530100007FB579",
+      "pages_crawled": 0,
+      "max_pages_safety": 40,
+      "termination_reason": "empty_page",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "job91_f79ac1b74a8f",
+      "last_url": "https://njupt.91job.org.cn/sub-station/list/3602?page=1",
+      "pages_crawled": 1,
+      "max_pages_safety": 40,
+      "termination_reason": "short_page",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "job91_7488d30cc301",
+      "last_url": "https://njupt.91job.org.cn/sub-station/list/3603?page=1",
+      "pages_crawled": 1,
+      "max_pages_safety": 40,
+      "termination_reason": "api_duplicate_page",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "job91_54068010e125",
+      "last_url": "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9CCCED2E0530100007FB6E8?page=1",
+      "pages_crawled": 1,
+      "max_pages_safety": 40,
+      "termination_reason": "short_page",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "job91_0d4d0da9e718",
+      "last_url": "https://njupt.91job.org.cn/sub-station/list/DCC4E74DFCE934C2E0530100007F739B?page=1",
+      "pages_crawled": 1,
+      "max_pages_safety": 40,
+      "termination_reason": "short_page",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "job91_8a47e2520d1b",
+      "last_url": "https://njupt.91job.org.cn/sub-station/list/3604?page=1",
+      "pages_crawled": 1,
+      "max_pages_safety": 40,
+      "termination_reason": "api_duplicate_page",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "job91_669d3decb9a4",
+      "last_url": "https://njupt.91job.org.cn/sub-station/list/3596",
+      "pages_crawled": 0,
+      "max_pages_safety": 40,
+      "termination_reason": "empty_page",
+      "terminal_verified": true
+    },
+    {
+      "section_id": "job91_db096d0b6cf3",
+      "last_url": "https://njupt.91job.org.cn/sub-station/list/3597?page=1",
+      "pages_crawled": 1,
+      "max_pages_safety": 40,
+      "termination_reason": "short_page",
+      "terminal_verified": true
+    }
+  ],
+  "detail_page_samples": [
+    {
+      "section_id": "job91_f79ac1b74a8f",
+      "url": "https://njupt.91job.org.cn/sub-station/news/533C49732089C945E0630100007F5AA3",
+      "title": "【网络招聘会邀请函】“夏季冲刺”南京邮电大学2026届离校未就业毕业生暨2027届实习生专场网络招聘会",
+      "published_at": "2026-06-01",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "job91_f79ac1b74a8f",
+      "url": "https://njupt.91job.org.cn/sub-station/news/4C0690251D5E64DFE0630100007F83D8",
+      "title": "【春季招聘】南京邮电大学2026年春季校园招聘活动安排",
+      "published_at": "2026-02-02",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "job91_f79ac1b74a8f",
+      "url": "https://njupt.91job.org.cn/sub-station/news/CEC11706E6414796E0530100007F7BAD",
+      "title": "关于启用用人单位与我校毕业生网上签约系统的通知",
+      "published_at": "2024-09-30",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "job91_f79ac1b74a8f",
+      "url": "https://njupt.91job.org.cn/sub-station/news/D9C02C5E2AB3A8A4E0530100007FC9B0",
+      "title": "江苏省91job智慧就业平台操作手册（用人单位）",
+      "published_at": "2022-01-01",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "job91_f79ac1b74a8f",
+      "url": "https://njupt.91job.org.cn/sub-station/news/5212455B39F2DE75E0630100007FC94A",
+      "title": "【参会单位名单】“信息报国 邮你同行”南京邮电大学2026届毕业生“春季促就业攻坚行动”系列专场招聘会（第五场）",
+      "published_at": "2026-05-18",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "job91_f79ac1b74a8f",
+      "url": "https://njupt.91job.org.cn/sub-station/news/5182EFD16E6CA676E0630100007FFF92",
+      "title": "【参会单位名单】南京邮电大学2026届毕业生“春季促就业攻坚行动”系列专场招聘会（第四场）暨扬州市企业组团招聘会",
+      "published_at": "2026-05-11",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "job91_f79ac1b74a8f",
+      "url": "https://njupt.91job.org.cn/sub-station/news/5092244DFB3EAC5AE0630100007FC892",
+      "title": "2026 届毕业生一次性求职补贴补发申领工作通知",
+      "published_at": "2026-04-29",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "job91_f79ac1b74a8f",
+      "url": "https://njupt.91job.org.cn/sub-station/news/507EAF617138F5F1E0630100007F4D92",
+      "title": "【参会单位名单】“信息报国 邮你同行”南京邮电大学2026届毕业生“春季促就业攻坚行动”系列专场招聘会）（第三场）",
+      "published_at": "2026-04-28",
+      "content_status": "low_content"
+    }
+  ],
+  "attachment_samples": [],
+  "external_boundaries": [],
+  "console_errors": [],
+  "network_errors": [],
+  "exclusions": [],
+  "coverage_report_ref": "../index/coverage_report.json"
+}

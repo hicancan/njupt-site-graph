@@ -1,0 +1,370 @@
+{
+  "version": "njupt-site-audit-evidence-v1",
+  "site_id": "www",
+  "method": "structured_package_evidence_with_browser_audit_required",
+  "homepage": {
+    "url": "https://www.njupt.edu.cn/",
+    "domain": "www.njupt.edu.cn"
+  },
+  "navigation_entries": [
+    {
+      "label": "旧版入口",
+      "url": "https://www.njupt.edu.cn/_t44/main.htm",
+      "target_type": "site_entry_alias",
+      "nav_path": [
+        "旧版入口"
+      ]
+    },
+    {
+      "label": "English",
+      "url": "https://www.njupt.edu.cn/en/",
+      "target_type": "site_entry_alias",
+      "nav_path": [
+        "English"
+      ]
+    },
+    {
+      "label": "电子邮件",
+      "url": "https://mail.njupt.edu.cn/",
+      "target_type": "external_link",
+      "nav_path": [
+        "电子邮件"
+      ]
+    },
+    {
+      "label": "南邮概况",
+      "url": "https://www.njupt.edu.cn/17220/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "南邮概况"
+      ]
+    },
+    {
+      "label": "学校简介",
+      "url": "https://www.njupt.edu.cn/17220/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "学校简介"
+      ]
+    },
+    {
+      "label": "学校章程",
+      "url": "https://www.njupt.edu.cn/17221/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "学校章程"
+      ]
+    },
+    {
+      "label": "南邮精神",
+      "url": "https://www.njupt.edu.cn/17222/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "南邮精神"
+      ]
+    },
+    {
+      "label": "校标校训",
+      "url": "https://www.njupt.edu.cn/17223/list.htm",
+      "target_type": "section_list_page",
+      "nav_path": [
+        "校标校训"
+      ]
+    }
+  ],
+  "homepage_modules": [],
+  "section_samples": [
+    {
+      "section_id": "www_notice",
+      "name": "通知通告",
+      "url": "https://www.njupt.edu.cn/72/list.htm",
+      "source": "declared_section",
+      "section_type": "list",
+      "nav_path": [
+        "首页",
+        "通知通告"
+      ]
+    },
+    {
+      "section_id": "www_news",
+      "name": "南邮要闻",
+      "url": "https://www.njupt.edu.cn/53/list.htm",
+      "source": "declared_section",
+      "section_type": "list",
+      "nav_path": [
+        "首页",
+        "南邮要闻"
+      ]
+    },
+    {
+      "section_id": "www_academic_events",
+      "name": "学术活动",
+      "url": "https://www.njupt.edu.cn/yg/list.htm",
+      "source": "declared_section",
+      "section_type": "list",
+      "nav_path": [
+        "首页",
+        "学术活动"
+      ]
+    }
+  ],
+  "list_page_samples": [
+    {
+      "section_id": "www_notice",
+      "url": "https://www.njupt.edu.cn/72/list.htm",
+      "page_index": 1,
+      "item_count": 64,
+      "status": "ok"
+    },
+    {
+      "section_id": "www_notice",
+      "url": "https://www.njupt.edu.cn/72/list2.htm",
+      "page_index": 2,
+      "item_count": 66,
+      "status": "ok"
+    },
+    {
+      "section_id": "www_notice",
+      "url": "https://www.njupt.edu.cn/72/list3.htm",
+      "page_index": 3,
+      "item_count": 66,
+      "status": "ok"
+    },
+    {
+      "section_id": "www_notice",
+      "url": "https://www.njupt.edu.cn/72/list4.htm",
+      "page_index": 4,
+      "item_count": 66,
+      "status": "ok"
+    },
+    {
+      "section_id": "www_notice",
+      "url": "https://www.njupt.edu.cn/72/list5.htm",
+      "page_index": 5,
+      "item_count": 66,
+      "status": "ok"
+    },
+    {
+      "section_id": "www_notice",
+      "url": "https://www.njupt.edu.cn/72/list6.htm",
+      "page_index": 6,
+      "item_count": 66,
+      "status": "ok"
+    },
+    {
+      "section_id": "www_notice",
+      "url": "https://www.njupt.edu.cn/72/list7.htm",
+      "page_index": 7,
+      "item_count": 66,
+      "status": "ok"
+    },
+    {
+      "section_id": "www_notice",
+      "url": "https://www.njupt.edu.cn/72/list8.htm",
+      "page_index": 8,
+      "item_count": 66,
+      "status": "ok"
+    }
+  ],
+  "pagination_terminal_samples": [
+    {
+      "section_id": "www_notice",
+      "last_url": "https://www.njupt.edu.cn/72/list80.htm",
+      "next_url": "https://www.njupt.edu.cn/72/list81.htm",
+      "pages_crawled": 80,
+      "max_pages_safety": 80,
+      "termination_reason": "safety_cap",
+      "terminal_verified": false
+    },
+    {
+      "section_id": "www_news",
+      "last_url": "https://www.njupt.edu.cn/53/list80.htm",
+      "next_url": "https://www.njupt.edu.cn/53/list81.htm",
+      "pages_crawled": 80,
+      "max_pages_safety": 80,
+      "termination_reason": "safety_cap",
+      "terminal_verified": false
+    },
+    {
+      "section_id": "www_academic_events",
+      "last_url": "https://www.njupt.edu.cn/yg/list.htm",
+      "pages_crawled": 1,
+      "max_pages_safety": 80,
+      "termination_reason": "existing_package_under_safety_cap",
+      "terminal_verified": true
+    }
+  ],
+  "detail_page_samples": [
+    {
+      "section_id": "www_notice",
+      "url": "https://www.njupt.edu.cn/2026/0701/c72a305649/page.htm",
+      "title": "关于南邮学生跨校参加第十五届“挑战杯”建设银行中国大学生创业计划竞赛的情况公示",
+      "published_at": "2026-07-01",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "www_notice",
+      "url": "https://www.njupt.edu.cn/2026/0629/c72a305547/page.htm",
+      "title": "后勤管理处、后勤服务集团2026年暑假工作安排",
+      "published_at": "2026-06-26",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "www_notice",
+      "url": "https://www.njupt.edu.cn/2026/0622/c72a305236/page.htm",
+      "title": "关于2026年暑期校园安全工作的通知",
+      "published_at": "2026-06-22",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "www_notice",
+      "url": "https://www.njupt.edu.cn/2026/0611/c72a303994/page.htm",
+      "title": "关于6月14日仙林校区实施临时交通管制的通知",
+      "published_at": "2026-06-10",
+      "content_status": "normal_content"
+    },
+    {
+      "section_id": "www_notice",
+      "url": "https://www.njupt.edu.cn/2026/0608/c72a303743/page.htm",
+      "title": "关于学校第三批思想政治工作质量提升综合改革与精品建设项目申报和首批项目结项验收的通知",
+      "published_at": "2026-06-08",
+      "content_status": "low_content"
+    },
+    {
+      "section_id": "www_notice",
+      "url": "https://www.njupt.edu.cn/2026/0527/c72a302753/page.htm",
+      "title": "关于举办2026年全国科技工作者日暨南京邮电大学科技工作者沙龙的通知",
+      "published_at": "2026-05-27",
+      "content_status": "normal_content"
+    },
+    {
+      "section_id": "www_notice",
+      "url": "https://www.njupt.edu.cn/2026/0522/c72a302466/page.htm",
+      "title": "关于申报2026年学校党建与思想政治教育研究项目的通知",
+      "published_at": "2026-05-22",
+      "content_status": "normal_content"
+    },
+    {
+      "section_id": "www_notice",
+      "url": "https://www.njupt.edu.cn/2026/0521/c72a302367/page.htm",
+      "title": "关于遴选第十四批“南邮-紫金科创学生创业基金” 资助项目的通知",
+      "published_at": "2026-05-21",
+      "content_status": "normal_content"
+    }
+  ],
+  "attachment_samples": [
+    {
+      "parent_url": "https://www.njupt.edu.cn/2026/0608/c72a303743/page.htm",
+      "name": "附件1-6",
+      "url": "https://www.njupt.edu.cn/_upload/article/files/38/4c/5d626bfb4c7b969965b223173ee9/d3acb47a-a634-4725-a487-670add522cf5.rar",
+      "extension": "rar"
+    },
+    {
+      "parent_url": "https://www.njupt.edu.cn/2026/0522/c72a302466/page.htm",
+      "name": "附件1：《南京邮电大学党建与思想政治教育研究项目管理办法》（党委宣发〔2026〕4号）",
+      "url": "https://www.njupt.edu.cn/_upload/article/files/d5/44/1e99340a42468b99ad4edc793b3b/881af77f-3d54-4255-8de4-d6641cf9a2bd.docx",
+      "extension": "docx"
+    },
+    {
+      "parent_url": "https://www.njupt.edu.cn/2026/0522/c72a302466/page.htm",
+      "name": "附件2：2026年学校党建与思想政治教育研究项目课题指南",
+      "url": "https://www.njupt.edu.cn/_upload/article/files/d5/44/1e99340a42468b99ad4edc793b3b/f32c678a-b35f-411f-9da5-65449b9ac711.docx",
+      "extension": "docx"
+    },
+    {
+      "parent_url": "https://www.njupt.edu.cn/2026/0522/c72a302466/page.htm",
+      "name": "附件3、4、5.zip",
+      "url": "https://www.njupt.edu.cn/_upload/article/files/d5/44/1e99340a42468b99ad4edc793b3b/5cf25777-b8f1-429d-b820-b1b6660211fa.zip",
+      "extension": "zip"
+    },
+    {
+      "parent_url": "https://www.njupt.edu.cn/2026/0522/c72a302466/page.htm",
+      "name": "附件6、7、8.zip",
+      "url": "https://www.njupt.edu.cn/_upload/article/files/d5/44/1e99340a42468b99ad4edc793b3b/1df7f5cb-dac1-41b0-a00c-2f6d5404430a.zip",
+      "extension": "zip"
+    },
+    {
+      "parent_url": "https://www.njupt.edu.cn/2026/0521/c72a302367/page.htm",
+      "name": "附件：南邮大学生优秀创业项目申报表",
+      "url": "https://www.njupt.edu.cn/_upload/article/files/4c/da/de4ea3ae441a9836eb7218cc2323/61f0bcce-5452-410f-9aa3-7ecc69ba480e.docx",
+      "extension": "docx"
+    },
+    {
+      "parent_url": "https://www.njupt.edu.cn/2026/0511/c72a301609/page.htm",
+      "name": "附件1：庆祝中国共产党正式成立105周年书画作品展在职教职工投稿作品汇总表",
+      "url": "https://www.njupt.edu.cn/_upload/article/files/6c/f9/288e96df493d9fa8e34d531e8a89/0dea57f5-1daf-4d32-a8b5-0f7c17f46f9c.docx",
+      "extension": "docx"
+    },
+    {
+      "parent_url": "https://www.njupt.edu.cn/2026/0511/c72a301609/page.htm",
+      "name": "附件2：庆祝中国共产党正式成立105周年书画作品展离退休教师投稿作品汇总表",
+      "url": "https://www.njupt.edu.cn/_upload/article/files/6c/f9/288e96df493d9fa8e34d531e8a89/9742ad81-1834-418d-bcef-51f1495a9628.docx",
+      "extension": "docx"
+    }
+  ],
+  "external_boundaries": [
+    {
+      "source_url": "https://www.njupt.edu.cn/yg/list.htm",
+      "url": "https://mail.njupt.edu.cn/",
+      "category": "external_system_link"
+    },
+    {
+      "source_url": "https://www.njupt.edu.cn/",
+      "url": "https://campus.njupt.edu.cn/",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://www.njupt.edu.cn/yg/list.htm",
+      "url": "http://xkb.njupt.edu.cn/",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://www.njupt.edu.cn/",
+      "url": "https://kxjsc.njupt.edu.cn/",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://www.njupt.edu.cn/",
+      "url": "http://skc.njupt.edu.cn/",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://www.njupt.edu.cn/",
+      "url": "http://gjs.njupt.edu.cn",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://www.njupt.edu.cn/yg/list.htm",
+      "url": "http://qks.njupt.edu.cn/",
+      "category": "external_link"
+    },
+    {
+      "source_url": "https://www.njupt.edu.cn/yg/list.htm",
+      "url": "http://zs.njupt.edu.cn",
+      "category": "external_link"
+    }
+  ],
+  "console_errors": [],
+  "network_errors": [],
+  "exclusions": [
+    {
+      "scope": "pagination",
+      "section_id": "www_notice",
+      "pattern": "https://www\\.njupt\\.edu\\.cn/72/list8[1-9]\\.htm|https://www\\.njupt\\.edu\\.cn/72/list[9-9][0-9]\\.htm|https://www\\.njupt\\.edu\\.cn/72/list[1-9][0-9]{2,}\\.htm",
+      "reason": "Source returned HTTP 504 at list81 during Chrome/network verified audit; archive pages after page 80 require a dedicated source-side recovery crawl.",
+      "expiry": "2026-09-30",
+      "evidence_url": "https://www.njupt.edu.cn/72/list81.htm",
+      "owner_action": "Re-run low-concurrency archive crawl and remove this exclusion if page 81 becomes reachable."
+    },
+    {
+      "scope": "pagination",
+      "section_id": "www_news",
+      "pattern": "https://www\\.njupt\\.edu\\.cn/53/list8[1-9]\\.htm|https://www\\.njupt\\.edu\\.cn/53/list[9-9][0-9]\\.htm|https://www\\.njupt\\.edu\\.cn/53/list[1-9][0-9]{2,}\\.htm",
+      "reason": "Historical main-site news archive continues beyond page 80 and is explicitly deferred to a dedicated archive crawl to avoid unbounded first baseline growth.",
+      "expiry": "2026-09-30",
+      "evidence_url": "https://www.njupt.edu.cn/53/list81.htm",
+      "owner_action": "Model www_news as a bounded archive section or remove this exclusion after a verified terminal page is found."
+    }
+  ],
+  "coverage_report_ref": "../index/coverage_report.json"
+}

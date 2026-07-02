@@ -17,7 +17,8 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "item_container_selector": ".news_list.list2, .news_list2.list2"
+    "item_container_selector": ".news_list.list2, .news_list2.list2",
+    "source": "declared_section"
   },
   {
     "section_id": "bwc_home_link_84a451a2b858",
@@ -37,7 +38,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_a774b07941d3",
@@ -57,7 +58,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_ed2735f97404",
@@ -77,7 +78,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_846bed70ab00",
@@ -97,7 +98,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_531efd5c4c75",
@@ -117,7 +118,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_97ae45759f9a",
@@ -137,7 +138,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_13421ad44c1a",
@@ -157,7 +158,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_134f1755e221",
@@ -177,7 +178,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_03c757de7fb4",
@@ -197,7 +198,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_0f53ef41b3f2",
@@ -217,7 +218,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_7df2abb115bb",
@@ -237,7 +238,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_862db5bcb1e8",
@@ -257,7 +258,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_f8d7ee7b2864",
@@ -277,7 +278,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_c879bedfabf8",
@@ -297,7 +298,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_f4cc3c49aa12",
@@ -317,7 +318,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_0567feaf3762",
@@ -337,7 +338,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_9ec55b5325b9",
@@ -357,7 +358,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_34c8232e9861",
@@ -377,7 +378,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_b2b0b68c7b55",
@@ -397,7 +398,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_25d19d1f1371",
@@ -417,7 +418,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_93e5609352b5",
@@ -437,7 +438,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_b18721969647",
@@ -457,7 +458,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_8343c9deb65c",
@@ -477,7 +478,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_b242110ffd39",
@@ -497,7 +498,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_a2ede41dc4af",
@@ -517,7 +518,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_038f008cd59d",
@@ -537,7 +538,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_home_link_a55f1402d025",
@@ -557,7 +558,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "bwc_inline_section_0d103d987f1d",
@@ -577,7 +578,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/511/list.htm"
   },
   {
@@ -598,7 +599,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/511/list2.htm"
   },
   {
@@ -619,7 +620,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/gjfl2/list.htm"
   },
   {
@@ -640,7 +641,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/gjfl2/list2.htm"
   },
   {
@@ -661,7 +662,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/xngz2/list.htm"
   },
   {
@@ -682,7 +683,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/xngz2/list2.htm"
   },
   {
@@ -703,7 +704,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/516/list.htm"
   },
   {
@@ -724,7 +725,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/516/list2.htm"
   },
   {
@@ -745,7 +746,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/520/list.htm"
   },
   {
@@ -766,7 +767,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/520/list2.htm"
   },
   {
@@ -787,7 +788,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/_t3998/510/list.htm"
   },
   {
@@ -808,7 +809,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/_t3998/510/list.htm"
   },
   {
@@ -829,7 +830,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list2.htm"
   },
   {
@@ -850,7 +851,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list2.htm"
   },
   {
@@ -871,7 +872,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list3.htm"
   },
   {
@@ -892,7 +893,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list4.htm"
   },
   {
@@ -913,7 +914,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list5.htm"
   },
   {
@@ -934,7 +935,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list6.htm"
   },
   {
@@ -955,7 +956,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list7.htm"
   },
   {
@@ -976,7 +977,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list8.htm"
   },
   {
@@ -997,7 +998,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list9.htm"
   },
   {
@@ -1018,7 +1019,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list10.htm"
   },
   {
@@ -1039,7 +1040,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list11.htm"
   },
   {
@@ -1060,7 +1061,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list12.htm"
   },
   {
@@ -1081,7 +1082,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list13.htm"
   },
   {
@@ -1102,7 +1103,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list14.htm"
   },
   {
@@ -1123,7 +1124,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list15.htm"
   },
   {
@@ -1144,7 +1145,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list16.htm"
   },
   {
@@ -1165,7 +1166,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list17.htm"
   },
   {
@@ -1186,7 +1187,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list18.htm"
   },
   {
@@ -1207,7 +1208,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list19.htm"
   },
   {
@@ -1228,7 +1229,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list20.htm"
   },
   {
@@ -1249,7 +1250,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list21.htm"
   },
   {
@@ -1270,7 +1271,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list22.htm"
   },
   {
@@ -1291,7 +1292,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list23.htm"
   },
   {
@@ -1312,7 +1313,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list24.htm"
   },
   {
@@ -1333,7 +1334,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list25.htm"
   },
   {
@@ -1354,7 +1355,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list26.htm"
   },
   {
@@ -1375,7 +1376,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list27.htm"
   },
   {
@@ -1396,7 +1397,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list28.htm"
   },
   {
@@ -1417,7 +1418,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list29.htm"
   },
   {
@@ -1438,7 +1439,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list30.htm"
   },
   {
@@ -1459,7 +1460,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list31.htm"
   },
   {
@@ -1480,7 +1481,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list32.htm"
   },
   {
@@ -1501,7 +1502,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list33.htm"
   },
   {
@@ -1522,7 +1523,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list34.htm"
   },
   {
@@ -1543,7 +1544,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list35.htm"
   },
   {
@@ -1564,7 +1565,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list36.htm"
   },
   {
@@ -1585,7 +1586,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list37.htm"
   },
   {
@@ -1606,7 +1607,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list38.htm"
   },
   {
@@ -1627,7 +1628,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list39.htm"
   },
   {
@@ -1648,7 +1649,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list40.htm"
   },
   {
@@ -1669,7 +1670,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list41.htm"
   },
   {
@@ -1690,7 +1691,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list42.htm"
   },
   {
@@ -1711,7 +1712,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list43.htm"
   },
   {
@@ -1732,7 +1733,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list44.htm"
   },
   {
@@ -1753,7 +1754,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list45.htm"
   },
   {
@@ -1774,7 +1775,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list46.htm"
   },
   {
@@ -1795,7 +1796,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list47.htm"
   },
   {
@@ -1816,7 +1817,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list48.htm"
   },
   {
@@ -1837,7 +1838,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list49.htm"
   },
   {
@@ -1858,7 +1859,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list50.htm"
   },
   {
@@ -1879,7 +1880,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list51.htm"
   },
   {
@@ -1900,7 +1901,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list52.htm"
   },
   {
@@ -1921,7 +1922,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/_t3998/543/list.htm"
   },
   {
@@ -1942,7 +1943,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/_t3998/543/list.htm"
   },
   {
@@ -1963,7 +1964,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list2.htm"
   },
   {
@@ -1984,7 +1985,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list2.htm"
   },
   {
@@ -2005,7 +2006,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list3.htm"
   },
   {
@@ -2026,7 +2027,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list4.htm"
   },
   {
@@ -2047,7 +2048,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list5.htm"
   },
   {
@@ -2068,7 +2069,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list6.htm"
   },
   {
@@ -2089,7 +2090,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list7.htm"
   },
   {
@@ -2110,7 +2111,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list8.htm"
   },
   {
@@ -2131,7 +2132,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list9.htm"
   },
   {
@@ -2152,7 +2153,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list10.htm"
   },
   {
@@ -2173,7 +2174,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list11.htm"
   },
   {
@@ -2194,7 +2195,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list12.htm"
   },
   {
@@ -2215,7 +2216,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list13.htm"
   },
   {
@@ -2236,7 +2237,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list14.htm"
   },
   {
@@ -2257,7 +2258,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list15.htm"
   },
   {
@@ -2278,7 +2279,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list16.htm"
   },
   {
@@ -2299,7 +2300,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list17.htm"
   },
   {
@@ -2320,7 +2321,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list18.htm"
   },
   {
@@ -2341,7 +2342,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list19.htm"
   },
   {
@@ -2362,7 +2363,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list20.htm"
   },
   {
@@ -2383,7 +2384,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list21.htm"
   },
   {
@@ -2404,7 +2405,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list22.htm"
   },
   {
@@ -2425,7 +2426,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list23.htm"
   },
   {
@@ -2446,7 +2447,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list24.htm"
   },
   {
@@ -2467,7 +2468,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/_t3998/llxx/list.htm"
   },
   {
@@ -2488,7 +2489,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/llxx/list2.htm"
   },
   {
@@ -2509,7 +2510,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/_t3998/zbhd/list.htm"
   },
   {
@@ -2530,7 +2531,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/_t3998/zbhd/list.htm"
   },
   {
@@ -2551,7 +2552,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/zbhd/list2.htm"
   },
   {
@@ -2572,7 +2573,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/_t3998/522/list.htm"
   },
   {
@@ -2593,7 +2594,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/_t3998/522/list.htm"
   },
   {
@@ -2614,7 +2615,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/522/list2.htm"
   },
   {
@@ -2634,7 +2635,7 @@
     "pagination": {
       "type": "none"
     },
-    "source": "manifest_backfill"
+    "source": "archive_section"
   },
   {
     "section_id": "bwc_inline_section_b5040ad50690",
@@ -2654,7 +2655,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list54.htm"
   },
   {
@@ -2675,7 +2676,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list26.htm"
   },
   {
@@ -2696,7 +2697,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list53.htm"
   },
   {
@@ -2717,7 +2718,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list25.htm"
   },
   {
@@ -2738,7 +2739,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list52.htm"
   },
   {
@@ -2759,7 +2760,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list24.htm"
   },
   {
@@ -2780,7 +2781,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list51.htm"
   },
   {
@@ -2801,7 +2802,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list23.htm"
   },
   {
@@ -2822,7 +2823,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list50.htm"
   },
   {
@@ -2843,7 +2844,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list22.htm"
   },
   {
@@ -2864,7 +2865,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list49.htm"
   },
   {
@@ -2885,7 +2886,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list21.htm"
   },
   {
@@ -2906,7 +2907,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list48.htm"
   },
   {
@@ -2927,7 +2928,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/543/list20.htm"
   },
   {
@@ -2948,7 +2949,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list47.htm"
   },
   {
@@ -2969,7 +2970,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list46.htm"
   },
   {
@@ -2990,7 +2991,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list45.htm"
   },
   {
@@ -3011,7 +3012,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list44.htm"
   },
   {
@@ -3032,7 +3033,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list43.htm"
   },
   {
@@ -3053,7 +3054,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list42.htm"
   },
   {
@@ -3074,7 +3075,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list41.htm"
   },
   {
@@ -3095,7 +3096,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list40.htm"
   },
   {
@@ -3116,7 +3117,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list39.htm"
   },
   {
@@ -3137,7 +3138,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://bwc.njupt.edu.cn/510/list38.htm"
   },
   {
@@ -3158,6 +3159,6 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   }
 ]

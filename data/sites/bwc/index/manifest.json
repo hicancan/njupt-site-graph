@@ -35,7 +35,9 @@
     "audit_evidence_ref": "../reports/audit_evidence.md",
     "pagination_terminal_verified": true,
     "unknown_url_count": 0,
-    "excluded_url_count": 0
+    "excluded_url_count": 0,
+    "evidence_source": "full_crawl",
+    "audit_evidence_json_ref": "../reports/audit_evidence.json"
   },
   "url_outcomes": {
     "https://bwc.njupt.edu.cn/": {
@@ -69366,5 +69368,7 @@
   "audit_evidence_ref": "../reports/audit_evidence.md",
   "pagination_terminal_verified": true,
   "unknown_url_count": 0,
-  "excluded_url_count": 0
+  "excluded_url_count": 0,
+  "evidence_source": "full_crawl",
+  "audit_evidence_json_ref": "../reports/audit_evidence.json"
 }

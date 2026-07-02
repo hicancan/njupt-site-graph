@@ -17,7 +17,8 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "item_container_selector": ".news_list.list2, .news_list2.list2"
+    "item_container_selector": ".news_list.list2, .news_list2.list2",
+    "source": "declared_section"
   },
   {
     "section_id": "tyb_home_link_78d4ac54f710",
@@ -37,7 +38,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_f37506aef477",
@@ -57,7 +58,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_958230f93c0f",
@@ -77,7 +78,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_a53839efd1a5",
@@ -97,7 +98,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_70de98a372cd",
@@ -117,7 +118,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_470b232489eb",
@@ -137,7 +138,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_8723a61c7fa3",
@@ -157,7 +158,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_1ec431c1ce9d",
@@ -177,7 +178,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_6c0a9883b239",
@@ -197,7 +198,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_dfac458d1209",
@@ -217,7 +218,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_cc710d56417e",
@@ -237,7 +238,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_04078cf0a649",
@@ -257,7 +258,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_b1575da6ee5d",
@@ -277,7 +278,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_3ca1ea7353f8",
@@ -297,7 +298,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_4999e1116723",
@@ -317,7 +318,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_357eba6d5fa5",
@@ -337,7 +338,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_7423b3e904e9",
@@ -357,7 +358,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_69216e00f9d7",
@@ -377,7 +378,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_8a153cfd9e90",
@@ -397,7 +398,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_b9476c1780f3",
@@ -417,7 +418,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_0071bfd6f4e4",
@@ -437,7 +438,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_4d0acc855f92",
@@ -457,7 +458,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_92bff62d0e7e",
@@ -477,7 +478,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_478be54b47ce",
@@ -497,7 +498,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_633485fdc908",
@@ -517,7 +518,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_6ddd2c2be008",
@@ -537,7 +538,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_9b5521f7da6b",
@@ -557,7 +558,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_a60d75a8cc57",
@@ -577,7 +578,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_11dff7c87f31",
@@ -597,7 +598,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_1de1d859b38c",
@@ -617,7 +618,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_6e85f9ad8209",
@@ -637,7 +638,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_44ae8c09ba80",
@@ -657,7 +658,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_5915952544d6",
@@ -677,7 +678,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_7dce3c713957",
@@ -697,7 +698,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_cd839ad270f1",
@@ -717,7 +718,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_f4b6cbf0630f",
@@ -737,7 +738,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_316d52114118",
@@ -757,7 +758,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_058c761f1629",
@@ -777,7 +778,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_8d0fc19e529a",
@@ -797,7 +798,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_f542983d2ebd",
@@ -817,7 +818,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_42ca111542cc",
@@ -837,7 +838,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_4dd15d6bcea0",
@@ -857,7 +858,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_f22de68b4b1a",
@@ -877,7 +878,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_608fbcd1ccee",
@@ -897,7 +898,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_23b8d4e5c48f",
@@ -917,7 +918,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_14ac58d92969",
@@ -937,7 +938,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_da483e12cbc0",
@@ -957,7 +958,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_b1b03ea2e96f",
@@ -977,7 +978,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_c06e581fa2be",
@@ -997,7 +998,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_53a659229265",
@@ -1017,7 +1018,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_d574e22048a4",
@@ -1037,7 +1038,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_6fd146e52d06",
@@ -1057,7 +1058,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_2ad0122e8308",
@@ -1077,7 +1078,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_f9b5421b0d1a",
@@ -1097,7 +1098,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_2e9b909355c2",
@@ -1117,7 +1118,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_78f0640ca95d",
@@ -1137,7 +1138,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_5d2468e799ac",
@@ -1157,7 +1158,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_164e2c179d5a",
@@ -1177,7 +1178,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_0420b8932f3e",
@@ -1197,7 +1198,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_694173f8727f",
@@ -1217,7 +1218,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_cec92b803968",
@@ -1237,7 +1238,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_4107d45dd14e",
@@ -1257,7 +1258,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_8941facec0f4",
@@ -1277,7 +1278,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_28e2e7079847",
@@ -1297,7 +1298,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_6d60b65c0dcd",
@@ -1317,7 +1318,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_dfe7eeda4dd7",
@@ -1337,7 +1338,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_home_link_6a90dd438015",
@@ -1357,7 +1358,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "homepage_link"
+    "source": "homepage_nav"
   },
   {
     "section_id": "tyb_inline_section_d1b988cbf212",
@@ -1377,7 +1378,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7254/list.psp"
   },
   {
@@ -1398,7 +1399,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7254/list.psp"
   },
   {
@@ -1419,7 +1420,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7254/list.psp"
   },
   {
@@ -1440,7 +1441,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7254/list2.htm"
   },
   {
@@ -1461,7 +1462,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7254/list2.htm"
   },
   {
@@ -1482,7 +1483,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7254/list3.htm"
   },
   {
@@ -1503,7 +1504,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7254/list4.htm"
   },
   {
@@ -1524,7 +1525,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7254/list5.htm"
   },
   {
@@ -1545,7 +1546,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7254/list6.htm"
   },
   {
@@ -1566,7 +1567,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7254/list7.htm"
   },
   {
@@ -1587,7 +1588,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7254/list8.htm"
   },
   {
@@ -1608,7 +1609,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7254/list9.htm"
   },
   {
@@ -1629,7 +1630,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7254/list10.htm"
   },
   {
@@ -1650,7 +1651,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7254/list11.htm"
   },
   {
@@ -1671,7 +1672,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/ryq/list.htm"
   },
   {
@@ -1692,7 +1693,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/ryq/list.htm"
   },
   {
@@ -1713,7 +1714,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/ryq/list2.htm"
   },
   {
@@ -1734,7 +1735,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/ryq/list2.htm"
   },
   {
@@ -1755,7 +1756,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/ryq/list3.htm"
   },
   {
@@ -1776,7 +1777,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/ryq/list4.htm"
   },
   {
@@ -1797,7 +1798,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/ryq/list5.htm"
   },
   {
@@ -1818,7 +1819,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/dztd/list.htm"
   },
   {
@@ -1839,7 +1840,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/dztd/list.htm"
   },
   {
@@ -1860,7 +1861,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/dztd/list2.htm"
   },
   {
@@ -1881,7 +1882,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/dztd/list2.htm"
   },
   {
@@ -1902,7 +1903,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/dztd/list3.htm"
   },
   {
@@ -1923,7 +1924,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/8541/list.htm"
   },
   {
@@ -1944,7 +1945,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/8541/list.htm"
   },
   {
@@ -1965,7 +1966,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/8541/list2.htm"
   },
   {
@@ -1986,7 +1987,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/8541/list2.htm"
   },
   {
@@ -2007,7 +2008,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/8541/list3.htm"
   },
   {
@@ -2028,7 +2029,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/8541/list4.htm"
   },
   {
@@ -2049,7 +2050,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/8541/list5.htm"
   },
   {
@@ -2070,7 +2071,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/8541/list6.htm"
   },
   {
@@ -2091,7 +2092,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/8541/list7.htm"
   },
   {
@@ -2112,7 +2113,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/8541/list8.htm"
   },
   {
@@ -2133,7 +2134,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/8541/list9.htm"
   },
   {
@@ -2154,7 +2155,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/8541/list10.htm"
   },
   {
@@ -2175,7 +2176,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/8541/list11.htm"
   },
   {
@@ -2196,7 +2197,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/8546/list.htm"
   },
   {
@@ -2217,7 +2218,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/8546/list2.htm"
   },
   {
@@ -2238,7 +2239,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/jxky/list.htm"
   },
   {
@@ -2259,7 +2260,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/jxky/list.htm"
   },
   {
@@ -2280,7 +2281,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/jxky/list2.htm"
   },
   {
@@ -2301,7 +2302,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/jxky/list2.htm"
   },
   {
@@ -2322,7 +2323,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/jxky/list3.htm"
   },
   {
@@ -2343,7 +2344,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/jxky/list4.htm"
   },
   {
@@ -2364,7 +2365,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/jxky/list5.htm"
   },
   {
@@ -2385,7 +2386,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7226/list.htm"
   },
   {
@@ -2406,7 +2407,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7226/list.htm"
   },
   {
@@ -2427,7 +2428,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7226/list2.htm"
   },
   {
@@ -2448,7 +2449,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7226/list2.htm"
   },
   {
@@ -2469,7 +2470,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7226/list3.htm"
   },
   {
@@ -2490,7 +2491,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7226/list4.htm"
   },
   {
@@ -2511,7 +2512,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7226/list5.htm"
   },
   {
@@ -2532,7 +2533,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7236/list.htm"
   },
   {
@@ -2553,7 +2554,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7236/list2.htm"
   },
   {
@@ -2574,7 +2575,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/bkjyjxshpg/list.htm"
   },
   {
@@ -2595,7 +2596,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/bkjyjxshpg/list2.htm"
   },
   {
@@ -2616,7 +2617,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7228/list.htm"
   },
   {
@@ -2637,7 +2638,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7228/list2.htm"
   },
   {
@@ -2658,7 +2659,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7257/list.htm"
   },
   {
@@ -2679,7 +2680,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7257/list.htm"
   },
   {
@@ -2700,7 +2701,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7257/list2.htm"
   },
   {
@@ -2721,7 +2722,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7257/list2.htm"
   },
   {
@@ -2742,7 +2743,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7234/list.htm"
   },
   {
@@ -2763,7 +2764,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7234/list.htm"
   },
   {
@@ -2784,7 +2785,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7234/list2.htm"
   },
   {
@@ -2805,7 +2806,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7234/list2.htm"
   },
   {
@@ -2826,7 +2827,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7234/list3.htm"
   },
   {
@@ -2847,7 +2848,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7234/list4.htm"
   },
   {
@@ -2868,7 +2869,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7231/list.htm"
   },
   {
@@ -2889,7 +2890,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7231/list.htm"
   },
   {
@@ -2910,7 +2911,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7231/list2.htm"
   },
   {
@@ -2931,7 +2932,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7229/list.htm"
   },
   {
@@ -2952,7 +2953,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7229/list.htm"
   },
   {
@@ -2973,7 +2974,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7229/list2.htm"
   },
   {
@@ -2994,7 +2995,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7229/list2.htm"
   },
   {
@@ -3015,7 +3016,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7229/list3.htm"
   },
   {
@@ -3036,7 +3037,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7229/list4.htm"
   },
   {
@@ -3057,7 +3058,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7229/list5.htm"
   },
   {
@@ -3078,7 +3079,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7229/list6.htm"
   },
   {
@@ -3099,7 +3100,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7229/list7.htm"
   },
   {
@@ -3120,7 +3121,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/ssxw/list.htm"
   },
   {
@@ -3141,7 +3142,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/ssxw/list.htm"
   },
   {
@@ -3162,7 +3163,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/ssxw/list2.htm"
   },
   {
@@ -3183,7 +3184,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/ssxw/list2.htm"
   },
   {
@@ -3204,7 +3205,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/ssxw/list3.htm"
   },
   {
@@ -3225,7 +3226,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/ssxw/list4.htm"
   },
   {
@@ -3246,7 +3247,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/ssxw/list5.htm"
   },
   {
@@ -3267,7 +3268,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/ssxw/list6.htm"
   },
   {
@@ -3288,7 +3289,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/ssxw/list7.htm"
   },
   {
@@ -3309,7 +3310,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/tzcs/list.htm"
   },
   {
@@ -3330,7 +3331,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/tzcs/list.htm"
   },
   {
@@ -3351,7 +3352,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/tzcs/list2.htm"
   },
   {
@@ -3372,7 +3373,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/tzcs/list2.htm"
   },
   {
@@ -3393,7 +3394,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/tzcs/list3.htm"
   },
   {
@@ -3414,7 +3415,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7233/list.htm"
   },
   {
@@ -3435,7 +3436,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7233/list2.htm"
   },
   {
@@ -3456,7 +3457,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7243/list.htm"
   },
   {
@@ -3477,7 +3478,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7243/list.htm"
   },
   {
@@ -3498,7 +3499,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7243/list2.htm"
   },
   {
@@ -3519,7 +3520,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7243/list2.htm"
   },
   {
@@ -3540,7 +3541,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7243/list3.htm"
   },
   {
@@ -3561,7 +3562,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7243/list4.htm"
   },
   {
@@ -3582,7 +3583,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7243/list5.htm"
   },
   {
@@ -3603,7 +3604,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/xxgk/list.htm"
   },
   {
@@ -3624,7 +3625,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/xxgk/list.htm"
   },
   {
@@ -3645,7 +3646,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/xxgk/list2.htm"
   },
   {
@@ -3666,7 +3667,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/xxgk/list2.htm"
   },
   {
@@ -3687,7 +3688,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/xxgk/list3.htm"
   },
   {
@@ -3708,7 +3709,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/xxgk/list4.htm"
   },
   {
@@ -3729,7 +3730,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/xxgk/list5.htm"
   },
   {
@@ -3750,7 +3751,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7256/list.htm"
   },
   {
@@ -3771,7 +3772,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7256/list.htm"
   },
   {
@@ -3792,7 +3793,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7256/list2.htm"
   },
   {
@@ -3813,7 +3814,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7256/list2.htm"
   },
   {
@@ -3834,7 +3835,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7256/list3.htm"
   },
   {
@@ -3855,7 +3856,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7256/list4.htm"
   },
   {
@@ -3876,7 +3877,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7256/list5.htm"
   },
   {
@@ -3897,7 +3898,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7256/list6.htm"
   },
   {
@@ -3918,7 +3919,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list.psp"
   },
   {
@@ -3939,7 +3940,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list.psp"
   },
   {
@@ -3960,7 +3961,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list.psp"
   },
   {
@@ -3981,7 +3982,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list2.htm"
   },
   {
@@ -4002,7 +4003,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list2.htm"
   },
   {
@@ -4023,7 +4024,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list3.htm"
   },
   {
@@ -4044,7 +4045,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list4.htm"
   },
   {
@@ -4065,7 +4066,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list5.htm"
   },
   {
@@ -4086,7 +4087,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list6.htm"
   },
   {
@@ -4107,7 +4108,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list7.htm"
   },
   {
@@ -4128,7 +4129,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list8.htm"
   },
   {
@@ -4149,7 +4150,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list9.htm"
   },
   {
@@ -4170,7 +4171,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list10.htm"
   },
   {
@@ -4191,7 +4192,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list11.htm"
   },
   {
@@ -4212,7 +4213,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list12.htm"
   },
   {
@@ -4233,7 +4234,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list13.htm"
   },
   {
@@ -4254,7 +4255,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list14.htm"
   },
   {
@@ -4275,7 +4276,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list15.htm"
   },
   {
@@ -4296,7 +4297,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list16.htm"
   },
   {
@@ -4317,7 +4318,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list17.htm"
   },
   {
@@ -4338,7 +4339,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list18.htm"
   },
   {
@@ -4359,7 +4360,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list19.htm"
   },
   {
@@ -4380,7 +4381,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list20.htm"
   },
   {
@@ -4401,7 +4402,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list21.htm"
   },
   {
@@ -4422,7 +4423,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list22.htm"
   },
   {
@@ -4443,7 +4444,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list23.htm"
   },
   {
@@ -4464,7 +4465,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list24.htm"
   },
   {
@@ -4485,7 +4486,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list25.htm"
   },
   {
@@ -4506,7 +4507,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list26.htm"
   },
   {
@@ -4527,7 +4528,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list27.htm"
   },
   {
@@ -4548,7 +4549,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list28.htm"
   },
   {
@@ -4569,7 +4570,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list29.htm"
   },
   {
@@ -4590,7 +4591,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list30.htm"
   },
   {
@@ -4611,7 +4612,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list31.htm"
   },
   {
@@ -4632,7 +4633,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list32.htm"
   },
   {
@@ -4653,7 +4654,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list33.htm"
   },
   {
@@ -4674,7 +4675,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list34.htm"
   },
   {
@@ -4695,7 +4696,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list35.htm"
   },
   {
@@ -4716,7 +4717,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list36.htm"
   },
   {
@@ -4737,7 +4738,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/lqfh/list.psp"
   },
   {
@@ -4758,7 +4759,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/lqfh/list.psp"
   },
   {
@@ -4779,7 +4780,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/lqfh/list.psp"
   },
   {
@@ -4800,7 +4801,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/lqfh/list2.htm"
   },
   {
@@ -4821,7 +4822,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/lqfh/list2.htm"
   },
   {
@@ -4842,7 +4843,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/lqfh/list3.htm"
   },
   {
@@ -4862,7 +4863,7 @@
     "pagination": {
       "type": "none"
     },
-    "source": "manifest_backfill"
+    "source": "archive_section"
   },
   {
     "section_id": "tyb_inline_section_522687bf032b",
@@ -4882,7 +4883,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7254/list13.htm"
   },
   {
@@ -4903,7 +4904,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/ryq/list7.htm"
   },
   {
@@ -4924,7 +4925,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/8541/list13.htm"
   },
   {
@@ -4945,7 +4946,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/jxky/list7.htm"
   },
   {
@@ -4966,7 +4967,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7226/list7.htm"
   },
   {
@@ -4987,7 +4988,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7234/list6.htm"
   },
   {
@@ -5008,7 +5009,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7229/list9.htm"
   },
   {
@@ -5029,7 +5030,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/ssxw/list9.htm"
   },
   {
@@ -5050,7 +5051,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7243/list7.htm"
   },
   {
@@ -5071,7 +5072,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/xxgk/list7.htm"
   },
   {
@@ -5092,7 +5093,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7256/list8.htm"
   },
   {
@@ -5113,7 +5114,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list38.htm"
   },
   {
@@ -5134,7 +5135,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7254/list12.htm"
   },
   {
@@ -5155,7 +5156,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/8541/list12.htm"
   },
   {
@@ -5176,7 +5177,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7229/list8.htm"
   },
   {
@@ -5197,7 +5198,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/ssxw/list8.htm"
   },
   {
@@ -5218,7 +5219,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list37.htm"
   },
   {
@@ -5239,7 +5240,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7254/list11.htm"
   },
   {
@@ -5260,7 +5261,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/8541/list11.htm"
   },
   {
@@ -5281,7 +5282,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list36.htm"
   },
   {
@@ -5302,7 +5303,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list35.htm"
   },
   {
@@ -5323,7 +5324,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list34.htm"
   },
   {
@@ -5344,7 +5345,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list33.htm"
   },
   {
@@ -5365,7 +5366,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list32.htm"
   },
   {
@@ -5386,7 +5387,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list31.htm"
   },
   {
@@ -5407,7 +5408,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list30.htm"
   },
   {
@@ -5428,7 +5429,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list29.htm"
   },
   {
@@ -5449,7 +5450,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/7253/list28.htm"
   },
   {
@@ -5470,7 +5471,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/sdsfjs/list2.htm"
   },
   {
@@ -5491,7 +5492,7 @@
       "type": "next_link",
       "max_pages_safety": 500
     },
-    "source": "inline_link",
+    "source": "inline_section_link",
     "source_url": "https://tyb.njupt.edu.cn/sdsfjs/list1.htm"
   }
 ]

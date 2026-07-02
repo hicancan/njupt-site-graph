@@ -34,11 +34,13 @@
     "errors": 0,
     "attachment_policy": "metadata_only",
     "external_link_policy": "record_only",
-    "coverage_status": "complete",
+    "coverage_status": "complete_with_exclusions",
     "audit_evidence_ref": "../reports/audit_evidence.md",
     "pagination_terminal_verified": true,
     "unknown_url_count": 0,
-    "excluded_url_count": 2
+    "excluded_url_count": 2,
+    "evidence_source": "full_crawl",
+    "audit_evidence_json_ref": "../reports/audit_evidence.json"
   },
   "url_outcomes": {
     "https://www.njupt.edu.cn/": {
@@ -103758,9 +103760,11 @@
     "unknown_urls": [],
     "exclusions": []
   },
-  "coverage_status": "complete",
+  "coverage_status": "complete_with_exclusions",
   "audit_evidence_ref": "../reports/audit_evidence.md",
   "pagination_terminal_verified": true,
   "unknown_url_count": 0,
-  "excluded_url_count": 2
+  "excluded_url_count": 2,
+  "evidence_source": "full_crawl",
+  "audit_evidence_json_ref": "../reports/audit_evidence.json"
 }

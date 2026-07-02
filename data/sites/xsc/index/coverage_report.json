@@ -9,9 +9,9 @@
   "sections": {
     "total": 34,
     "by_source": {
-      "homepage_link": 24,
+      "declared_section": 2,
       "homepage_module": 8,
-      "unknown": 2
+      "homepage_nav": 24
     },
     "by_type": {
       "homepage_link_section": 24,
@@ -415,8 +415,11 @@
   },
   "urls": {
     "unknown_url_count": 0,
-    "excluded_url_count": 0
+    "excluded_url_count": 0,
+    "exclusions": []
   },
   "errors": [],
-  "output_root": "D:\\code\\github\\hicancan\\njupt-site-graph\\data\\sites\\xsc\\index"
+  "output_root": "D:\\code\\github\\hicancan\\njupt-site-graph\\data\\sites\\xsc\\index",
+  "evidence_source": "full_crawl",
+  "audit_evidence_json_ref": "../reports/audit_evidence.json"
 }
