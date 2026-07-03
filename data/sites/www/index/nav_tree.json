@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-02T10:25:24.660883+00:00",
+  "generated_at": "2026-07-03T08:45:06.488598+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -941,7 +941,35 @@
       "position": 79
     },
     {
-      "node_id": "39fcdeb59df192bef7dc",
+      "node_id": "6476b449196bccc0e876",
+      "site_id": "www",
+      "label": "台北商业大学张肇明教授学术讲座：Distributed Adjustable Computation Scheme in Highly Scalable Data Center Networks Based on Multi-protection Routing 2026-07-08 09:00:00 计算机学科楼327会议室",
+      "url": "https://www.njupt.edu.cn/2026/0703/c17121a305882/page.htm",
+      "nav_path": [
+        "台北商业大学张肇明教授学术讲座：Distributed Adjustable Computation Scheme in Highly Scalable Data Center Networks Based on Multi-protection Routing 2026-07-08 09:00:00 计算机学科楼327会议室"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 80
+    },
+    {
+      "node_id": "64b011e6fd99d74bb7e6",
+      "site_id": "www",
+      "label": "苏州大学樊建席教授学术讲座：递归匹配网络的不相交路径研究 2026-07-08 10:00:00 计算机学科楼327会议室",
+      "url": "https://www.njupt.edu.cn/2026/0703/c17121a305878/page.htm",
+      "nav_path": [
+        "苏州大学樊建席教授学术讲座：递归匹配网络的不相交路径研究 2026-07-08 10:00:00 计算机学科楼327会议室"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 81
+    },
+    {
+      "node_id": "2f9432c499912389d29d",
       "site_id": "www",
       "label": "中国科协科技导报社史永超副社长学术报告：科技期刊投稿写作及SCIENCE伙伴期刊RESEARCH推介会 2026-07-06 10:00:00 材料学科楼219会议室",
       "url": "https://www.njupt.edu.cn/2026/0702/c17121a305734/page.htm",
@@ -952,10 +980,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 80
+      "position": 82
     },
     {
-      "node_id": "d237c53ca65065ed2edd",
+      "node_id": "deb01e1601f4e6a650be",
       "site_id": "www",
       "label": "西安交通大学梁超教授学术讲座：高稳定钙钛矿电池动态分子设计 2026-06-24 16:30:00 材料学科楼227会议室",
       "url": "https://www.njupt.edu.cn/2026/0623/c17121a305290/page.htm",
@@ -966,10 +994,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 81
+      "position": 83
     },
     {
-      "node_id": "5f1e2be40d4dd4e3ced1",
+      "node_id": "9831e3180517b4e8e20f",
       "site_id": "www",
       "label": "浙江大学成正东教授学术讲座：胶体手性液晶中熵锁定稳定的宏观铁磁相 2026-06-03 15:00:00 新材料学科楼312会议室",
       "url": "https://www.njupt.edu.cn/2026/0602/c17121a303213/page.htm",
@@ -980,10 +1008,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 82
+      "position": 84
     },
     {
-      "node_id": "4e916dab709640c9e8e3",
+      "node_id": "7ad167229c3963385a83",
       "site_id": "www",
       "label": "北京大学肖云峰教授学术讲座：超高品质因子微腔光学与光子学 2026-06-04 10:00:00 计算机学科楼一楼中兴报告厅",
       "url": "https://www.njupt.edu.cn/2026/0602/c17121a303200/page.htm",
@@ -994,10 +1022,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 83
+      "position": 85
     },
     {
-      "node_id": "6cf040f3b1e359b0763d",
+      "node_id": "bc1bc190cabdf8665686",
       "site_id": "www",
       "label": "汉诺威大学丁飞教授学术讲座：基于半导体材料和器件的可扩展量子信息技术 2026-06-05 10:00:00 材料院学科楼118报告厅",
       "url": "https://www.njupt.edu.cn/2026/0602/c17121a303201/page.htm",
@@ -1008,10 +1036,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 84
+      "position": 86
     },
     {
-      "node_id": "38071e103594bf34c07e",
+      "node_id": "02689035c365cd159a4b",
       "site_id": "www",
       "label": "新加坡南洋理工大学胡光维教授学术讲座：纳米光子学新前沿 2026-05-26 10:00:00 材料学科楼118报告厅",
       "url": "https://www.njupt.edu.cn/2026/0525/c17121a302577/page.htm",
@@ -1022,10 +1050,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 85
+      "position": 87
     },
     {
-      "node_id": "23bbe72e2599b0da9f89",
+      "node_id": "a36f24c2e3a379b2d181",
       "site_id": "www",
       "label": "南京邮电大学2026年“邮青春·邮梦想”主题晚会暨“天翼飞YOUNG”杯第二十九届大学生文化艺术节闭幕式 2026-05-25 19:00:00 仙林校区南操场",
       "url": "https://www.njupt.edu.cn/2026/0520/c17121a302265/page.htm",
@@ -1036,43 +1064,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 86
+      "position": 88
     },
     {
-      "node_id": "0b0f678b42ea17dba006",
+      "node_id": "e7956d86f1d0f3a78b85",
       "site_id": "www",
       "label": "复旦大学田朋飞教授、上海大学宋宏伟教授学术讲座：半导体光电材料和器件集成及应用创新 2026-05-19 09:30:00 仙林校区光电学科楼B楼322",
       "url": "https://www.njupt.edu.cn/2026/0518/c17121a302008/page.htm",
       "nav_path": [
         "复旦大学田朋飞教授、上海大学宋宏伟教授学术讲座：半导体光电材料和器件集成及应用创新 2026-05-19 09:30:00 仙林校区光电学科楼B楼322"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 87
-    },
-    {
-      "node_id": "c40368b533d789c09b4b",
-      "site_id": "www",
-      "label": "袁小聪院士学术讲座：奇点光场调整与皮米光子学 2026-05-15 10:00:00 计算机学科楼一楼中兴报告厅",
-      "url": "https://www.njupt.edu.cn/2026/0512/c17121a301728/page.htm",
-      "nav_path": [
-        "袁小聪院士学术讲座：奇点光场调整与皮米光子学 2026-05-15 10:00:00 计算机学科楼一楼中兴报告厅"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 88
-    },
-    {
-      "node_id": "22ec42a67102c8d7bfb6",
-      "site_id": "www",
-      "label": "关于举办《茶与体育—— 一场身心交融的对话》讲座的通知 2026-05-13 14:00:00 南三食堂三楼教工之家会议室",
-      "url": "https://www.njupt.edu.cn/2026/0512/c17121a301738/page.htm",
-      "nav_path": [
-        "关于举办《茶与体育—— 一场身心交融的对话》讲座的通知 2026-05-13 14:00:00 南三食堂三楼教工之家会议室"
       ],
       "depth": 1,
       "target_type": "detail_article_page",

@@ -1,21 +1,21 @@
 {
   "site_id": "lib",
-  "generated_at": "2026-07-02T19:05:59.917621+00:00",
+  "generated_at": "2026-07-03T08:45:03.016826+00:00",
   "totals": {
     "sections": 46,
     "nav_nodes": 31,
     "homepage_modules": 0,
     "list_pages": 117,
-    "detail_pages": 1144,
+    "detail_pages": 1145,
     "low_content_detail_pages": 77,
     "attachments": 108,
     "external_links": 530,
     "edges": 1742,
-    "url_outcomes": 3905
+    "url_outcomes": 3906
   },
   "outcomes": {
     "attachment_metadata_only": 107,
-    "crawled_detail_ok": 1109,
+    "crawled_detail_ok": 1110,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 117,
     "cross_domain_article_link_recorded": 3,
@@ -1734,7 +1734,8 @@
         "图书馆关于2025年“五一”劳动节开放安排的通知"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1429/list.htm"
+        "https://lib.njupt.edu.cn/1429/list.htm",
+        "https://lib.njupt.edu.cn/1429/list2.htm"
       ],
       "section_ids": [
         "lib_notice"
@@ -2095,7 +2096,8 @@
         "关于举办《读与写：如何述评一本书》讲座的通知"
       ],
       "sources": [
-        "https://lib.njupt.edu.cn/1429/list2.htm"
+        "https://lib.njupt.edu.cn/1429/list2.htm",
+        "https://lib.njupt.edu.cn/1429/list3.htm"
       ],
       "section_ids": [
         "lib_notice"
@@ -53224,6 +53226,22 @@
       "section_ids": [
         "lib_home_link_a7ce4abf4855"
       ]
+    },
+    "https://lib.njupt.edu.cn/2026/0703/c1429a305871/page.htm": {
+      "url": "https://lib.njupt.edu.cn/2026/0703/c1429a305871/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "图书馆关于UPS设备升级维护的通知"
+      ],
+      "sources": [
+        "https://lib.njupt.edu.cn/",
+        "https://lib.njupt.edu.cn/1429/list.htm"
+      ],
+      "section_ids": [
+        "lib_notice"
+      ],
+      "status_code": 200
     }
   },
   "coverage": {

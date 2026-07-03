@@ -1,21 +1,21 @@
 {
   "site_id": "cxcy",
-  "generated_at": "2026-07-01T02:09:00.307533+00:00",
+  "generated_at": "2026-07-03T08:44:58.274920+00:00",
   "totals": {
     "sections": 39,
     "nav_nodes": 29,
     "homepage_modules": 5,
     "list_pages": 83,
-    "detail_pages": 617,
+    "detail_pages": 618,
     "low_content_detail_pages": 83,
-    "attachments": 207,
+    "attachments": 208,
     "external_links": 63,
-    "edges": 1091,
-    "url_outcomes": 1329
+    "edges": 1092,
+    "url_outcomes": 1331
   },
   "outcomes": {
-    "attachment_metadata_only": 205,
-    "crawled_detail_ok": 595,
+    "attachment_metadata_only": 206,
+    "crawled_detail_ok": 596,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 83,
     "cross_domain_article_link_recorded": 2,
@@ -32,12 +32,12 @@
     "attachment_policy": "metadata_only",
     "external_link_policy": "record_only",
     "coverage_status": "complete",
+    "evidence_source": "full_crawl",
     "audit_evidence_ref": "../reports/audit_evidence.md",
+    "audit_evidence_json_ref": "../reports/audit_evidence.json",
     "pagination_terminal_verified": true,
     "unknown_url_count": 0,
-    "excluded_url_count": 0,
-    "evidence_source": "full_crawl",
-    "audit_evidence_json_ref": "../reports/audit_evidence.json"
+    "excluded_url_count": 0
   },
   "url_outcomes": {
     "https://cxcy.njupt.edu.cn/": {
@@ -11878,7 +11878,8 @@
         "【科创竞赛】关于举办南京邮电大学第十一届大学生软件设计大赛暨组织参加第十五届“中国软件杯”大学生软件设计大赛的通知"
       ],
       "sources": [
-        "https://cxcy.njupt.edu.cn/tzgg/list.htm"
+        "https://cxcy.njupt.edu.cn/tzgg/list.htm",
+        "https://cxcy.njupt.edu.cn/tzgg/list2.htm"
       ],
       "section_ids": [
         "cxcy_home_module_b3b0e005b420"
@@ -12481,7 +12482,8 @@
         "【实践教学】关于2026年暑假新加坡国立大学访学项目报名的通知"
       ],
       "sources": [
-        "https://cxcy.njupt.edu.cn/tzgg/list2.htm"
+        "https://cxcy.njupt.edu.cn/tzgg/list2.htm",
+        "https://cxcy.njupt.edu.cn/tzgg/list3.htm"
       ],
       "section_ids": [
         "cxcy_home_module_b3b0e005b420"
@@ -19268,6 +19270,36 @@
       "section_ids": [
         "cxcy_home_module_b3b0e005b420"
       ]
+    },
+    "https://cxcy.njupt.edu.cn/2026/0703/c11336a305911/page.htm": {
+      "url": "https://cxcy.njupt.edu.cn/2026/0703/c11336a305911/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "【校赛成绩公示】南京邮电大学第十一届大学生软件设计大赛评审结果公示"
+      ],
+      "sources": [
+        "https://cxcy.njupt.edu.cn/",
+        "https://cxcy.njupt.edu.cn/tzgg/list.htm"
+      ],
+      "section_ids": [
+        "cxcy_home_module_b3b0e005b420"
+      ],
+      "status_code": 200
+    },
+    "https://cxcy.njupt.edu.cn/_upload/article/files/86/02/bc41367d46e2b466fddd72554e68/6ca7f733-80e1-4e8e-a789-2a28ede5d360.pdf": {
+      "url": "https://cxcy.njupt.edu.cn/_upload/article/files/86/02/bc41367d46e2b466fddd72554e68/6ca7f733-80e1-4e8e-a789-2a28ede5d360.pdf",
+      "target_type": "attachment_file",
+      "outcome": "attachment_metadata_only",
+      "labels": [
+        "260630-南京邮电大学第十一届大学生软件设计大赛评审结果-公示版.pdf"
+      ],
+      "sources": [
+        "https://cxcy.njupt.edu.cn/2026/0703/c11336a305911/page.htm"
+      ],
+      "section_ids": [
+        "cxcy_home_module_b3b0e005b420"
+      ]
     }
   },
   "coverage": {
@@ -19695,10 +19727,10 @@
     "exclusions": []
   },
   "coverage_status": "complete",
+  "evidence_source": "full_crawl",
   "audit_evidence_ref": "../reports/audit_evidence.md",
+  "audit_evidence_json_ref": "../reports/audit_evidence.json",
   "pagination_terminal_verified": true,
   "unknown_url_count": 0,
-  "excluded_url_count": 0,
-  "evidence_source": "full_crawl",
-  "audit_evidence_json_ref": "../reports/audit_evidence.json"
+  "excluded_url_count": 0
 }

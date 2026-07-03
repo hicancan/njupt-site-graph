@@ -1,7 +1,7 @@
 {
   "version": "sitegraph-coverage-v1",
   "site_id": "cxcy",
-  "generated_at": "2026-07-02T19:07:34.840304+00:00",
+  "generated_at": "2026-07-03T08:47:30.816384+00:00",
   "crawl_mode": "incremental",
   "evidence_source": "full_crawl",
   "coverage_status": "complete",
@@ -26,11 +26,11 @@
   },
   "pages": {
     "list_pages": 83,
-    "detail_pages": 617
+    "detail_pages": 618
   },
   "attachments": {
     "policy": "metadata_only",
-    "count": 207
+    "count": 208
   },
   "external_links": {
     "policy": "record_only",

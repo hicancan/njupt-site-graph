@@ -1,6 +1,6 @@
 {
   "site_id": "cs",
-  "generated_at": "2026-06-26T08:50:30.821647+00:00",
+  "generated_at": "2026-07-03T08:48:52.582454+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 52,
@@ -11,7 +11,7 @@
     "attachments": 9,
     "external_links": 97,
     "edges": 714,
-    "url_outcomes": 2100
+    "url_outcomes": 2103
   },
   "outcomes": {
     "attachment_metadata_only": 9,
@@ -22,7 +22,7 @@
     "external_link_recorded": 63,
     "external_policy_link_recorded": 2,
     "external_system_link_recorded": 1,
-    "homepage_link_recorded": 96,
+    "homepage_link_recorded": 99,
     "inline_image_recorded": 1378,
     "inline_link_recorded": 27
   },
@@ -33,12 +33,12 @@
     "attachment_policy": "metadata_only",
     "external_link_policy": "record_only",
     "coverage_status": "complete",
+    "evidence_source": "full_crawl",
     "audit_evidence_ref": "../reports/audit_evidence.md",
+    "audit_evidence_json_ref": "../reports/audit_evidence.json",
     "pagination_terminal_verified": true,
     "unknown_url_count": 0,
-    "excluded_url_count": 0,
-    "evidence_source": "full_crawl",
-    "audit_evidence_json_ref": "../reports/audit_evidence.json"
+    "excluded_url_count": 0
   },
   "url_outcomes": {
     "https://cs.njupt.edu.cn/": {
@@ -27034,7 +27034,8 @@
       "target_type": "detail_article_page",
       "outcome": "homepage_link_recorded",
       "labels": [
-        "2026-06-05 魏强教授来我院讲授“ctDNA甲基化的泛癌种早筛的研究和CRC肿瘤异质性解析”学术报告 2026年6月4日下午，中国药科大学原创药物研究院教授、博士生导师、国家级人才获得者、江苏省产业技术研究院“集萃研究员”魏强教授应邀来计算机学院、软件学院、网络空间安全学院作题为《ctDNA甲基化的泛癌种早筛的研究和CRC肿瘤异质性解析》的专题学术报告。报告由李云教授主持，学院师生参加了本次学术交流活动。报告伊始，魏强教授介绍了中国药科大学原创药物研究院的发展定位、科研布局及近年来取得的重要成果。他指出，原创药物研究院聚焦重大疾病防治需求，围绕创新药物研发和精准医学开展前沿研究，致力于推动基础研究成果向临床应用转化。随后，魏强教授围绕“ctDNA甲基化泛癌种早筛”展开深入讲解。针对肿瘤早期筛查领域面临的挑战，他系统介绍了循环肿瘤DNA（ctDNA）甲基化检测技术的研究进展及其在多癌种早期筛查中的应用价值。在“肿瘤异质性研究”部分，魏强教授重点解析了结直肠癌（CRC）发生、发展及转移过程中的异质性特征。他详细阐述了肿瘤细胞在遗传和表观遗传层面的动态演化机制，并介绍了团队在结直肠癌转移机制研究方面取得的重要成果。交流环节中，现场师生围绕肿瘤早筛技术、肿瘤异质性分析方法、人工智能赋能药物研发"
+        "2026-06-05 魏强教授来我院讲授“ctDNA甲基化的泛癌种早筛的研究和CRC肿瘤异质性解析”学术报告 2026年6月4日下午，中国药科大学原创药物研究院教授、博士生导师、国家级人才获得者、江苏省产业技术研究院“集萃研究员”魏强教授应邀来计算机学院、软件学院、网络空间安全学院作题为《ctDNA甲基化的泛癌种早筛的研究和CRC肿瘤异质性解析》的专题学术报告。报告由李云教授主持，学院师生参加了本次学术交流活动。报告伊始，魏强教授介绍了中国药科大学原创药物研究院的发展定位、科研布局及近年来取得的重要成果。他指出，原创药物研究院聚焦重大疾病防治需求，围绕创新药物研发和精准医学开展前沿研究，致力于推动基础研究成果向临床应用转化。随后，魏强教授围绕“ctDNA甲基化泛癌种早筛”展开深入讲解。针对肿瘤早期筛查领域面临的挑战，他系统介绍了循环肿瘤DNA（ctDNA）甲基化检测技术的研究进展及其在多癌种早期筛查中的应用价值。在“肿瘤异质性研究”部分，魏强教授重点解析了结直肠癌（CRC）发生、发展及转移过程中的异质性特征。他详细阐述了肿瘤细胞在遗传和表观遗传层面的动态演化机制，并介绍了团队在结直肠癌转移机制研究方面取得的重要成果。交流环节中，现场师生围绕肿瘤早筛技术、肿瘤异质性分析方法、人工智能赋能药物研发",
+        "魏强教授来我院讲授“ctDNA甲基化的泛癌种早筛的研究和CRC肿瘤异质性解析”学术报告 2026-06-05"
       ],
       "sources": [
         "https://cs.njupt.edu.cn/"
@@ -27183,6 +27184,42 @@
       "section_ids": [
         "cs_news"
       ]
+    },
+    "https://cs.njupt.edu.cn/2026/0703/c18739a305886/page.htm": {
+      "url": "https://cs.njupt.edu.cn/2026/0703/c18739a305886/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "homepage_link_recorded",
+      "labels": [
+        "2026-06-24 朱昊副教授来我院讲授“大模型启发的三维数字人生成与驱动”学术报告 2026年6月23日上午，南京大学智能科学与技术学院副教授、博导、国家级青年人才获得者朱昊应邀来计算机学院、软件学院、网络空间安全学院作题为《大模型启发的三维数字人生成与驱动》的专题学术报告。报告由杨尚东主持，我院老师和学生参加了报告会。朱昊副教授首先介绍了三维数字人的应用场景以及基于机器学习技术的三维数字人技术的发展历程。随后，介绍了研究组今年在大模型赋能的三维数字人生成与驱动技术领域开展相关研究工作情况，分享了单张图像亚秒级三维建模、文本引导外貌自由编辑、复杂人群单目三维重建以及基于多模态输入的数字人精细化动作控制等技术方向的研究进展及成果。报告结束后，朱昊老师与现场师生就三维数字人高效生成、评估方式及智能融合系统构建等问题进行了深入讨论。报告人简介：朱昊于南京大学获得学士和博士学位，现为南京大学智能科学与技术学院准聘副教授、博导，获评多项国家级、省部级青年人才荣誉，共同指导南京大学三维视觉实验室(NJU-3DV)，同时也是成像与智能实验室的一员。长期从事三维视觉、空间智能、数字人方向的研究，发表学术论文50余篇，包括TPAMI、CVPR、ICCV等。腾讯犀牛鸟专项研究计划，获得I"
+      ],
+      "sources": [
+        "https://cs.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://cs.njupt.edu.cn/2026/0702/c18739a305838/page.htm": {
+      "url": "https://cs.njupt.edu.cn/2026/0702/c18739a305838/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "homepage_link_recorded",
+      "labels": [
+        "王昊淳副研究员来我院讲授“从医学大模型到健康智能体：知识增强、多智能体协同与疾控推演”学术报告 2026-06-24"
+      ],
+      "sources": [
+        "https://cs.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://cs.njupt.edu.cn/2026/0703/c18740a305883/page.htm": {
+      "url": "https://cs.njupt.edu.cn/2026/0703/c18740a305883/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "homepage_link_recorded",
+      "labels": [
+        "2026 07-03 Distributed Adjustable Computation Scheme in Highly Scalable Data Center Networks Based on Multi-protection Routing 2026年7月8日（周三） 9:00-10:00 南京邮电大学 计算机学科楼327会议室 张肇明"
+      ],
+      "sources": [
+        "https://cs.njupt.edu.cn/"
+      ],
+      "section_ids": []
     }
   },
   "coverage": {
@@ -27236,10 +27273,10 @@
     "exclusions": []
   },
   "coverage_status": "complete",
+  "evidence_source": "full_crawl",
   "audit_evidence_ref": "../reports/audit_evidence.md",
+  "audit_evidence_json_ref": "../reports/audit_evidence.json",
   "pagination_terminal_verified": true,
   "unknown_url_count": 0,
-  "excluded_url_count": 0,
-  "evidence_source": "full_crawl",
-  "audit_evidence_json_ref": "../reports/audit_evidence.json"
+  "excluded_url_count": 0
 }

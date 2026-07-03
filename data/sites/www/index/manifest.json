@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-02T19:05:56.173110+00:00",
+  "generated_at": "2026-07-03T08:45:03.555880+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 133,
     "homepage_modules": 0,
     "list_pages": 161,
-    "detail_pages": 2241,
-    "low_content_detail_pages": 94,
+    "detail_pages": 2243,
+    "low_content_detail_pages": 96,
     "attachments": 420,
     "external_links": 139,
-    "edges": 11552,
-    "url_outcomes": 7808
+    "edges": 11554,
+    "url_outcomes": 7812
   },
   "outcomes": {
     "attachment_metadata_only": 412,
-    "crawled_detail_ok": 2241,
+    "crawled_detail_ok": 2243,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 161,
     "cross_domain_article_link_recorded": 14,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 6,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 58,
-    "inline_image_recorded": 4798,
+    "inline_image_recorded": 4800,
     "inline_link_recorded": 2,
     "section_list_page_recorded": 5,
     "site_entry_alias_recorded": 1
@@ -103719,6 +103719,64 @@
       "labels": [],
       "sources": [
         "https://www.njupt.edu.cn/2026/0512/c17121a301738/page.htm"
+      ],
+      "section_ids": [
+        "www_academic_events"
+      ]
+    },
+    "https://www.njupt.edu.cn/2026/0703/c17121a305882/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0703/c17121a305882/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "台北商业大学张肇明教授学术讲座：Distributed Adjustable Computation Scheme in Highly Scalable Data Center Networks Based on Multi-protection Routing 2026-07-08 09:00:00 计算机学科楼327会议室",
+        "2026 07.03 台北商业大学张肇明教授学术讲座：Distributed Adjustable Computation Scheme in Highly Scalable Data Center Networks Based on Multi-protection Routing"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/yg/list.htm"
+      ],
+      "section_ids": [
+        "www_academic_events"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/2026/0703/c17121a305878/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0703/c17121a305878/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "苏州大学樊建席教授学术讲座：递归匹配网络的不相交路径研究 2026-07-08 10:00:00 计算机学科楼327会议室",
+        "2026 07.03 苏州大学樊建席教授学术讲座：递归匹配网络的不相交路径研究"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/yg/list.htm"
+      ],
+      "section_ids": [
+        "www_academic_events"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/6b/50/5b04c05d45f1a9bb433e2d8cbeb8/bb80bef8-5293-4884-85bc-db1cb78ba243.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/6b/50/5b04c05d45f1a9bb433e2d8cbeb8/bb80bef8-5293-4884-85bc-db1cb78ba243.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0703/c17121a305882/page.htm"
+      ],
+      "section_ids": [
+        "www_academic_events"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/1f/9d/1f5043854f2ca6760afe1c37e111/954cdcc6-1d70-4b30-9871-1c5270dee28e.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/1f/9d/1f5043854f2ca6760afe1c37e111/954cdcc6-1d70-4b30-9871-1c5270dee28e.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0703/c17121a305878/page.htm"
       ],
       "section_ids": [
         "www_academic_events"
