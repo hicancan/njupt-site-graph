@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-03T08:45:06.488598+00:00",
+  "generated_at": "2026-07-03T13:29:56.681214+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -759,7 +759,21 @@
       "position": 66
     },
     {
-      "node_id": "bbcaf7edf86f1759039f",
+      "node_id": "f4fe8ed444b1f0808a58",
+      "site_id": "www",
+      "label": "2026.07.02 南邮“江苏省低空技术与工程学院”正式授牌",
+      "url": "https://www.njupt.edu.cn/2026/0703/c53a305929/page.htm",
+      "nav_path": [
+        "2026.07.02 南邮“江苏省低空技术与工程学院”正式授牌"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 67
+    },
+    {
+      "node_id": "0322c8c2239bea9de2f1",
       "site_id": "www",
       "label": "2026.07.01 南邮干部师生热议习近平总书记“七一”重要讲话",
       "url": "https://www.njupt.edu.cn/2026/0701/c53a305669/page.htm",
@@ -770,10 +784,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 67
+      "position": 68
     },
     {
-      "node_id": "9d03501b4d1d320e3056",
+      "node_id": "4094de0cdda4d17301be",
       "site_id": "www",
       "label": "2026.07.01 南邮党委理论学习中心组举行集体学习会",
       "url": "https://www.njupt.edu.cn/2026/0701/c53a305661/page.htm",
@@ -784,10 +798,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 68
+      "position": 69
     },
     {
-      "node_id": "9245ea9cddceb7c37507",
+      "node_id": "325193f1f5c63e758c68",
       "site_id": "www",
       "label": "2026.07.01 南邮举办“邮创未来·产智融合”人工智能（软件）产业专利转化供需对接活动",
       "url": "https://www.njupt.edu.cn/2026/0701/c53a305667/page.htm",
@@ -798,29 +812,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 69
+      "position": 70
     },
     {
-      "node_id": "e573fead12de31c7801b",
+      "node_id": "6097463a41333d19aa97",
       "site_id": "www",
       "label": "2026.06.30 郭宇锋书记讲授树立和践行正确政绩观学习教育专题党课",
       "url": "https://www.njupt.edu.cn/2026/0630/c53a305617/page.htm",
       "nav_path": [
         "2026.06.30 郭宇锋书记讲授树立和践行正确政绩观学习教育专题党课"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 70
-    },
-    {
-      "node_id": "a479f22ed349fead61ec",
-      "site_id": "www",
-      "label": "2026.06.29 南邮1972级校友、国际电信联盟原秘书长赵厚麟回校与青年教师交流座谈",
-      "url": "https://www.njupt.edu.cn/2026/0629/c53a305552/page.htm",
-      "nav_path": [
-        "2026.06.29 南邮1972级校友、国际电信联盟原秘书长赵厚麟回校与青年教师交流座谈"
       ],
       "depth": 1,
       "target_type": "detail_article_page",

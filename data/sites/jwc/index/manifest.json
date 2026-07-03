@@ -1,21 +1,21 @@
 {
   "site_id": "jwc",
-  "generated_at": "2026-07-02T19:05:57.170389+00:00",
+  "generated_at": "2026-07-03T13:29:53.505524+00:00",
   "totals": {
     "sections": 139,
     "nav_nodes": 119,
     "homepage_modules": 8,
     "list_pages": 661,
-    "detail_pages": 6995,
+    "detail_pages": 6996,
     "low_content_detail_pages": 822,
     "attachments": 7914,
     "external_links": 748,
     "edges": 16346,
-    "url_outcomes": 19274
+    "url_outcomes": 19276
   },
   "outcomes": {
     "attachment_metadata_only": 7192,
-    "crawled_detail_ok": 6941,
+    "crawled_detail_ok": 6942,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 661,
     "cross_domain_article_link_recorded": 62,
@@ -23,7 +23,7 @@
     "external_link_recorded": 263,
     "external_policy_link_recorded": 41,
     "external_system_link_recorded": 5,
-    "inline_image_recorded": 3985,
+    "inline_image_recorded": 3986,
     "inline_link_recorded": 121
   },
   "errors": [],
@@ -271136,7 +271136,8 @@
       "sources": [
         "https://jwc.njupt.edu.cn/",
         "https://jwc.njupt.edu.cn/1596/list.htm",
-        "https://jwc.njupt.edu.cn/1596/list2.htm"
+        "https://jwc.njupt.edu.cn/1596/list2.htm",
+        "https://jwc.njupt.edu.cn/1596/list3.htm"
       ],
       "section_ids": [
         "jwc_homepage_jw_news_module"
@@ -272934,7 +272935,8 @@
       ],
       "sources": [
         "https://jwc.njupt.edu.cn/",
-        "https://jwc.njupt.edu.cn/1596/list.htm"
+        "https://jwc.njupt.edu.cn/1596/list.htm",
+        "https://jwc.njupt.edu.cn/1596/list2.htm"
       ],
       "section_ids": [
         "jwc_homepage_jw_news_module"
@@ -273340,6 +273342,35 @@
         "jwc_homepage_notice_module"
       ],
       "status_code": 200
+    },
+    "https://jwc.njupt.edu.cn/2026/0703/c1596a305934/page.htm": {
+      "url": "https://jwc.njupt.edu.cn/2026/0703/c1596a305934/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "南邮“江苏省低空技术与工程学院”正式授牌 07-03",
+        "南邮“江苏省低空技术与工程学院”正式授牌 2026-07-03"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/",
+        "https://jwc.njupt.edu.cn/1596/list.htm"
+      ],
+      "section_ids": [
+        "jwc_homepage_jw_news_module"
+      ],
+      "status_code": 200
+    },
+    "https://jwc.njupt.edu.cn/_upload/article/images/c6/e8/3f4e6f0b44aea87f31fa98b7d256/5ee735da-9025-4778-9a80-f5b5ffc258b9.jpg": {
+      "url": "https://jwc.njupt.edu.cn/_upload/article/images/c6/e8/3f4e6f0b44aea87f31fa98b7d256/5ee735da-9025-4778-9a80-f5b5ffc258b9.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://jwc.njupt.edu.cn/2026/0703/c1596a305934/page.htm"
+      ],
+      "section_ids": [
+        "jwc_homepage_jw_news_module"
+      ]
     }
   },
   "coverage": {

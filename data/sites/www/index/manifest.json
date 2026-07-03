@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-03T08:45:03.555880+00:00",
+  "generated_at": "2026-07-03T13:29:53.825395+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 133,
     "homepage_modules": 0,
     "list_pages": 161,
-    "detail_pages": 2243,
+    "detail_pages": 2244,
     "low_content_detail_pages": 96,
     "attachments": 420,
     "external_links": 139,
     "edges": 11554,
-    "url_outcomes": 7812
+    "url_outcomes": 7814
   },
   "outcomes": {
     "attachment_metadata_only": 412,
-    "crawled_detail_ok": 2243,
+    "crawled_detail_ok": 2244,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 161,
     "cross_domain_article_link_recorded": 14,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 6,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 58,
-    "inline_image_recorded": 4800,
+    "inline_image_recorded": 4801,
     "inline_link_recorded": 2,
     "section_list_page_recorded": 5,
     "site_entry_alias_recorded": 1
@@ -32753,7 +32753,8 @@
         "2026 06.16 南邮举行2026届本科生毕业典礼暨学位授予仪式 6月16日上午，南京邮电大学2026届本科生毕业典礼暨学位授予仪式在仙林校区体育馆举行。 校党委书记郭宇锋，校长叶美兰，颜晓红教授，校党委常委、副校长姜小舜，派驻纪检监察组组长、党委常委、纪委书记周和林，校党委常委、副校长肖甫、谢平、周亮出席毕业典礼。校学位评定委员会委员，相关职能部门和各学院负责人、教师代表以及学校安保、宿管、环卫、食堂等岗位代表和本科生家长参加毕业典礼。毕业典礼由校党委副书记王友国主持。 毕业典礼在庄严的国歌中拉开帷幕。 王友国宣读优秀本科毕业生表彰决定，郭宇锋为优秀本科毕业生代表颁发优秀毕业生荣誉证书。 贝尔英才学院通信工程专业李佳轩同学作为本科毕业生代表发言。他感恩母校培养，表示将带着“信达天下，自强不息”的南邮精神，传承“忠贞不渝、使命必达”的战邮底色，立志以专业所长守护国家安全，在强国征程中贡献青春力量。 南邮第28届研究生支教团即将整装启程，郭宇锋为研究生支教团出征授旗。 谢平为2026届校友联络员代表颁发聘书、赠送礼物。 校首届“师德楷模”，计算机学院、软件学院、网络空间安全学院胡素君教授作为教师代表发言。她寄语毕业生们：接纳人生偶尔"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -33594,7 +33595,8 @@
         "2026 06.03 南邮举行2026届毕业生校长午餐会 6月2日中午，南京邮电大学在仙林校区中兴报告厅举行2026届毕业生校长午餐会。校长叶美兰，党委常委、副校长谢平与2026届21名毕业生代表共进午餐，共话成长与未来。2002级校友，中国电信江苏公司党委副书记、副总经理肖江浩应邀出席。党委学生工作部、党委研究生工作部负责人参加午餐会。南邮举行2026届毕业生校长午餐会 午餐会在轻松温馨的氛围中拉开帷幕。毕业生代表与校领导、校友、老师们围坐交流，畅谈在校期间的成长感悟和对未来的美好憧憬。毕业生们感谢学校的精心培养，分享了在校期间的求学经历、科研探索与实践收获。他们表示，将铭记“信达天下，自强不息”的南邮精神，在新征程上继续奋斗，以实际行动展现南邮人的担当与风采。临别之际，毕业生们衷心祝福母校桃李芬芳、蒸蒸日上。2026届毕业生代表发言叶美兰深情回望四十余年的从教岁月，以师者之心寄语毕业生：认真为本，无论工作还是生活皆以认真态度对待，精益求精、责己以严；包容立身，坦然面对付出无回报，以豁达之心立身，宽厚待人；锻炼强基，坚持身体锻炼，守住身心健康，以强健体魄支撑长远发展。她特别勉励大家牢记“慎独”二字，无论身处何位、面对何种诱惑，皆须坚守"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -103780,6 +103782,35 @@
       ],
       "section_ids": [
         "www_academic_events"
+      ]
+    },
+    "https://www.njupt.edu.cn/2026/0703/c53a305929/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0703/c53a305929/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.07.02 南邮“江苏省低空技术与工程学院”正式授牌",
+        "2026 07.02 南邮“江苏省低空技术与工程学院”正式授牌 6月27日，以“低空智联 创领未来”为主题的第四届低空（苏州）产业创新生态大会在苏州举行。省委常委、常务副省长马欣，省委常委、苏州市委书记范波出席并致辞，空中交通管理系统全国重点实验室主任陈志杰院士等知名专家参会。授牌仪式现场 会上，江苏省低空技术与工程学院正式授牌，南京大学、东南大学、南京邮电大学等10家单位入选。该特色学院将以建设国内一流、世界先进的低空经济人才培养与科创基地为核心目标，持续优化学科专业布局，深化复合型人才培养模式改革，加速产出具有行业影响力的标志性成果，为争创国家级平台夯实基础。南邮党委副书记王友国、相关学院负责人应邀出席授牌仪式。 作为国内通信与信息领域优势高校，南邮凭借深厚的学科积淀，已成为支撑江苏低空经济高质量发展的重要科教力量。学校已与中电信无人科技（江苏）有限公司建立深度合作，聚焦抗干扰通信、低空无人机监控等产业一线真实需求开展联合攻关，为低空监管与服务体系建设提供了有力技术保障。 南邮将立足江苏、辐射全国，充分发挥新一代信息技术学科特长，持续深化与地方政府、龙头企业的产学研协同，统筹推进相关学科专业内涵建设与人才培养模式创新，助力构建低空“通"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/90/15/1ff703a64ff0afd7b27009b301ea/1bb3028e-39c7-47c8-886c-130572de924e.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/90/15/1ff703a64ff0afd7b27009b301ea/1bb3028e-39c7-47c8-886c-130572de924e.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0703/c53a305929/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
       ]
     }
   },
