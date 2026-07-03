@@ -10,6 +10,9 @@ def test_update_sitegraph_workflow_runs_incremental_every_six_hours():
     assert '--incremental-known-page-stop 2' in text
     assert 'validate-packages --include "${{ matrix.site }}"' in text
     assert 'for attempt in 1 2 3' in text
+    assert 'source_blocked_status()' in text
+    assert 'restored last verified package and continuing' in text
+    assert 'source-blocked-${{ matrix.site }}' in text
     assert 'still failed after $attempt attempts' in text
     assert 'python scripts/commit_generated_changes.py' in text
     assert '--add data/sites/*/index/' in text
@@ -78,6 +81,13 @@ def test_update_workflow_uses_site_registry():
     assert 'scripts/sitegraph_registry.py validate-packages --include "${{ matrix.site }}"' in text
     assert 'scripts/sitegraph_registry.py summary' in text
     assert 'scripts/sitegraph_registry.py summary --include "${{ matrix.site }}"' in text
+
+
+def test_legacy_coverage_backfill_is_not_a_workflow_entrypoint():
+    assert not Path('scripts/backfill_coverage_reports.py').exists()
+    legacy = Path('tools/legacy-migrations/backfill_coverage_reports.py')
+    assert legacy.exists()
+    assert 'evidence_source"] = "backfill"' in legacy.read_text(encoding='utf-8')
 
 
 def test_generated_commit_helper_retries_push_after_rebase():

@@ -273352,7 +273352,7 @@
         "next_url": null,
         "pages_crawled": 6,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273363,7 +273363,7 @@
         "next_url": null,
         "pages_crawled": 5,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273374,7 +273374,7 @@
         "next_url": null,
         "pages_crawled": 274,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273385,7 +273385,7 @@
         "next_url": null,
         "pages_crawled": 13,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273396,7 +273396,7 @@
         "next_url": null,
         "pages_crawled": 121,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273407,7 +273407,7 @@
         "next_url": null,
         "pages_crawled": 7,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273418,7 +273418,7 @@
         "next_url": null,
         "pages_crawled": 27,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273429,7 +273429,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273440,7 +273440,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273451,7 +273451,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273462,7 +273462,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273473,7 +273473,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273484,7 +273484,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273495,7 +273495,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273506,7 +273506,7 @@
         "next_url": null,
         "pages_crawled": 3,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273517,7 +273517,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273528,7 +273528,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273539,7 +273539,7 @@
         "next_url": null,
         "pages_crawled": 3,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273550,7 +273550,7 @@
         "next_url": null,
         "pages_crawled": 3,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273561,7 +273561,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273572,7 +273572,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273583,7 +273583,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273594,7 +273594,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273605,7 +273605,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273616,7 +273616,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273627,7 +273627,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273638,7 +273638,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273649,7 +273649,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273660,7 +273660,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273671,7 +273671,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273682,7 +273682,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273693,7 +273693,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273704,7 +273704,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273715,7 +273715,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273726,7 +273726,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273737,7 +273737,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273748,7 +273748,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273759,7 +273759,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273770,7 +273770,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273781,7 +273781,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273792,7 +273792,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273803,7 +273803,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273814,7 +273814,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273825,7 +273825,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273836,7 +273836,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273847,7 +273847,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273858,7 +273858,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273869,7 +273869,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273880,7 +273880,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273891,7 +273891,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273902,7 +273902,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273913,7 +273913,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273924,7 +273924,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273935,7 +273935,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273946,7 +273946,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273957,7 +273957,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273968,7 +273968,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273979,7 +273979,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -273990,7 +273990,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274001,7 +274001,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274012,7 +274012,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274023,7 +274023,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274034,7 +274034,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274045,7 +274045,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274056,7 +274056,7 @@
         "next_url": null,
         "pages_crawled": 5,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274067,7 +274067,7 @@
         "next_url": null,
         "pages_crawled": 5,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274078,7 +274078,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274089,7 +274089,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274100,7 +274100,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274111,7 +274111,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274122,7 +274122,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274133,7 +274133,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274144,7 +274144,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274155,7 +274155,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274166,7 +274166,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274177,7 +274177,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274188,7 +274188,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274199,7 +274199,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274210,7 +274210,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274221,7 +274221,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274232,7 +274232,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274243,7 +274243,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274254,7 +274254,7 @@
         "next_url": null,
         "pages_crawled": 4,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274265,7 +274265,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274276,7 +274276,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274287,7 +274287,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274298,7 +274298,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274309,7 +274309,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274320,7 +274320,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274331,7 +274331,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274342,7 +274342,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274353,7 +274353,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274364,7 +274364,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274375,7 +274375,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274386,7 +274386,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274397,7 +274397,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274408,7 +274408,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274419,7 +274419,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274430,7 +274430,7 @@
         "next_url": null,
         "pages_crawled": 4,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274441,7 +274441,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274452,7 +274452,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274463,7 +274463,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274474,7 +274474,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274485,7 +274485,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274496,7 +274496,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274507,7 +274507,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274518,7 +274518,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274529,7 +274529,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274540,7 +274540,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274551,7 +274551,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274562,7 +274562,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274573,7 +274573,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274584,7 +274584,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274595,7 +274595,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274606,7 +274606,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274617,7 +274617,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274628,7 +274628,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274639,7 +274639,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274650,7 +274650,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274661,7 +274661,7 @@
         "next_url": null,
         "pages_crawled": 17,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274672,7 +274672,7 @@
         "next_url": null,
         "pages_crawled": 3,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274683,7 +274683,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274694,7 +274694,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274705,7 +274705,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274716,7 +274716,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274727,7 +274727,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274738,7 +274738,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274749,7 +274749,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274760,7 +274760,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274771,7 +274771,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274782,7 +274782,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274793,7 +274793,7 @@
         "next_url": null,
         "pages_crawled": 3,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274804,7 +274804,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274815,7 +274815,7 @@
         "next_url": null,
         "pages_crawled": 35,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274826,7 +274826,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274837,7 +274837,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274848,7 +274848,7 @@
         "next_url": null,
         "pages_crawled": 4,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       },
       {
@@ -274859,7 +274859,7 @@
         "next_url": null,
         "pages_crawled": 1,
         "max_pages_safety": 500,
-        "termination_reason": "existing_package_under_safety_cap",
+        "termination_reason": "terminal_verified_from_crawl_output",
         "terminal_verified": true
       }
     ],

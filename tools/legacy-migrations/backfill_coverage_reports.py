@@ -6,6 +6,9 @@ import re
 import sys
 from pathlib import Path
 
+SCRIPT_DIR = Path(__file__).resolve().parents[2] / "scripts"
+sys.path.insert(0, str(SCRIPT_DIR))
+
 from sitegraph.config import load_yaml
 from sitegraph.coverage import (
     apply_coverage_to_manifest,

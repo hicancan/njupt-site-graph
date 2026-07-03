@@ -185,7 +185,7 @@
       "last_url": "https://cs.njupt.edu.cn/18737/list35.htm",
       "pages_crawled": 35,
       "max_pages_safety": 50,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -193,7 +193,7 @@
       "last_url": "https://cs.njupt.edu.cn/18738/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 50,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -201,7 +201,7 @@
       "last_url": "https://cs.njupt.edu.cn/18733/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 50,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -209,7 +209,7 @@
       "last_url": "https://cs.njupt.edu.cn/18735/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 50,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     }
   ],

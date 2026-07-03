@@ -190,7 +190,7 @@
       "last_url": "https://www.njupt.edu.cn/yg/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 80,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     }
   ],

@@ -69,6 +69,7 @@ def assert_manifest_complete(site_id: str) -> dict:
     assert manifest['audit_evidence_ref']
     assert manifest['audit_evidence_json_ref']
     coverage = read_json(root / 'coverage_report.json')
+    assert 'existing_package_under_safety_cap' not in json.dumps(coverage, ensure_ascii=False)
     assert coverage['site_id'] == site_id
     assert coverage['coverage_status'] == manifest['coverage_status']
     assert coverage['evidence_source'] == 'full_crawl'
@@ -98,6 +99,7 @@ def assert_manifest_complete(site_id: str) -> dict:
     assert audit_json_path.exists(), f'{site_id} missing audit JSON evidence {manifest["audit_evidence_json_ref"]}'
     audit_json = read_json(audit_json_path)
     assert audit_json['site_id'] == site_id
+    assert 'existing_package_under_safety_cap' not in json.dumps(audit_json, ensure_ascii=False)
     assert errors == []
     assert manifest['url_outcomes']
     assert_unknown_outcomes_allowlisted(site_id, manifest)

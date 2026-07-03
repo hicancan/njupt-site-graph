@@ -170,7 +170,7 @@
       "last_url": "https://fwlc.njupt.edu.cn/bkxsfw/list2.htm",
       "pages_crawled": 2,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -178,7 +178,7 @@
       "last_url": "https://fwlc.njupt.edu.cn/dbwxb/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -186,7 +186,7 @@
       "last_url": "https://fwlc.njupt.edu.cn/jjjc/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -194,7 +194,7 @@
       "last_url": "https://fwlc.njupt.edu.cn/dwgz/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -202,7 +202,7 @@
       "last_url": "https://fwlc.njupt.edu.cn/xcgz/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -210,7 +210,7 @@
       "last_url": "https://fwlc.njupt.edu.cn/tzqt/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -218,7 +218,7 @@
       "last_url": "https://fwlc.njupt.edu.cn/yjsfw/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -226,7 +226,7 @@
       "last_url": "https://fwlc.njupt.edu.cn/aqbw/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     }
   ],

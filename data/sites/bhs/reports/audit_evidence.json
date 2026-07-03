@@ -226,7 +226,7 @@
       "last_url": "https://bhs.njupt.edu.cn/4808/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -234,7 +234,7 @@
       "last_url": "https://bhs.njupt.edu.cn/4810/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -242,7 +242,7 @@
       "last_url": "https://bhs.njupt.edu.cn/4811/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -250,7 +250,7 @@
       "last_url": "https://bhs.njupt.edu.cn/4812/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -258,7 +258,7 @@
       "last_url": "https://bhs.njupt.edu.cn/4813/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -266,7 +266,7 @@
       "last_url": "https://bhs.njupt.edu.cn/wxpt/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -274,7 +274,7 @@
       "last_url": "https://bhs.njupt.edu.cn/4815/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -282,7 +282,7 @@
       "last_url": "https://bhs.njupt.edu.cn/4783/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     }
   ],

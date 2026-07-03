@@ -33,6 +33,7 @@ ALLOWED_SECTION_SOURCES = {
     "api_category",
     "archive_section",
 }
+FORBIDDEN_TERMINATION_REASONS = {"existing_package_under_safety_cap"}
 
 
 def _resolve_package_ref(package_root: Path, value: str) -> Path:
@@ -70,6 +71,19 @@ def _validate_audit_evidence_json(site_id: str, package_root: Path, ref: str) ->
     missing = sorted(key for key in required_keys if key not in payload)
     if missing:
         raise SystemExit(f"{site_id} audit JSON evidence missing keys: {', '.join(missing)}")
+    _reject_forbidden_termination_reasons(site_id, payload, f"audit JSON evidence {ref}")
+
+
+def _reject_forbidden_termination_reasons(site_id: str, payload: object, label: str) -> None:
+    if isinstance(payload, dict):
+        reason = payload.get("termination_reason")
+        if reason in FORBIDDEN_TERMINATION_REASONS:
+            raise SystemExit(f"{site_id} {label} contains forbidden migration termination reason: {reason}")
+        for value in payload.values():
+            _reject_forbidden_termination_reasons(site_id, value, label)
+    elif isinstance(payload, list):
+        for value in payload:
+            _reject_forbidden_termination_reasons(site_id, value, label)
 
 
 def read_registry(include: str | None = None) -> list[dict[str, str]]:
@@ -181,6 +195,7 @@ def validate_packages(args: argparse.Namespace) -> None:
             raise SystemExit(f"{site_id} package contains crawl errors:\n{preview}")
         coverage_path = package_root / "coverage_report.json"
         coverage = json.loads(coverage_path.read_text(encoding="utf-8"))
+        _reject_forbidden_termination_reasons(site_id, coverage, "coverage report")
         if coverage.get("site_id") != site_id:
             raise SystemExit(f"{coverage_path} site_id mismatch: expected {site_id}, got {coverage.get('site_id')!r}")
         manifest_status = str(manifest.get("coverage_status") or "")

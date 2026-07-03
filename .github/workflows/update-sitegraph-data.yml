@@ -124,6 +124,38 @@ jobs:
 
       - name: Incrementally update and validate one sitegraph package
         run: |
+          backup_dir="_site-package-backup/${{ matrix.site }}/index"
+          rm -rf "_site-package-backup/${{ matrix.site }}" "_source-blocked/${{ matrix.site }}"
+          mkdir -p "$(dirname "$backup_dir")"
+          cp -R "data/sites/${{ matrix.site }}/index" "$backup_dir"
+
+          restore_verified_backup() {
+            rm -rf "data/sites/${{ matrix.site }}/index"
+            mkdir -p "data/sites/${{ matrix.site }}"
+            cp -R "$backup_dir" "data/sites/${{ matrix.site }}/index"
+          }
+
+          source_blocked_status() {
+            python - <<'PY'
+          import json
+          from pathlib import Path
+
+          report = Path("data/sites/${{ matrix.site }}/index/coverage_report.json")
+          if not report.exists():
+              raise SystemExit(1)
+          payload = json.loads(report.read_text(encoding="utf-8"))
+          if payload.get("coverage_status") != "blocked_by_source":
+              raise SystemExit(1)
+          out = Path("_source-blocked/${{ matrix.site }}")
+          out.mkdir(parents=True, exist_ok=True)
+          (out / "coverage_report.json").write_text(
+              json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8",
+          )
+          raise SystemExit(0)
+          PY
+          }
+
           for attempt in 1 2 3; do
             echo "::group::crawl ${{ matrix.site }} attempt $attempt"
             set +e
@@ -140,6 +172,15 @@ jobs:
             if [ "$validate_status" -eq 0 ]; then
               exit 0
             fi
+            if source_blocked_status; then
+              restore_verified_backup
+              if [ "$attempt" -eq 3 ]; then
+                echo "::warning::Site ${{ matrix.site }} is source-blocked after $attempt attempts; restored last verified package and continuing."
+                exit 0
+              fi
+            else
+              restore_verified_backup
+            fi
             if [ "$attempt" -eq 3 ]; then
               echo "::error::Site ${{ matrix.site }} still failed after $attempt attempts."
               exit "$validate_status"
@@ -148,6 +189,14 @@ jobs:
             echo "Site ${{ matrix.site }} failed with status $validate_status; retrying after ${sleep_seconds}s."
             sleep "$sleep_seconds"
           done
+
+      - name: Upload source-blocked report
+        uses: actions/upload-artifact@v7
+        with:
+          name: source-blocked-${{ matrix.site }}
+          path: _source-blocked/${{ matrix.site }}/
+          if-no-files-found: ignore
+          retention-days: 7
 
       - name: Summarize generated package
         run: python scripts/sitegraph_registry.py summary --include "${{ matrix.site }}"

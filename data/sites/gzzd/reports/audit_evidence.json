@@ -170,7 +170,7 @@
       "last_url": "https://gzzd.njupt.edu.cn/xs/list2.htm",
       "pages_crawled": 2,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -178,7 +178,7 @@
       "last_url": "https://gzzd.njupt.edu.cn/tzgg/list2.htm",
       "pages_crawled": 2,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -186,7 +186,7 @@
       "last_url": "https://gzzd.njupt.edu.cn/jzg/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -194,7 +194,7 @@
       "last_url": "https://gzzd.njupt.edu.cn/zzjs/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -202,7 +202,7 @@
       "last_url": "https://gzzd.njupt.edu.cn/aqbw/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -210,7 +210,7 @@
       "last_url": "https://gzzd.njupt.edu.cn/xc/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -218,7 +218,7 @@
       "last_url": "https://gzzd.njupt.edu.cn/jwwjc/list2.htm",
       "pages_crawled": 2,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     },
     {
@@ -226,7 +226,7 @@
       "last_url": "https://gzzd.njupt.edu.cn/gh/list.htm",
       "pages_crawled": 1,
       "max_pages_safety": 500,
-      "termination_reason": "existing_package_under_safety_cap",
+      "termination_reason": "terminal_verified_from_crawl_output",
       "terminal_verified": true
     }
   ],
