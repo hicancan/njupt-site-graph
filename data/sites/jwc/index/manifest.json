@@ -1,21 +1,21 @@
 {
   "site_id": "jwc",
-  "generated_at": "2026-07-03T13:29:53.505524+00:00",
+  "generated_at": "2026-07-04T08:18:56.659431+00:00",
   "totals": {
     "sections": 139,
     "nav_nodes": 119,
     "homepage_modules": 8,
     "list_pages": 661,
-    "detail_pages": 6996,
+    "detail_pages": 6999,
     "low_content_detail_pages": 822,
-    "attachments": 7914,
+    "attachments": 7915,
     "external_links": 748,
-    "edges": 16346,
-    "url_outcomes": 19276
+    "edges": 16347,
+    "url_outcomes": 19280
   },
   "outcomes": {
-    "attachment_metadata_only": 7192,
-    "crawled_detail_ok": 6942,
+    "attachment_metadata_only": 7193,
+    "crawled_detail_ok": 6945,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 661,
     "cross_domain_article_link_recorded": 62,
@@ -8573,7 +8573,8 @@
         "【教务管理办公室】关于公布2025-2026学年第二学期课程结束考试组织单位的通知 2026-04-15"
       ],
       "sources": [
-        "https://jwc.njupt.edu.cn/1594/list2.htm"
+        "https://jwc.njupt.edu.cn/1594/list2.htm",
+        "https://jwc.njupt.edu.cn/1594/list3.htm"
       ],
       "section_ids": [
         "jwc_homepage_notice_module"
@@ -176257,7 +176258,8 @@
         "我校召开教学成果奖培育申报专题研讨会 2025-03-06"
       ],
       "sources": [
-        "https://jwc.njupt.edu.cn/1595/list.htm"
+        "https://jwc.njupt.edu.cn/1595/list.htm",
+        "https://jwc.njupt.edu.cn/1595/list2.htm"
       ],
       "section_ids": [
         "jwc_homepage_news_module"
@@ -177309,7 +177311,8 @@
         "我校举行2024年“教学标兵奖”评选公开课暨教学观摩活动 2024-10-21"
       ],
       "sources": [
-        "https://jwc.njupt.edu.cn/1595/list2.htm"
+        "https://jwc.njupt.edu.cn/1595/list2.htm",
+        "https://jwc.njupt.edu.cn/1595/list3.htm"
       ],
       "section_ids": [
         "jwc_homepage_news_module"
@@ -272438,7 +272441,8 @@
       ],
       "sources": [
         "https://jwc.njupt.edu.cn/",
-        "https://jwc.njupt.edu.cn/1594/list.htm"
+        "https://jwc.njupt.edu.cn/1594/list.htm",
+        "https://jwc.njupt.edu.cn/1594/list2.htm"
       ],
       "section_ids": [
         "jwc_homepage_notice_module"
@@ -273366,10 +273370,77 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://jwc.njupt.edu.cn/2026/0703/c1596a305934/page.htm"
+        "https://jwc.njupt.edu.cn/2026/0703/c1596a305934/page.htm",
+        "https://jwc.njupt.edu.cn/2026/0703/c1595a305934/page.htm"
       ],
       "section_ids": [
-        "jwc_homepage_jw_news_module"
+        "jwc_homepage_jw_news_module",
+        "jwc_homepage_news_module"
+      ]
+    },
+    "https://jwc.njupt.edu.cn/2026/0703/c1595a305934/page.htm": {
+      "url": "https://jwc.njupt.edu.cn/2026/0703/c1595a305934/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "南邮“江苏省低空技术与工程学院”正式授牌",
+        "南邮“江苏省低空技术与工程学院”正式授牌 2026-07-03"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/",
+        "https://jwc.njupt.edu.cn/1595/list.htm"
+      ],
+      "section_ids": [
+        "jwc_homepage_news_module"
+      ],
+      "status_code": 200
+    },
+    "https://jwc.njupt.edu.cn/2026/0704/c1594a305964/page.htm": {
+      "url": "https://jwc.njupt.edu.cn/2026/0704/c1594a305964/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "【教务管理办公室】关于2026年暑期教室开放的通知 07-04",
+        "【教务管理办公室】关于2026年暑期教室开放的通知 2026-07-04"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/",
+        "https://jwc.njupt.edu.cn/1594/list.htm"
+      ],
+      "section_ids": [
+        "jwc_homepage_notice_module"
+      ],
+      "status_code": 200
+    },
+    "https://jwc.njupt.edu.cn/2026/0703/c1594a305931/page.htm": {
+      "url": "https://jwc.njupt.edu.cn/2026/0703/c1594a305931/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "【教务管理办公室】关于2026年暑期办理出国材料的通知 07-03",
+        "【教务管理办公室】关于2026年暑期办理出国材料的通知 2026-07-03"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/",
+        "https://jwc.njupt.edu.cn/1594/list.htm"
+      ],
+      "section_ids": [
+        "jwc_homepage_notice_module"
+      ],
+      "status_code": 200
+    },
+    "https://jwc.njupt.edu.cn/_upload/article/files/f1/11/ea8a531e4a5d86b7deb312bb5c8a/b6c892de-fc24-4e94-920e-5a02ebfeaf8f.pdf": {
+      "url": "https://jwc.njupt.edu.cn/_upload/article/files/f1/11/ea8a531e4a5d86b7deb312bb5c8a/b6c892de-fc24-4e94-920e-5a02ebfeaf8f.pdf",
+      "target_type": "attachment_file",
+      "outcome": "attachment_metadata_only",
+      "labels": [
+        "南京邮电大学可信电子证明平台学生操作手册.pdf"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/2026/0703/c1594a305931/page.htm"
+      ],
+      "section_ids": [
+        "jwc_homepage_notice_module"
       ]
     }
   },
