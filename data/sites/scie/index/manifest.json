@@ -1,6 +1,6 @@
 {
   "site_id": "scie",
-  "generated_at": "2026-07-03T19:03:15.419551+00:00",
+  "generated_at": "2026-07-04T18:56:59.198426+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 57,
@@ -11,7 +11,7 @@
     "attachments": 0,
     "external_links": 8,
     "edges": 654,
-    "url_outcomes": 1991
+    "url_outcomes": 1992
   },
   "outcomes": {
     "crawled_detail_ok": 545,
@@ -19,7 +19,7 @@
     "crawled_list_ok": 40,
     "cross_domain_article_link_recorded": 1,
     "external_link_recorded": 7,
-    "homepage_link_recorded": 69,
+    "homepage_link_recorded": 70,
     "inline_image_recorded": 1328
   },
   "errors": [],
@@ -26016,6 +26016,18 @@
       "section_ids": [
         "scie_news"
       ]
+    },
+    "https://scie.njupt.edu.cn/2026/0704/c2890a305978/page.htm": {
+      "url": "https://scie.njupt.edu.cn/2026/0704/c2890a305978/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "homepage_link_recorded",
+      "labels": [
+        "通信与信息工程学院关于选聘2026级本科生班主任的通知"
+      ],
+      "sources": [
+        "https://scie.njupt.edu.cn/"
+      ],
+      "section_ids": []
     }
   },
   "coverage": {
