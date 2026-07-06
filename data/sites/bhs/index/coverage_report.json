@@ -1,7 +1,7 @@
 {
   "version": "sitegraph-coverage-v1",
   "site_id": "bhs",
-  "generated_at": "2026-07-02T19:17:24.474022+00:00",
+  "generated_at": "2026-07-06T10:02:40.406658+00:00",
   "crawl_mode": "incremental",
   "evidence_source": "full_crawl",
   "coverage_status": "complete",
@@ -25,7 +25,7 @@
   },
   "pages": {
     "list_pages": 191,
-    "detail_pages": 1334
+    "detail_pages": 1336
   },
   "attachments": {
     "policy": "metadata_only",

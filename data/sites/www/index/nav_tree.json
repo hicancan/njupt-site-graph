@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-04T08:19:04.580710+00:00",
+  "generated_at": "2026-07-06T09:51:42.913245+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -759,7 +759,21 @@
       "position": 66
     },
     {
-      "node_id": "f4fe8ed444b1f0808a58",
+      "node_id": "4d86c17db4eba44d30d5",
+      "site_id": "www",
+      "label": "2026.07.06 南邮Apollo3D 联合战队获 2026 RoboCup 机器人世界杯冠军",
+      "url": "https://www.njupt.edu.cn/2026/0706/c53a306058/page.htm",
+      "nav_path": [
+        "2026.07.06 南邮Apollo3D 联合战队获 2026 RoboCup 机器人世界杯冠军"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 67
+    },
+    {
+      "node_id": "d1388f41a29809180ae9",
       "site_id": "www",
       "label": "2026.07.02 南邮“江苏省低空技术与工程学院”正式授牌",
       "url": "https://www.njupt.edu.cn/2026/0703/c53a305929/page.htm",
@@ -770,10 +784,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 67
+      "position": 68
     },
     {
-      "node_id": "0322c8c2239bea9de2f1",
+      "node_id": "092d1f8126e9b7d64937",
       "site_id": "www",
       "label": "2026.07.01 南邮干部师生热议习近平总书记“七一”重要讲话",
       "url": "https://www.njupt.edu.cn/2026/0701/c53a305669/page.htm",
@@ -784,10 +798,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 68
+      "position": 69
     },
     {
-      "node_id": "4094de0cdda4d17301be",
+      "node_id": "0c890e66e2d431e2cb29",
       "site_id": "www",
       "label": "2026.07.01 南邮党委理论学习中心组举行集体学习会",
       "url": "https://www.njupt.edu.cn/2026/0701/c53a305661/page.htm",
@@ -798,29 +812,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 69
+      "position": 70
     },
     {
-      "node_id": "000d369ce9b9c713a10f",
+      "node_id": "733c89f7eaaada0add4b",
       "site_id": "www",
       "label": "2026.07.01 南邮举行“光荣在党50年”纪念章颁发仪式",
       "url": "https://www.njupt.edu.cn/2026/0704/c53a305948/page.htm",
       "nav_path": [
         "2026.07.01 南邮举行“光荣在党50年”纪念章颁发仪式"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 70
-    },
-    {
-      "node_id": "e97327b835e1128530e5",
-      "site_id": "www",
-      "label": "2026.07.01 南邮举办“邮创未来·产智融合”人工智能（软件）产业专利转化供需对接活动",
-      "url": "https://www.njupt.edu.cn/2026/0701/c53a305667/page.htm",
-      "nav_path": [
-        "2026.07.01 南邮举办“邮创未来·产智融合”人工智能（软件）产业专利转化供需对接活动"
       ],
       "depth": 1,
       "target_type": "detail_article_page",

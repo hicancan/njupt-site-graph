@@ -1,21 +1,21 @@
 {
   "site_id": "bhs",
-  "generated_at": "2026-07-02T02:06:05.349214+00:00",
+  "generated_at": "2026-07-06T09:56:22.538445+00:00",
   "totals": {
     "sections": 224,
     "nav_nodes": 37,
     "homepage_modules": 0,
     "list_pages": 191,
-    "detail_pages": 1334,
+    "detail_pages": 1336,
     "low_content_detail_pages": 382,
     "attachments": 32,
     "external_links": 172,
     "edges": 367,
-    "url_outcomes": 3504
+    "url_outcomes": 3508
   },
   "outcomes": {
     "attachment_metadata_only": 26,
-    "crawled_detail_ok": 1143,
+    "crawled_detail_ok": 1145,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 191,
     "cross_domain_article_link_recorded": 34,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 1,
     "external_system_link_recorded": 1,
     "homepage_link_recorded": 1,
-    "inline_image_recorded": 1946,
+    "inline_image_recorded": 1948,
     "inline_link_recorded": 38
   },
   "errors": [],
@@ -33,12 +33,12 @@
     "attachment_policy": "metadata_only",
     "external_link_policy": "record_only",
     "coverage_status": "complete",
+    "evidence_source": "full_crawl",
     "audit_evidence_ref": "../reports/audit_evidence.md",
+    "audit_evidence_json_ref": "../reports/audit_evidence.json",
     "pagination_terminal_verified": true,
     "unknown_url_count": 0,
-    "excluded_url_count": 0,
-    "evidence_source": "full_crawl",
-    "audit_evidence_json_ref": "../reports/audit_evidence.json"
+    "excluded_url_count": 0
   },
   "url_outcomes": {
     "https://bhs.njupt.edu.cn/": {
@@ -64513,6 +64513,62 @@
       "section_ids": [
         "bhs_direct_detail_links"
       ]
+    },
+    "https://bhs.njupt.edu.cn/2026/0706/c4807a306094/page.htm": {
+      "url": "https://bhs.njupt.edu.cn/2026/0706/c4807a306094/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "<a href='/2026/0706/c4807a306094/page.htm' target='_blank' title='树立践行正确政绩观 深耕育人初心使命 ——贝尔英才学院开展专题党课学习'>树立践行正确政绩观 深耕育人初心使命 ——贝尔英才学院开展专题党课学习</a>",
+        "树立践行正确政绩观 深耕育人初心使命 ——贝尔英才学院开展专题党课学习"
+      ],
+      "sources": [
+        "https://bhs.njupt.edu.cn/"
+      ],
+      "section_ids": [
+        "bhs_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://bhs.njupt.edu.cn/2026/0706/c4807a306096/page.htm": {
+      "url": "https://bhs.njupt.edu.cn/2026/0706/c4807a306096/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "<a href='/2026/0706/c4807a306096/page.htm' target='_blank' title='贝尔英才学院党委理论学习中心组集中收看庆祝中国共产党成立105周年大会直播并专题学习全国党建工作座谈会精神'>贝尔英才学院党委理论学习中心组集中收看庆祝中国共产党成立105周年大会直播并专题学习全国党建工作座谈会精神</a>",
+        "贝尔英才学院党委理论学习中心组集中收看庆祝中国共产党成立105周年大会直播并专题学习全国党建工作座谈会精神"
+      ],
+      "sources": [
+        "https://bhs.njupt.edu.cn/"
+      ],
+      "section_ids": [
+        "bhs_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://bhs.njupt.edu.cn/_upload/article/images/9a/ca/ac15bfc44a73b31df8a7d128f866/1745170e-851c-4961-982e-febd700821fb.jpg": {
+      "url": "https://bhs.njupt.edu.cn/_upload/article/images/9a/ca/ac15bfc44a73b31df8a7d128f866/1745170e-851c-4961-982e-febd700821fb.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://bhs.njupt.edu.cn/2026/0706/c4807a306094/page.htm"
+      ],
+      "section_ids": [
+        "bhs_direct_detail_links"
+      ]
+    },
+    "https://bhs.njupt.edu.cn/_upload/article/images/ab/d4/47d741594f318e5d7a33c46e9bc2/469fdd99-1e58-4136-a486-33851658bbca.jpg": {
+      "url": "https://bhs.njupt.edu.cn/_upload/article/images/ab/d4/47d741594f318e5d7a33c46e9bc2/469fdd99-1e58-4136-a486-33851658bbca.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://bhs.njupt.edu.cn/2026/0706/c4807a306096/page.htm"
+      ],
+      "section_ids": [
+        "bhs_direct_detail_links"
+      ]
     }
   },
   "coverage": {
@@ -66392,10 +66448,10 @@
     "exclusions": []
   },
   "coverage_status": "complete",
+  "evidence_source": "full_crawl",
   "audit_evidence_ref": "../reports/audit_evidence.md",
+  "audit_evidence_json_ref": "../reports/audit_evidence.json",
   "pagination_terminal_verified": true,
   "unknown_url_count": 0,
-  "excluded_url_count": 0,
-  "evidence_source": "full_crawl",
-  "audit_evidence_json_ref": "../reports/audit_evidence.json"
+  "excluded_url_count": 0
 }

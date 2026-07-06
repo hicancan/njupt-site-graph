@@ -1,21 +1,21 @@
 {
   "site_id": "cxcy",
-  "generated_at": "2026-07-03T08:44:58.274920+00:00",
+  "generated_at": "2026-07-06T09:51:44.712392+00:00",
   "totals": {
     "sections": 39,
     "nav_nodes": 29,
     "homepage_modules": 5,
     "list_pages": 83,
-    "detail_pages": 618,
+    "detail_pages": 620,
     "low_content_detail_pages": 83,
-    "attachments": 208,
+    "attachments": 210,
     "external_links": 63,
-    "edges": 1092,
-    "url_outcomes": 1331
+    "edges": 1094,
+    "url_outcomes": 1335
   },
   "outcomes": {
-    "attachment_metadata_only": 206,
-    "crawled_detail_ok": 596,
+    "attachment_metadata_only": 208,
+    "crawled_detail_ok": 598,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 83,
     "cross_domain_article_link_recorded": 2,
@@ -11835,7 +11835,8 @@
         "【科创竞赛】第九届“外教社杯”全国高校学生跨文化能力大赛南京邮电大学校园赛通知"
       ],
       "sources": [
-        "https://cxcy.njupt.edu.cn/tzgg/list.htm"
+        "https://cxcy.njupt.edu.cn/tzgg/list.htm",
+        "https://cxcy.njupt.edu.cn/tzgg/list2.htm"
       ],
       "section_ids": [
         "cxcy_home_module_b3b0e005b420"
@@ -12425,7 +12426,8 @@
         "【实践教学】关于2026年暑假南洋理工大学访学项目报名的通知"
       ],
       "sources": [
-        "https://cxcy.njupt.edu.cn/tzgg/list2.htm"
+        "https://cxcy.njupt.edu.cn/tzgg/list2.htm",
+        "https://cxcy.njupt.edu.cn/tzgg/list3.htm"
       ],
       "section_ids": [
         "cxcy_home_module_b3b0e005b420"
@@ -19296,6 +19298,66 @@
       ],
       "sources": [
         "https://cxcy.njupt.edu.cn/2026/0703/c11336a305911/page.htm"
+      ],
+      "section_ids": [
+        "cxcy_home_module_b3b0e005b420"
+      ]
+    },
+    "https://cxcy.njupt.edu.cn/2026/0706/c11336a306045/page.htm": {
+      "url": "https://cxcy.njupt.edu.cn/2026/0706/c11336a306045/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "【校赛成绩公示】2026年全国大学生物理实验竞赛(创新)校内选拔赛获奖名单"
+      ],
+      "sources": [
+        "https://cxcy.njupt.edu.cn/",
+        "https://cxcy.njupt.edu.cn/tzgg/list.htm"
+      ],
+      "section_ids": [
+        "cxcy_home_module_b3b0e005b420"
+      ],
+      "status_code": 200
+    },
+    "https://cxcy.njupt.edu.cn/2026/0706/c11336a306043/page.htm": {
+      "url": "https://cxcy.njupt.edu.cn/2026/0706/c11336a306043/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "【校赛成绩公示】南京邮电大学第二届“探物至理”物理微视频制作大赛获奖名单"
+      ],
+      "sources": [
+        "https://cxcy.njupt.edu.cn/",
+        "https://cxcy.njupt.edu.cn/tzgg/list.htm"
+      ],
+      "section_ids": [
+        "cxcy_home_module_b3b0e005b420"
+      ],
+      "status_code": 200
+    },
+    "https://cxcy.njupt.edu.cn/_upload/article/files/30/99/91ff1ad540afbf58736e3e9c42df/683136d3-6e0a-4eac-8ba7-3c8a6ad98836.xlsx": {
+      "url": "https://cxcy.njupt.edu.cn/_upload/article/files/30/99/91ff1ad540afbf58736e3e9c42df/683136d3-6e0a-4eac-8ba7-3c8a6ad98836.xlsx",
+      "target_type": "attachment_file",
+      "outcome": "attachment_metadata_only",
+      "labels": [
+        "2026年全国大学生物理实验竞赛(创新)校内选拔赛获奖名单2026.7.3.xlsx"
+      ],
+      "sources": [
+        "https://cxcy.njupt.edu.cn/2026/0706/c11336a306045/page.htm"
+      ],
+      "section_ids": [
+        "cxcy_home_module_b3b0e005b420"
+      ]
+    },
+    "https://cxcy.njupt.edu.cn/_upload/article/files/21/0a/490efef742429678fa98b1900218/f6213c80-7c34-4448-9475-88aa50b7f47f.xlsx": {
+      "url": "https://cxcy.njupt.edu.cn/_upload/article/files/21/0a/490efef742429678fa98b1900218/f6213c80-7c34-4448-9475-88aa50b7f47f.xlsx",
+      "target_type": "attachment_file",
+      "outcome": "attachment_metadata_only",
+      "labels": [
+        "南京邮电大学第二届“探物至理”物理微视频制作大赛拟获奖名单公示（2026.7.6）.xlsx"
+      ],
+      "sources": [
+        "https://cxcy.njupt.edu.cn/2026/0706/c11336a306043/page.htm"
       ],
       "section_ids": [
         "cxcy_home_module_b3b0e005b420"

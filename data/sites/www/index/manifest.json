@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-04T08:19:01.915392+00:00",
+  "generated_at": "2026-07-06T09:51:39.617226+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 133,
     "homepage_modules": 0,
     "list_pages": 161,
-    "detail_pages": 2245,
+    "detail_pages": 2246,
     "low_content_detail_pages": 96,
     "attachments": 420,
     "external_links": 139,
     "edges": 11554,
-    "url_outcomes": 7817
+    "url_outcomes": 7821
   },
   "outcomes": {
     "attachment_metadata_only": 412,
-    "crawled_detail_ok": 2245,
+    "crawled_detail_ok": 2246,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 161,
     "cross_domain_article_link_recorded": 14,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 6,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 58,
-    "inline_image_recorded": 4803,
+    "inline_image_recorded": 4806,
     "inline_link_recorded": 2,
     "section_list_page_recorded": 5,
     "site_entry_alias_recorded": 1
@@ -3151,7 +3151,8 @@
         "2026 04.07 关于印发《南京邮电大学学生体质提升专项行动方案》的通知"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/72/list2.htm"
+        "https://www.njupt.edu.cn/72/list2.htm",
+        "https://www.njupt.edu.cn/72/list.htm"
       ],
       "section_ids": [
         "www_notice"
@@ -3463,7 +3464,8 @@
         "2025 09.10 关于切实做好2025级新生报到期间校园交通治安管控工作的通知"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/72/list3.htm"
+        "https://www.njupt.edu.cn/72/list3.htm",
+        "https://www.njupt.edu.cn/72/list2.htm"
       ],
       "section_ids": [
         "www_notice"
@@ -32669,7 +32671,8 @@
         "2026 06.19 江苏省首个量子科技学院在南邮成立 6月18日，南京邮电大学量子科技学院成立大会暨量子计算科学与器件省高校重点实验室第一届学术委员会会议举行。会上，江苏省首个量子科技学院正式揭牌成立。 中国科学院院士、南京大学教授、重点实验室学术委员会主任邹志刚，江苏省教育厅科学技术与产业处副处长徐宁，校党委书记郭宇锋，校长叶美兰，原江苏大学校长颜晓红，以及学界、企业界代表和学校相关职能部门负责人出席会议。校党委常委、副校长肖甫主持会议。 郭宇锋书记指出，南京邮电大学主动对接国家战略需求，前瞻布局量子科技前沿方向，充分发挥电子信息学科交叉优势，锚定“量电融合”特色路径，系统构建量子信息人才培养体系。他强调，量子科技学院要坚持战略引领，着力打造“量电融合”特色学科高地，完善协同育人机制，加快拔尖创新人才培育，为服务国家重大战略和江苏地方产业发展贡献南邮力量。 邹志刚院士表示，南京邮电大学成立量子科技学院并启动省高校重点实验室建设，是主动服务国家战略需求和江苏量子产业布局的重要举措。他希望学术委员会充分发挥智囊领航作用，在学科方向凝练、科研规划布局、人才培养创新和重大课题攻关等方面积极建言献策，为实验室高质量发展提供战略指引和智力"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -33542,7 +33545,8 @@
         "2026 06.04 南邮召开警示教育会 6月3日，南京邮电大学召开警示教育会。校党委书记郭宇锋出席会议并讲话，省纪委监委派驻南邮纪检监察组组长、党委常委、纪委书记周和林主持会议。全体校领导、党委委员、纪委委员，中层干部参加会议。南邮召开警示教育会 会议强调，要深入学习贯彻习近平总书记关于树立和践行正确政绩观的重要论述，认真落实全省警示教育会议精神，坚持以案示警、以案促改、以案促治，引导全校党员干部进一步增强树立和践行正确政绩观的思想自觉和行动自觉。 会议指出，要坚持立党为公政治立场，在绝对忠诚上作表率。做到在“两个维护”上坚如磐石，不当“两面人”；在胸怀大局上心有乾坤，不划“一亩三分地”；在贯彻执行上立竿见影，不做“中梗阻”。要践行立德树人根本任务，在服务师生上见真章。把育人成效作为最大政绩，不耍“花架子”；把服务师生作为根本宗旨，不摆“官架子”；把师德师风作为基本底线，不碰“高压线”。要恪守科学决策重要原则，在遵循规律上谋长远。用好调查研究这个“传家宝”，不能“闭门造车”；用好民主集中制这个“定盘星”，不唱“一言堂”；用好战略定力这个“压舱石”，不能朝令夕改。要弘扬真抓实干优良作风，在攻坚克难上显担当。力戒形式主义"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -103865,6 +103869,59 @@
       "labels": [],
       "sources": [
         "https://www.njupt.edu.cn/2026/0704/c53a305948/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/2026/0706/c53a306058/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0706/c53a306058/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.07.06 南邮Apollo3D 联合战队获 2026 RoboCup 机器人世界杯冠军",
+        "2026 07.06 南邮Apollo3D 联合战队获 2026 RoboCup 机器人世界杯冠军 7月5日，2026 RoboCup机器人世界杯在韩国仁川落幕。由南京邮电大学 Apollo3D 队联合香港科技大学（广州）、国防科技大学组建的战队，历经5天激烈角逐，先后力克德国、葡萄牙、巴西及国内多支世界强队，摘得RoboCup 3D仿真组世界冠军。这是自2010年、2013年两度获RoboCup世界杯冠军后，南邮Apollo团队第三次问鼎。Apollo3D联合战队领奖现场参赛的南邮Apollo3D成员获奖奖杯 本届赛事全面弃用传统SimSpark引擎，全新搭载MuJoCo高精度物理引擎，对技术体系提出颠覆性挑战。面对全新规则，团队迎难而上、从零重构：南邮自动化学院本科生江祥瑞、刘晨希以及研究生魏毅诚，携手香港科技大学在读硕士生刘铖与国防科技大学在读硕士生蒋天健（二人均为南邮Apollo3D前核心成员），依托机器学习实现机器人动态动作自适应学习，构建多智能体角色分配、实时战术切换、协同博弈的完整决策系统，大幅提升对抗稳定性与临场应变能力，为夺冠筑牢技术根基。 本届RoboCup全球总决赛，规模创历史新高，全球45个国家和地区、364支队伍、3000余名选手同台竞技，被誉为“人"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/41/15/c8ca9451477cbc99ae0b302c3cbb/7dd3edab-0e19-4688-a058-9418294287e3.png": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/41/15/c8ca9451477cbc99ae0b302c3cbb/7dd3edab-0e19-4688-a058-9418294287e3.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0706/c53a306058/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/41/15/c8ca9451477cbc99ae0b302c3cbb/dea03ee2-5a67-459c-9b2d-2a52857647fa.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/41/15/c8ca9451477cbc99ae0b302c3cbb/dea03ee2-5a67-459c-9b2d-2a52857647fa.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0706/c53a306058/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/41/15/c8ca9451477cbc99ae0b302c3cbb/8ffea1a5-7302-4d5c-bcc6-6541dc214003.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/41/15/c8ca9451477cbc99ae0b302c3cbb/8ffea1a5-7302-4d5c-bcc6-6541dc214003.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0706/c53a306058/page.htm"
       ],
       "section_ids": [
         "www_news"
