@@ -1,21 +1,21 @@
 {
   "site_id": "cs",
-  "generated_at": "2026-07-03T08:48:52.582454+00:00",
+  "generated_at": "2026-07-06T01:59:44.332957+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 52,
     "homepage_modules": 1,
     "list_pages": 38,
-    "detail_pages": 458,
+    "detail_pages": 459,
     "low_content_detail_pages": 14,
     "attachments": 9,
     "external_links": 97,
     "edges": 714,
-    "url_outcomes": 2103
+    "url_outcomes": 2116
   },
   "outcomes": {
     "attachment_metadata_only": 9,
-    "crawled_detail_ok": 456,
+    "crawled_detail_ok": 457,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 38,
     "cross_domain_article_link_recorded": 29,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 2,
     "external_system_link_recorded": 1,
     "homepage_link_recorded": 99,
-    "inline_image_recorded": 1378,
+    "inline_image_recorded": 1390,
     "inline_link_recorded": 27
   },
   "errors": [],
@@ -2397,7 +2397,8 @@
         "我院召开全体教职工大会"
       ],
       "sources": [
-        "https://cs.njupt.edu.cn/18737/list.htm"
+        "https://cs.njupt.edu.cn/18737/list.htm",
+        "https://cs.njupt.edu.cn/18737/list2.htm"
       ],
       "section_ids": [
         "cs_news"
@@ -3525,7 +3526,8 @@
         "李萌博士来我院讲授“车联网智能攻防和隐私保护”学术报告"
       ],
       "sources": [
-        "https://cs.njupt.edu.cn/18737/list2.htm"
+        "https://cs.njupt.edu.cn/18737/list2.htm",
+        "https://cs.njupt.edu.cn/18737/list3.htm"
       ],
       "section_ids": [
         "cs_news"
@@ -27220,6 +27222,168 @@
         "https://cs.njupt.edu.cn/"
       ],
       "section_ids": []
+    },
+    "https://cs.njupt.edu.cn/2026/0706/c18737a306012/page.htm": {
+      "url": "https://cs.njupt.edu.cn/2026/0706/c18737a306012/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026-07-03 师生聚力宣讲，校友同心荐邮-南京邮电大学常州招生宣传圆满收官 6月24日至7月2日，南京邮电大学2026年常州地区本科招生宣传工作画上圆满句号。一周时间里，在肖甫副校长带领下，常州招生宣传组走进常州十余所重点中学，以一场场“零距离”的对话，为当地学子打开了解南邮的窗口，也点燃了他们对信息科技前沿的向往。不同于传统的单向宣讲，此次宣传更注重“双向奔赴”——老师们在咨询现场化身“学业规划师”，结合每位考生的兴趣特长，精准解读专业培养路径与就业前景。以电子科学与技术双一流学科为龙头，27个国家级一流本科专业、ESI前千分之一学科硬核背书，从通信工程到计算机科学与技术，从人工智能到大数据科学与技术，从集成电路到数字经济，形成“信息铁三角+新兴交叉专业”完整布局，通过一个个生动的科研故事和毕业生发展轨迹，让抽象的专业知识变得触手可及。而这场活动的温度，更来自一群特殊的“代言人”——常州热心校友。他们中有2009届校友何悦、陈金，2010届级校友沈吉、顾红燕，还有2026届校友丁秋然、吉麒润、符文心，走进咨询现场，以“过来人”的身份与学弟学妹和家长围坐畅谈。分享从南邮实验室走向行业技术总监的成长密码，讲述校园里那些挑灯备赛、创新创业的青春记忆，亲切的方言拉近",
+        "2026-07-03 师生聚力宣讲，校友同心荐邮-南京邮电大学常州招生宣传圆满收官",
+        "师生聚力宣讲，校友同心荐邮-南京邮电大学常州招生宣传圆满收官"
+      ],
+      "sources": [
+        "https://cs.njupt.edu.cn/",
+        "https://cs.njupt.edu.cn/18737/list.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ],
+      "status_code": 200
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/6af2269e-b884-4b0e-82cd-ff132718a586.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/6af2269e-b884-4b0e-82cd-ff132718a586.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0706/c18737a306012/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/68dacfd8-6b77-4bf1-a2ff-a9c8bea4c641.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/68dacfd8-6b77-4bf1-a2ff-a9c8bea4c641.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0706/c18737a306012/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/d2621d70-fb83-47dd-b91b-a05fb1572d41.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/d2621d70-fb83-47dd-b91b-a05fb1572d41.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0706/c18737a306012/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/e9a3e87f-ed4c-475a-ba00-ff01931ef50c.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/e9a3e87f-ed4c-475a-ba00-ff01931ef50c.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0706/c18737a306012/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/c5aa72a8-4f94-4348-954c-a73bcc265b78.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/c5aa72a8-4f94-4348-954c-a73bcc265b78.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0706/c18737a306012/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/f63cc471-abf3-4dee-8f8a-7b1aa3b1b285.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/f63cc471-abf3-4dee-8f8a-7b1aa3b1b285.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0706/c18737a306012/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/18f049a0-4ac9-41aa-a3bc-9cc4de809061.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/18f049a0-4ac9-41aa-a3bc-9cc4de809061.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0706/c18737a306012/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/52baf4f7-e16e-4e85-8134-54cf25d706af.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/52baf4f7-e16e-4e85-8134-54cf25d706af.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0706/c18737a306012/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/9cc90020-d20f-4758-83ae-c6d6d8515ca0.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/9cc90020-d20f-4758-83ae-c6d6d8515ca0.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0706/c18737a306012/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/9cfec253-3c6b-4f07-9dc8-27f9875d296f.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/9cfec253-3c6b-4f07-9dc8-27f9875d296f.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0706/c18737a306012/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/485a35de-c5dd-4987-9dec-0dcc9779fdc3.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/485a35de-c5dd-4987-9dec-0dcc9779fdc3.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0706/c18737a306012/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
+    },
+    "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/61cf1e2a-8a13-461b-bdae-cbe70b91c3bb.jpg": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/images/4b/a0/d18e8c2941f0bb4cbbefc1ab20d4/61cf1e2a-8a13-461b-bdae-cbe70b91c3bb.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0706/c18737a306012/page.htm"
+      ],
+      "section_ids": [
+        "cs_news"
+      ]
     }
   },
   "coverage": {
