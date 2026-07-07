@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-06T09:51:39.617226+00:00",
+  "generated_at": "2026-07-07T09:19:44.563170+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 133,
     "homepage_modules": 0,
     "list_pages": 161,
-    "detail_pages": 2246,
+    "detail_pages": 2247,
     "low_content_detail_pages": 96,
     "attachments": 420,
     "external_links": 139,
     "edges": 11554,
-    "url_outcomes": 7821
+    "url_outcomes": 7824
   },
   "outcomes": {
     "attachment_metadata_only": 412,
-    "crawled_detail_ok": 2246,
+    "crawled_detail_ok": 2247,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 161,
     "cross_domain_article_link_recorded": 14,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 6,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 58,
-    "inline_image_recorded": 4806,
+    "inline_image_recorded": 4808,
     "inline_link_recorded": 2,
     "section_list_page_recorded": 5,
     "site_entry_alias_recorded": 1
@@ -2108,7 +2108,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/",
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -33506,7 +33507,8 @@
         "2026 06.05 南邮与国家广电总局广播电视规划院、江苏省广电总台、江苏省文化科技控股集团战略合作框架协议签约仪式举行 6月4日下午，南京邮电大学与国家广播电视总局广播电视规划院、江苏省广播电视总台、江苏省文化科技控股集团有限公司战略合作框架协议签约仪式在仙林校区中兴报告厅举行。 国家广播电视总局广播电视规划院院长、广播影视信息网络中心主任冯景锋，副主任韩肖鹏，江苏省广播电视局副局长陈宇昕，江苏省广播电视总台党委书记、台长葛莱，党委委员、副台长何宁，江苏省文化科技控股集团有限公司党委书记、董事长庄传伟，党委委员、副总经理陈松，南邮校长叶美兰，党委常委、副校长谢平出席仪式。校党委常委、副校长刘青山主持仪式。 叶美兰表示，南邮将通过推进人才培养前置、强化科研平台共建、打造高层次人才培养高地，共同攻关核心技术、培育创新人才、促进成果转化，助力江苏智慧广电与数字文化产业高质量发展。 冯景锋指出，要聚焦六大前沿领域，开展关键技术突破和系统研发，共同破解行业发展难题；深化科研协同转化，加快创新成果落地应用；共育行业专业人才，共建实习实践基地，完善产学研用深度融合的人才培养机制。 葛莱表示，要建立紧密、共赢、可持续发展的战略合作关系，积极推动创新链、产业链、人才链深度融合，培育广电发展的新产业、新赛道、新"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -103922,6 +103924,47 @@
       "labels": [],
       "sources": [
         "https://www.njupt.edu.cn/2026/0706/c53a306058/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/2026/0707/c53a306154/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0707/c53a306154/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.07.06 南邮参赛项目获中国国际大学生创新大赛双金",
+        "2026 07.06 南邮参赛项目获中国国际大学生创新大赛双金 7月2日，中国国际大学生创新大赛（西班牙赛区）在马德里落幕，南京邮电大学理学院项目Optical Communication Pioneer-Unmanned aerial vehicle-mounted FMOI communication terminal与材料科学与工程学院项目EnergyShield Technology: Flame-Retardant Polymer Electrolyte凭借出色的创新能力脱颖而出，双获金奖。其中，材料科学与工程学院项目因突出的技术前瞻性与产业应用价值，额外荣获赛区最高奖”优胜奖”。参赛团队受到了西班牙大使馆教育参赞侯永峰、欧洲科学院院士王德义以及业界代表的充分肯定与鼓励。南邮参赛代表团西班牙大使馆教育参赞侯永峰（右7）、欧洲科学院院士王德义（右4）与南邮获奖团队 南邮始终高度重视创新创业教育与国际化学科竞赛培育工作。本次赛事筹备期间，学校相关职能部门与二级学院协同联动，组织多轮项目打磨与专家指导，全面提升团队参赛能力。 西班牙赛区作为中国国际大学生创新大赛的重要组成部分，吸引了众多顶尖高校的优质项目同台竞技，是深化创新创业教育改革"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/f0/1b/524f1b6d4563861f3ff7bb86f289/c10fee6e-55ec-4851-aaef-7c82098da9b0.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/f0/1b/524f1b6d4563861f3ff7bb86f289/c10fee6e-55ec-4851-aaef-7c82098da9b0.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0707/c53a306154/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/f0/1b/524f1b6d4563861f3ff7bb86f289/7cf5b7bd-1c97-420b-890c-c2befa264081.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/f0/1b/524f1b6d4563861f3ff7bb86f289/7cf5b7bd-1c97-420b-890c-c2befa264081.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0707/c53a306154/page.htm"
       ],
       "section_ids": [
         "www_news"
