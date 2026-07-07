@@ -1,29 +1,29 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-07T09:19:44.563170+00:00",
+  "generated_at": "2026-07-07T14:02:24.633688+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 133,
     "homepage_modules": 0,
     "list_pages": 161,
-    "detail_pages": 2247,
+    "detail_pages": 2248,
     "low_content_detail_pages": 96,
     "attachments": 420,
     "external_links": 139,
     "edges": 11554,
-    "url_outcomes": 7824
+    "url_outcomes": 7833
   },
   "outcomes": {
     "attachment_metadata_only": 412,
-    "crawled_detail_ok": 2247,
+    "crawled_detail_ok": 2248,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 161,
     "cross_domain_article_link_recorded": 14,
-    "external_link_recorded": 107,
+    "external_link_recorded": 109,
     "external_policy_link_recorded": 6,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 58,
-    "inline_image_recorded": 4808,
+    "inline_image_recorded": 4814,
     "inline_link_recorded": 2,
     "section_list_page_recorded": 5,
     "site_entry_alias_recorded": 1
@@ -32585,7 +32585,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/53/list.htm",
-        "https://www.njupt.edu.cn/"
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -33480,7 +33481,8 @@
         "2026 06.08 第十六届全国大学生电子商务“创新、创意及创业” 挑战赛江苏省选拔赛在南邮举行 6月7日，第十六届全国大学生电子商务“创新、创意及创业”挑战赛江苏省选拔赛在南京邮电大学三牌楼校区举行。本次比赛由三创赛组委会主办，南邮管理学院承办，江苏省通信学会、宿迁南邮数字经济产业研究院协办。 南邮党委副书记王友国教授，三创赛副秘书长、浙江师范大学邹益民教授，三创赛专家周忠宝教授、琚春华教授、张玉林教授，学界和业界40余名专家评委、全省57所高校的164支参赛队伍参加开幕式。 开幕式上，王友国致欢迎辞并介绍南邮在数字信息领域的办学特色与双创育人成果，鼓励全省青年学子以赛促学、 以赛促创，勇担数字经济时代的创新使命。参赛队伍代表、裁判代表依次宣誓，琚春华教授对比赛规则进行详细讲解。 本次参赛项目紧扣时代脉搏，深度融合人工智能、大数据等新技术，聚焦乡村振兴电商、服务电商、跨境电商等热门主题，呈现出多元化、专业化、实战化的特点。经小组赛和终极赛环节，共产生特等奖9项（常规赛6项、实战赛2项、国际赛1项），一等奖38项（常规赛26项、实战赛10项、国际赛2项）、二等奖56项（常规赛38项、实战赛15项、国际赛3项）。 闭幕式上，苏州科技大学杨传明教授代表组委会作赛事总结，肯定"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -103965,6 +103967,119 @@
       "labels": [],
       "sources": [
         "https://www.njupt.edu.cn/2026/0707/c53a306154/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/2026/0707/c53a306178/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0707/c53a306178/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.07.07 南邮召开“两优一先”表彰大会",
+        "2026 07.07 南邮召开“两优一先”表彰大会 为激励全校上下传承红色基因、牢记初心使命，把榜样力量转化为干事创业的实际行动，7月7日下午，南京邮电大学“两优一先”表彰大会在仙林校区召开。校党委书记郭宇锋出席会议并作总结讲话。全体在校校领导，校党委委员、纪委委员，党委、群团部门主要负责同志，二级党组织书记、副书记，师生党员代表参加会议。校党委副书记王友国主持大会。 郭宇锋代表学校党委向受到表彰的全体先进集体、先进个人表示热烈祝贺，向全校324个基层党组织、7747名共产党员致以诚挚问候，向一直以来为学校事业拼搏奉献的老党员、老同志致以崇高敬意。“今天我们在这里表彰先锋榜样，就是要从党的百年奋斗历程和先锋模范事迹中汲取信仰之力、实干之力、育人之力，以高质量党建引领学校国家‘双一流’建设和高质量发展。” 在总结讲话中，郭宇锋传达了习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话精神、省委书记信长星在全省“两优一先”表彰大会上的讲话精神，系统回顾了南邮过去一年的党建工作成效。他指出，百年党史浩浩汤汤、历久弥新，南邮红色校史根植其中、相伴共生，84年办学发展史就是在党的领导下，培育红色通信人才的奋斗史。 站在建党105周"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://mp.weixin.qq.com/s/ffBSgeHnuKB7XgbG_r4Lig": {
+      "url": "https://mp.weixin.qq.com/s/ffBSgeHnuKB7XgbG_r4Lig",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "2026.07.06 模范！这位南邮人获评“江苏省优秀党务工作者”"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://mp.weixin.qq.com/s/d6GEMxCePnBDy29rd9BErg": {
+      "url": "https://mp.weixin.qq.com/s/d6GEMxCePnBDy29rd9BErg",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "2026.07.03 喜报！全国党建“双创”“双百”，南邮+4！"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/0b/42/994c1e574f6290ee3a62cb576847/88539472-f597-45c6-87c1-a03f0372baaf.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/0b/42/994c1e574f6290ee3a62cb576847/88539472-f597-45c6-87c1-a03f0372baaf.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0707/c53a306178/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/0b/42/994c1e574f6290ee3a62cb576847/bb47a4ad-ab85-4858-a3e9-87b68b1e2cbb.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/0b/42/994c1e574f6290ee3a62cb576847/bb47a4ad-ab85-4858-a3e9-87b68b1e2cbb.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0707/c53a306178/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/0b/42/994c1e574f6290ee3a62cb576847/e94fc0bb-7505-4d50-bf2a-2931c917c1de.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/0b/42/994c1e574f6290ee3a62cb576847/e94fc0bb-7505-4d50-bf2a-2931c917c1de.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0707/c53a306178/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/0b/42/994c1e574f6290ee3a62cb576847/cffda36d-0bad-4883-abae-181f3c5a5766.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/0b/42/994c1e574f6290ee3a62cb576847/cffda36d-0bad-4883-abae-181f3c5a5766.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0707/c53a306178/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/0b/42/994c1e574f6290ee3a62cb576847/7c4cb14c-f4c8-40ed-9207-3ea0958d58fe.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/0b/42/994c1e574f6290ee3a62cb576847/7c4cb14c-f4c8-40ed-9207-3ea0958d58fe.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0707/c53a306178/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/0b/42/994c1e574f6290ee3a62cb576847/645c1464-537c-4968-a5c3-c6cf60aced0c.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/0b/42/994c1e574f6290ee3a62cb576847/645c1464-537c-4968-a5c3-c6cf60aced0c.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0707/c53a306178/page.htm"
       ],
       "section_ids": [
         "www_news"
