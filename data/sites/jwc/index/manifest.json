@@ -1,21 +1,21 @@
 {
   "site_id": "jwc",
-  "generated_at": "2026-07-06T09:51:44.833491+00:00",
+  "generated_at": "2026-07-07T01:52:22.321462+00:00",
   "totals": {
     "sections": 139,
     "nav_nodes": 119,
     "homepage_modules": 8,
     "list_pages": 661,
-    "detail_pages": 7000,
+    "detail_pages": 7001,
     "low_content_detail_pages": 822,
     "attachments": 7915,
-    "external_links": 747,
+    "external_links": 745,
     "edges": 16347,
-    "url_outcomes": 19283
+    "url_outcomes": 19286
   },
   "outcomes": {
     "attachment_metadata_only": 7193,
-    "crawled_detail_ok": 6946,
+    "crawled_detail_ok": 6947,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 661,
     "cross_domain_article_link_recorded": 62,
@@ -23,7 +23,7 @@
     "external_link_recorded": 263,
     "external_policy_link_recorded": 41,
     "external_system_link_recorded": 5,
-    "inline_image_recorded": 3988,
+    "inline_image_recorded": 3990,
     "inline_link_recorded": 121
   },
   "errors": [],
@@ -271944,7 +271944,8 @@
       "sources": [
         "https://jwc.njupt.edu.cn/",
         "https://jwc.njupt.edu.cn/1596/list.htm",
-        "https://jwc.njupt.edu.cn/1596/list2.htm"
+        "https://jwc.njupt.edu.cn/1596/list2.htm",
+        "https://jwc.njupt.edu.cn/1596/list3.htm"
       ],
       "section_ids": [
         "jwc_homepage_jw_news_module"
@@ -272531,7 +272532,8 @@
       ],
       "sources": [
         "https://jwc.njupt.edu.cn/",
-        "https://jwc.njupt.edu.cn/1596/list.htm"
+        "https://jwc.njupt.edu.cn/1596/list.htm",
+        "https://jwc.njupt.edu.cn/1596/list2.htm"
       ],
       "section_ids": [
         "jwc_homepage_jw_news_module"
@@ -273481,6 +273483,47 @@
       "labels": [],
       "sources": [
         "https://jwc.njupt.edu.cn/2026/0705/c1596a305989/page.htm"
+      ],
+      "section_ids": [
+        "jwc_homepage_jw_news_module"
+      ]
+    },
+    "https://jwc.njupt.edu.cn/2026/0706/c1596a306084/page.htm": {
+      "url": "https://jwc.njupt.edu.cn/2026/0706/c1596a306084/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "南邮在中国国际大学生创新大赛（西班牙赛区）首次参赛勇夺双金 07-07",
+        "南邮在中国国际大学生创新大赛（西班牙赛区）首次参赛勇夺双金 2026-07-07"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/",
+        "https://jwc.njupt.edu.cn/1596/list.htm"
+      ],
+      "section_ids": [
+        "jwc_homepage_jw_news_module"
+      ],
+      "status_code": 200
+    },
+    "https://jwc.njupt.edu.cn/_upload/article/images/d7/e7/5ec21ba0458d863aa98f214e4fbf/09da1b7d-b81a-4d3e-86c8-61b238f5a3b9.jpg": {
+      "url": "https://jwc.njupt.edu.cn/_upload/article/images/d7/e7/5ec21ba0458d863aa98f214e4fbf/09da1b7d-b81a-4d3e-86c8-61b238f5a3b9.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://jwc.njupt.edu.cn/2026/0706/c1596a306084/page.htm"
+      ],
+      "section_ids": [
+        "jwc_homepage_jw_news_module"
+      ]
+    },
+    "https://jwc.njupt.edu.cn/_upload/article/images/d7/e7/5ec21ba0458d863aa98f214e4fbf/ab08e92c-aacf-4ca2-a43f-4d9848f1042c.png": {
+      "url": "https://jwc.njupt.edu.cn/_upload/article/images/d7/e7/5ec21ba0458d863aa98f214e4fbf/ab08e92c-aacf-4ca2-a43f-4d9848f1042c.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://jwc.njupt.edu.cn/2026/0706/c1596a306084/page.htm"
       ],
       "section_ids": [
         "jwc_homepage_jw_news_module"

@@ -1,6 +1,6 @@
 {
   "site_id": "scie",
-  "generated_at": "2026-07-06T09:56:13.750596+00:00",
+  "generated_at": "2026-07-07T01:56:36.399025+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 57,
@@ -11,7 +11,7 @@
     "attachments": 0,
     "external_links": 8,
     "edges": 654,
-    "url_outcomes": 1996
+    "url_outcomes": 1997
   },
   "outcomes": {
     "crawled_detail_ok": 546,
@@ -19,7 +19,7 @@
     "crawled_list_ok": 40,
     "cross_domain_article_link_recorded": 1,
     "external_link_recorded": 7,
-    "homepage_link_recorded": 71,
+    "homepage_link_recorded": 72,
     "inline_image_recorded": 1330
   },
   "errors": [],
@@ -26085,6 +26085,18 @@
       "section_ids": [
         "scie_news"
       ]
+    },
+    "https://scie.njupt.edu.cn/2026/0707/c2890a306108/page.htm": {
+      "url": "https://scie.njupt.edu.cn/2026/0707/c2890a306108/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "homepage_link_recorded",
+      "labels": [
+        "关于举办南京邮电大学通信与信息工程学院2026年全国优秀大学生暑期创新训练班的通知"
+      ],
+      "sources": [
+        "https://scie.njupt.edu.cn/"
+      ],
+      "section_ids": []
     }
   },
   "coverage": {

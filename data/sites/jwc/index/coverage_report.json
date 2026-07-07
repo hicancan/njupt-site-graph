@@ -1,7 +1,7 @@
 {
   "version": "sitegraph-coverage-v1",
   "site_id": "jwc",
-  "generated_at": "2026-07-06T10:07:21.108089+00:00",
+  "generated_at": "2026-07-07T02:12:03.545177+00:00",
   "crawl_mode": "incremental",
   "evidence_source": "full_crawl",
   "coverage_status": "complete",
@@ -28,7 +28,7 @@
   },
   "pages": {
     "list_pages": 661,
-    "detail_pages": 7000
+    "detail_pages": 7001
   },
   "attachments": {
     "policy": "metadata_only",
@@ -36,7 +36,7 @@
   },
   "external_links": {
     "policy": "record_only",
-    "count": 747
+    "count": 745
   },
   "pagination": {
     "terminal_verified": true,
