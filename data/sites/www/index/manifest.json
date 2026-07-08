@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-08T08:04:46.267357+00:00",
+  "generated_at": "2026-07-08T13:25:26.794249+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 133,
     "homepage_modules": 0,
     "list_pages": 161,
-    "detail_pages": 2249,
+    "detail_pages": 2250,
     "low_content_detail_pages": 96,
     "attachments": 420,
     "external_links": 139,
     "edges": 11554,
-    "url_outcomes": 7835
+    "url_outcomes": 7846
   },
   "outcomes": {
     "attachment_metadata_only": 412,
-    "crawled_detail_ok": 2249,
+    "crawled_detail_ok": 2250,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 161,
     "cross_domain_article_link_recorded": 14,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 6,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 58,
-    "inline_image_recorded": 4815,
+    "inline_image_recorded": 4825,
     "inline_link_recorded": 2,
     "section_list_page_recorded": 5,
     "site_entry_alias_recorded": 1
@@ -32481,7 +32481,8 @@
         "2026 06.25 蒙古邮政首席执行官Telmen Gerelt到访南邮 6月24日下午，蒙古邮政股份有限公司首席执行官Telmen Gerelt、副首席执行官Khosbayar Nanzad一行到访南京邮电大学，双方在仙林校区行政楼举行专题交流座谈会并签署合作备忘录。南邮党委书记郭宇锋、副校长刘青山出席，管理学院，现代邮政学院、智慧交通学院，国际合作交流处负责人参加交流。会议现场 郭宇锋对蒙古邮政代表团表示热烈欢迎，介绍了南邮的办学底蕴与特色优势。他说，中蒙邮政事业通道畅通、往来密切，与万国邮联都保持密切沟通与协作，希望双方持续深化技术共享、产学研协同创新，合力打造中蒙邮政领域产教融合标杆样板，以邮政数字化合作赋能两国跨境电商发展，助力中蒙双边经贸往来提质增效、民心相通。 Telmen Gerelt详细介绍了蒙古邮政整体运营、跨境寄递、电商物流发展现状与发展规划。当前蒙古国跨境商贸、邮政数字化转型需求迫切，企业亟需数字化、物联网、智慧物流领域专业人才与技术支撑。他表示，南邮在信息通信、现代邮政领域的学科积淀、科研成果与人才培养体系高度契合蒙古邮政发展需求，期待双方搭建长效合作机制。 座谈环节，双方围绕共建邮政数字化交流平台、联合开展邮政管理骨干研"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -33366,7 +33367,8 @@
         "2026 06.11 南邮教师获全国高校思政课教学展示二等奖 近日，教育部公布第四届全国高校思政课教学展示活动评审结果，南京邮电大学马克思主义学院刘晶心老师获“中国近现代史纲要”本科组二等奖。这是南邮思政课教师首次在此赛道取得国家级奖项。 全国高校思想政治理论课教学展示活动由教育部主办，每两年举行一次，是目前规格最高、参赛面最广、权威性最强的国家级教学赛事。本届活动历经近一年的省级遴选、网络评审与现场展示等多轮激烈角逐，全面检验全国高校思政课建设水平与立德树人成效。 赛程中，党委宣传部、本科生院和马克思主义学院全力支持，多次召开讨论会，邀请专家进行全面指导；团队成员分工协作、反复打磨，展现了扎实的理论功底、精湛的教学技能和昂扬向上的精神风貌，实现思政课教学展示国家级奖项的突破。 此次获奖是南邮持续深化思政课改革创新、推进教育教学高质量发展的重要成果。学校将坚守铸魂育人初心使命，持续深化思政课改革创新，着力打造政治强、情怀深、思维新、视野广、自律严、人格正的高水平教师队伍，严格落实“八个统一”要求，推动党的创新理论成果系统融入课堂、深入师生头脑，为培养堪当民族复兴重任的时代新人、服务强国建设与民族复兴伟业作出新贡献。（撰稿：李凤成 初审："
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -104111,6 +104113,144 @@
       "labels": [],
       "sources": [
         "https://www.njupt.edu.cn/2026/0707/c53a306174/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/2026/0708/c53a306232/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0708/c53a306232/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.07.08 南邮主办2026年“悦读江苏”智造栖霞·知行华夏主题实践活动",
+        "南邮主办2026年“悦读江苏”智造栖霞·知行华夏主题实践活动",
+        "2026 07.08 南邮主办2026年“悦读江苏”智造栖霞·知行华夏主题实践活动 7月5日至7日，由江苏省教育厅指导、南京邮电大学主办，南京财经大学、南京工业职业技术大学、泰州学院联合承办的2026年“悦读江苏”智造栖霞·知行华夏主题实践活动在南京举行，来自20个国家的100名留学生走进高校、企业和文化场所，在行走中感知江苏智造实力与中华优秀传统文化。 7月6日上午，活动启动仪式在南京邮电大学仙林校区举行。南邮副校长刘青山、江苏省高等教育学会外国留学生教育管理研究委员会副理事长兼秘书长张海军、南京市栖霞区人民政府常务副区长袁文峰出席活动并致辞。南邮通信与信息工程学院张琦教授作“工业物联网赋能新型工业化”主题讲座。 启动仪式后，师生参观通信展览馆与校史馆。 当日下午，研学队伍走访南京经济技术开发区，实地参观天加能源与康尼机电两家智能制造标杆企业，在生产一线与智能车间近距离感受企业在绿色能源、高端装备等领域的先进制造水平；走进南邮中华龙狮舞工作坊，体验彩带龙制作，感受传统非遗魅力。 7日上午，研学队伍赴南京工业职业技术大学参观青少年职业体验创新中心，动手操作智能制造、3D打印等实训设备，在专业教师指导下体验紫砂壶制作、泥绘与陶刻，沉浸式学习传统紫砂技艺。当日"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/04/7c/86d1426546799e2e83acafba0e37/cd9c1106-d9cc-41bc-9bd8-c0f6f887d49f.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/04/7c/86d1426546799e2e83acafba0e37/cd9c1106-d9cc-41bc-9bd8-c0f6f887d49f.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0708/c53a306232/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/04/7c/86d1426546799e2e83acafba0e37/c29e63af-606a-43cb-85b2-c06595e4ab21.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/04/7c/86d1426546799e2e83acafba0e37/c29e63af-606a-43cb-85b2-c06595e4ab21.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0708/c53a306232/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/04/7c/86d1426546799e2e83acafba0e37/036fcd24-cab3-409e-a3ba-7e47087cd6b8.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/04/7c/86d1426546799e2e83acafba0e37/036fcd24-cab3-409e-a3ba-7e47087cd6b8.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0708/c53a306232/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/04/7c/86d1426546799e2e83acafba0e37/36f81dce-ac68-4583-85c8-07c06b974f42.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/04/7c/86d1426546799e2e83acafba0e37/36f81dce-ac68-4583-85c8-07c06b974f42.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0708/c53a306232/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/04/7c/86d1426546799e2e83acafba0e37/7debee08-aeb4-4b28-8c5d-b487126dac3b.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/04/7c/86d1426546799e2e83acafba0e37/7debee08-aeb4-4b28-8c5d-b487126dac3b.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0708/c53a306232/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/04/7c/86d1426546799e2e83acafba0e37/ed91b9ed-b2c2-472c-8528-442782e30f9e.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/04/7c/86d1426546799e2e83acafba0e37/ed91b9ed-b2c2-472c-8528-442782e30f9e.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0708/c53a306232/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/04/7c/86d1426546799e2e83acafba0e37/06f6dfa1-ef55-47ff-b61e-506fc7af803b.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/04/7c/86d1426546799e2e83acafba0e37/06f6dfa1-ef55-47ff-b61e-506fc7af803b.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0708/c53a306232/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/04/7c/86d1426546799e2e83acafba0e37/751d2c98-0382-45d6-b1e1-e69ef6eb4f87.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/04/7c/86d1426546799e2e83acafba0e37/751d2c98-0382-45d6-b1e1-e69ef6eb4f87.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0708/c53a306232/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/04/7c/86d1426546799e2e83acafba0e37/daf60b51-3fca-4325-851c-88f128b5500a.jpeg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/04/7c/86d1426546799e2e83acafba0e37/daf60b51-3fca-4325-851c-88f128b5500a.jpeg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0708/c53a306232/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/04/7c/86d1426546799e2e83acafba0e37/9af525cc-3f33-4ea4-9e57-b87e5a84dc8e.jpeg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/04/7c/86d1426546799e2e83acafba0e37/9af525cc-3f33-4ea4-9e57-b87e5a84dc8e.jpeg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0708/c53a306232/page.htm"
       ],
       "section_ids": [
         "www_news"

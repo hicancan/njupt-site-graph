@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-08T08:04:48.961757+00:00",
+  "generated_at": "2026-07-08T13:25:29.594425+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -759,7 +759,21 @@
       "position": 66
     },
     {
-      "node_id": "e804d70a4fda67ff1c31",
+      "node_id": "2ae73f9ec94bf0e78398",
+      "site_id": "www",
+      "label": "2026.07.08 南邮主办2026年“悦读江苏”智造栖霞·知行华夏主题实践活动",
+      "url": "https://www.njupt.edu.cn/2026/0708/c53a306232/page.htm",
+      "nav_path": [
+        "2026.07.08 南邮主办2026年“悦读江苏”智造栖霞·知行华夏主题实践活动"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 67
+    },
+    {
+      "node_id": "1533c314d1da9dc95f30",
       "site_id": "www",
       "label": "2026.07.07 南邮召开“两优一先”表彰大会",
       "url": "https://www.njupt.edu.cn/2026/0707/c53a306178/page.htm",
@@ -770,10 +784,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 67
+      "position": 68
     },
     {
-      "node_id": "8746470521ee683cde99",
+      "node_id": "bea260708e6a6f6ce6c8",
       "site_id": "www",
       "label": "2026.07.07 南邮与江苏脑机接口研究院举行交流座谈会",
       "url": "https://www.njupt.edu.cn/2026/0707/c53a306174/page.htm",
@@ -784,10 +798,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 68
+      "position": 69
     },
     {
-      "node_id": "09fd5149423d420f861d",
+      "node_id": "7d39b269ff5b7eff77bc",
       "site_id": "www",
       "label": "2026.07.06 南邮Apollo3D 联合战队获 2026 RoboCup 机器人世界杯冠军",
       "url": "https://www.njupt.edu.cn/2026/0706/c53a306058/page.htm",
@@ -798,29 +812,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 69
+      "position": 70
     },
     {
-      "node_id": "417be77bc7c341d1b9ee",
+      "node_id": "ba316a32c6c384c1cdd7",
       "site_id": "www",
       "label": "2026.07.06 南邮参赛项目获中国国际大学生创新大赛双金",
       "url": "https://www.njupt.edu.cn/2026/0707/c53a306154/page.htm",
       "nav_path": [
         "2026.07.06 南邮参赛项目获中国国际大学生创新大赛双金"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 70
-    },
-    {
-      "node_id": "95946af4277e7e2f6bf0",
-      "site_id": "www",
-      "label": "2026.07.02 南邮“江苏省低空技术与工程学院”正式授牌",
-      "url": "https://www.njupt.edu.cn/2026/0703/c53a305929/page.htm",
-      "nav_path": [
-        "2026.07.02 南邮“江苏省低空技术与工程学院”正式授牌"
       ],
       "depth": 1,
       "target_type": "detail_article_page",
@@ -1095,7 +1095,21 @@
       "position": 90
     },
     {
-      "node_id": "2453e5194d8ce50e48b5",
+      "node_id": "19affe95bc852b9cfdbf",
+      "site_id": "www",
+      "label": "南邮主办2026年“悦读江苏”智造栖霞·知行华夏主题实践活动",
+      "url": "https://www.njupt.edu.cn/2026/0708/c53a306232/page.htm",
+      "nav_path": [
+        "南邮主办2026年“悦读江苏”智造栖霞·知行华夏主题实践活动"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 91
+    },
+    {
+      "node_id": "4a3102c1bd782d6d0f00",
       "site_id": "www",
       "label": "南邮召开2026年红色校史研究工作会",
       "url": "https://www.njupt.edu.cn/2026/0623/c53a305261/page.htm",
@@ -1106,10 +1120,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 91
+      "position": 92
     },
     {
-      "node_id": "73c7ab5390dfcc716be6",
+      "node_id": "7f201c89db5ac3973d07",
       "site_id": "www",
       "label": "南邮承办“数智时代的人口与社会治理”研讨会",
       "url": "https://www.njupt.edu.cn/2026/0616/c53a305020/page.htm",
@@ -1120,10 +1134,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 92
+      "position": 93
     },
     {
-      "node_id": "ce6a4b146a6a171846b2",
+      "node_id": "9588e7aa71ed42dfe5b6",
       "site_id": "www",
       "label": "南邮联合主办“数夏——我们的节日数字化展”",
       "url": "https://www.njupt.edu.cn/2026/0617/c53a305044/page.htm",
@@ -1134,10 +1148,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 93
+      "position": 94
     },
     {
-      "node_id": "4348bffdf89349672114",
+      "node_id": "7f169499c452883f5bba",
       "site_id": "www",
       "label": "南邮举办2026年老年健身运动会",
       "url": "https://www.njupt.edu.cn/2026/0622/c53a305235/page.htm",
@@ -1148,10 +1162,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 94
+      "position": 95
     },
     {
-      "node_id": "9654569e4bd2be01ec51",
+      "node_id": "23fd5e6a51219e445bf6",
       "site_id": "www",
       "label": "南邮举办数智时代思政课教学改革与新时代马克思主义学院高质量建设研讨会",
       "url": "https://www.njupt.edu.cn/2026/0615/c53a304930/page.htm",
@@ -1162,10 +1176,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 95
+      "position": 96
     },
     {
-      "node_id": "1bb396ebbd7210e85388",
+      "node_id": "7c6fc2557b363e15946e",
       "site_id": "www",
       "label": "南邮牵头组队征战省运会职工部篮球赛获冠军",
       "url": "https://www.njupt.edu.cn/2026/0610/c53a303932/page.htm",
@@ -1176,10 +1190,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 96
+      "position": 97
     },
     {
-      "node_id": "2d9013be0d7164cde26b",
+      "node_id": "51a516071648216cf5f2",
       "site_id": "www",
       "label": "南邮武术队获省运会高校部武术比赛4金2银4铜 金牌和团体总分第一",
       "url": "https://www.njupt.edu.cn/2026/0604/c53a303317/page.htm",
@@ -1190,10 +1204,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 97
+      "position": 98
     },
     {
-      "node_id": "d836cf20ca88f8797994",
+      "node_id": "9bd429556613537442fb",
       "site_id": "www",
       "label": "2026年“全国科技工作者日暨南京邮电大学科技工作者沙龙”活动举行 为广泛宣传习近平总书记勉励广大科技工作者“厚植报国情怀、发扬奋斗精神”的重要指示，5月29日，在第十个“全国科技工作者日”来临之际，南京邮电大学在仙林校区中兴报告厅举行2026年“全国科技工作者日暨科技工作者沙龙”活动。活动以“奋进‘十五五’ 科技谱新篇”为主题，由科学技术处、社会科学处、产业合作处、校科协联合主办。全校科研骨干教师代表、校科协成员代表、科研秘书、学生代表近百人参加活动。活动现场 活动邀请省科技厅成果处原处长吴守海、南京工业大学产业合作处处长周治、南京信息工程大学社会科学处处长尹才祥作报告。吴守海的报告题目是《如何做好科研成果总结》，从“为什么要做科研总结”“总结的是哪一类科研成果”“标志性成果总结的方法有哪些”等维度，结合省科学技术奖的申报流程、申报案例和评审经验，分别对申报材料准备、成果创新性评价、申报技巧等方面对科研成果凝练进行阐述。 周治在《科技创新赋能产业创新》报告中，结合近年来南京工业大学技术转移转化工作开展的实际情况，从国家和江苏省关于高校技术转移转化的政策动向、科技园优化重塑与高校技转网络构建、概念验证与成果转化全链条载体拓展、技转人才培养与技术",
       "url": "https://www.njupt.edu.cn/2026/0530/c17122a303040/page.htm",
@@ -1204,29 +1218,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 98
+      "position": 99
     },
     {
-      "node_id": "370e3064a83b14d8e6a2",
+      "node_id": "3c0ad9db3876705e8b94",
       "site_id": "www",
       "label": "“衣韵诗香·五洲同吟”主题阅读雅集暨南邮2026年“阅读文化节”举行",
       "url": "https://www.njupt.edu.cn/2026/0423/c53a300714/page.htm",
       "nav_path": [
         "“衣韵诗香·五洲同吟”主题阅读雅集暨南邮2026年“阅读文化节”举行"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 99
-    },
-    {
-      "node_id": "67c44d331249bbde95ad",
-      "site_id": "www",
-      "label": "南邮举行“薪火传•踏歌行”84周年校庆健身跑活动",
-      "url": "https://www.njupt.edu.cn/2026/0418/c53a300313/page.htm",
-      "nav_path": [
-        "南邮举行“薪火传•踏歌行”84周年校庆健身跑活动"
       ],
       "depth": 1,
       "target_type": "detail_article_page",
