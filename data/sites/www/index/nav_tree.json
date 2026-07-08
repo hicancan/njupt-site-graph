@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-07T14:02:26.964256+00:00",
+  "generated_at": "2026-07-08T08:04:48.961757+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -773,7 +773,21 @@
       "position": 67
     },
     {
-      "node_id": "50568f6821fe683929ec",
+      "node_id": "8746470521ee683cde99",
+      "site_id": "www",
+      "label": "2026.07.07 南邮与江苏脑机接口研究院举行交流座谈会",
+      "url": "https://www.njupt.edu.cn/2026/0707/c53a306174/page.htm",
+      "nav_path": [
+        "2026.07.07 南邮与江苏脑机接口研究院举行交流座谈会"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 68
+    },
+    {
+      "node_id": "09fd5149423d420f861d",
       "site_id": "www",
       "label": "2026.07.06 南邮Apollo3D 联合战队获 2026 RoboCup 机器人世界杯冠军",
       "url": "https://www.njupt.edu.cn/2026/0706/c53a306058/page.htm",
@@ -784,10 +798,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 68
+      "position": 69
     },
     {
-      "node_id": "72fa54f37fce549fee2c",
+      "node_id": "417be77bc7c341d1b9ee",
       "site_id": "www",
       "label": "2026.07.06 南邮参赛项目获中国国际大学生创新大赛双金",
       "url": "https://www.njupt.edu.cn/2026/0707/c53a306154/page.htm",
@@ -798,29 +812,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 69
+      "position": 70
     },
     {
-      "node_id": "b64c138da7be8db9ddce",
+      "node_id": "95946af4277e7e2f6bf0",
       "site_id": "www",
       "label": "2026.07.02 南邮“江苏省低空技术与工程学院”正式授牌",
       "url": "https://www.njupt.edu.cn/2026/0703/c53a305929/page.htm",
       "nav_path": [
         "2026.07.02 南邮“江苏省低空技术与工程学院”正式授牌"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 70
-    },
-    {
-      "node_id": "abf8228f3cfa19a7bc13",
-      "site_id": "www",
-      "label": "2026.07.01 南邮干部师生热议习近平总书记“七一”重要讲话",
-      "url": "https://www.njupt.edu.cn/2026/0701/c53a305669/page.htm",
-      "nav_path": [
-        "2026.07.01 南邮干部师生热议习近平总书记“七一”重要讲话"
       ],
       "depth": 1,
       "target_type": "detail_article_page",

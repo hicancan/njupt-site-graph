@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-07T14:02:24.633688+00:00",
+  "generated_at": "2026-07-08T08:04:46.267357+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 133,
     "homepage_modules": 0,
     "list_pages": 161,
-    "detail_pages": 2248,
+    "detail_pages": 2249,
     "low_content_detail_pages": 96,
     "attachments": 420,
     "external_links": 139,
     "edges": 11554,
-    "url_outcomes": 7833
+    "url_outcomes": 7835
   },
   "outcomes": {
     "attachment_metadata_only": 412,
-    "crawled_detail_ok": 2248,
+    "crawled_detail_ok": 2249,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 161,
     "cross_domain_article_link_recorded": 14,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 6,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 58,
-    "inline_image_recorded": 4814,
+    "inline_image_recorded": 4815,
     "inline_link_recorded": 2,
     "section_list_page_recorded": 5,
     "site_entry_alias_recorded": 1
@@ -32532,7 +32532,8 @@
         "2026 06.24 南邮举行黄一潇兼职教授授聘仪式 6月23日下午，顺丰科技运筹优化算法高级工程师黄一潇博士受聘南京邮电大学兼职教授仪式在三牌楼校区科学会堂举行。南邮副校长肖甫为黄一潇颁发聘书和校徽，人事处，现代邮政学院、智慧交通学院负责人和师生代表参加活动。授聘仪式现场 肖甫对黄一潇加盟南邮表示热烈欢迎。他说，快递物流已成为服务民生、支撑新发展格局的战略性产业，黄一潇博士深耕运筹优化算法领域，主导研发的网络规划算法项目获2025年弗兰兹·厄德曼全球决赛奖，参与的顺丰超脑2.0获2025年CCF科技成果奖，是将企业真实需求与前沿技术方法紧密结合的优秀代表。南邮在交通运输、物流管理、邮政工程等领域的办学积淀深厚，与顺丰开展本科创新人才联合培养，期待与黄一潇博士携手共育人才、共促创新。颁发聘书和校徽 黄一潇在受聘感言中表示，非常荣幸加盟南邮。他回顾了从清华园到顺丰的求学与从业历程，深切感受到理论研究与工程实践相互促进的重要性。表示将把顺丰在智能物流网络规划领域积累的前沿实践经验带入课堂与科研，与师生共同探索运筹优化在实际工程场景中的更多可能，让更多年轻人有机会站在真实问题的第一线，做有价值、有影响力的研究。 授聘仪式结束后，黄一潇"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -33382,7 +33383,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/53/list2.htm",
-        "https://www.njupt.edu.cn/"
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -104080,6 +104082,35 @@
       "labels": [],
       "sources": [
         "https://www.njupt.edu.cn/2026/0707/c53a306178/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/2026/0707/c53a306174/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0707/c53a306174/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.07.07 南邮与江苏脑机接口研究院举行交流座谈会",
+        "2026 07.07 南邮与江苏脑机接口研究院举行交流座谈会 7月7日下午，南京邮电大学与江苏脑机接口研究院交流座谈会在仙林校区举行。江苏省人民医院院长、江苏脑机接口研究院理事长刘云，执行理事长于文龙，执行院长朱伟，副院长徐宝国、朱海华出席座谈会。南邮校长叶美兰主持座谈会。座谈会现场 叶美兰代表学校对刘云一行的到访表示欢迎。她指出，南邮近年来在医工交叉事业上呈现蓬勃发展态势，积极布局未来重点攻关方向。学校与研究院在科研项目、人才培养等方面始终保持紧密合作关系，期望依托南邮信息学科优势和无锡校区等新平台，进一步拓展合作维度，深化合作层次，共同推动医工交叉领域取得实质性突破。 刘云回顾了与南邮的深厚渊源，对学校多年来的支持致以诚挚感谢。她说，南邮在通信领域积淀深厚、优势显著，在创新转化方面起步早、谋得实。南邮扎实的工科底蕴与研究院优质的临床资源互为支撑、相得益彰，医工交叉合作空间广阔。希望双方携手在脑机接口赛道上共谋新发展，在科技创新浪潮中走在前、作示范。 座谈会上，于文龙从专家队伍、科研项目、标准建设、未来规划等方面介绍了研究院的基本情况。电子与光学工程学院、柔性电子（未来技术）学院院长余林蔚从研究背景、研究内容、特色创新等方面汇报了南邮"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/c9/5b/a79c57fe4e16a57a56079d548cf5/12bd79f1-0488-4eac-9e47-24869d53bedc.png": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/c9/5b/a79c57fe4e16a57a56079d548cf5/12bd79f1-0488-4eac-9e47-24869d53bedc.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0707/c53a306174/page.htm"
       ],
       "section_ids": [
         "www_news"
