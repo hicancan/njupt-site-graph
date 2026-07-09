@@ -1,28 +1,28 @@
 {
   "site_id": "bwc",
-  "generated_at": "2026-07-02T08:41:43.819144+00:00",
+  "generated_at": "2026-07-09T14:28:13.717981+00:00",
   "totals": {
     "sections": 152,
     "nav_nodes": 15,
     "homepage_modules": 0,
     "list_pages": 127,
-    "detail_pages": 1404,
+    "detail_pages": 1405,
     "low_content_detail_pages": 102,
     "attachments": 158,
     "external_links": 43,
     "edges": 277,
-    "url_outcomes": 3684
+    "url_outcomes": 3688
   },
   "outcomes": {
     "attachment_metadata_only": 176,
-    "crawled_detail_ok": 1277,
+    "crawled_detail_ok": 1278,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 127,
     "cross_domain_article_link_recorded": 2,
     "external_link_recorded": 34,
     "external_policy_link_recorded": 5,
     "homepage_link_recorded": 1,
-    "inline_image_recorded": 2053,
+    "inline_image_recorded": 2056,
     "inline_link_recorded": 8
   },
   "errors": [],
@@ -32,12 +32,12 @@
     "attachment_policy": "metadata_only",
     "external_link_policy": "record_only",
     "coverage_status": "complete",
+    "evidence_source": "full_crawl",
     "audit_evidence_ref": "../reports/audit_evidence.md",
+    "audit_evidence_json_ref": "../reports/audit_evidence.json",
     "pagination_terminal_verified": true,
     "unknown_url_count": 0,
-    "excluded_url_count": 0,
-    "evidence_source": "full_crawl",
-    "audit_evidence_json_ref": "../reports/audit_evidence.json"
+    "excluded_url_count": 0
   },
   "url_outcomes": {
     "https://bwc.njupt.edu.cn/": {
@@ -68091,6 +68091,57 @@
       "section_ids": [
         "bwc_direct_detail_links"
       ]
+    },
+    "https://bwc.njupt.edu.cn/2026/0709/c510a306277/page.htm": {
+      "url": "https://bwc.njupt.edu.cn/2026/0709/c510a306277/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "南京邮电大学开展2026年暑期放假前安全联合大检查"
+      ],
+      "sources": [
+        "https://bwc.njupt.edu.cn/"
+      ],
+      "section_ids": [
+        "bwc_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://bwc.njupt.edu.cn/_upload/article/images/02/76/3f138a4a4a318d54ed5dac2d8bfa/6a9df8b9-9b4c-4361-b8eb-dca0ca87e9e1.jpg": {
+      "url": "https://bwc.njupt.edu.cn/_upload/article/images/02/76/3f138a4a4a318d54ed5dac2d8bfa/6a9df8b9-9b4c-4361-b8eb-dca0ca87e9e1.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://bwc.njupt.edu.cn/2026/0709/c510a306277/page.htm"
+      ],
+      "section_ids": [
+        "bwc_direct_detail_links"
+      ]
+    },
+    "https://bwc.njupt.edu.cn/_upload/article/images/02/76/3f138a4a4a318d54ed5dac2d8bfa/a0f282a1-43d7-4c15-b6d4-cd1899b9a7b4.jpg": {
+      "url": "https://bwc.njupt.edu.cn/_upload/article/images/02/76/3f138a4a4a318d54ed5dac2d8bfa/a0f282a1-43d7-4c15-b6d4-cd1899b9a7b4.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://bwc.njupt.edu.cn/2026/0709/c510a306277/page.htm"
+      ],
+      "section_ids": [
+        "bwc_direct_detail_links"
+      ]
+    },
+    "https://bwc.njupt.edu.cn/_upload/article/images/02/76/3f138a4a4a318d54ed5dac2d8bfa/9e06d8aa-5eb3-4935-82fe-5f1fe6837160.jpg": {
+      "url": "https://bwc.njupt.edu.cn/_upload/article/images/02/76/3f138a4a4a318d54ed5dac2d8bfa/9e06d8aa-5eb3-4935-82fe-5f1fe6837160.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://bwc.njupt.edu.cn/2026/0709/c510a306277/page.htm"
+      ],
+      "section_ids": [
+        "bwc_direct_detail_links"
+      ]
     }
   },
   "coverage": {
@@ -69365,10 +69416,10 @@
     "exclusions": []
   },
   "coverage_status": "complete",
+  "evidence_source": "full_crawl",
   "audit_evidence_ref": "../reports/audit_evidence.md",
+  "audit_evidence_json_ref": "../reports/audit_evidence.json",
   "pagination_terminal_verified": true,
   "unknown_url_count": 0,
-  "excluded_url_count": 0,
-  "evidence_source": "full_crawl",
-  "audit_evidence_json_ref": "../reports/audit_evidence.json"
+  "excluded_url_count": 0
 }
