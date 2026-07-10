@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-08T13:25:29.594425+00:00",
+  "generated_at": "2026-07-10T13:52:28.611632+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -759,7 +759,21 @@
       "position": 66
     },
     {
-      "node_id": "2ae73f9ec94bf0e78398",
+      "node_id": "c928384107c626b63579",
+      "site_id": "www",
+      "label": "2026.07.10 美国青少年江苏行代表团来南邮交流访问",
+      "url": "https://www.njupt.edu.cn/2026/0710/c53a306384/page.htm",
+      "nav_path": [
+        "2026.07.10 美国青少年江苏行代表团来南邮交流访问"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 67
+    },
+    {
+      "node_id": "7c21a291b317ab51b6dc",
       "site_id": "www",
       "label": "2026.07.08 南邮主办2026年“悦读江苏”智造栖霞·知行华夏主题实践活动",
       "url": "https://www.njupt.edu.cn/2026/0708/c53a306232/page.htm",
@@ -770,10 +784,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 67
+      "position": 68
     },
     {
-      "node_id": "1533c314d1da9dc95f30",
+      "node_id": "0b398329aa485e3b8c36",
       "site_id": "www",
       "label": "2026.07.07 南邮召开“两优一先”表彰大会",
       "url": "https://www.njupt.edu.cn/2026/0707/c53a306178/page.htm",
@@ -784,10 +798,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 68
+      "position": 69
     },
     {
-      "node_id": "bea260708e6a6f6ce6c8",
+      "node_id": "278c1f714a7ae9e35207",
       "site_id": "www",
       "label": "2026.07.07 南邮与江苏脑机接口研究院举行交流座谈会",
       "url": "https://www.njupt.edu.cn/2026/0707/c53a306174/page.htm",
@@ -798,29 +812,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 69
+      "position": 70
     },
     {
-      "node_id": "7d39b269ff5b7eff77bc",
+      "node_id": "b10a4901f8bee976a536",
       "site_id": "www",
       "label": "2026.07.06 南邮Apollo3D 联合战队获 2026 RoboCup 机器人世界杯冠军",
       "url": "https://www.njupt.edu.cn/2026/0706/c53a306058/page.htm",
       "nav_path": [
         "2026.07.06 南邮Apollo3D 联合战队获 2026 RoboCup 机器人世界杯冠军"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 70
-    },
-    {
-      "node_id": "ba316a32c6c384c1cdd7",
-      "site_id": "www",
-      "label": "2026.07.06 南邮参赛项目获中国国际大学生创新大赛双金",
-      "url": "https://www.njupt.edu.cn/2026/0707/c53a306154/page.htm",
-      "nav_path": [
-        "2026.07.06 南邮参赛项目获中国国际大学生创新大赛双金"
       ],
       "depth": 1,
       "target_type": "detail_article_page",

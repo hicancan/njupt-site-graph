@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-08T13:25:26.794249+00:00",
+  "generated_at": "2026-07-10T13:52:26.065988+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 133,
     "homepage_modules": 0,
     "list_pages": 161,
-    "detail_pages": 2250,
+    "detail_pages": 2251,
     "low_content_detail_pages": 96,
     "attachments": 420,
     "external_links": 139,
     "edges": 11554,
-    "url_outcomes": 7846
+    "url_outcomes": 7849
   },
   "outcomes": {
     "attachment_metadata_only": 412,
-    "crawled_detail_ok": 2250,
+    "crawled_detail_ok": 2251,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 161,
     "cross_domain_article_link_recorded": 14,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 6,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 58,
-    "inline_image_recorded": 4825,
+    "inline_image_recorded": 4827,
     "inline_link_recorded": 2,
     "section_list_page_recorded": 5,
     "site_entry_alias_recorded": 1
@@ -32442,7 +32442,8 @@
         "2026 06.25 叶美兰校长率队赴江西省教育厅、教育考试院调研交流 6月24日，南京邮电大学校长叶美兰带队赴江西省教育厅、教育考试院开展专题交流，共商省校招生协作与产教融合长效发展事宜。江西省委教育工委书记吴永明，省教育考试院党委书记刘彪文及相关处室负责人参加座谈，南邮对外联络处、产业合作处、物联网学院负责人一同参加。调研交流现场 会上，双方围绕校院招生联动、全方位深化省校合作开展深入研讨。刘彪文介绍江西省教育考试院机构职能与服务理念，分析江西生源特征与高考竞争形势，分享该院为争取优质高校招生计划推出的系列创新举措；针对下一阶段招生宣传工作，提出覆盖时间、内容、队伍三大维度的“三三制”工作构想，建议搭建地市“高考直通站”宣传平台，持续深化校地产学研协同。 叶美兰感谢江西省教育厅及考试院对南邮招生工作的支持。她指出，南邮作为国家“双一流”建设高校，已形成以电子信息为特色、多学科交融的发展格局，在大数据、人工智能、物联网、集成电路等前沿领域拥有显著科研优势，为国家和区域经济发展持续输送高素质人才。南邮毕业生以“基础厚、宽口径、创新强”著称，深造率超50%，就业质量位居全省前列，广受用人单位好评。她说，江西生源优质，南邮高度重视在赣招生，热忱欢迎优秀"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -33328,7 +33329,8 @@
         "2026 06.13 南邮举办“数智时代图书出版和高校馆配新生态”研讨会 6月12日，“数智时代图书出版和高校馆配新生态”主题研讨会在南京邮电大学仙林校区举办。江苏省高等学校图书情报工作委员会副秘书长罗钧，省图工委副主任李爱国、何琳、孟庆杰，省内高校图书馆、公共图书馆及其他兄弟单位的100余位图书馆行业专家参会，聚焦专业学术图书智能出版、图书馆纸电资源建设、高校馆配新生态服务模式等议题进行交流。会议现场 南邮副校长胡纵宇致辞，强调以开放的心态、前瞻的视野，推动知识出版服务与图书馆数智化转型的深度融合，南邮图书馆要依托学校学科优势，持续深化智慧图书馆建设，进一步打通数据、共享资源、协同创新，携手构建图书出版与高校馆配的新生态。罗钧指出，在高校图书馆面临文献资源建设经费紧张的情况下，“纸电同采”模式应运而生，并成为图书馆纸质文献与数字资源协同建设的重要途径，要通过馆、社、店三方携手合作，充分发挥纸电同采在图书馆文献资源建设的作用。 主旨分享环节，与会行业专家、出版机构代表、院校业务骨干围绕纸电融合建设难点、实施路径、创新实践展开多层次、专业化研讨。东南大学图书馆馆长李爱国提出，高校图书馆馆藏建设须顺应开放科学和人工智能大背景, 突破传统“藏”与“用”边界"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -104251,6 +104253,47 @@
       "labels": [],
       "sources": [
         "https://www.njupt.edu.cn/2026/0708/c53a306232/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/2026/0710/c53a306384/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0710/c53a306384/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.07.10 美国青少年江苏行代表团来南邮交流访问",
+        "2026 07.10 美国青少年江苏行代表团来南邮交流访问 7月8日，美国路易斯安那州门罗市青少年代表团到南京邮电大学开展研学交流活动。南邮副校长刘青山接待代表团一行并致欢迎辞。 刘青山对代表团到访表示热烈欢迎，简要介绍了南邮的办学历史、学科特色与国际交流成果，希望本次活动能成为中美青少年文化交流的桥梁，让美国青少年朋友们沉浸式感受中华文化魅力与中国通信科技的发展成就。 活动期间，南邮学生龙狮团带来了精彩的传统中华狮舞表演，铿锵的鼓点、灵动的狮步赢得现场阵阵掌声。表演结束后，龙狮团成员与美国青少年展开互动，示范教授基础舞狮动作，介绍讲解龙狮文化的历史渊源，让大家近距离体验中华传统民俗文化的独特魅力。 代表团依次参观了南邮邮政馆与通信馆，通过珍贵的历史实物、丰富的图文资料与沉浸式互动展项，系统了解中国通信与邮政行业的百年发展历程，深入认识了南邮在通信、邮政领域人才培养与科技创新中作出的重要贡献。参观南邮邮政馆与通信馆 此次研学交流活动是南邮积极拓展中美青少年科技文化交流的生动实践。学校将持续开展高水平中外青年交流活动，搭建互学互鉴的友好桥梁，助力国际化育人与对外传播工作走深走实。（撰稿：朱治亚、李巍 初审：张舒 编辑：王存宏 审核：张"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/ee/64/623d385d4e76906db5c9b5434490/158ea1c8-9bb9-4013-8d08-158720ee6901.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/ee/64/623d385d4e76906db5c9b5434490/158ea1c8-9bb9-4013-8d08-158720ee6901.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0710/c53a306384/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/ee/64/623d385d4e76906db5c9b5434490/ad3b727b-babb-44b5-bae6-0e9dc7b57018.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/ee/64/623d385d4e76906db5c9b5434490/ad3b727b-babb-44b5-bae6-0e9dc7b57018.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0710/c53a306384/page.htm"
       ],
       "section_ids": [
         "www_news"

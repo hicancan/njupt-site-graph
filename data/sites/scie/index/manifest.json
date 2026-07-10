@@ -1,26 +1,26 @@
 {
   "site_id": "scie",
-  "generated_at": "2026-07-07T01:56:36.399025+00:00",
+  "generated_at": "2026-07-10T13:56:50.733363+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 57,
     "homepage_modules": 2,
     "list_pages": 40,
-    "detail_pages": 547,
+    "detail_pages": 548,
     "low_content_detail_pages": 2,
     "attachments": 0,
     "external_links": 8,
     "edges": 654,
-    "url_outcomes": 1997
+    "url_outcomes": 1999
   },
   "outcomes": {
-    "crawled_detail_ok": 546,
+    "crawled_detail_ok": 547,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 40,
     "cross_domain_article_link_recorded": 1,
     "external_link_recorded": 7,
     "homepage_link_recorded": 72,
-    "inline_image_recorded": 1330
+    "inline_image_recorded": 1331
   },
   "errors": [],
   "quality": {
@@ -874,7 +874,8 @@
       ],
       "sources": [
         "https://scie.njupt.edu.cn/",
-        "https://scie.njupt.edu.cn/2889/list.htm"
+        "https://scie.njupt.edu.cn/2889/list.htm",
+        "https://scie.njupt.edu.cn/2889/list2.htm"
       ],
       "section_ids": [
         "scie_news"
@@ -2292,7 +2293,8 @@
         "通信与信息工程学院部署启动树立和践行正确政绩观学习教育"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/2889/list2.htm"
+        "https://scie.njupt.edu.cn/2889/list2.htm",
+        "https://scie.njupt.edu.cn/2889/list3.htm"
       ],
       "section_ids": [
         "scie_news"
@@ -25892,7 +25894,8 @@
       "labels": [
         "南京航空航天大学电子信息工程学院来通信学院开展支部结对共建活动",
         "01 2026-07 南京航空航天大学电子信息工程学院来通信学院开展支部结对共建活动 为充分发挥党支部战斗堡垒作用和党员先锋模范作用，搭建基层党支部交流平台，促进科研工作开展，2026年6月30日下午，南京航空航天电子信息工程学院副研究员冯斯梦率队来学院调研交流，开展研究生党支部结对共建活动。南京航空航天大学电子信息工程学院天地一体频谱认知智能实验室研究生党支部书记王润禾及支部党员学生代表，学院党委副书记、副院长王小露，教师代表、辅导员代表、信息与通信工程博士研究生第2党支部学生代表参加了活动。 通信学院副书记、副院长王小露对南京航空航天电子信息工程学院各位老师同学莅临通院开展研究生党支部结对共建表示欢迎，并简要介绍了学院历史、党建成效、学科发展、人才培养等，希望双方能够在学生党建方面开展更加全面的交流与合作。 齐霈霖同学介绍了南京航空航天大学电磁频谱空间认知动态系统工信部重点实验室的基本情况，分享了实验室围绕“一核、两翼、三航”取得的建设成果。 王润禾介绍了南京航空航天大学电子信息工程学院天地一体频谱认知智能实验室研究生党支部，分享近年来在党建工作方面创新的“一四四”工作法以及在全国高校“百个研究生样板党支部”建设过程中的宝贵经验。 高周景明介绍了南京邮电",
-        "01 2026-07 南京航空航天大学电子信息工程学院来通信学院开展支部结对共建活动"
+        "01 2026-07 南京航空航天大学电子信息工程学院来通信学院开展支部结对共建活动",
+        "2026-07-01 南京航空航天大学电子信息工程学院来通信学院开展支部结对共建活动"
       ],
       "sources": [
         "https://scie.njupt.edu.cn/",
@@ -26097,6 +26100,35 @@
         "https://scie.njupt.edu.cn/"
       ],
       "section_ids": []
+    },
+    "https://scie.njupt.edu.cn/2026/0710/c2889a306374/page.htm": {
+      "url": "https://scie.njupt.edu.cn/2026/0710/c2889a306374/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "通信与信息工程学院党委书记徐雷讲授树立和践行正确政绩观学习教育专题党课",
+        "10 2026-07 通信与信息工程学院党委书记徐雷讲授树立和践行正确政绩观学习教育专题党课"
+      ],
+      "sources": [
+        "https://scie.njupt.edu.cn/",
+        "https://scie.njupt.edu.cn/2889/list.htm"
+      ],
+      "section_ids": [
+        "scie_news"
+      ],
+      "status_code": 200
+    },
+    "https://scie.njupt.edu.cn/_upload/article/images/86/1f/47af81934d41a19c50091ba3bdc8/c58fa372-a48b-459f-ac17-2a796bdb4e7b.jpg": {
+      "url": "https://scie.njupt.edu.cn/_upload/article/images/86/1f/47af81934d41a19c50091ba3bdc8/c58fa372-a48b-459f-ac17-2a796bdb4e7b.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://scie.njupt.edu.cn/2026/0710/c2889a306374/page.htm"
+      ],
+      "section_ids": [
+        "scie_news"
+      ]
     }
   },
   "coverage": {
