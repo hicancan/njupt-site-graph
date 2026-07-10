@@ -1,7 +1,7 @@
 {
   "version": "sitegraph-coverage-v1",
   "site_id": "lib",
-  "generated_at": "2026-07-03T08:46:23.454909+00:00",
+  "generated_at": "2026-07-10T08:58:47.844572+00:00",
   "crawl_mode": "incremental",
   "evidence_source": "full_crawl",
   "coverage_status": "complete",
@@ -25,7 +25,7 @@
   },
   "pages": {
     "list_pages": 117,
-    "detail_pages": 1145
+    "detail_pages": 1146
   },
   "attachments": {
     "policy": "metadata_only",
