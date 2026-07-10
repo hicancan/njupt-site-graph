@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-10T13:52:28.611632+00:00",
+  "generated_at": "2026-07-10T19:13:18.192311+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -899,12 +899,12 @@
       "position": 76
     },
     {
-      "node_id": "db943df06a8ce29588f0",
+      "node_id": "0ead9e20f61677811e6d",
       "site_id": "www",
-      "label": "【新华日报】以人为本推动高质量充分就业",
-      "url": "https://www.njupt.edu.cn/2026/0630/c17125a305623/page.htm",
+      "label": "【中国青年报】“雷锋红”遇上“白鸽绿”",
+      "url": "https://www.njupt.edu.cn/2026/0709/c17125a306294/page.htm",
       "nav_path": [
-        "【新华日报】以人为本推动高质量充分就业"
+        "【中国青年报】“雷锋红”遇上“白鸽绿”"
       ],
       "depth": 1,
       "target_type": "detail_article_page",
@@ -913,12 +913,12 @@
       "position": 77
     },
     {
-      "node_id": "a6e3805e96d7bd524c89",
+      "node_id": "c17ef69372a7000b99bf",
       "site_id": "www",
-      "label": "【江苏教育新闻】我省首个量子科技学院在南邮成立",
-      "url": "https://www.njupt.edu.cn/2026/0619/c17125a305189/page.htm",
+      "label": "【新华日报】以人为本推动高质量充分就业",
+      "url": "https://www.njupt.edu.cn/2026/0630/c17125a305623/page.htm",
       "nav_path": [
-        "【江苏教育新闻】我省首个量子科技学院在南邮成立"
+        "【新华日报】以人为本推动高质量充分就业"
       ],
       "depth": 1,
       "target_type": "detail_article_page",

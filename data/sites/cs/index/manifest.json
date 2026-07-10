@@ -1,6 +1,6 @@
 {
   "site_id": "cs",
-  "generated_at": "2026-07-07T09:23:28.412155+00:00",
+  "generated_at": "2026-07-10T19:17:21.547001+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 52,
@@ -11,7 +11,7 @@
     "attachments": 9,
     "external_links": 97,
     "edges": 715,
-    "url_outcomes": 2119
+    "url_outcomes": 2120
   },
   "outcomes": {
     "attachment_metadata_only": 9,
@@ -22,7 +22,7 @@
     "external_link_recorded": 63,
     "external_policy_link_recorded": 2,
     "external_system_link_recorded": 1,
-    "homepage_link_recorded": 101,
+    "homepage_link_recorded": 102,
     "inline_image_recorded": 1390,
     "inline_link_recorded": 27
   },
@@ -27421,6 +27421,18 @@
       "outcome": "homepage_link_recorded",
       "labels": [
         "2026.07.02 学院党委理论学习中心组集中收看庆祝中国共产党成立105周年大会直播并开展专题研讨 7月1日，庆祝中国共产党成立105周年大会在北京人民大会堂隆重举行。学院党委理论学习中心组全体成员齐聚学科楼327会议室，集中收看大会直播实况，共同见证庄严历史时刻。学院党委书记、中心组组长尹志丽主持本次集中学习，全程组织收看并在直播结束后主持专题研讨，并作总结讲话。观看过程中，党委理论学习中心组成员神情专注、认真记录，全程肃立聆听习近平总书记重要讲话，深刻感悟百年大党砥砺奋进的光辉历程与伟大成就，心中备受鼓舞、倍感振奋。直播结束后，中心组随即开展集中研讨交流。各位成员结合分管党建、学科建设、科研创新、学生管理等工作逐一发言，立足学院学科特色谈认识、谈思路、谈举措。学院党委书记尹志丽在重点发言时指出，将以讲话精神为根本遵循，扛起管党治党、办学治院主体责任，弘扬伟大建党精神，抓实基层党建提质，建强“双带头人”教师党支部，推动思政教育与专业教学深度融合，夯实立德树人根基。立足学院“十五五”发展关键期，坚持党建引领事业发展，把讲话部署转化为学科升级、人才引育、科研创新、产教融合的实干举措。带领全院党员师生锚定规划目标，凝聚干事合力，以高质量党建护航学院内涵提升，用心培育复兴生力军，奋力书写学"
+      ],
+      "sources": [
+        "https://cs.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://cs.njupt.edu.cn/2026/0605/c18744a303527/page.htm": {
+      "url": "https://cs.njupt.edu.cn/2026/0605/c18744a303527/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "homepage_link_recorded",
+      "labels": [
+        "党政联席会议信息2026年第12期"
       ],
       "sources": [
         "https://cs.njupt.edu.cn/"

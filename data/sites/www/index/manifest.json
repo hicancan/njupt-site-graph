@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-10T13:52:26.065988+00:00",
+  "generated_at": "2026-07-10T19:13:15.043657+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 133,
@@ -11,7 +11,7 @@
     "attachments": 420,
     "external_links": 139,
     "edges": 11554,
-    "url_outcomes": 7849
+    "url_outcomes": 7850
   },
   "outcomes": {
     "attachment_metadata_only": 412,
@@ -22,7 +22,7 @@
     "external_link_recorded": 109,
     "external_policy_link_recorded": 6,
     "external_system_link_recorded": 2,
-    "homepage_link_recorded": 58,
+    "homepage_link_recorded": 59,
     "inline_image_recorded": 4827,
     "inline_link_recorded": 2,
     "section_list_page_recorded": 5,
@@ -104298,6 +104298,18 @@
       "section_ids": [
         "www_news"
       ]
+    },
+    "https://www.njupt.edu.cn/2026/0709/c17125a306294/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0709/c17125a306294/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "homepage_link_recorded",
+      "labels": [
+        "【中国青年报】“雷锋红”遇上“白鸽绿”"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
     }
   },
   "coverage": {
