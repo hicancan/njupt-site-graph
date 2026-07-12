@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-10T19:13:15.043657+00:00",
+  "generated_at": "2026-07-12T12:50:02.248155+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 133,
     "homepage_modules": 0,
     "list_pages": 161,
-    "detail_pages": 2251,
+    "detail_pages": 2252,
     "low_content_detail_pages": 96,
     "attachments": 420,
     "external_links": 139,
     "edges": 11554,
-    "url_outcomes": 7850
+    "url_outcomes": 7855
   },
   "outcomes": {
     "attachment_metadata_only": 412,
-    "crawled_detail_ok": 2251,
+    "crawled_detail_ok": 2252,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 161,
     "cross_domain_article_link_recorded": 14,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 6,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 59,
-    "inline_image_recorded": 4827,
+    "inline_image_recorded": 4831,
     "inline_link_recorded": 2,
     "section_list_page_recorded": 5,
     "site_entry_alias_recorded": 1
@@ -1641,7 +1641,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/",
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -33302,7 +33303,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/53/list2.htm",
-        "https://www.njupt.edu.cn/"
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -104310,6 +104312,73 @@
         "https://www.njupt.edu.cn/"
       ],
       "section_ids": []
+    },
+    "https://www.njupt.edu.cn/2026/0712/c53a306477/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0712/c53a306477/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.07.12 南邮王琴教授团队在实用化量子密钥分发网络方面取得系列重要研究进展",
+        "南邮王琴教授团队在实用化量子密钥分发网络方面取得系列重要研究进展",
+        "2026 07.12 南邮王琴教授团队在实用化量子密钥分发网络方面取得系列重要研究进展",
+        "2026 07.12 南邮王琴教授团队在实用化量子密钥分发网络方面取得系列重要研究进展 近日，南京邮电大学通信与信息工程学院王琴教授团队在实用化量子密钥分发网络方面取得系列重要研究进展，在国际知名期刊发表2篇重要学术论文。 论文“A Directly Modulated Laser Platform for High-Dimensional Quantum Key Distribution”发表于光学领域国际知名期刊《Photonics Research》（DOI：10.1364/PRJ.588031），南邮通信与信息工程学院量子信息技术研究所周阳博士生与周星宇副教授为论文的共同第一作者，王琴教授为通讯作者，北京量子信息科学研究院袁之良研究员团队对该工作有重要贡献。论文“Reference-frame-independent quantum key distribution network with directly-modulated sources”发表于物理学领域知名学术期刊《Physical Review A》（DOI：10.1103/szbp-b3ny）上，南邮通信与信息工程学院量子信息技术研究所周星宇副教授与吴淑帆硕士生为论文共同第一作者，王琴教授为通讯"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/41/36/6d286e38457fb90930b2cfaf703f/d5536ee7-9b65-4897-8e2f-b78c64c35991.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/41/36/6d286e38457fb90930b2cfaf703f/d5536ee7-9b65-4897-8e2f-b78c64c35991.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0712/c53a306477/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/41/36/6d286e38457fb90930b2cfaf703f/23327d88-a46a-4374-9256-4d122dee8d5b.png": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/41/36/6d286e38457fb90930b2cfaf703f/23327d88-a46a-4374-9256-4d122dee8d5b.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0712/c53a306477/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/41/36/6d286e38457fb90930b2cfaf703f/6d8d3a26-539d-44e4-956b-1188e0fcd554.png": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/41/36/6d286e38457fb90930b2cfaf703f/6d8d3a26-539d-44e4-956b-1188e0fcd554.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0712/c53a306477/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/41/36/6d286e38457fb90930b2cfaf703f/938e5a6c-0a23-44a7-aa49-700813446490.png": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/41/36/6d286e38457fb90930b2cfaf703f/938e5a6c-0a23-44a7-aa49-700813446490.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0712/c53a306477/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
     }
   },
   "coverage": {

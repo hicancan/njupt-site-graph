@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-10T19:13:18.192311+00:00",
+  "generated_at": "2026-07-12T12:50:06.355681+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -759,7 +759,21 @@
       "position": 66
     },
     {
-      "node_id": "c928384107c626b63579",
+      "node_id": "61986fdd316d11c3f57b",
+      "site_id": "www",
+      "label": "2026.07.12 南邮王琴教授团队在实用化量子密钥分发网络方面取得系列重要研究进展",
+      "url": "https://www.njupt.edu.cn/2026/0712/c53a306477/page.htm",
+      "nav_path": [
+        "2026.07.12 南邮王琴教授团队在实用化量子密钥分发网络方面取得系列重要研究进展"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 67
+    },
+    {
+      "node_id": "8e2f6f96ac54b8548a02",
       "site_id": "www",
       "label": "2026.07.10 美国青少年江苏行代表团来南邮交流访问",
       "url": "https://www.njupt.edu.cn/2026/0710/c53a306384/page.htm",
@@ -770,10 +784,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 67
+      "position": 68
     },
     {
-      "node_id": "7c21a291b317ab51b6dc",
+      "node_id": "4cd8b6b7c5b0b996604d",
       "site_id": "www",
       "label": "2026.07.08 南邮主办2026年“悦读江苏”智造栖霞·知行华夏主题实践活动",
       "url": "https://www.njupt.edu.cn/2026/0708/c53a306232/page.htm",
@@ -784,10 +798,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 68
+      "position": 69
     },
     {
-      "node_id": "0b398329aa485e3b8c36",
+      "node_id": "c630e87b68a7b11fea18",
       "site_id": "www",
       "label": "2026.07.07 南邮召开“两优一先”表彰大会",
       "url": "https://www.njupt.edu.cn/2026/0707/c53a306178/page.htm",
@@ -798,29 +812,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 69
+      "position": 70
     },
     {
-      "node_id": "278c1f714a7ae9e35207",
+      "node_id": "618538335087be7c530b",
       "site_id": "www",
       "label": "2026.07.07 南邮与江苏脑机接口研究院举行交流座谈会",
       "url": "https://www.njupt.edu.cn/2026/0707/c53a306174/page.htm",
       "nav_path": [
         "2026.07.07 南邮与江苏脑机接口研究院举行交流座谈会"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 70
-    },
-    {
-      "node_id": "b10a4901f8bee976a536",
-      "site_id": "www",
-      "label": "2026.07.06 南邮Apollo3D 联合战队获 2026 RoboCup 机器人世界杯冠军",
-      "url": "https://www.njupt.edu.cn/2026/0706/c53a306058/page.htm",
-      "nav_path": [
-        "2026.07.06 南邮Apollo3D 联合战队获 2026 RoboCup 机器人世界杯冠军"
       ],
       "depth": 1,
       "target_type": "detail_article_page",
@@ -1235,7 +1235,21 @@
       "position": 100
     },
     {
-      "node_id": "255e47a43d40895d05e2",
+      "node_id": "59f576230cf82aef82ec",
+      "site_id": "www",
+      "label": "南邮王琴教授团队在实用化量子密钥分发网络方面取得系列重要研究进展",
+      "url": "https://www.njupt.edu.cn/2026/0712/c53a306477/page.htm",
+      "nav_path": [
+        "南邮王琴教授团队在实用化量子密钥分发网络方面取得系列重要研究进展"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 101
+    },
+    {
+      "node_id": "af65c28043bd9315f6a4",
       "site_id": "www",
       "label": "Nature Nanotechnology刊发汪联辉/丁显光教授团队在生物囊泡肿瘤免疫治疗领域进展",
       "url": "https://www.njupt.edu.cn/2026/0620/c53a305196/page.htm",
@@ -1246,10 +1260,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 101
+      "position": 102
     },
     {
-      "node_id": "cd9cbad2d02b233c4f19",
+      "node_id": "0f139439dcc85112954d",
       "site_id": "www",
       "label": "南邮教师获省高校青年教师教学竞赛暨全国高校青年教师教学竞赛选拔赛工科组第一名",
       "url": "https://www.njupt.edu.cn/2026/0617/c53a305043/page.htm",
@@ -1260,29 +1274,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 102
+      "position": 103
     },
     {
-      "node_id": "ad056b06ad463118ed00",
+      "node_id": "e7517ebe6d83315788d4",
       "site_id": "www",
       "label": "《自然·化学》刊发柔性电子全国重点实验室张敬教授团队在有机铁电领域的最新研究进展",
       "url": "https://www.njupt.edu.cn/2026/0528/c53a302868/page.htm",
       "nav_path": [
         "《自然·化学》刊发柔性电子全国重点实验室张敬教授团队在有机铁电领域的最新研究进展"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 103
-    },
-    {
-      "node_id": "9e7a59e9acbaf423738c",
-      "site_id": "www",
-      "label": "南邮丁显光教授作为共同通讯作者在Cell发表高水平科技成果",
-      "url": "https://www.njupt.edu.cn/2026/0522/c53a302494/page.htm",
-      "nav_path": [
-        "南邮丁显光教授作为共同通讯作者在Cell发表高水平科技成果"
       ],
       "depth": 1,
       "target_type": "detail_article_page",
@@ -1305,7 +1305,21 @@
       "position": 105
     },
     {
-      "node_id": "b4880babab1e8c0c342e",
+      "node_id": "45df145faee5316da841",
+      "site_id": "www",
+      "label": "2026 07.12 南邮王琴教授团队在实用化量子密钥分发网络方面取得系列重要研究进展",
+      "url": "https://www.njupt.edu.cn/2026/0712/c53a306477/page.htm",
+      "nav_path": [
+        "2026 07.12 南邮王琴教授团队在实用化量子密钥分发网络方面取得系列重要研究进展"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 106
+    },
+    {
+      "node_id": "138530e320c5e227875f",
       "site_id": "www",
       "label": "2026 06.20 Nature Nanotechnology刊发汪联辉/丁显光教授团队在生物囊泡肿瘤免疫治疗领域进展",
       "url": "https://www.njupt.edu.cn/2026/0620/c53a305196/page.htm",
@@ -1316,10 +1330,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 106
+      "position": 107
     },
     {
-      "node_id": "3c3e41165d0fda0842ad",
+      "node_id": "ef04ff7452ddb389535c",
       "site_id": "www",
       "label": "2026 06.16 南邮教师获省高校青年教师教学竞赛暨全国高校青年教师教学竞赛选拔赛工科组第一名",
       "url": "https://www.njupt.edu.cn/2026/0617/c53a305043/page.htm",
@@ -1330,29 +1344,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 107
+      "position": 108
     },
     {
-      "node_id": "a0387c2197d099d9bdf8",
+      "node_id": "bfa9ed7dc0738b0a3bd1",
       "site_id": "www",
       "label": "2026 05.28 《自然·化学》刊发柔性电子全国重点实验室张敬教授团队在有机铁电领域的最新研究进展",
       "url": "https://www.njupt.edu.cn/2026/0528/c53a302868/page.htm",
       "nav_path": [
         "2026 05.28 《自然·化学》刊发柔性电子全国重点实验室张敬教授团队在有机铁电领域的最新研究进展"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 108
-    },
-    {
-      "node_id": "b1dc719a2fccbcfc153f",
-      "site_id": "www",
-      "label": "2026 05.22 南邮丁显光教授作为共同通讯作者在Cell发表高水平科技成果",
-      "url": "https://www.njupt.edu.cn/2026/0522/c53a302494/page.htm",
-      "nav_path": [
-        "2026 05.22 南邮丁显光教授作为共同通讯作者在Cell发表高水平科技成果"
       ],
       "depth": 1,
       "target_type": "detail_article_page",
