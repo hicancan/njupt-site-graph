@@ -1,7 +1,7 @@
 {
   "version": "sitegraph-coverage-v1",
   "site_id": "scie",
-  "generated_at": "2026-07-11T12:52:36.883870+00:00",
+  "generated_at": "2026-07-13T08:47:15.280387+00:00",
   "crawl_mode": "incremental",
   "evidence_source": "full_crawl",
   "coverage_status": "complete",
@@ -19,7 +19,7 @@
   },
   "pages": {
     "list_pages": 40,
-    "detail_pages": 549
+    "detail_pages": 550
   },
   "attachments": {
     "policy": "metadata_only",
