@@ -1,6 +1,6 @@
 {
   "site_id": "cs",
-  "generated_at": "2026-06-08T05:56:38.528963+00:00",
+  "generated_at": "2026-07-14T13:05:44.668240+00:00",
   "nodes": [
     {
       "node_id": "5050057cadc7f8d288e1",
@@ -535,7 +535,21 @@
       "position": 38
     },
     {
-      "node_id": "6d986624008bdeb247f8",
+      "node_id": "e730ad5a728a26588006",
+      "site_id": "cs",
+      "label": "招生就业",
+      "url": "https://cs.njupt.edu.cn/zsjy/list.htm",
+      "nav_path": [
+        "招生就业"
+      ],
+      "depth": 2,
+      "target_type": "section_list_page",
+      "same_domain": true,
+      "parent_id": "2b0f5c63bbf67401d9b4",
+      "position": 39
+    },
+    {
+      "node_id": "a14d323b49cf500a00af",
       "site_id": "cs",
       "label": "学生活动",
       "url": "https://cs.njupt.edu.cn/18785/list.htm",
@@ -546,10 +560,10 @@
       "target_type": "section_list_page",
       "same_domain": true,
       "parent_id": "2b0f5c63bbf67401d9b4",
-      "position": 39
+      "position": 40
     },
     {
-      "node_id": "ffdd8b7e931891cca893",
+      "node_id": "3af1814f32b39ad6cd91",
       "site_id": "cs",
       "label": "学子风采",
       "url": "https://cs.njupt.edu.cn/18786/list.htm",
@@ -560,10 +574,10 @@
       "target_type": "section_list_page",
       "same_domain": true,
       "parent_id": "2b0f5c63bbf67401d9b4",
-      "position": 40
+      "position": 41
     },
     {
-      "node_id": "5e95d2b6fae992feb250",
+      "node_id": "87761e49eca1f7fad166",
       "site_id": "cs",
       "label": "研究生管理",
       "url": "https://cs.njupt.edu.cn/18787/list.htm",
@@ -574,10 +588,10 @@
       "target_type": "section_list_page",
       "same_domain": true,
       "parent_id": "2b0f5c63bbf67401d9b4",
-      "position": 41
+      "position": 42
     },
     {
-      "node_id": "5a201508874ada1acf12",
+      "node_id": "3b1bc54fe2f9f41bafbe",
       "site_id": "cs",
       "label": "校友之家",
       "url": "https://cs.njupt.edu.cn/18734/list.htm",
@@ -588,10 +602,10 @@
       "target_type": "section_list_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 42
+      "position": 43
     },
     {
-      "node_id": "0d82e909b2b3e36989a6",
+      "node_id": "5fe5c8fa72b01ae242a4",
       "site_id": "cs",
       "label": "下载专区",
       "url": "https://cs.njupt.edu.cn/18735/list.htm",
@@ -602,10 +616,10 @@
       "target_type": "section_list_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 43
+      "position": 44
     },
     {
-      "node_id": "9bc4d722d74dc50d5e74",
+      "node_id": "313708bd680ebf446987",
       "site_id": "cs",
       "label": "院徽院训",
       "url": "https://cs.njupt.edu.cn/yhyx/list.htm",
@@ -615,11 +629,11 @@
       "depth": 2,
       "target_type": "section_list_page",
       "same_domain": true,
-      "parent_id": "0d82e909b2b3e36989a6",
-      "position": 44
+      "parent_id": "5fe5c8fa72b01ae242a4",
+      "position": 45
     },
     {
-      "node_id": "056fccde89aa74dc0ba7",
+      "node_id": "c28d2db0813c18477ae9",
       "site_id": "cs",
       "label": "学生工作",
       "url": "https://cs.njupt.edu.cn/18817/list.htm",
@@ -629,11 +643,11 @@
       "depth": 2,
       "target_type": "section_list_page",
       "same_domain": true,
-      "parent_id": "0d82e909b2b3e36989a6",
-      "position": 45
+      "parent_id": "5fe5c8fa72b01ae242a4",
+      "position": 46
     },
     {
-      "node_id": "65dcf6e48ee5840e14df",
+      "node_id": "1c612440a7d3044580c0",
       "site_id": "cs",
       "label": "本科教学",
       "url": "https://cs.njupt.edu.cn/18818/list.htm",
@@ -643,11 +657,11 @@
       "depth": 2,
       "target_type": "section_list_page",
       "same_domain": true,
-      "parent_id": "0d82e909b2b3e36989a6",
-      "position": 46
+      "parent_id": "5fe5c8fa72b01ae242a4",
+      "position": 47
     },
     {
-      "node_id": "b6751f7d18e7a68b388c",
+      "node_id": "a66227651b82c729a9b4",
       "site_id": "cs",
       "label": "研究生教学",
       "url": "https://cs.njupt.edu.cn/18819/list.htm",
@@ -657,11 +671,11 @@
       "depth": 2,
       "target_type": "section_list_page",
       "same_domain": true,
-      "parent_id": "0d82e909b2b3e36989a6",
-      "position": 47
+      "parent_id": "5fe5c8fa72b01ae242a4",
+      "position": 48
     },
     {
-      "node_id": "56a3e9118e097e1e72e8",
+      "node_id": "e0b7af2cc5aca2763c75",
       "site_id": "cs",
       "label": "科研工作",
       "url": "https://cs.njupt.edu.cn/18820/list.htm",
@@ -671,11 +685,11 @@
       "depth": 2,
       "target_type": "section_list_page",
       "same_domain": true,
-      "parent_id": "0d82e909b2b3e36989a6",
-      "position": 48
+      "parent_id": "5fe5c8fa72b01ae242a4",
+      "position": 49
     },
     {
-      "node_id": "e76a706467e11863d4bd",
+      "node_id": "c277f748b031ccba9add",
       "site_id": "cs",
       "label": "师资建设",
       "url": "https://cs.njupt.edu.cn/18821/list.htm",
@@ -685,11 +699,11 @@
       "depth": 2,
       "target_type": "section_list_page",
       "same_domain": true,
-      "parent_id": "0d82e909b2b3e36989a6",
-      "position": 49
+      "parent_id": "5fe5c8fa72b01ae242a4",
+      "position": 50
     },
     {
-      "node_id": "4940d3b406de84faa962",
+      "node_id": "c954d9ff0b9d3d9e7515",
       "site_id": "cs",
       "label": "实验室建设",
       "url": "https://cs.njupt.edu.cn/18822/list.htm",
@@ -699,11 +713,11 @@
       "depth": 2,
       "target_type": "section_list_page",
       "same_domain": true,
-      "parent_id": "0d82e909b2b3e36989a6",
-      "position": 50
+      "parent_id": "5fe5c8fa72b01ae242a4",
+      "position": 51
     },
     {
-      "node_id": "65fb5c02dd115e5e802c",
+      "node_id": "490c87cbda700a825304",
       "site_id": "cs",
       "label": "党员发展",
       "url": "https://cs.njupt.edu.cn/18823/list.htm",
@@ -713,11 +727,11 @@
       "depth": 2,
       "target_type": "section_list_page",
       "same_domain": true,
-      "parent_id": "0d82e909b2b3e36989a6",
-      "position": 51
+      "parent_id": "5fe5c8fa72b01ae242a4",
+      "position": 52
     },
     {
-      "node_id": "bc754f331743cc6b869c",
+      "node_id": "af486d9e59d11f67ccaf",
       "site_id": "cs",
       "label": "领导信箱",
       "url": "https://cs.njupt.edu.cn/18726/list.htm",
@@ -728,7 +742,7 @@
       "target_type": "section_list_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 52
+      "position": 53
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
   "site_id": "scie",
-  "generated_at": "2026-07-13T14:01:51.569243+00:00",
+  "generated_at": "2026-07-14T13:06:15.748265+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 57,
     "homepage_modules": 2,
     "list_pages": 40,
-    "detail_pages": 550,
+    "detail_pages": 552,
     "low_content_detail_pages": 2,
     "attachments": 0,
     "external_links": 8,
     "edges": 654,
-    "url_outcomes": 2013
+    "url_outcomes": 2018
   },
   "outcomes": {
-    "crawled_detail_ok": 549,
+    "crawled_detail_ok": 551,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 40,
     "cross_domain_article_link_recorded": 1,
     "external_link_recorded": 7,
     "homepage_link_recorded": 75,
-    "inline_image_recorded": 1340
+    "inline_image_recorded": 1343
   },
   "errors": [],
   "quality": {
@@ -800,7 +800,8 @@
       ],
       "sources": [
         "https://scie.njupt.edu.cn/",
-        "https://scie.njupt.edu.cn/2889/list.htm"
+        "https://scie.njupt.edu.cn/2889/list.htm",
+        "https://scie.njupt.edu.cn/2889/list2.htm"
       ],
       "section_ids": [
         "scie_news"
@@ -819,7 +820,8 @@
       ],
       "sources": [
         "https://scie.njupt.edu.cn/",
-        "https://scie.njupt.edu.cn/2889/list.htm"
+        "https://scie.njupt.edu.cn/2889/list.htm",
+        "https://scie.njupt.edu.cn/2889/list2.htm"
       ],
       "section_ids": [
         "scie_news"
@@ -2043,7 +2045,8 @@
         "通信与信息工程学院牵头仙林街道“党建+新一代信息通信产业”结对共建"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/2889/list2.htm"
+        "https://scie.njupt.edu.cn/2889/list2.htm",
+        "https://scie.njupt.edu.cn/2889/list3.htm"
       ],
       "section_ids": [
         "scie_news"
@@ -2082,7 +2085,8 @@
         "校工会莅临通信学院开展调研交流"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/2889/list2.htm"
+        "https://scie.njupt.edu.cn/2889/list2.htm",
+        "https://scie.njupt.edu.cn/2889/list3.htm"
       ],
       "section_ids": [
         "scie_news"
@@ -25978,7 +25982,8 @@
       "labels": [
         "喜报|通信与信息工程学院党委入选第五批“全国党建工作标杆院系”培育创建单位",
         "03 2026-07 喜报|通信与信息工程学院党委入选第五批“全国党建工作标杆院系”培育创建单位 近日，教育部公示了第五批新时代高校党建示范创建和质量创优工作遴选结果，南京邮电大学通信与信息工程学院党委入选第五批“全国党建工作标杆院系”培育创建单位。 通信与信息工程学院党委坚持以习近平新时代中国特色社会主义思想为指导，深入践行新时代党的建设总要求和党的组织路线，守正创新，构建了“党旗红”赋能“通信蓝”、“红”“蓝”融通的“12345”党建工作体系，着力打造具有5G特性的基层党委：以“高速率”决策建强“核心基站”，以“高可靠”运行筑牢“安全屏障”，以“广连接”聚力织密“协同网络”，以“低时延”响应畅通“组织信道”，以“智融合”赋能激活“发展引擎”，确保“五个到位”落地见效。 近年来，学院党委先后获评江苏高校先进基层党组织、江苏省党建工作标杆院系、江苏首批教育强省建设立德树人机制综合改革试点院系，荣获江苏高校党建工作创新奖一等奖和二等奖、党建工作创新案例、最佳党日活动等荣誉，学院教师党支部入选全国党建工作样板支部、教育部首批“双带头人”教师党支部书记“强国行”专项行动团队。师生中涌现全国高校黄大年式教师团队、全国优秀教师、全国优秀科技工作者、全国五一劳动奖章、江苏省工人先锋号、",
-        "03 2026-07 喜报|通信与信息工程学院党委入选第五批“全国党建工作标杆院系”培育创建单位"
+        "03 2026-07 喜报|通信与信息工程学院党委入选第五批“全国党建工作标杆院系”培育创建单位",
+        "2026-07-03 喜报|通信与信息工程学院党委入选第五批“全国党建工作标杆院系”培育创建单位"
       ],
       "sources": [
         "https://scie.njupt.edu.cn/",
@@ -26318,6 +26323,76 @@
         "https://scie.njupt.edu.cn/"
       ],
       "section_ids": []
+    },
+    "https://scie.njupt.edu.cn/2026/0714/c2889a306555/page.htm": {
+      "url": "https://scie.njupt.edu.cn/2026/0714/c2889a306555/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "南邮通信学院联合企业申报省重点实验室获批筹建",
+        "14 2026-07 南邮通信学院联合企业申报省重点实验室获批筹建 7月11日，江苏省委科技委员会办公室正式发布《关于开展企业主导省重点实验室建设工作的通知》，公布全省39家纳入筹建范围的企业主导省重点实验室名单。由南京邮电大学通信与信息工程学院联合中国移动紫金（江苏）创新研究院有限公司、江苏亨通光电股份有限公司共同申报的省重点实验室成功入选，标志着我院在校企协同创新、高能级科研平台建设、服务数字信息产业高质量发展方面再次取得重要突破。 本次企业主导省重点实验室建设，是江苏省强化企业创新主体地位、培育全国重点实验室后备力量、推动教育科技人才一体化发展的重要举措。全省共39家实验室纳入筹建，突出企业主导、产学研融合、产业科技创新、区域协同布局四大导向，覆盖六大新兴支柱产业与六大未来产业，实行“筹建—去筹—运行—评估”全周期管理，明确2年筹建期新增投入不低于5000万元、5年累计投入不低于1亿元并单独核算，着力产出原始创新与颠覆性创新成果。 南京邮电大学通信与信息工程学院依托信息与通信工程重点学科，在新一代移动通信、智能通信网络、通信信号处理、空天地一体化通信等方向积淀深厚，科研实力与成果转化能力位居国内前列。中国移动紫金（江苏）创新研究院有限公司"
+      ],
+      "sources": [
+        "https://scie.njupt.edu.cn/",
+        "https://scie.njupt.edu.cn/2889/list.htm"
+      ],
+      "section_ids": [
+        "scie_news"
+      ],
+      "status_code": 200
+    },
+    "https://scie.njupt.edu.cn/2026/0714/c2889a306554/page.htm": {
+      "url": "https://scie.njupt.edu.cn/2026/0714/c2889a306554/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "通信与信息工程学院成功入选江苏省科技创新智库建设序列",
+        "14 2026-07 通信与信息工程学院成功入选江苏省科技创新智库建设序列 近日，根据江苏省科学技术协会《关于公布2026年度江苏省科技智库计划项目立项项目的通知》（苏科协发〔2026〕79 号），学校依托通信与信息工程学院申报的科技创新智库成功入选，建设周期为5年。这是学院首次入选江苏省科技创新智库建设序列，标志着学院产学研和社会服务工作取得新突破。 江苏省科技智库基地是全省科技智库领域的最高平台项目，此次申报学院以“AI+通信”科技智库基地为品牌，系统梳理了近几年学院服务地方经济发展和各级政府决策成果，汇聚高校教授与产业行业专家组建智库专家团队，整合通信与信息工程学院、管理学院、物联网学院等多院系力量搭建跨学科研究队伍，充分彰显智库多元交叉的研究赛道与长效可持续发展布局。 学院将以基地建设为契机，充分发挥学院学科优势，借助全院研究平台和智力资源，形成更多高质量的智库成果，为江苏“十五五”高质量发展贡献应有力量。（撰稿：李荣志 审核：郭永安 徐雷）"
+      ],
+      "sources": [
+        "https://scie.njupt.edu.cn/",
+        "https://scie.njupt.edu.cn/2889/list.htm"
+      ],
+      "section_ids": [
+        "scie_news"
+      ],
+      "status_code": 200
+    },
+    "https://scie.njupt.edu.cn/_upload/article/images/ed/0c/8aca83704fdca1904355bac12e92/65a48875-0ed4-4921-93c7-1a6f3e761e97.png": {
+      "url": "https://scie.njupt.edu.cn/_upload/article/images/ed/0c/8aca83704fdca1904355bac12e92/65a48875-0ed4-4921-93c7-1a6f3e761e97.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://scie.njupt.edu.cn/2026/0714/c2889a306555/page.htm"
+      ],
+      "section_ids": [
+        "scie_news"
+      ]
+    },
+    "https://scie.njupt.edu.cn/_upload/article/images/ed/0c/8aca83704fdca1904355bac12e92/70034c2e-fd9f-4843-bfae-5fece8538f25.png": {
+      "url": "https://scie.njupt.edu.cn/_upload/article/images/ed/0c/8aca83704fdca1904355bac12e92/70034c2e-fd9f-4843-bfae-5fece8538f25.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://scie.njupt.edu.cn/2026/0714/c2889a306555/page.htm"
+      ],
+      "section_ids": [
+        "scie_news"
+      ]
+    },
+    "https://scie.njupt.edu.cn/_upload/article/images/84/63/391cf6d84a25b4d6216f4e209e19/b41df259-a8fb-40c4-8da4-c0e3f2be6846.png": {
+      "url": "https://scie.njupt.edu.cn/_upload/article/images/84/63/391cf6d84a25b4d6216f4e209e19/b41df259-a8fb-40c4-8da4-c0e3f2be6846.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://scie.njupt.edu.cn/2026/0714/c2889a306554/page.htm"
+      ],
+      "section_ids": [
+        "scie_news"
+      ]
     }
   },
   "coverage": {

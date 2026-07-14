@@ -1,17 +1,17 @@
 {
   "site_id": "cs",
-  "generated_at": "2026-07-13T08:46:22.641745+00:00",
+  "generated_at": "2026-07-14T13:05:37.320275+00:00",
   "totals": {
     "sections": 4,
-    "nav_nodes": 52,
+    "nav_nodes": 53,
     "homepage_modules": 1,
     "list_pages": 38,
     "detail_pages": 460,
     "low_content_detail_pages": 15,
     "attachments": 9,
     "external_links": 97,
-    "edges": 715,
-    "url_outcomes": 2124
+    "edges": 716,
+    "url_outcomes": 2125
   },
   "outcomes": {
     "attachment_metadata_only": 9,
@@ -22,7 +22,7 @@
     "external_link_recorded": 63,
     "external_policy_link_recorded": 2,
     "external_system_link_recorded": 1,
-    "homepage_link_recorded": 106,
+    "homepage_link_recorded": 107,
     "inline_image_recorded": 1390,
     "inline_link_recorded": 27
   },
@@ -1246,7 +1246,8 @@
       "target_type": "detail_article_page",
       "outcome": "homepage_link_recorded",
       "labels": [
-        "【CCTV-13】南邮黄海平教授解读“怎么设置密码更安全？” 新闻链接：https://www.njupt.edu.cn/2026/0329/c17125a298629/page.htm 2026-03-30"
+        "【CCTV-13】南邮黄海平教授解读“怎么设置密码更安全？” 新闻链接：https://www.njupt.edu.cn/2026/0329/c17125a298629/page.htm 2026-03-30",
+        "【CCTV-13】南邮黄海平教授解读“怎么设置密码更安全？” 新闻链接：https://www.njupt.edu.cn/2026/0329/c17125a298629/page.htm 你的密码，可能2秒就被破解！重要提醒→ 【CCTV-13】南邮黄海平教授解读“怎么设置密码更安全？”（央视新闻） 2026-03-30"
       ],
       "sources": [
         "https://cs.njupt.edu.cn/"
@@ -27481,6 +27482,18 @@
       "outcome": "homepage_link_recorded",
       "labels": [
         "党委会会议信息2026年第21期"
+      ],
+      "sources": [
+        "https://cs.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://cs.njupt.edu.cn/zsjy/list.htm": {
+      "url": "https://cs.njupt.edu.cn/zsjy/list.htm",
+      "target_type": "section_list_page",
+      "outcome": "homepage_link_recorded",
+      "labels": [
+        "招生就业"
       ],
       "sources": [
         "https://cs.njupt.edu.cn/"
