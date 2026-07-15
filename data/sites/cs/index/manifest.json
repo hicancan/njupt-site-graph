@@ -1,21 +1,21 @@
 {
   "site_id": "cs",
-  "generated_at": "2026-07-14T13:05:37.320275+00:00",
+  "generated_at": "2026-07-15T07:51:21.317892+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 53,
     "homepage_modules": 1,
     "list_pages": 38,
-    "detail_pages": 460,
-    "low_content_detail_pages": 15,
-    "attachments": 9,
+    "detail_pages": 461,
+    "low_content_detail_pages": 16,
+    "attachments": 10,
     "external_links": 97,
-    "edges": 716,
-    "url_outcomes": 2125
+    "edges": 717,
+    "url_outcomes": 2127
   },
   "outcomes": {
-    "attachment_metadata_only": 9,
-    "crawled_detail_ok": 458,
+    "attachment_metadata_only": 10,
+    "crawled_detail_ok": 459,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 38,
     "cross_domain_article_link_recorded": 29,
@@ -10550,7 +10550,8 @@
         "https://cs.njupt.edu.cn/2023/1212/c18737a252165/page.htm",
         "https://cs.njupt.edu.cn/2026/0529/c18738a302919/page.htm",
         "https://cs.njupt.edu.cn/2026/0430/c18738a301293/page.htm",
-        "https://cs.njupt.edu.cn/2026/0407/c18738a299173/page.htm"
+        "https://cs.njupt.edu.cn/2026/0407/c18738a299173/page.htm",
+        "https://cs.njupt.edu.cn/2026/0715/c18738a306565/page.htm"
       ],
       "section_ids": [
         "cs_news",
@@ -27499,6 +27500,37 @@
         "https://cs.njupt.edu.cn/"
       ],
       "section_ids": []
+    },
+    "https://cs.njupt.edu.cn/2026/0715/c18738a306565/page.htm": {
+      "url": "https://cs.njupt.edu.cn/2026/0715/c18738a306565/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026 07-06 2026年度江苏省“边缘智能与网络安全”研究生暑期学校招生简章",
+        "2026年度江苏省“边缘智能与网络安全”研究生暑期学校招生简章"
+      ],
+      "sources": [
+        "https://cs.njupt.edu.cn/",
+        "https://cs.njupt.edu.cn/18738/list.htm"
+      ],
+      "section_ids": [
+        "cs_notice"
+      ],
+      "status_code": 200
+    },
+    "https://cs.njupt.edu.cn/_upload/article/files/11/24/05797a224776a838d7dce8afa77b/d415289d-49b9-484a-b2fb-d4f68ced2d69.doc": {
+      "url": "https://cs.njupt.edu.cn/_upload/article/files/11/24/05797a224776a838d7dce8afa77b/d415289d-49b9-484a-b2fb-d4f68ced2d69.doc",
+      "target_type": "attachment_file",
+      "outcome": "attachment_metadata_only",
+      "labels": [
+        "2026年度江苏省“边缘智能与网络安全”研究生暑期学校--报名表.doc"
+      ],
+      "sources": [
+        "https://cs.njupt.edu.cn/2026/0715/c18738a306565/page.htm"
+      ],
+      "section_ids": [
+        "cs_notice"
+      ]
     }
   },
   "coverage": {
