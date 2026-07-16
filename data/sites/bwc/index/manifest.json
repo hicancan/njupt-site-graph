@@ -1,28 +1,28 @@
 {
   "site_id": "bwc",
-  "generated_at": "2026-07-09T14:28:13.717981+00:00",
+  "generated_at": "2026-07-16T07:55:53.990893+00:00",
   "totals": {
     "sections": 152,
     "nav_nodes": 15,
     "homepage_modules": 0,
     "list_pages": 127,
-    "detail_pages": 1405,
+    "detail_pages": 1406,
     "low_content_detail_pages": 102,
     "attachments": 158,
     "external_links": 43,
     "edges": 277,
-    "url_outcomes": 3688
+    "url_outcomes": 3690
   },
   "outcomes": {
     "attachment_metadata_only": 176,
-    "crawled_detail_ok": 1278,
+    "crawled_detail_ok": 1279,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 127,
     "cross_domain_article_link_recorded": 2,
     "external_link_recorded": 34,
     "external_policy_link_recorded": 5,
     "homepage_link_recorded": 1,
-    "inline_image_recorded": 2056,
+    "inline_image_recorded": 2057,
     "inline_link_recorded": 8
   },
   "errors": [],
@@ -68138,6 +68138,33 @@
       "labels": [],
       "sources": [
         "https://bwc.njupt.edu.cn/2026/0709/c510a306277/page.htm"
+      ],
+      "section_ids": [
+        "bwc_direct_detail_links"
+      ]
+    },
+    "https://bwc.njupt.edu.cn/2026/0716/c510a306587/page.htm": {
+      "url": "https://bwc.njupt.edu.cn/2026/0716/c510a306587/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "保卫处全力做好台风“巴威”校园安全防范与处置工作"
+      ],
+      "sources": [
+        "https://bwc.njupt.edu.cn/"
+      ],
+      "section_ids": [
+        "bwc_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://bwc.njupt.edu.cn/_upload/article/images/ce/fe/80394d2a4ceda6e0ef13ba604df2/68f939eb-b1e4-4f69-abce-f029272f9348.jpg": {
+      "url": "https://bwc.njupt.edu.cn/_upload/article/images/ce/fe/80394d2a4ceda6e0ef13ba604df2/68f939eb-b1e4-4f69-abce-f029272f9348.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://bwc.njupt.edu.cn/2026/0716/c510a306587/page.htm"
       ],
       "section_ids": [
         "bwc_direct_detail_links"

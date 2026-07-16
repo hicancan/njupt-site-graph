@@ -1,26 +1,26 @@
 {
   "site_id": "scie",
-  "generated_at": "2026-07-14T13:06:15.748265+00:00",
+  "generated_at": "2026-07-16T08:00:04.915510+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 57,
     "homepage_modules": 2,
     "list_pages": 40,
-    "detail_pages": 552,
+    "detail_pages": 555,
     "low_content_detail_pages": 2,
     "attachments": 0,
     "external_links": 8,
     "edges": 654,
-    "url_outcomes": 2018
+    "url_outcomes": 2022
   },
   "outcomes": {
-    "crawled_detail_ok": 551,
+    "crawled_detail_ok": 554,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 40,
     "cross_domain_article_link_recorded": 1,
     "external_link_recorded": 7,
     "homepage_link_recorded": 75,
-    "inline_image_recorded": 1343
+    "inline_image_recorded": 1344
   },
   "errors": [],
   "quality": {
@@ -963,7 +963,8 @@
       "outcome": "crawled_detail_ok",
       "labels": [
         "赋能科教，智启未来——信息工程系成功举办“人工智能工具在教学科研中的运用”主题研讨会",
-        "2026-04-30 赋能科教，智启未来——信息工程系成功举办“人工智能工具在教学科研中的运用”主题研讨会 在数字化浪潮的推动下，人工智能技术与大模型正深刻改变着传统的科研与教学模式。为进一步推动人工智能、大模型工具与教育教学、科学研究的深度融合，探索前沿技术在学术领域的创新应用，2026年4月29日，南京邮电大学通信与信息工程学院信息工程系成功举办了一场以“人工智能工具在教学科研中的运用”为主题的基层教学组织研讨会。本次会议由系主任刘子威老师召集，系师生共同参与了此次探讨。 本次研讨邀请了两位在AI工具应用方面有着丰富经验的研究生代表进行专题分享。会上，两位同学深入浅出地介绍了国内外大语言模型等在学术研究中的多维度应用，详细梳理了各类AI工具在文献检索与综述、实验代码复现、论文梳理润色和ppt制作等场景下的功能特点与适用性。通过直观的图表呈现和生动的案例演示，提供了切实可行的“操作指南”。在随后的交流环节中，现场气氛热烈。参会师生围绕“如何合规高效地使用AI工具”、“AI辅助教学的未来边界”、“AI工具合理运用与人才培养可靠性”等话题展开了深入讨论。参会师生对两位学生的精彩分享给予了充分肯定，并指出，积极拥抱并合理运用人工智能工具，致力于提升科研效率，是顺应时代发展、提升创新能力的必"
+        "2026-04-30 赋能科教，智启未来——信息工程系成功举办“人工智能工具在教学科研中的运用”主题研讨会 在数字化浪潮的推动下，人工智能技术与大模型正深刻改变着传统的科研与教学模式。为进一步推动人工智能、大模型工具与教育教学、科学研究的深度融合，探索前沿技术在学术领域的创新应用，2026年4月29日，南京邮电大学通信与信息工程学院信息工程系成功举办了一场以“人工智能工具在教学科研中的运用”为主题的基层教学组织研讨会。本次会议由系主任刘子威老师召集，系师生共同参与了此次探讨。 本次研讨邀请了两位在AI工具应用方面有着丰富经验的研究生代表进行专题分享。会上，两位同学深入浅出地介绍了国内外大语言模型等在学术研究中的多维度应用，详细梳理了各类AI工具在文献检索与综述、实验代码复现、论文梳理润色和ppt制作等场景下的功能特点与适用性。通过直观的图表呈现和生动的案例演示，提供了切实可行的“操作指南”。在随后的交流环节中，现场气氛热烈。参会师生围绕“如何合规高效地使用AI工具”、“AI辅助教学的未来边界”、“AI工具合理运用与人才培养可靠性”等话题展开了深入讨论。参会师生对两位学生的精彩分享给予了充分肯定，并指出，积极拥抱并合理运用人工智能工具，致力于提升科研效率，是顺应时代发展、提升创新能力的必",
+        "2026-04-30 赋能科教，智启未来——信息工程系成功举办“人工智能工具在教学科研中的运用”主题研讨会"
       ],
       "sources": [
         "https://scie.njupt.edu.cn/",
@@ -22687,7 +22688,8 @@
         "通信与信息工程学院博士生获IEEE通信学会技术竞赛金奖"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/jxky/list.htm"
+        "https://scie.njupt.edu.cn/jxky/list.htm",
+        "https://scie.njupt.edu.cn/jxky/list2.htm"
       ],
       "section_ids": [
         "scie_teaching"
@@ -22702,7 +22704,8 @@
         "通信与信息工程学院在中国通信学会科学技术奖评选中实现新突破"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/jxky/list.htm"
+        "https://scie.njupt.edu.cn/jxky/list.htm",
+        "https://scie.njupt.edu.cn/jxky/list2.htm"
       ],
       "section_ids": [
         "scie_teaching"
@@ -22717,7 +22720,8 @@
         "通信学院教师何雪云荣获“超星杯”第七届全国高校混合式教学设计创新大赛一等奖和“数智教育专项奖”"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/jxky/list.htm"
+        "https://scie.njupt.edu.cn/jxky/list.htm",
+        "https://scie.njupt.edu.cn/jxky/list2.htm"
       ],
       "section_ids": [
         "scie_teaching"
@@ -22915,7 +22919,8 @@
         "我院科研团队助力“天问二号”探测任务"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/jxky/list2.htm"
+        "https://scie.njupt.edu.cn/jxky/list2.htm",
+        "https://scie.njupt.edu.cn/jxky/list3.htm"
       ],
       "section_ids": [
         "scie_teaching"
@@ -22930,7 +22935,8 @@
         "新老教师共话教学之道：我院举办新老教师“同上一堂课”教研活动"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/jxky/list2.htm"
+        "https://scie.njupt.edu.cn/jxky/list2.htm",
+        "https://scie.njupt.edu.cn/jxky/list3.htm"
       ],
       "section_ids": [
         "scie_teaching"
@@ -23041,7 +23047,8 @@
         "Nature Communications刊发南邮教育部重点实验室及通信与信息工程学院科研团队最新研究进展"
       ],
       "sources": [
-        "https://scie.njupt.edu.cn/jxky/list2.htm"
+        "https://scie.njupt.edu.cn/jxky/list2.htm",
+        "https://scie.njupt.edu.cn/jxky/list3.htm"
       ],
       "section_ids": [
         "scie_teaching"
@@ -25633,10 +25640,12 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://scie.njupt.edu.cn/2026/0617/c2889a305091/page.htm"
+        "https://scie.njupt.edu.cn/2026/0617/c2889a305091/page.htm",
+        "https://scie.njupt.edu.cn/2026/0617/c12648a305091/page.htm"
       ],
       "section_ids": [
-        "scie_news"
+        "scie_news",
+        "scie_teaching"
       ]
     },
     "https://scie.njupt.edu.cn/_upload/article/images/95/26/94abb1d6450a8c913350c3f476ef/b945bb41-90b1-416f-8559-9eac5ecf2a0e.jpg": {
@@ -25736,10 +25745,12 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://scie.njupt.edu.cn/2026/0626/c2889a305529/page.htm"
+        "https://scie.njupt.edu.cn/2026/0626/c2889a305529/page.htm",
+        "https://scie.njupt.edu.cn/2026/0626/c12648a305529/page.htm"
       ],
       "section_ids": [
-        "scie_news"
+        "scie_news",
+        "scie_teaching"
       ]
     },
     "https://scie.njupt.edu.cn/_upload/article/images/93/c4/a4b5bb0d4cf59f78e5a9a7aba09e/8ce448b8-2862-45dc-be94-b5fc318f747c.jpg": {
@@ -25748,10 +25759,12 @@
       "outcome": "inline_image_recorded",
       "labels": [],
       "sources": [
-        "https://scie.njupt.edu.cn/2026/0626/c2889a305529/page.htm"
+        "https://scie.njupt.edu.cn/2026/0626/c2889a305529/page.htm",
+        "https://scie.njupt.edu.cn/2026/0626/c12648a305529/page.htm"
       ],
       "section_ids": [
-        "scie_news"
+        "scie_news",
+        "scie_teaching"
       ]
     },
     "https://scie.njupt.edu.cn/2026/0630/c12648a305566/page.htm": {
@@ -26392,6 +26405,69 @@
       ],
       "section_ids": [
         "scie_news"
+      ]
+    },
+    "https://scie.njupt.edu.cn/2026/0716/c12648a306589/page.htm": {
+      "url": "https://scie.njupt.edu.cn/2026/0716/c12648a306589/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "通信学院召开2026版本科人才培养方案第二次研讨会",
+        "2026-07-16 通信学院召开2026版本科人才培养方案第二次研讨会 为进一步深化教育教学改革，全面提升本科人才培养质量，7月15日，通信与信息工程学院召开了2026版本科人才培养方案第二次研讨会。本次会议聚焦通信工程、电子信息工程、广播电视工程三个专业的人才培养方案修订工作。副院长施政、王鸿，院长助理吴晓欢，各专业负责人和系主任，以及企业代表参加了此次会议。 施政副院长结合当前信息通信行业的最新发展趋势及工程教育认证标准，对前期各专业人才培养方案的修订情况进行了全面梳理，并重点指出了在优化课程体系、融入人工智能以及加强实践环节等方面仍需进一步优化的关键点。随后，通信工程、电子信息工程、广播电视工程三个专业负责人分别就本专业的修订草案进行了汇报。 在研讨交流环节，与会人员结合学院整体发展规划与各专业特色，展开了热烈而深入的讨论。经过充分论证与细致推敲，会议对三个专业的人才培养方案形成了进一步完善的修订意见，明确了下一步的修改方向与时间节点。 此次研讨会的顺利召开，为我院2026版本科人才培养方案的最终定稿奠定了坚实基础。学院将继续秉持“以本为本”的教育理念，持续优化人才培养体系，致力于培养适应新时代信息通信产业发展需求的高素质创新型人才。（撰稿"
+      ],
+      "sources": [
+        "https://scie.njupt.edu.cn/",
+        "https://scie.njupt.edu.cn/jxky/list.htm"
+      ],
+      "section_ids": [
+        "scie_teaching"
+      ],
+      "status_code": 200
+    },
+    "https://scie.njupt.edu.cn/2026/0626/c12648a305529/page.htm": {
+      "url": "https://scie.njupt.edu.cn/2026/0626/c12648a305529/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026-06-26 江苏省“企业家进高校”前沿大课堂走进南京邮电大学",
+        "江苏省“企业家进高校”前沿大课堂走进南京邮电大学"
+      ],
+      "sources": [
+        "https://scie.njupt.edu.cn/",
+        "https://scie.njupt.edu.cn/jxky/list.htm"
+      ],
+      "section_ids": [
+        "scie_teaching"
+      ],
+      "status_code": 200
+    },
+    "https://scie.njupt.edu.cn/2026/0617/c12648a305091/page.htm": {
+      "url": "https://scie.njupt.edu.cn/2026/0617/c12648a305091/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026-06-17 通信与信息工程学院王婕获第六届江苏省高校青年教师教学竞赛工科组第一名",
+        "通信与信息工程学院王婕获第六届江苏省高校青年教师教学竞赛工科组第一名"
+      ],
+      "sources": [
+        "https://scie.njupt.edu.cn/",
+        "https://scie.njupt.edu.cn/jxky/list.htm"
+      ],
+      "section_ids": [
+        "scie_teaching"
+      ],
+      "status_code": 200
+    },
+    "https://scie.njupt.edu.cn/_upload/article/images/d1/90/38ec354d4703acd226b42b2d0a30/8c4346e5-c844-4572-af47-30acd248cd1e.jpg": {
+      "url": "https://scie.njupt.edu.cn/_upload/article/images/d1/90/38ec354d4703acd226b42b2d0a30/8c4346e5-c844-4572-af47-30acd248cd1e.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://scie.njupt.edu.cn/2026/0716/c12648a306589/page.htm"
+      ],
+      "section_ids": [
+        "scie_teaching"
       ]
     }
   },

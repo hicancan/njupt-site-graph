@@ -4,6 +4,6 @@
   "base_url": "https://njupt.91job.org.cn/",
   "domain": "njupt.91job.org.cn",
   "adapter": "job91_api",
-  "created_at": "2026-07-16T01:22:52.173875+00:00",
+  "created_at": "2026-07-16T07:54:58.382213+00:00",
   "notes": "Chrome DevTools audited SPA/API source. Uses explicit job91_api adapter rather than WebPlus extraction."
 }
