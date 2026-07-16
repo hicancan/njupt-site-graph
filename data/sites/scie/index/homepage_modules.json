@@ -1,16 +1,16 @@
 {
   "site_id": "scie",
-  "generated_at": "2026-06-08T05:58:34.624093+00:00",
+  "generated_at": "2026-07-16T18:56:55.757002+00:00",
   "modules": [
     {
-      "module_id": "e493abd2951c087839c8",
+      "module_id": "a34a719922afa8b28a99",
       "site_id": "scie",
       "name": "人才培养",
       "url": "https://scie.njupt.edu.cn/",
       "list_url": null,
       "container_selector": ".ml",
-      "link_count": 8,
-      "position": 0
+      "link_count": 4,
+      "position": 1
     },
     {
       "module_id": "bc27ab2208164a851386",

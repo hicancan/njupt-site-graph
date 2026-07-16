@@ -1,26 +1,26 @@
 {
   "site_id": "scie",
-  "generated_at": "2026-07-16T08:00:04.915510+00:00",
+  "generated_at": "2026-07-16T18:56:53.326559+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 57,
     "homepage_modules": 2,
     "list_pages": 40,
-    "detail_pages": 555,
+    "detail_pages": 556,
     "low_content_detail_pages": 2,
     "attachments": 0,
     "external_links": 8,
     "edges": 654,
-    "url_outcomes": 2022
+    "url_outcomes": 2025
   },
   "outcomes": {
-    "crawled_detail_ok": 554,
+    "crawled_detail_ok": 555,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 40,
     "cross_domain_article_link_recorded": 1,
     "external_link_recorded": 7,
     "homepage_link_recorded": 75,
-    "inline_image_recorded": 1344
+    "inline_image_recorded": 1346
   },
   "errors": [],
   "quality": {
@@ -1992,7 +1992,8 @@
       ],
       "sources": [
         "https://scie.njupt.edu.cn/2889/list.htm",
-        "https://scie.njupt.edu.cn/2889/list2.htm"
+        "https://scie.njupt.edu.cn/2889/list2.htm",
+        "https://scie.njupt.edu.cn/2889/list3.htm"
       ],
       "section_ids": [
         "scie_news"
@@ -25573,7 +25574,8 @@
       ],
       "sources": [
         "https://scie.njupt.edu.cn/",
-        "https://scie.njupt.edu.cn/2889/list.htm"
+        "https://scie.njupt.edu.cn/2889/list.htm",
+        "https://scie.njupt.edu.cn/2889/list2.htm"
       ],
       "section_ids": [
         "scie_news"
@@ -26468,6 +26470,47 @@
       ],
       "section_ids": [
         "scie_teaching"
+      ]
+    },
+    "https://scie.njupt.edu.cn/2026/0716/c2889a306600/page.htm": {
+      "url": "https://scie.njupt.edu.cn/2026/0716/c2889a306600/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "南邮大学生社会实践基地揭牌仪式在中山陵园管理局举行",
+        "16 2026-07 南邮大学生社会实践基地揭牌仪式在中山陵园管理局举行 7月14日，南京邮电大学大学生社会实践基地揭牌仪式在中山陵园管理局举办。南邮党委常委、副校长谢平，中山陵园管理局党组成员、局长陈理，南邮团委、通信与信息工程学院、数字媒体与设计艺术学院和中山陵园管理局相关负责人，团学骨干及学生代表出席活动。会议现场 中山陵园管理局介绍了本次共建背景，系统解读“博爱钟山”志愿服务品牌建设成效，梳理多年面向社会搭建青年公益服务阵地的实践成果。南邮介绍了学校志愿服务育人体系建设情况及育人成果，重点说明通信与信息工程学院长期扎根钟山开展服务的成熟合作基础，以及数字媒体与设计艺术学院在数字文博、沉浸式视觉呈现方面的专业技术优势。 谢平表示，此次共建紧扣“十五五”文化强国发展部署，南邮将继续发挥信息学科特色优势，常态化组织青年志愿者开展文明引导、文化讲解等志愿服务；共建实景研学体系，统筹思政主课堂、网络新课堂与社会大课堂，打造全方位沉浸式育人矩阵；建立长效协作机制，推动人才共育、科技共研、服务资源双向共享；持续完善系统化志愿服务育人体系，引导广大南邮学子以专业本领守护城市文脉、彰显青年担当。 陈理赞扬南邮多年来组织青年参与景区公益服务的扎实成效。他说，管"
+      ],
+      "sources": [
+        "https://scie.njupt.edu.cn/",
+        "https://scie.njupt.edu.cn/2889/list.htm"
+      ],
+      "section_ids": [
+        "scie_news"
+      ],
+      "status_code": 200
+    },
+    "https://scie.njupt.edu.cn/_upload/article/images/dc/23/234e582c49dfafb05cc26ec36e15/cf26f529-728c-46aa-aec7-2fd17d20f202.jpg": {
+      "url": "https://scie.njupt.edu.cn/_upload/article/images/dc/23/234e582c49dfafb05cc26ec36e15/cf26f529-728c-46aa-aec7-2fd17d20f202.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://scie.njupt.edu.cn/2026/0716/c2889a306600/page.htm"
+      ],
+      "section_ids": [
+        "scie_news"
+      ]
+    },
+    "https://scie.njupt.edu.cn/_upload/article/images/dc/23/234e582c49dfafb05cc26ec36e15/59a14994-af98-4562-a56a-82bc677409c2.jpg": {
+      "url": "https://scie.njupt.edu.cn/_upload/article/images/dc/23/234e582c49dfafb05cc26ec36e15/59a14994-af98-4562-a56a-82bc677409c2.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://scie.njupt.edu.cn/2026/0716/c2889a306600/page.htm"
+      ],
+      "section_ids": [
+        "scie_news"
       ]
     }
   },
