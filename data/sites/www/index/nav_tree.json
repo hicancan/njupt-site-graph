@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-14T13:01:57.927426+00:00",
+  "generated_at": "2026-07-16T13:13:50.224733+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -759,7 +759,21 @@
       "position": 66
     },
     {
-      "node_id": "fc38caef18ccaf39e98a",
+      "node_id": "3c7af0d18d66ea014db2",
+      "site_id": "www",
+      "label": "2026.07.16 南邮大学生社会实践基地揭牌仪式在中山陵园管理局举行",
+      "url": "https://www.njupt.edu.cn/2026/0716/c53a306599/page.htm",
+      "nav_path": [
+        "2026.07.16 南邮大学生社会实践基地揭牌仪式在中山陵园管理局举行"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 67
+    },
+    {
+      "node_id": "7399922bb580b4c3f514",
       "site_id": "www",
       "label": "2026.07.14 南邮与无锡市、惠山区共同举办合作发展大会",
       "url": "https://www.njupt.edu.cn/2026/0714/c53a306532/page.htm",
@@ -770,10 +784,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 67
+      "position": 68
     },
     {
-      "node_id": "c8e5ad5393fd7b391254",
+      "node_id": "18bf4a3daf214cb7fac2",
       "site_id": "www",
       "label": "2026.07.12 南邮王琴教授团队在实用化量子密钥分发网络方面取得系列重要研究进展",
       "url": "https://www.njupt.edu.cn/2026/0712/c53a306477/page.htm",
@@ -784,10 +798,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 68
+      "position": 69
     },
     {
-      "node_id": "c082723de65adb6fe60d",
+      "node_id": "06d09cb4531dd922a768",
       "site_id": "www",
       "label": "2026.07.10 美国青少年江苏行代表团来南邮交流访问",
       "url": "https://www.njupt.edu.cn/2026/0710/c53a306384/page.htm",
@@ -798,29 +812,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 69
+      "position": 70
     },
     {
-      "node_id": "760dd9669bc6f525d2bf",
+      "node_id": "dce63b3033a6752c6ed6",
       "site_id": "www",
       "label": "2026.07.08 南邮主办2026年“悦读江苏”智造栖霞·知行华夏主题实践活动",
       "url": "https://www.njupt.edu.cn/2026/0708/c53a306232/page.htm",
       "nav_path": [
         "2026.07.08 南邮主办2026年“悦读江苏”智造栖霞·知行华夏主题实践活动"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 70
-    },
-    {
-      "node_id": "f905cf348910ea032804",
-      "site_id": "www",
-      "label": "2026.07.07 南邮召开“两优一先”表彰大会",
-      "url": "https://www.njupt.edu.cn/2026/0707/c53a306178/page.htm",
-      "nav_path": [
-        "2026.07.07 南邮召开“两优一先”表彰大会"
       ],
       "depth": 1,
       "target_type": "detail_article_page",
