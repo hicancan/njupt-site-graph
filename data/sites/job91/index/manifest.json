@@ -1,20 +1,20 @@
 {
   "site_id": "job91",
-  "generated_at": "2026-07-15T18:54:21.254626+00:00",
+  "generated_at": "2026-07-16T01:23:40.810142+00:00",
   "totals": {
     "sections": 29,
     "nav_nodes": 29,
     "homepage_modules": 29,
     "list_pages": 24,
-    "detail_pages": 976,
-    "low_content_detail_pages": 847,
+    "detail_pages": 975,
+    "low_content_detail_pages": 846,
     "attachments": 0,
     "external_links": 0,
-    "edges": 999,
-    "url_outcomes": 1007
+    "edges": 998,
+    "url_outcomes": 1006
   },
   "outcomes": {
-    "crawled_detail_ok": 976,
+    "crawled_detail_ok": 975,
     "crawled_homepage_ok": 2,
     "crawled_list_ok": 29
   },
@@ -11601,21 +11601,6 @@
     },
     "https://njupt.91job.org.cn/sub-station/news/ceb890a8be5693401ea4": {
       "url": "https://njupt.91job.org.cn/sub-station/news/ceb890a8be5693401ea4",
-      "target_type": "detail_article_page",
-      "outcome": "crawled_detail_ok",
-      "labels": [
-        "未命名就业信息"
-      ],
-      "sources": [
-        "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9D3CED2E0530100007FB6E8"
-      ],
-      "section_ids": [
-        "job91_312cdd9cb508"
-      ],
-      "status_code": 200
-    },
-    "https://njupt.91job.org.cn/sub-station/news/cc47d4130e3a6ca05b12": {
-      "url": "https://njupt.91job.org.cn/sub-station/news/cc47d4130e3a6ca05b12",
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
