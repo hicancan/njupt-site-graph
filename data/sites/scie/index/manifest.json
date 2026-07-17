@@ -1,6 +1,6 @@
 {
   "site_id": "scie",
-  "generated_at": "2026-07-16T18:56:53.326559+00:00",
+  "generated_at": "2026-07-17T18:54:04.058441+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 57,
@@ -11,7 +11,7 @@
     "attachments": 0,
     "external_links": 8,
     "edges": 654,
-    "url_outcomes": 2025
+    "url_outcomes": 2026
   },
   "outcomes": {
     "crawled_detail_ok": 555,
@@ -19,7 +19,7 @@
     "crawled_list_ok": 40,
     "cross_domain_article_link_recorded": 1,
     "external_link_recorded": 7,
-    "homepage_link_recorded": 75,
+    "homepage_link_recorded": 76,
     "inline_image_recorded": 1346
   },
   "errors": [],
@@ -26512,6 +26512,18 @@
       "section_ids": [
         "scie_news"
       ]
+    },
+    "https://scie.njupt.edu.cn/2026/0717/c2890a306616/page.htm": {
+      "url": "https://scie.njupt.edu.cn/2026/0717/c2890a306616/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "homepage_link_recorded",
+      "labels": [
+        "南京邮电大学通信与信息工程学院曾桂根科研团队软件工程师拟聘用人员公示"
+      ],
+      "sources": [
+        "https://scie.njupt.edu.cn/"
+      ],
+      "section_ids": []
     }
   },
   "coverage": {
