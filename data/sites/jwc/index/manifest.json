@@ -1,21 +1,21 @@
 {
   "site_id": "jwc",
-  "generated_at": "2026-07-07T09:19:47.411415+00:00",
+  "generated_at": "2026-07-18T12:44:48.431337+00:00",
   "totals": {
     "sections": 139,
     "nav_nodes": 119,
     "homepage_modules": 8,
     "list_pages": 661,
-    "detail_pages": 7003,
+    "detail_pages": 7004,
     "low_content_detail_pages": 822,
-    "attachments": 7915,
+    "attachments": 7916,
     "external_links": 745,
-    "edges": 16347,
-    "url_outcomes": 19290
+    "edges": 16348,
+    "url_outcomes": 19292
   },
   "outcomes": {
-    "attachment_metadata_only": 7193,
-    "crawled_detail_ok": 6949,
+    "attachment_metadata_only": 7194,
+    "crawled_detail_ok": 6950,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 661,
     "cross_domain_article_link_recorded": 62,
@@ -273593,6 +273593,37 @@
       ],
       "section_ids": [
         "jwc_homepage_jw_news_module"
+      ]
+    },
+    "https://jwc.njupt.edu.cn/2026/0718/c1594a306632/page.htm": {
+      "url": "https://jwc.njupt.edu.cn/2026/0718/c1594a306632/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "【教务管理办公室】2025-2026学年第二学期期末考试补考安排 07-18",
+        "【教务管理办公室】2025-2026学年第二学期期末考试补考安排 2026-07-18"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/",
+        "https://jwc.njupt.edu.cn/1594/list.htm"
+      ],
+      "section_ids": [
+        "jwc_homepage_notice_module"
+      ],
+      "status_code": 200
+    },
+    "https://jwc.njupt.edu.cn/_upload/article/files/32/a8/dd92a01b44a1b944ff426075c774/bbc4da1b-40de-497c-a156-4129646aaba6.xlsx": {
+      "url": "https://jwc.njupt.edu.cn/_upload/article/files/32/a8/dd92a01b44a1b944ff426075c774/bbc4da1b-40de-497c-a156-4129646aaba6.xlsx",
+      "target_type": "attachment_file",
+      "outcome": "attachment_metadata_only",
+      "labels": [
+        "25-26-2补考安排-学生名单表（特殊考核+线下常规补考）上网版.xlsx"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/2026/0718/c1594a306632/page.htm"
+      ],
+      "section_ids": [
+        "jwc_homepage_notice_module"
       ]
     }
   },
