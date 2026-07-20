@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-17T07:49:41.291948+00:00",
+  "generated_at": "2026-07-20T19:21:49.816357+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 133,
@@ -11,7 +11,7 @@
     "attachments": 420,
     "external_links": 139,
     "edges": 11554,
-    "url_outcomes": 7884
+    "url_outcomes": 7887
   },
   "outcomes": {
     "attachment_metadata_only": 412,
@@ -19,7 +19,7 @@
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 161,
     "cross_domain_article_link_recorded": 14,
-    "external_link_recorded": 109,
+    "external_link_recorded": 112,
     "external_policy_link_recorded": 6,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 59,
@@ -104742,6 +104742,42 @@
       "section_ids": [
         "www_news"
       ]
+    },
+    "https://mp.weixin.qq.com/s/l1HtiTVGcnP_jxTQDSRqLA": {
+      "url": "https://mp.weixin.qq.com/s/l1HtiTVGcnP_jxTQDSRqLA",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "2026.07.20 汲取榜样力量！ 南邮十位硕士学子荣膺学术之星"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://mp.weixin.qq.com/s/qBQ6wew5__WWAgGcPOkHCA": {
+      "url": "https://mp.weixin.qq.com/s/qBQ6wew5__WWAgGcPOkHCA",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "2026.07.17 求学深造，逐梦职场，从南邮出发拥有无限可能！"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://mp.weixin.qq.com/s/s08wcN6tYtsyUrBBbfXXEw": {
+      "url": "https://mp.weixin.qq.com/s/s08wcN6tYtsyUrBBbfXXEw",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "2026.07.13 青春不设限，看南邮学子如何选择未来！"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/"
+      ],
+      "section_ids": []
     }
   },
   "coverage": {

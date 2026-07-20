@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-16T13:13:50.224733+00:00",
+  "generated_at": "2026-07-20T19:21:52.889152+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -1417,12 +1417,12 @@
       "position": 114
     },
     {
-      "node_id": "52b658b135a9fb765258",
+      "node_id": "4c98cff934b6d2c50dfe",
       "site_id": "www",
-      "label": "2026.07.06 模范！这位南邮人获评“江苏省优秀党务工作者”",
-      "url": "https://mp.weixin.qq.com/s/ffBSgeHnuKB7XgbG_r4Lig",
+      "label": "2026.07.20 汲取榜样力量！ 南邮十位硕士学子荣膺学术之星",
+      "url": "https://mp.weixin.qq.com/s/l1HtiTVGcnP_jxTQDSRqLA",
       "nav_path": [
-        "2026.07.06 模范！这位南邮人获评“江苏省优秀党务工作者”"
+        "2026.07.20 汲取榜样力量！ 南邮十位硕士学子荣膺学术之星"
       ],
       "depth": 1,
       "target_type": "external_link",
@@ -1431,12 +1431,12 @@
       "position": 115
     },
     {
-      "node_id": "23e60f592cc6d99478f3",
+      "node_id": "f0be09eeb94baf469951",
       "site_id": "www",
-      "label": "2026.07.03 喜报！全国党建“双创”“双百”，南邮+4！",
-      "url": "https://mp.weixin.qq.com/s/d6GEMxCePnBDy29rd9BErg",
+      "label": "2026.07.17 求学深造，逐梦职场，从南邮出发拥有无限可能！",
+      "url": "https://mp.weixin.qq.com/s/qBQ6wew5__WWAgGcPOkHCA",
       "nav_path": [
-        "2026.07.03 喜报！全国党建“双创”“双百”，南邮+4！"
+        "2026.07.17 求学深造，逐梦职场，从南邮出发拥有无限可能！"
       ],
       "depth": 1,
       "target_type": "external_link",
@@ -1445,12 +1445,12 @@
       "position": 116
     },
     {
-      "node_id": "fb2ffa2812486a126b97",
+      "node_id": "86201e7fb0dd23e7482e",
       "site_id": "www",
-      "label": "2026.07.02 报考南邮的N个理由",
-      "url": "https://mp.weixin.qq.com/s/TNqqSv--lnPqDhH9oGWaaQ",
+      "label": "2026.07.13 青春不设限，看南邮学子如何选择未来！",
+      "url": "https://mp.weixin.qq.com/s/s08wcN6tYtsyUrBBbfXXEw",
       "nav_path": [
-        "2026.07.02 报考南邮的N个理由"
+        "2026.07.13 青春不设限，看南邮学子如何选择未来！"
       ],
       "depth": 1,
       "target_type": "external_link",
@@ -1459,12 +1459,12 @@
       "position": 117
     },
     {
-      "node_id": "2ce533755a928016bd51",
+      "node_id": "e232eb6c988923e5bea5",
       "site_id": "www",
-      "label": "2026.07.01 南邮干部师生热议习近平总书记“七一”重要讲话",
-      "url": "https://mp.weixin.qq.com/s/CWE2MFSa25Mtn14hYkwdpw",
+      "label": "2026.07.06 模范！这位南邮人获评“江苏省优秀党务工作者”",
+      "url": "https://mp.weixin.qq.com/s/ffBSgeHnuKB7XgbG_r4Lig",
       "nav_path": [
-        "2026.07.01 南邮干部师生热议习近平总书记“七一”重要讲话"
+        "2026.07.06 模范！这位南邮人获评“江苏省优秀党务工作者”"
       ],
       "depth": 1,
       "target_type": "external_link",
