@@ -1,6 +1,6 @@
 {
   "site_id": "job91",
-  "generated_at": "2026-07-21T13:14:07.056415+00:00",
+  "generated_at": "2026-07-21T19:03:52.722425+00:00",
   "totals": {
     "sections": 29,
     "nav_nodes": 29,
@@ -4007,6 +4007,21 @@
       ],
       "status_code": 200
     },
+    "https://njupt.91job.org.cn/sub-station/news/571FCA4609BFE8FEE0630100007F4D92": {
+      "url": "https://njupt.91job.org.cn/sub-station/news/571FCA4609BFE8FEE0630100007F4D92",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "梁世童就业推荐表遗失公示"
+      ],
+      "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3604"
+      ],
+      "section_ids": [
+        "job91_8a47e2520d1b"
+      ],
+      "status_code": 200
+    },
     "https://njupt.91job.org.cn/sub-station/news/546DEC3C292DEC1FE0630100007FDD67": {
       "url": "https://njupt.91job.org.cn/sub-station/news/546DEC3C292DEC1FE0630100007FDD67",
       "target_type": "detail_article_page",
@@ -5785,21 +5800,6 @@
       "outcome": "crawled_detail_ok",
       "labels": [
         "江苏省2024年应届优秀大学毕业生选调乡镇（街道）考察人选材料的公示"
-      ],
-      "sources": [
-        "https://njupt.91job.org.cn/sub-station/list/3604"
-      ],
-      "section_ids": [
-        "job91_8a47e2520d1b"
-      ],
-      "status_code": 200
-    },
-    "https://njupt.91job.org.cn/sub-station/news/14AF1821A2802B69E0630100007F4DCB": {
-      "url": "https://njupt.91job.org.cn/sub-station/news/14AF1821A2802B69E0630100007F4DCB",
-      "target_type": "detail_article_page",
-      "outcome": "crawled_detail_ok",
-      "labels": [
-        "夏梦瑶协议书遗失公示"
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/list/3604"
