@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-20T19:21:49.816357+00:00",
+  "generated_at": "2026-07-22T08:05:02.149010+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 133,
     "homepage_modules": 0,
     "list_pages": 161,
-    "detail_pages": 2254,
+    "detail_pages": 2255,
     "low_content_detail_pages": 96,
     "attachments": 420,
     "external_links": 139,
     "edges": 11554,
-    "url_outcomes": 7887
+    "url_outcomes": 7891
   },
   "outcomes": {
     "attachment_metadata_only": 412,
-    "crawled_detail_ok": 2254,
+    "crawled_detail_ok": 2255,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 161,
     "cross_domain_article_link_recorded": 14,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 6,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 59,
-    "inline_image_recorded": 4858,
+    "inline_image_recorded": 4861,
     "inline_link_recorded": 2,
     "section_list_page_recorded": 5,
     "site_entry_alias_recorded": 1
@@ -33052,7 +33052,8 @@
         "2026 06.15 郭宇锋书记赴哈萨克斯坦出席江苏—中亚国家产教融合交流会 拓展南邮国际合作新格局 6月12日上午，江苏省人民政府、哈萨克斯坦科学与高等教育部、乌兹别克斯坦高等教育、科学与创新部共同主办的“江苏—中亚国家产教融合交流会”，在哈萨克斯坦首都阿斯塔纳举行。 江苏省委书记信长星出席并讲话，哈萨克斯坦科学与高等教育部副部长迪娜拉·里纳托夫娜·舍格洛娃，乌兹别克斯坦高等教育、科学与创新部第一副部长拉贾博夫·萨尔多尔·巴赫季约罗维奇，中华人民共和国驻哈萨克斯坦大使韩春霖，中国—中亚机制秘书长孙炜东致辞。哈萨克斯坦教育部副部长希娜尔·阿克帕罗娃，江苏省委副秘书长、办公厅主任尹卫东，省商务厅、省外办相关负责同志出席活动。省教育厅厅长江涌主持交流会并发布江苏—中亚国家教育合作交流成果。南京邮电大学党委书记郭宇锋应邀与会。 在交流展环节，郭宇锋向信长星汇报南京邮电大学卓越工程师人才培养建设成果，重点汇报学校对标国家涉外工程人才培育战略，与哈萨克斯坦卡拉干达萨金诺夫技术大学共建“海外卓越工程师学院”项目建设进展及规划。信长星对南邮依托自身办学特色、积极探索中亚领域科教合作的前瞻性布局予以肯定。他表示，培育涉外卓越工程师，契合共建“一带一路”高质量发展的人才需求，希望南邮加强多方协同"
       ],
       "sources": [
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -103859,7 +103860,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/",
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -104778,6 +104780,59 @@
         "https://www.njupt.edu.cn/"
       ],
       "section_ids": []
+    },
+    "https://www.njupt.edu.cn/2026/0722/c53a306719/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0722/c53a306719/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.07.20 南邮与哈萨克斯坦高校搭建校际合作新平台",
+        "2026 07.20 南邮与哈萨克斯坦高校搭建校际合作新平台 7月16日，南京邮电大学党委书记郭宇锋、副校长刘青山受邀赴上海参加中哈高校战略合作协议签约仪式，现场分别与哈萨克斯国立体育大学、哈萨克斯坦阿拉木图能源与通信大学签署合作协议，将围绕电子信息、计算机、体育传媒等领域，开展本硕层次学生联合培养、教师互访、联合实验室共建等务实合作。 7月17日，哈萨克斯坦国立体育大学校长Kuangaliyeva Tursynzada一行访问南邮。座谈交流会上，胡纵宇副校长介绍了南邮办学情况，期待两校发挥各自学科优势，以实验室共建为纽带，共同探索体育+数媒融合路径，携手培养兼具数字技术与体育传播素养的国际化复合型人才。Kuangaliyeva介绍了哈萨克斯坦国立体育大学办学概况，希望双方在体育融媒体建设、网络体育赛事运营、人工智能体育实训等领域开展深度务实合作。会后，哈方代表团参观了南邮通信馆、数字媒体与设计艺术学院三维显示与虚拟现实实验室。 南邮将紧扣“一带一路” 教育行动部署，依托中国— 中亚机制与江苏— 中亚产教融合联盟双重平台，持续深化与哈萨克斯坦高校常态化科教交流，加快推进有关合作项目落地实施。（图文：程丰宁 初审：张舒 编辑：王存宏 审核："
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/f3/8b/5e0622ef45b8b408cb7a2abcbee9/137eeb79-f865-4c52-877b-8536e70fe37f.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/f3/8b/5e0622ef45b8b408cb7a2abcbee9/137eeb79-f865-4c52-877b-8536e70fe37f.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0722/c53a306719/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/f3/8b/5e0622ef45b8b408cb7a2abcbee9/89c94117-f3f7-4819-853c-c3481ccae3e1.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/f3/8b/5e0622ef45b8b408cb7a2abcbee9/89c94117-f3f7-4819-853c-c3481ccae3e1.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0722/c53a306719/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/f3/8b/5e0622ef45b8b408cb7a2abcbee9/1cc0a292-811c-4bc1-aca0-195e691a66ae.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/f3/8b/5e0622ef45b8b408cb7a2abcbee9/1cc0a292-811c-4bc1-aca0-195e691a66ae.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0722/c53a306719/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
     }
   },
   "coverage": {
