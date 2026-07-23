@@ -1,7 +1,7 @@
 {
   "version": "sitegraph-coverage-v1",
   "site_id": "bwc",
-  "generated_at": "2026-07-20T08:44:54.519412+00:00",
+  "generated_at": "2026-07-23T08:27:08.136645+00:00",
   "crawl_mode": "incremental",
   "evidence_source": "full_crawl",
   "coverage_status": "complete",
@@ -25,7 +25,7 @@
   },
   "pages": {
     "list_pages": 127,
-    "detail_pages": 1407
+    "detail_pages": 1408
   },
   "attachments": {
     "policy": "metadata_only",

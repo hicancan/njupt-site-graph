@@ -1,21 +1,21 @@
 {
   "site_id": "bwc",
-  "generated_at": "2026-07-20T08:36:51.573701+00:00",
+  "generated_at": "2026-07-23T08:10:27.452911+00:00",
   "totals": {
     "sections": 152,
     "nav_nodes": 15,
     "homepage_modules": 0,
     "list_pages": 127,
-    "detail_pages": 1407,
+    "detail_pages": 1408,
     "low_content_detail_pages": 103,
     "attachments": 160,
     "external_links": 43,
     "edges": 279,
-    "url_outcomes": 3693
+    "url_outcomes": 3694
   },
   "outcomes": {
     "attachment_metadata_only": 178,
-    "crawled_detail_ok": 1280,
+    "crawled_detail_ok": 1281,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 127,
     "cross_domain_article_link_recorded": 2,
@@ -68213,6 +68213,21 @@
       "section_ids": [
         "bwc_direct_detail_links"
       ]
+    },
+    "https://bwc.njupt.edu.cn/2026/0723/c543a306759/page.htm": {
+      "url": "https://bwc.njupt.edu.cn/2026/0723/c543a306759/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026年南京邮电大学废弃非机动车处置公开竞价项目成交公告"
+      ],
+      "sources": [
+        "https://bwc.njupt.edu.cn/"
+      ],
+      "section_ids": [
+        "bwc_direct_detail_links"
+      ],
+      "status_code": 200
     }
   },
   "coverage": {

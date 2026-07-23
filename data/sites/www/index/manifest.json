@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-22T08:05:02.149010+00:00",
+  "generated_at": "2026-07-23T08:07:33.010317+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 133,
     "homepage_modules": 0,
     "list_pages": 161,
-    "detail_pages": 2255,
+    "detail_pages": 2256,
     "low_content_detail_pages": 96,
     "attachments": 420,
     "external_links": 139,
     "edges": 11554,
-    "url_outcomes": 7891
+    "url_outcomes": 7894
   },
   "outcomes": {
     "attachment_metadata_only": 412,
-    "crawled_detail_ok": 2255,
+    "crawled_detail_ok": 2256,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 161,
     "cross_domain_article_link_recorded": 14,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 6,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 59,
-    "inline_image_recorded": 4861,
+    "inline_image_recorded": 4863,
     "inline_link_recorded": 2,
     "section_list_page_recorded": 5,
     "site_entry_alias_recorded": 1
@@ -1590,7 +1590,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/",
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -33013,7 +33014,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/53/list2.htm",
-        "https://www.njupt.edu.cn/"
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -104787,7 +104789,8 @@
       "outcome": "crawled_detail_ok",
       "labels": [
         "2026.07.20 南邮与哈萨克斯坦高校搭建校际合作新平台",
-        "2026 07.20 南邮与哈萨克斯坦高校搭建校际合作新平台 7月16日，南京邮电大学党委书记郭宇锋、副校长刘青山受邀赴上海参加中哈高校战略合作协议签约仪式，现场分别与哈萨克斯国立体育大学、哈萨克斯坦阿拉木图能源与通信大学签署合作协议，将围绕电子信息、计算机、体育传媒等领域，开展本硕层次学生联合培养、教师互访、联合实验室共建等务实合作。 7月17日，哈萨克斯坦国立体育大学校长Kuangaliyeva Tursynzada一行访问南邮。座谈交流会上，胡纵宇副校长介绍了南邮办学情况，期待两校发挥各自学科优势，以实验室共建为纽带，共同探索体育+数媒融合路径，携手培养兼具数字技术与体育传播素养的国际化复合型人才。Kuangaliyeva介绍了哈萨克斯坦国立体育大学办学概况，希望双方在体育融媒体建设、网络体育赛事运营、人工智能体育实训等领域开展深度务实合作。会后，哈方代表团参观了南邮通信馆、数字媒体与设计艺术学院三维显示与虚拟现实实验室。 南邮将紧扣“一带一路” 教育行动部署，依托中国— 中亚机制与江苏— 中亚产教融合联盟双重平台，持续深化与哈萨克斯坦高校常态化科教交流，加快推进有关合作项目落地实施。（图文：程丰宁 初审：张舒 编辑：王存宏 审核："
+        "2026 07.20 南邮与哈萨克斯坦高校搭建校际合作新平台 7月16日，南京邮电大学党委书记郭宇锋、副校长刘青山受邀赴上海参加中哈高校战略合作协议签约仪式，现场分别与哈萨克斯国立体育大学、哈萨克斯坦阿拉木图能源与通信大学签署合作协议，将围绕电子信息、计算机、体育传媒等领域，开展本硕层次学生联合培养、教师互访、联合实验室共建等务实合作。 7月17日，哈萨克斯坦国立体育大学校长Kuangaliyeva Tursynzada一行访问南邮。座谈交流会上，胡纵宇副校长介绍了南邮办学情况，期待两校发挥各自学科优势，以实验室共建为纽带，共同探索体育+数媒融合路径，携手培养兼具数字技术与体育传播素养的国际化复合型人才。Kuangaliyeva介绍了哈萨克斯坦国立体育大学办学概况，希望双方在体育融媒体建设、网络体育赛事运营、人工智能体育实训等领域开展深度务实合作。会后，哈方代表团参观了南邮通信馆、数字媒体与设计艺术学院三维显示与虚拟现实实验室。 南邮将紧扣“一带一路” 教育行动部署，依托中国— 中亚机制与江苏— 中亚产教融合联盟双重平台，持续深化与哈萨克斯坦高校常态化科教交流，加快推进有关合作项目落地实施。（图文：程丰宁 初审：张舒 编辑：王存宏 审核：",
+        "2026 07.20 南邮与哈萨克斯坦高校搭建校际合作新平台 7月16日，南京邮电大学党委书记郭宇锋、副校长刘青山受邀赴上海参加中哈高校战略合作协议签约仪式，现场分别与哈萨克斯坦国立体育大学、哈萨克斯坦阿拉木图能源与通信大学签署合作协议，将围绕电子信息、计算机、体育传媒等领域，开展本硕层次学生联合培养、教师互访、联合实验室共建等务实合作。出席中哈高校签约仪式 7月17日，哈萨克斯坦国立体育大学校长Kuangaliyeva Tursynzada一行访问南邮。座谈交流会上，胡纵宇副校长介绍了南邮办学情况，期待两校发挥各自学科优势，以实验室共建为纽带，共同探索体育+数媒融合路径，携手培养兼具数字技术与体育传播素养的国际化复合型人才。Kuangaliyeva介绍了哈萨克斯坦国立体育大学办学概况，希望双方在体育融媒体建设、网络体育赛事运营、人工智能体育实训等领域开展深度务实合作。会后，哈方代表团参观了南邮通信馆、数字媒体与设计艺术学院三维显示与虚拟现实实验室。哈萨克斯坦国立体育大学到访 南邮将紧扣“一带一路”教育行动部署，依托中国—中亚机制与江苏—中亚产教融合联盟双重平台，持续深化与哈萨克斯坦高校常态化科教交流，加快推进有关合作项目落地实施。（图文"
       ],
       "sources": [
         "https://www.njupt.edu.cn/",
@@ -104829,6 +104832,47 @@
       "labels": [],
       "sources": [
         "https://www.njupt.edu.cn/2026/0722/c53a306719/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/2026/0723/c53a306756/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0723/c53a306756/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.07.23 南邮毽球队获2026年全国大学生毽球锦标赛金牌",
+        "2026 07.23 南邮毽球队获2026年全国大学生毽球锦标赛金牌 7月22日，2026年全国大学生毽球锦标赛在青岛落幕。南京邮电大学毽球队队员，计算机学院、软件学院、网络空间安全学院项永康获男子甲组规定套路冠军、摘得金牌，材料科学与工程学院顾鑫、自动化学院葛海源获男子甲组竞技毽球双人赛第七名。 本次大赛由中国学生体育联合会主办，是国内高校毽球项目级别最高的赛事，全国56所高校、420名教练员及运动员参加。赛场上，南邮毽球队在谢维俊教练的悉心指导下，参赛队员敢打敢拼、奋勇争先，充分展现了“信达天下、自强不息”的南邮精神，彰显了当代大学生朝气蓬勃、坚韧奋进的青春风采。 南邮高度重视体育工作，不断完善训练保障体系，积极搭建高水平竞技平台，为运动队的成长提供坚实支撑。此次夺冠，是学校深化“身心相济，成人成才”体育育人理念的又一硕果，将激励同学们在体育锻炼中享受乐趣、增强体质，在人生的赛场上不断超越自我。（撰稿：孙运东 初审：丁静 编辑：王存宏 审核：张丰）"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/5f/78/f95421f2420da64df239d51290a7/b1d09d04-b33d-4d50-8ba4-bc0c8a560057.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/5f/78/f95421f2420da64df239d51290a7/b1d09d04-b33d-4d50-8ba4-bc0c8a560057.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0723/c53a306756/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/5f/78/f95421f2420da64df239d51290a7/503b4333-9611-4cda-969a-54f10dbd0acc.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/5f/78/f95421f2420da64df239d51290a7/503b4333-9611-4cda-969a-54f10dbd0acc.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0723/c53a306756/page.htm"
       ],
       "section_ids": [
         "www_news"
