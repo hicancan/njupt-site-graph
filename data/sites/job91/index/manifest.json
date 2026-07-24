@@ -1,6 +1,6 @@
 {
   "site_id": "job91",
-  "generated_at": "2026-07-24T01:26:21.621934+00:00",
+  "generated_at": "2026-07-24T08:07:02.758656+00:00",
   "totals": {
     "sections": 29,
     "nav_nodes": 29,
@@ -700,12 +700,12 @@
       ],
       "status_code": 200
     },
-    "https://njupt.91job.org.cn/sub-station/news/0E2A2A6B0E62E772E0630100007F8650": {
-      "url": "https://njupt.91job.org.cn/sub-station/news/0E2A2A6B0E62E772E0630100007F8650",
+    "https://njupt.91job.org.cn/sub-station/news/0E2A2A6B0E61E772E0630100007F8650": {
+      "url": "https://njupt.91job.org.cn/sub-station/news/0E2A2A6B0E61E772E0630100007F8650",
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "2024年苏州市“春之约”高校毕业生双选会活动"
+        "2024年1月南京市高校毕业生等重点群体招聘活动安排表（161场）"
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/list/3602"
@@ -715,12 +715,12 @@
       ],
       "status_code": 200
     },
-    "https://njupt.91job.org.cn/sub-station/news/0E2A2A6B0E61E772E0630100007F8650": {
-      "url": "https://njupt.91job.org.cn/sub-station/news/0E2A2A6B0E61E772E0630100007F8650",
+    "https://njupt.91job.org.cn/sub-station/news/0E2A2A6B0E62E772E0630100007F8650": {
+      "url": "https://njupt.91job.org.cn/sub-station/news/0E2A2A6B0E62E772E0630100007F8650",
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "2024年1月南京市高校毕业生等重点群体招聘活动安排表（161场）"
+        "2024年苏州市“春之约”高校毕业生双选会活动"
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/list/3602"
@@ -3011,21 +3011,6 @@
       ],
       "status_code": 200
     },
-    "http://www.njupt.edu.cn/2023/0602/c53a242429/page.htm": {
-      "url": "http://www.njupt.edu.cn/2023/0602/c53a242429/page.htm",
-      "target_type": "detail_article_page",
-      "outcome": "crawled_detail_ok",
-      "labels": [
-        "【访企拓岗】叶美兰校长率队调研中国船舶集团有限公司第七二二研究所"
-      ],
-      "sources": [
-        "https://njupt.91job.org.cn/sub-station/list/3603"
-      ],
-      "section_ids": [
-        "job91_7488d30cc301"
-      ],
-      "status_code": 200
-    },
     "http://www.njupt.edu.cn/2023/0602/c53a242430/page.htm": {
       "url": "http://www.njupt.edu.cn/2023/0602/c53a242430/page.htm",
       "target_type": "detail_article_page",
@@ -3040,6 +3025,21 @@
       "section_ids": [
         "job91_7488d30cc301",
         "job91_0d4d0da9e718"
+      ],
+      "status_code": 200
+    },
+    "http://www.njupt.edu.cn/2023/0602/c53a242429/page.htm": {
+      "url": "http://www.njupt.edu.cn/2023/0602/c53a242429/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "【访企拓岗】叶美兰校长率队调研中国船舶集团有限公司第七二二研究所"
+      ],
+      "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3603"
+      ],
+      "section_ids": [
+        "job91_7488d30cc301"
       ],
       "status_code": 200
     },
@@ -3225,12 +3225,12 @@
       ],
       "status_code": 200
     },
-    "https://njupt.91job.org.cn/sub-station/news/F773E4B12F65426CE0530100007F0481": {
-      "url": "https://njupt.91job.org.cn/sub-station/news/F773E4B12F65426CE0530100007F0481",
+    "https://njupt.91job.org.cn/sub-station/news/F773E4B12F66426CE0530100007F0481": {
+      "url": "https://njupt.91job.org.cn/sub-station/news/F773E4B12F66426CE0530100007F0481",
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "【访企拓岗】访企拓岗在行动协同育人共发展——物联网学院与中国通信服务浙江公司等开展促就业专项行动"
+        "【访企拓岗】访企拓岗在行动协同育人共发展——物联网学院赴烽火通信科技股份有限公司走访"
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9CCCED2E0530100007FB6E8"
@@ -3240,12 +3240,12 @@
       ],
       "status_code": 200
     },
-    "https://njupt.91job.org.cn/sub-station/news/F773E4B12F66426CE0530100007F0481": {
-      "url": "https://njupt.91job.org.cn/sub-station/news/F773E4B12F66426CE0530100007F0481",
+    "https://njupt.91job.org.cn/sub-station/news/F773E4B12F65426CE0530100007F0481": {
+      "url": "https://njupt.91job.org.cn/sub-station/news/F773E4B12F65426CE0530100007F0481",
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "【访企拓岗】访企拓岗在行动协同育人共发展——物联网学院赴烽火通信科技股份有限公司走访"
+        "【访企拓岗】访企拓岗在行动协同育人共发展——物联网学院与中国通信服务浙江公司等开展促就业专项行动"
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/list/EA4183CAE9CCCED2E0530100007FB6E8"
@@ -4001,6 +4001,21 @@
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/home/10293"
+      ],
+      "section_ids": [
+        "job91_8a47e2520d1b"
+      ],
+      "status_code": 200
+    },
+    "https://njupt.91job.org.cn/sub-station/news/57538AE8E1713692E0630100007FB709": {
+      "url": "https://njupt.91job.org.cn/sub-station/news/57538AE8E1713692E0630100007FB709",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "刘帅鹏就业推荐表遗失公示"
+      ],
+      "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3604"
       ],
       "section_ids": [
         "job91_8a47e2520d1b"
@@ -4892,6 +4907,21 @@
       ],
       "status_code": 200
     },
+    "https://njupt.91job.org.cn/sub-station/news/36424354026F3ABDE0630100007FFD6C": {
+      "url": "https://njupt.91job.org.cn/sub-station/news/36424354026F3ABDE0630100007FFD6C",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "刘上专利授权证明公示"
+      ],
+      "sources": [
+        "https://njupt.91job.org.cn/sub-station/list/3604"
+      ],
+      "section_ids": [
+        "job91_8a47e2520d1b"
+      ],
+      "status_code": 200
+    },
     "https://njupt.91job.org.cn/sub-station/news/364245F5531F399FE0630100007FC932": {
       "url": "https://njupt.91job.org.cn/sub-station/news/364245F5531F399FE0630100007FC932",
       "target_type": "detail_article_page",
@@ -4922,21 +4952,6 @@
       ],
       "status_code": 200
     },
-    "https://njupt.91job.org.cn/sub-station/news/36424354026F3ABDE0630100007FFD6C": {
-      "url": "https://njupt.91job.org.cn/sub-station/news/36424354026F3ABDE0630100007FFD6C",
-      "target_type": "detail_article_page",
-      "outcome": "crawled_detail_ok",
-      "labels": [
-        "刘上专利授权证明公示"
-      ],
-      "sources": [
-        "https://njupt.91job.org.cn/sub-station/list/3604"
-      ],
-      "section_ids": [
-        "job91_8a47e2520d1b"
-      ],
-      "status_code": 200
-    },
     "https://njupt.91job.org.cn/sub-station/news/368E7E4AEF09EE8DE0630100007FBD8A": {
       "url": "https://njupt.91job.org.cn/sub-station/news/368E7E4AEF09EE8DE0630100007FBD8A",
       "target_type": "detail_article_page",
@@ -4952,12 +4967,12 @@
       ],
       "status_code": 200
     },
-    "https://njupt.91job.org.cn/sub-station/news/362EA37D6FAA7537E0630100007F3485": {
-      "url": "https://njupt.91job.org.cn/sub-station/news/362EA37D6FAA7537E0630100007F3485",
+    "https://njupt.91job.org.cn/sub-station/news/362EA37D566875BFE0630100007F1D40": {
+      "url": "https://njupt.91job.org.cn/sub-station/news/362EA37D566875BFE0630100007F1D40",
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "张学伟专利授权证明公示"
+        "华辰飞专利授权证明公示"
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/list/3604"
@@ -4967,12 +4982,12 @@
       ],
       "status_code": 200
     },
-    "https://njupt.91job.org.cn/sub-station/news/362EA37D566875BFE0630100007F1D40": {
-      "url": "https://njupt.91job.org.cn/sub-station/news/362EA37D566875BFE0630100007F1D40",
+    "https://njupt.91job.org.cn/sub-station/news/362EA37D6FAA7537E0630100007F3485": {
+      "url": "https://njupt.91job.org.cn/sub-station/news/362EA37D6FAA7537E0630100007F3485",
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "华辰飞专利授权证明公示"
+        "张学伟专利授权证明公示"
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/list/3604"
@@ -5785,21 +5800,6 @@
       "outcome": "crawled_detail_ok",
       "labels": [
         "张芷铭推荐表遗失公示"
-      ],
-      "sources": [
-        "https://njupt.91job.org.cn/sub-station/list/3604"
-      ],
-      "section_ids": [
-        "job91_8a47e2520d1b"
-      ],
-      "status_code": 200
-    },
-    "https://njupt.91job.org.cn/sub-station/news/145FDAA96CE748E8E0630100007F3FE3": {
-      "url": "https://njupt.91job.org.cn/sub-station/news/145FDAA96CE748E8E0630100007F3FE3",
-      "target_type": "detail_article_page",
-      "outcome": "crawled_detail_ok",
-      "labels": [
-        "江苏省2024年应届优秀大学毕业生选调乡镇（街道）考察人选材料的公示"
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/list/3604"
@@ -11944,12 +11944,12 @@
       ],
       "status_code": 200
     },
-    "https://mp.weixin.qq.com/s/_QqBqnETANArLBrPKmD9_Q": {
-      "url": "https://mp.weixin.qq.com/s/_QqBqnETANArLBrPKmD9_Q",
+    "https://mp.weixin.qq.com/s/iRtl8SkVWLKkuLJ6UejtUw": {
+      "url": "https://mp.weixin.qq.com/s/iRtl8SkVWLKkuLJ6UejtUw",
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "平安证券2026届暑期实习生招聘火热进行中！"
+        "理想汽车2026届实习生招聘项目正式启动"
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/list/EA45DDCC961CED7AE0530100007F54C4"
@@ -11959,12 +11959,12 @@
       ],
       "status_code": 200
     },
-    "https://mp.weixin.qq.com/s/iRtl8SkVWLKkuLJ6UejtUw": {
-      "url": "https://mp.weixin.qq.com/s/iRtl8SkVWLKkuLJ6UejtUw",
+    "https://mp.weixin.qq.com/s/_QqBqnETANArLBrPKmD9_Q": {
+      "url": "https://mp.weixin.qq.com/s/_QqBqnETANArLBrPKmD9_Q",
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "理想汽车2026届实习生招聘项目正式启动"
+        "平安证券2026届暑期实习生招聘火热进行中！"
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/list/EA45DDCC961CED7AE0530100007F54C4"
@@ -11989,12 +11989,12 @@
       ],
       "status_code": 200
     },
-    "https://mp.weixin.qq.com/s/oQJBw6B0rng3JHH8qrxC2Q": {
-      "url": "https://mp.weixin.qq.com/s/oQJBw6B0rng3JHH8qrxC2Q",
+    "https://mp.weixin.qq.com/s/JDkmqLQ9e4ifwUug-TR1Ew": {
+      "url": "https://mp.weixin.qq.com/s/JDkmqLQ9e4ifwUug-TR1Ew",
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "中兴通讯实习生招聘正式启动，邀你探索智算兴世界！"
+        "实习生招聘 | 暑假助教投递渠道已开放！速来！"
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/list/EA45DDCC961CED7AE0530100007F54C4"
@@ -12004,12 +12004,12 @@
       ],
       "status_code": 200
     },
-    "https://mp.weixin.qq.com/s/JDkmqLQ9e4ifwUug-TR1Ew": {
-      "url": "https://mp.weixin.qq.com/s/JDkmqLQ9e4ifwUug-TR1Ew",
+    "https://mp.weixin.qq.com/s/oQJBw6B0rng3JHH8qrxC2Q": {
+      "url": "https://mp.weixin.qq.com/s/oQJBw6B0rng3JHH8qrxC2Q",
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "实习生招聘 | 暑假助教投递渠道已开放！速来！"
+        "中兴通讯实习生招聘正式启动，邀你探索智算兴世界！"
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/list/EA45DDCC961CED7AE0530100007F54C4"
@@ -12831,12 +12831,12 @@
       ],
       "status_code": 200
     },
-    "https://www.lswz.gov.cn/html/ywpd/rsrc/2026-03/27/content_292875.shtml": {
-      "url": "https://www.lswz.gov.cn/html/ywpd/rsrc/2026-03/27/content_292875.shtml",
+    "https://www.lswz.gov.cn/html/ywpd/rsrc/2026-03/27/content_292873.shtml": {
+      "url": "https://www.lswz.gov.cn/html/ywpd/rsrc/2026-03/27/content_292873.shtml",
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "国家粮食和物资储备局直属联系单位2026年度公开招聘工作人员公告"
+        "国家粮食和物资储备局垂直管理局事业单位2026年度公开招聘工作人员公告"
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/list/217E79FBC0335B79E0630100007FFFE7"
@@ -12846,12 +12846,12 @@
       ],
       "status_code": 200
     },
-    "https://www.lswz.gov.cn/html/ywpd/rsrc/2026-03/27/content_292873.shtml": {
-      "url": "https://www.lswz.gov.cn/html/ywpd/rsrc/2026-03/27/content_292873.shtml",
+    "https://www.lswz.gov.cn/html/ywpd/rsrc/2026-03/27/content_292875.shtml": {
+      "url": "https://www.lswz.gov.cn/html/ywpd/rsrc/2026-03/27/content_292875.shtml",
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "国家粮食和物资储备局垂直管理局事业单位2026年度公开招聘工作人员公告"
+        "国家粮食和物资储备局直属联系单位2026年度公开招聘工作人员公告"
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/list/217E79FBC0335B79E0630100007FFFE7"
@@ -14001,12 +14001,12 @@
       ],
       "status_code": 200
     },
-    "https://njupt.91job.org.cn/sub-station/news/161CEA905CDB49BEE0630100007FADC0": {
-      "url": "https://njupt.91job.org.cn/sub-station/news/161CEA905CDB49BEE0630100007FADC0",
+    "https://njupt.91job.org.cn/sub-station/news/161D30DC152D7099E0630100007F8B48": {
+      "url": "https://njupt.91job.org.cn/sub-station/news/161D30DC152D7099E0630100007F8B48",
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "2024年青岛市即墨区“优秀青年人才选育计划（中小学教师）”公告"
+        "2024年青岛市即墨区“优秀青年人才选育计划（中小学教师）”第二阶段现场报名、资格审查等有关事宜的公告"
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/list/18006784DC636735E0630100007F40EF"
@@ -14016,12 +14016,12 @@
       ],
       "status_code": 200
     },
-    "https://njupt.91job.org.cn/sub-station/news/161D30DC152D7099E0630100007F8B48": {
-      "url": "https://njupt.91job.org.cn/sub-station/news/161D30DC152D7099E0630100007F8B48",
+    "https://njupt.91job.org.cn/sub-station/news/161CEA905CDB49BEE0630100007FADC0": {
+      "url": "https://njupt.91job.org.cn/sub-station/news/161CEA905CDB49BEE0630100007FADC0",
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "2024年青岛市即墨区“优秀青年人才选育计划（中小学教师）”第二阶段现场报名、资格审查等有关事宜的公告"
+        "2024年青岛市即墨区“优秀青年人才选育计划（中小学教师）”公告"
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/list/18006784DC636735E0630100007F40EF"
@@ -14061,12 +14061,12 @@
       ],
       "status_code": 200
     },
-    "https://njupt.91job.org.cn/sub-station/news/15DC682DE1704542E0630100007FB212": {
-      "url": "https://njupt.91job.org.cn/sub-station/news/15DC682DE1704542E0630100007FB212",
+    "https://njupt.91job.org.cn/sub-station/news/15DC53D884083E17E0630100007FEBCA": {
+      "url": "https://njupt.91job.org.cn/sub-station/news/15DC53D884083E17E0630100007FEBCA",
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "2024年中共济南市委编办所属事业单位引进急需紧缺专业人才公告"
+        "金昌市2024年第一批引进高层次和急需紧缺人才公告"
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/list/18006784DC636735E0630100007F40EF"
@@ -14076,12 +14076,12 @@
       ],
       "status_code": 200
     },
-    "https://njupt.91job.org.cn/sub-station/news/15DC53D884083E17E0630100007FEBCA": {
-      "url": "https://njupt.91job.org.cn/sub-station/news/15DC53D884083E17E0630100007FEBCA",
+    "https://njupt.91job.org.cn/sub-station/news/15DC682DE1704542E0630100007FB212": {
+      "url": "https://njupt.91job.org.cn/sub-station/news/15DC682DE1704542E0630100007FB212",
       "target_type": "detail_article_page",
       "outcome": "crawled_detail_ok",
       "labels": [
-        "金昌市2024年第一批引进高层次和急需紧缺人才公告"
+        "2024年中共济南市委编办所属事业单位引进急需紧缺专业人才公告"
       ],
       "sources": [
         "https://njupt.91job.org.cn/sub-station/list/18006784DC636735E0630100007F40EF"

@@ -1,6 +1,6 @@
 {
   "site_id": "cxcy",
-  "generated_at": "2026-07-24T01:24:06.867533+00:00",
+  "generated_at": "2026-07-24T08:04:00.254619+00:00",
   "totals": {
     "sections": 39,
     "nav_nodes": 29,
@@ -19,8 +19,8 @@
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 83,
     "cross_domain_article_link_recorded": 2,
-    "external_link_recorded": 58,
-    "external_policy_link_recorded": 3,
+    "external_link_recorded": 57,
+    "external_policy_link_recorded": 4,
     "external_system_link_recorded": 3,
     "homepage_link_recorded": 1,
     "inline_image_recorded": 378
@@ -1127,7 +1127,7 @@
     "https://cxcy.njupt.edu.cn/_redirect?siteId=331&columnId=15478&articleId=141197": {
       "url": "https://cxcy.njupt.edu.cn/_redirect?siteId=331&columnId=15478&articleId=141197",
       "target_type": "redirect_link",
-      "outcome": "external_link_recorded",
+      "outcome": "external_policy_link_recorded",
       "labels": [
         "教育部网站"
       ],
