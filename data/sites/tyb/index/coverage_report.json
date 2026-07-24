@@ -1,7 +1,7 @@
 {
   "version": "sitegraph-coverage-v1",
   "site_id": "tyb",
-  "generated_at": "2026-07-02T19:14:01.983657+00:00",
+  "generated_at": "2026-07-24T01:36:01.074361+00:00",
   "crawl_mode": "incremental",
   "evidence_source": "full_crawl",
   "coverage_status": "complete",
@@ -25,7 +25,7 @@
   },
   "pages": {
     "list_pages": 240,
-    "detail_pages": 2176
+    "detail_pages": 2178
   },
   "attachments": {
     "policy": "metadata_only",
