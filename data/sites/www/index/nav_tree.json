@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-23T08:07:36.491155+00:00",
+  "generated_at": "2026-07-24T13:13:52.098463+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -759,7 +759,21 @@
       "position": 66
     },
     {
-      "node_id": "142b0067e4c7e095809f",
+      "node_id": "f2b3d9eb99d099b8bf13",
+      "site_id": "www",
+      "label": "2026.07.24 南邮举办2026年国家自然科学基金数学天元基金项目 “人工智能的优化方法前沿讲习班”",
+      "url": "https://www.njupt.edu.cn/2026/0724/c53a306793/page.htm",
+      "nav_path": [
+        "2026.07.24 南邮举办2026年国家自然科学基金数学天元基金项目 “人工智能的优化方法前沿讲习班”"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 67
+    },
+    {
+      "node_id": "e8efaefe5dcdde6e63e1",
       "site_id": "www",
       "label": "2026.07.23 南邮毽球队获2026年全国大学生毽球锦标赛金牌",
       "url": "https://www.njupt.edu.cn/2026/0723/c53a306756/page.htm",
@@ -770,10 +784,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 67
+      "position": 68
     },
     {
-      "node_id": "899429deb11279e43ac1",
+      "node_id": "0bcc6031b5639a6d4e28",
       "site_id": "www",
       "label": "2026.07.20 南邮与哈萨克斯坦高校搭建校际合作新平台",
       "url": "https://www.njupt.edu.cn/2026/0722/c53a306719/page.htm",
@@ -784,10 +798,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 68
+      "position": 69
     },
     {
-      "node_id": "aed2d1514de1417f3494",
+      "node_id": "236c1256f15e70543a83",
       "site_id": "www",
       "label": "2026.07.16 南邮大学生社会实践基地揭牌仪式在中山陵园管理局举行",
       "url": "https://www.njupt.edu.cn/2026/0716/c53a306599/page.htm",
@@ -798,29 +812,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 69
+      "position": 70
     },
     {
-      "node_id": "fd689f00823d700702cf",
+      "node_id": "f2b1cbcd451cbd4a722e",
       "site_id": "www",
       "label": "2026.07.14 南邮与无锡市、惠山区共同举办合作发展大会",
       "url": "https://www.njupt.edu.cn/2026/0714/c53a306532/page.htm",
       "nav_path": [
         "2026.07.14 南邮与无锡市、惠山区共同举办合作发展大会"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 70
-    },
-    {
-      "node_id": "199cf524bf5e5ef8a055",
-      "site_id": "www",
-      "label": "2026.07.12 南邮王琴教授团队在实用化量子密钥分发网络方面取得系列重要研究进展",
-      "url": "https://www.njupt.edu.cn/2026/0712/c53a306477/page.htm",
-      "nav_path": [
-        "2026.07.12 南邮王琴教授团队在实用化量子密钥分发网络方面取得系列重要研究进展"
       ],
       "depth": 1,
       "target_type": "detail_article_page",

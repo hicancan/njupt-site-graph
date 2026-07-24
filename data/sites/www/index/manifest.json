@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-23T08:07:33.010317+00:00",
+  "generated_at": "2026-07-24T13:13:49.402369+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 133,
     "homepage_modules": 0,
     "list_pages": 161,
-    "detail_pages": 2256,
+    "detail_pages": 2257,
     "low_content_detail_pages": 96,
     "attachments": 420,
     "external_links": 139,
     "edges": 11554,
-    "url_outcomes": 7894
+    "url_outcomes": 7897
   },
   "outcomes": {
     "attachment_metadata_only": 412,
-    "crawled_detail_ok": 2256,
+    "crawled_detail_ok": 2257,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 161,
     "cross_domain_article_link_recorded": 14,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 6,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 59,
-    "inline_image_recorded": 4863,
+    "inline_image_recorded": 4865,
     "inline_link_recorded": 2,
     "section_list_page_recorded": 5,
     "site_entry_alias_recorded": 1
@@ -1396,7 +1396,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/",
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -32961,7 +32962,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/53/list2.htm",
-        "https://www.njupt.edu.cn/"
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -104873,6 +104875,47 @@
       "labels": [],
       "sources": [
         "https://www.njupt.edu.cn/2026/0723/c53a306756/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/2026/0724/c53a306793/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0724/c53a306793/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.07.24 南邮举办2026年国家自然科学基金数学天元基金项目 “人工智能的优化方法前沿讲习班”",
+        "2026 07.24 南邮举办2026年国家自然科学基金数学天元基金项目 “人工智能的优化方法前沿讲习班” 7月5日至24日，2026年国家自然科学基金数学天元基金项目“人工智能的优化方法前沿讲习班”在南京邮电大学举行。东南大学曹进德教授，南邮党委副书记王友国教授、副校长肖甫教授，科学技术处、研究生院、图书馆、理学院负责人出席开班和结业仪式。 本次讲习班由国家自然科学基金委员会数学天元基金资助，南京邮电大学主办，南邮理学院、科学技术协会和南京大学数学学院、南京师范大学数学科学学院共同承办。来自全国30余所高校的40名优秀研究生、博士后和青年教师齐聚南邮，共同开展学习交流。 讲习班围绕“大模型与优化自动建模”“大模型训练中的优化问题”“扩散模型与优化求解”等主题，邀请中国科学院数学与系统科学研究院、清华大学、南京大学、东北大学、华东师范大学、香港浸会大学、南方科技大学等高校和科研院所的知名专家学者开展专题授课和学术报告。课程内容涵盖随机优化、生成模型、流匹配、在线学习、大模型剪枝、可信人工智能等前沿方向，并组织学员开展学术报告、交流研讨和实践参观等活动，为青年学者搭建了高水平学习交流平台，进一步促进了人工智能与优化方法领域的学术交流与交叉融合。知名专家学者作专题授课和学术报告实践环节（"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/3b/39/2f90f8ce41d5af5592eaf805f9f4/08d43612-83ef-4a1c-8d77-9e6abbb4948c.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/3b/39/2f90f8ce41d5af5592eaf805f9f4/08d43612-83ef-4a1c-8d77-9e6abbb4948c.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0724/c53a306793/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/3b/39/2f90f8ce41d5af5592eaf805f9f4/248a7c46-5a88-4e71-872a-fa7f85546555.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/3b/39/2f90f8ce41d5af5592eaf805f9f4/248a7c46-5a88-4e71-872a-fa7f85546555.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0724/c53a306793/page.htm"
       ],
       "section_ids": [
         "www_news"
