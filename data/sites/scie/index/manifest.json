@@ -1,6 +1,6 @@
 {
   "site_id": "scie",
-  "generated_at": "2026-07-23T01:32:53.777886+00:00",
+  "generated_at": "2026-07-27T14:11:28.029546+00:00",
   "totals": {
     "sections": 4,
     "nav_nodes": 57,
@@ -11,7 +11,7 @@
     "attachments": 0,
     "external_links": 8,
     "edges": 654,
-    "url_outcomes": 2026
+    "url_outcomes": 2028
   },
   "outcomes": {
     "crawled_detail_ok": 555,
@@ -19,7 +19,7 @@
     "crawled_list_ok": 40,
     "cross_domain_article_link_recorded": 1,
     "external_link_recorded": 7,
-    "homepage_link_recorded": 76,
+    "homepage_link_recorded": 78,
     "inline_image_recorded": 1346
   },
   "errors": [],
@@ -26520,6 +26520,30 @@
       "outcome": "homepage_link_recorded",
       "labels": [
         "南京邮电大学通信与信息工程学院曾桂根科研团队软件工程师拟聘用人员公示"
+      ],
+      "sources": [
+        "https://scie.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://scie.njupt.edu.cn/2026/0727/c2890a306833/page.htm": {
+      "url": "https://scie.njupt.edu.cn/2026/0727/c2890a306833/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "homepage_link_recorded",
+      "labels": [
+        "通信与信息工程学院关于公开招聘科研助理的通知"
+      ],
+      "sources": [
+        "https://scie.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://scie.njupt.edu.cn/2026/0727/c2890a306832/page.htm": {
+      "url": "https://scie.njupt.edu.cn/2026/0727/c2890a306832/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "homepage_link_recorded",
+      "labels": [
+        "南京邮电大学通信与信息工程学院谢世朋科研团队科研助理拟聘用人员公示"
       ],
       "sources": [
         "https://scie.njupt.edu.cn/"
