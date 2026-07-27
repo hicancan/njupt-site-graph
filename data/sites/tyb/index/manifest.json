@@ -1,27 +1,27 @@
 {
   "site_id": "tyb",
-  "generated_at": "2026-07-24T01:26:44.122019+00:00",
+  "generated_at": "2026-07-27T19:10:23.673462+00:00",
   "totals": {
     "sections": 266,
     "nav_nodes": 64,
     "homepage_modules": 0,
     "list_pages": 240,
-    "detail_pages": 2178,
+    "detail_pages": 2180,
     "low_content_detail_pages": 681,
     "attachments": 154,
     "external_links": 50,
     "edges": 689,
-    "url_outcomes": 4851
+    "url_outcomes": 4856
   },
   "outcomes": {
     "attachment_metadata_only": 187,
-    "crawled_detail_ok": 1938,
+    "crawled_detail_ok": 1940,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 240,
     "cross_domain_article_link_recorded": 10,
     "external_link_recorded": 36,
     "external_policy_link_recorded": 1,
-    "inline_image_recorded": 2262,
+    "inline_image_recorded": 2265,
     "inline_link_recorded": 176
   },
   "errors": [],
@@ -89477,6 +89477,77 @@
       "sources": [
         "https://tyb.njupt.edu.cn/2026/0724/c7253a306776/page.htm",
         "https://tyb.njupt.edu.cn/2026/0724/c18439a306776/page.htm"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ]
+    },
+    "https://tyb.njupt.edu.cn/2026/0727/c7253a306841/page.htm": {
+      "url": "https://tyb.njupt.edu.cn/2026/0727/c7253a306841/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "<a href='/2026/0727/c7253a306841/page.htm' target='_blank' title='我校健身气功队在2026年全国高等院校健身气功锦标赛中首战告捷'>我校健身气功队在2026年全国高等院校健身气功锦标赛中首战告捷</a>",
+        "我校健身气功队在2026年全国高等院校健身气功锦标赛中首战告捷"
+      ],
+      "sources": [
+        "https://tyb.njupt.edu.cn/"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://tyb.njupt.edu.cn/2026/0727/c18439a306841/page.htm": {
+      "url": "https://tyb.njupt.edu.cn/2026/0727/c18439a306841/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "<a href='/2026/0727/c18439a306841/page.htm' target='_blank' title='我校健身气功队在2026年全国高等院校健身气功锦标赛中首战告捷'>我校健身气功队在2026年全国高等院校健身气功锦标赛中首战告捷</a>",
+        "我校健身气功队在2026年全国高等院校健身气功锦标赛中首战告捷"
+      ],
+      "sources": [
+        "https://tyb.njupt.edu.cn/"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ],
+      "status_code": 200
+    },
+    "https://tyb.njupt.edu.cn/_upload/article/images/61/cb/d1e0a1c24fbe98f1c9f4083f0ec1/fab12295-d1be-4dd4-be21-608d8f851348.png": {
+      "url": "https://tyb.njupt.edu.cn/_upload/article/images/61/cb/d1e0a1c24fbe98f1c9f4083f0ec1/fab12295-d1be-4dd4-be21-608d8f851348.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://tyb.njupt.edu.cn/2026/0727/c7253a306841/page.htm",
+        "https://tyb.njupt.edu.cn/2026/0727/c18439a306841/page.htm"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ]
+    },
+    "https://tyb.njupt.edu.cn/_upload/article/images/61/cb/d1e0a1c24fbe98f1c9f4083f0ec1/5cebc1a3-a34d-48cb-ba68-ea8c86dbd3d6.png": {
+      "url": "https://tyb.njupt.edu.cn/_upload/article/images/61/cb/d1e0a1c24fbe98f1c9f4083f0ec1/5cebc1a3-a34d-48cb-ba68-ea8c86dbd3d6.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://tyb.njupt.edu.cn/2026/0727/c7253a306841/page.htm",
+        "https://tyb.njupt.edu.cn/2026/0727/c18439a306841/page.htm"
+      ],
+      "section_ids": [
+        "tyb_direct_detail_links"
+      ]
+    },
+    "https://tyb.njupt.edu.cn/_upload/article/images/61/cb/d1e0a1c24fbe98f1c9f4083f0ec1/df5ed80d-3bc0-42e1-be2c-f57468e895a4.png": {
+      "url": "https://tyb.njupt.edu.cn/_upload/article/images/61/cb/d1e0a1c24fbe98f1c9f4083f0ec1/df5ed80d-3bc0-42e1-be2c-f57468e895a4.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://tyb.njupt.edu.cn/2026/0727/c7253a306841/page.htm",
+        "https://tyb.njupt.edu.cn/2026/0727/c18439a306841/page.htm"
       ],
       "section_ids": [
         "tyb_direct_detail_links"
