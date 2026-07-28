@@ -1,6 +1,6 @@
 {
   "site_id": "jwc",
-  "generated_at": "2026-07-02T13:42:40.997263+00:00",
+  "generated_at": "2026-07-28T08:11:16.803681+00:00",
   "modules": [
     {
       "module_id": "0a183561b31a75dd46ea",
@@ -79,7 +79,7 @@
       "url": "https://jwc.njupt.edu.cn/",
       "list_url": null,
       "container_selector": ".links-wrap",
-      "link_count": 15,
+      "link_count": 10,
       "position": 7
     }
   ]

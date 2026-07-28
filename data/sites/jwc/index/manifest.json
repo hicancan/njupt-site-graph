@@ -1,6 +1,6 @@
 {
   "site_id": "jwc",
-  "generated_at": "2026-07-27T09:23:12.328646+00:00",
+  "generated_at": "2026-07-28T08:11:12.391971+00:00",
   "totals": {
     "sections": 139,
     "nav_nodes": 119,
@@ -9,9 +9,9 @@
     "detail_pages": 7005,
     "low_content_detail_pages": 823,
     "attachments": 7916,
-    "external_links": 745,
-    "edges": 16348,
-    "url_outcomes": 19293
+    "external_links": 740,
+    "edges": 16343,
+    "url_outcomes": 19301
   },
   "outcomes": {
     "attachment_metadata_only": 7194,
@@ -20,8 +20,8 @@
     "crawled_list_ok": 661,
     "cross_domain_article_link_recorded": 62,
     "error": 2,
-    "external_link_recorded": 263,
-    "external_policy_link_recorded": 41,
+    "external_link_recorded": 269,
+    "external_policy_link_recorded": 43,
     "external_system_link_recorded": 5,
     "inline_image_recorded": 3992,
     "inline_link_recorded": 121
@@ -273642,6 +273642,102 @@
         "jwc_homepage_notice_module"
       ],
       "status_code": 200
+    },
+    "https://erya.mooc.chaoxing.com/": {
+      "url": "https://erya.mooc.chaoxing.com/",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "超星尔雅通识教育"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://www.oir.pku.edu.cn/goc/": {
+      "url": "https://www.oir.pku.edu.cn/goc/",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "北京大学全球课堂"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://www.xuetangx.com/": {
+      "url": "https://www.xuetangx.com/",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "学堂在线"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://higher.smartedu.cn/": {
+      "url": "https://higher.smartedu.cn/",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "国家高等教育智慧教育平台"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "http://www.moe.gov.cn/": {
+      "url": "http://www.moe.gov.cn/",
+      "target_type": "external_link",
+      "outcome": "external_policy_link_recorded",
+      "labels": [
+        "教育部"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://jyt.jiangsu.gov.cn/": {
+      "url": "https://jyt.jiangsu.gov.cn/",
+      "target_type": "external_link",
+      "outcome": "external_policy_link_recorded",
+      "labels": [
+        "江苏教育"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://www.eol.cn/index_46.shtml": {
+      "url": "https://www.eol.cn/index_46.shtml",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "中国教育在线"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/"
+      ],
+      "section_ids": []
+    },
+    "https://edu.ecsponline.com/pc/index": {
+      "url": "https://edu.ecsponline.com/pc/index",
+      "target_type": "external_link",
+      "outcome": "external_link_recorded",
+      "labels": [
+        "科学出版社教学服务"
+      ],
+      "sources": [
+        "https://jwc.njupt.edu.cn/"
+      ],
+      "section_ids": []
     }
   },
   "coverage": {
