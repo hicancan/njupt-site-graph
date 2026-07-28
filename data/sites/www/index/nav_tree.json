@@ -1,6 +1,6 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-24T13:13:52.098463+00:00",
+  "generated_at": "2026-07-28T13:26:17.482885+00:00",
   "nodes": [
     {
       "node_id": "d70be0ffd1fb87d686fb",
@@ -759,7 +759,21 @@
       "position": 66
     },
     {
-      "node_id": "f2b3d9eb99d099b8bf13",
+      "node_id": "d6c83da66d63738040a5",
+      "site_id": "www",
+      "label": "2026.07.28 《自然·传感》刊发南邮柔性电子全国重点实验室赵强、李杨教授与黄维院士团队在脑机接口领域最新研究成果",
+      "url": "https://www.njupt.edu.cn/2026/0728/c53a306853/page.htm",
+      "nav_path": [
+        "2026.07.28 《自然·传感》刊发南邮柔性电子全国重点实验室赵强、李杨教授与黄维院士团队在脑机接口领域最新研究成果"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 67
+    },
+    {
+      "node_id": "8ba97fd43baaf38d5a4b",
       "site_id": "www",
       "label": "2026.07.24 南邮举办2026年国家自然科学基金数学天元基金项目 “人工智能的优化方法前沿讲习班”",
       "url": "https://www.njupt.edu.cn/2026/0724/c53a306793/page.htm",
@@ -770,10 +784,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 67
+      "position": 68
     },
     {
-      "node_id": "e8efaefe5dcdde6e63e1",
+      "node_id": "0bf63c0c287b6b5449b7",
       "site_id": "www",
       "label": "2026.07.23 南邮毽球队获2026年全国大学生毽球锦标赛金牌",
       "url": "https://www.njupt.edu.cn/2026/0723/c53a306756/page.htm",
@@ -784,10 +798,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 68
+      "position": 69
     },
     {
-      "node_id": "0bcc6031b5639a6d4e28",
+      "node_id": "66a63c239bd63471583f",
       "site_id": "www",
       "label": "2026.07.20 南邮与哈萨克斯坦高校搭建校际合作新平台",
       "url": "https://www.njupt.edu.cn/2026/0722/c53a306719/page.htm",
@@ -798,29 +812,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 69
+      "position": 70
     },
     {
-      "node_id": "236c1256f15e70543a83",
+      "node_id": "f4a4a15493197f5916be",
       "site_id": "www",
       "label": "2026.07.16 南邮大学生社会实践基地揭牌仪式在中山陵园管理局举行",
       "url": "https://www.njupt.edu.cn/2026/0716/c53a306599/page.htm",
       "nav_path": [
         "2026.07.16 南邮大学生社会实践基地揭牌仪式在中山陵园管理局举行"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 70
-    },
-    {
-      "node_id": "f2b1cbcd451cbd4a722e",
-      "site_id": "www",
-      "label": "2026.07.14 南邮与无锡市、惠山区共同举办合作发展大会",
-      "url": "https://www.njupt.edu.cn/2026/0714/c53a306532/page.htm",
-      "nav_path": [
-        "2026.07.14 南邮与无锡市、惠山区共同举办合作发展大会"
       ],
       "depth": 1,
       "target_type": "detail_article_page",
@@ -1235,7 +1235,21 @@
       "position": 100
     },
     {
-      "node_id": "59f576230cf82aef82ec",
+      "node_id": "401287a7937cfdfd84e0",
+      "site_id": "www",
+      "label": "《自然·传感》刊发南邮柔性电子全国重点实验室赵强、李杨教授与黄维院士团队在脑机接口领域最新研究成果",
+      "url": "https://www.njupt.edu.cn/2026/0728/c53a306853/page.htm",
+      "nav_path": [
+        "《自然·传感》刊发南邮柔性电子全国重点实验室赵强、李杨教授与黄维院士团队在脑机接口领域最新研究成果"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 101
+    },
+    {
+      "node_id": "28a1927efb253167fa4d",
       "site_id": "www",
       "label": "南邮王琴教授团队在实用化量子密钥分发网络方面取得系列重要研究进展",
       "url": "https://www.njupt.edu.cn/2026/0712/c53a306477/page.htm",
@@ -1246,10 +1260,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 101
+      "position": 102
     },
     {
-      "node_id": "af65c28043bd9315f6a4",
+      "node_id": "5cc647647e865ae09daf",
       "site_id": "www",
       "label": "Nature Nanotechnology刊发汪联辉/丁显光教授团队在生物囊泡肿瘤免疫治疗领域进展",
       "url": "https://www.njupt.edu.cn/2026/0620/c53a305196/page.htm",
@@ -1260,29 +1274,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 102
+      "position": 103
     },
     {
-      "node_id": "0f139439dcc85112954d",
+      "node_id": "948e32d33e00f43789fa",
       "site_id": "www",
       "label": "南邮教师获省高校青年教师教学竞赛暨全国高校青年教师教学竞赛选拔赛工科组第一名",
       "url": "https://www.njupt.edu.cn/2026/0617/c53a305043/page.htm",
       "nav_path": [
         "南邮教师获省高校青年教师教学竞赛暨全国高校青年教师教学竞赛选拔赛工科组第一名"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 103
-    },
-    {
-      "node_id": "e7517ebe6d83315788d4",
-      "site_id": "www",
-      "label": "《自然·化学》刊发柔性电子全国重点实验室张敬教授团队在有机铁电领域的最新研究进展",
-      "url": "https://www.njupt.edu.cn/2026/0528/c53a302868/page.htm",
-      "nav_path": [
-        "《自然·化学》刊发柔性电子全国重点实验室张敬教授团队在有机铁电领域的最新研究进展"
       ],
       "depth": 1,
       "target_type": "detail_article_page",
@@ -1305,7 +1305,21 @@
       "position": 105
     },
     {
-      "node_id": "45df145faee5316da841",
+      "node_id": "265ed61e0178abf33714",
+      "site_id": "www",
+      "label": "2026 07.28 《自然·传感》刊发南邮柔性电子全国重点实验室赵强、李杨教授与黄维院士团队在脑机接口领域最新研究成果",
+      "url": "https://www.njupt.edu.cn/2026/0728/c53a306853/page.htm",
+      "nav_path": [
+        "2026 07.28 《自然·传感》刊发南邮柔性电子全国重点实验室赵强、李杨教授与黄维院士团队在脑机接口领域最新研究成果"
+      ],
+      "depth": 1,
+      "target_type": "detail_article_page",
+      "same_domain": true,
+      "parent_id": null,
+      "position": 106
+    },
+    {
+      "node_id": "62fe449a5147ec52290d",
       "site_id": "www",
       "label": "2026 07.12 南邮王琴教授团队在实用化量子密钥分发网络方面取得系列重要研究进展",
       "url": "https://www.njupt.edu.cn/2026/0712/c53a306477/page.htm",
@@ -1316,10 +1330,10 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 106
+      "position": 107
     },
     {
-      "node_id": "138530e320c5e227875f",
+      "node_id": "0a407123d72f41c6ba73",
       "site_id": "www",
       "label": "2026 06.20 Nature Nanotechnology刊发汪联辉/丁显光教授团队在生物囊泡肿瘤免疫治疗领域进展",
       "url": "https://www.njupt.edu.cn/2026/0620/c53a305196/page.htm",
@@ -1330,29 +1344,15 @@
       "target_type": "detail_article_page",
       "same_domain": true,
       "parent_id": null,
-      "position": 107
+      "position": 108
     },
     {
-      "node_id": "ef04ff7452ddb389535c",
+      "node_id": "2cfc73c39ed21237b267",
       "site_id": "www",
       "label": "2026 06.16 南邮教师获省高校青年教师教学竞赛暨全国高校青年教师教学竞赛选拔赛工科组第一名",
       "url": "https://www.njupt.edu.cn/2026/0617/c53a305043/page.htm",
       "nav_path": [
         "2026 06.16 南邮教师获省高校青年教师教学竞赛暨全国高校青年教师教学竞赛选拔赛工科组第一名"
-      ],
-      "depth": 1,
-      "target_type": "detail_article_page",
-      "same_domain": true,
-      "parent_id": null,
-      "position": 108
-    },
-    {
-      "node_id": "bfa9ed7dc0738b0a3bd1",
-      "site_id": "www",
-      "label": "2026 05.28 《自然·化学》刊发柔性电子全国重点实验室张敬教授团队在有机铁电领域的最新研究进展",
-      "url": "https://www.njupt.edu.cn/2026/0528/c53a302868/page.htm",
-      "nav_path": [
-        "2026 05.28 《自然·化学》刊发柔性电子全国重点实验室张敬教授团队在有机铁电领域的最新研究进展"
       ],
       "depth": 1,
       "target_type": "detail_article_page",

@@ -1,21 +1,21 @@
 {
   "site_id": "www",
-  "generated_at": "2026-07-27T09:23:12.393237+00:00",
+  "generated_at": "2026-07-28T13:26:14.565936+00:00",
   "totals": {
     "sections": 3,
     "nav_nodes": 133,
     "homepage_modules": 0,
     "list_pages": 161,
-    "detail_pages": 2257,
+    "detail_pages": 2258,
     "low_content_detail_pages": 96,
     "attachments": 420,
     "external_links": 139,
     "edges": 11554,
-    "url_outcomes": 7897
+    "url_outcomes": 7900
   },
   "outcomes": {
     "attachment_metadata_only": 412,
-    "crawled_detail_ok": 2257,
+    "crawled_detail_ok": 2258,
     "crawled_homepage_ok": 1,
     "crawled_list_ok": 161,
     "cross_domain_article_link_recorded": 14,
@@ -23,7 +23,7 @@
     "external_policy_link_recorded": 6,
     "external_system_link_recorded": 2,
     "homepage_link_recorded": 59,
-    "inline_image_recorded": 4865,
+    "inline_image_recorded": 4867,
     "inline_link_recorded": 2,
     "section_list_page_recorded": 5,
     "site_entry_alias_recorded": 1
@@ -32770,7 +32770,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/53/list.htm",
-        "https://www.njupt.edu.cn/53/list2.htm"
+        "https://www.njupt.edu.cn/53/list2.htm",
+        "https://www.njupt.edu.cn/53/list3.htm"
       ],
       "section_ids": [
         "www_news"
@@ -103835,7 +103836,8 @@
       ],
       "sources": [
         "https://www.njupt.edu.cn/",
-        "https://www.njupt.edu.cn/53/list.htm"
+        "https://www.njupt.edu.cn/53/list.htm",
+        "https://www.njupt.edu.cn/53/list2.htm"
       ],
       "section_ids": [
         "www_news"
@@ -104917,6 +104919,49 @@
       "labels": [],
       "sources": [
         "https://www.njupt.edu.cn/2026/0724/c53a306793/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/2026/0728/c53a306853/page.htm": {
+      "url": "https://www.njupt.edu.cn/2026/0728/c53a306853/page.htm",
+      "target_type": "detail_article_page",
+      "outcome": "crawled_detail_ok",
+      "labels": [
+        "2026.07.28 《自然·传感》刊发南邮柔性电子全国重点实验室赵强、李杨教授与黄维院士团队在脑机接口领域最新研究成果",
+        "《自然·传感》刊发南邮柔性电子全国重点实验室赵强、李杨教授与黄维院士团队在脑机接口领域最新研究成果",
+        "2026 07.28 《自然·传感》刊发南邮柔性电子全国重点实验室赵强、李杨教授与黄维院士团队在脑机接口领域最新研究成果",
+        "2026 07.28 《自然·传感》刊发南邮柔性电子全国重点实验室赵强、李杨教授与黄维院士团队在脑机接口领域最新研究成果 近日，南京邮电大学柔性电子全国重点实验室赵强、李杨教授与黄维院士团队在脑机接口（BCI）取得重要进展，相关成果以“Synergistic material-algorithm design enables robust auditory attention decoding brain-computer interface applications”为题，发表于国际顶级学术期刊《自然·传感》（Nature Sensors）上。南邮李杨教授、赵强教授和黄维院士，以及南京医科大学高克强副教授为论文共同通讯作者。南邮博士研究生顾雨哲为论文共同第一作者。 人类在嘈杂环境中可自主筛选目标人声，而听力受损者往往难以识别目标说话者。基于脑电图的BCI可捕获听觉任务诱发的神经响应，并通过脑波分析推断注意状态，革新助听技术。然而，现有BCI方案需全头皮湿电极记录并通过复杂解码算法来提取注意线索，操作繁琐、佩戴不适，存在凝胶失效、生物相容性差等缺陷。鉴于此，南邮李杨、赵强教授团队提出融合低阻抗柔性电极材料与轻量化神经解码算法的协同框架，为实用化低功耗可穿戴BCI的发展提供了有效解决方案。 团队提出"
+      ],
+      "sources": [
+        "https://www.njupt.edu.cn/",
+        "https://www.njupt.edu.cn/53/list.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ],
+      "status_code": 200
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/f0/7e/9c5821ea41debe6be98d96c83442/f2fc524d-dafd-4f82-8181-fec37476cc1d.jpg": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/f0/7e/9c5821ea41debe6be98d96c83442/f2fc524d-dafd-4f82-8181-fec37476cc1d.jpg",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0728/c53a306853/page.htm"
+      ],
+      "section_ids": [
+        "www_news"
+      ]
+    },
+    "https://www.njupt.edu.cn/_upload/article/images/f0/7e/9c5821ea41debe6be98d96c83442/d1d199f5-8376-415e-b5ca-8bc2440baeed.png": {
+      "url": "https://www.njupt.edu.cn/_upload/article/images/f0/7e/9c5821ea41debe6be98d96c83442/d1d199f5-8376-415e-b5ca-8bc2440baeed.png",
+      "target_type": "static_asset",
+      "outcome": "inline_image_recorded",
+      "labels": [],
+      "sources": [
+        "https://www.njupt.edu.cn/2026/0728/c53a306853/page.htm"
       ],
       "section_ids": [
         "www_news"
