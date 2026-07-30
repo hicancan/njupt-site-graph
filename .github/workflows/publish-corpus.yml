@@ -32,8 +32,8 @@ jobs:
       - name: Install the two producer layers
         run: |
           uv venv
-          uv pip install -e _framework/static-site-graph
-          uv pip install -e .
+          uv pip install -e _framework/static-site-graph zstandard
+          uv pip install --no-deps -e .
 
       - name: Crawl and export one immutable snapshot
         run: |

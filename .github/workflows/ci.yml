@@ -33,8 +33,8 @@ jobs:
       - name: Install the two producer layers
         run: |
           uv venv
-          uv pip install -e _framework/static-site-graph[dev]
-          uv pip install -e .[dev]
+          uv pip install -e _framework/static-site-graph[dev] zstandard
+          uv pip install --no-deps -e .[dev]
 
       - name: Run the network-free loop
         run: |
