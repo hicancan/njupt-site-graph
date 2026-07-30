@@ -56,6 +56,7 @@ Run one real crawl or every configured crawl:
 uv run python ops/njupt.py crawl --include job91 --packages-root D:\Data\njupt-site-packages
 uv run python ops/njupt.py crawl --packages-root D:\Data\njupt-site-packages
 uv run python ops/njupt.py crawl --packages-root D:\Data\njupt-site-packages --incremental
+uv run python ops/njupt.py crawl --packages-root D:\Data\njupt-site-packages --incremental --jobs 4
 ```
 
 Export the only downstream artifact:
@@ -92,6 +93,8 @@ decompress or interpret it.
 The scheduled `Publish NJUPT Corpus` workflow stores the complete SitePackages
 beside every immutable corpus release. The next run restores and validates that
 single prior package set before invoking the crawler with `--incremental`.
+Independent sites run with bounded concurrency; each site's discovery and
+incremental merge semantics remain sequential and unchanged.
 Only the first run without any prior package asset performs an explicit
 bootstrap crawl. A successful corpus release dispatches its URL, identity and
 archive SHA-256 to `njupt-search`; no source branch or data lock is rewritten.

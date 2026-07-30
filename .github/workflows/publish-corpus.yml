@@ -15,6 +15,7 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v6
 
@@ -69,10 +70,12 @@ jobs:
           if [ "${{ steps.previous.outputs.mode }}" = "incremental" ]; then
             .venv/bin/python ops/njupt.py crawl \
               --packages-root artifact/site-packages \
+              --jobs 4 \
               --incremental
           else
             .venv/bin/python ops/njupt.py crawl \
-              --packages-root artifact/site-packages
+              --packages-root artifact/site-packages \
+              --jobs 4
           fi
           .venv/bin/python ops/njupt.py validate-packages --packages-root artifact/site-packages
           .venv/bin/python ops/njupt.py summary --packages-root artifact/site-packages

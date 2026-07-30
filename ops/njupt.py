@@ -4,6 +4,7 @@ import argparse
 import json
 import subprocess
 import sys
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from typing import Any
 
@@ -33,40 +34,50 @@ def validate_configs(args: argparse.Namespace) -> None:
         run([sys.executable, "-m", "sitegraph.cli", "validate-config", site.config])
 
 
-def crawl(args: argparse.Namespace) -> None:
-    for site in load_site_registry(REGISTRY_PATH, args.include):
-        output_path = package_path(args.packages_root, site.id)
-        if site.plugin:
-            definition = load_site_definition(ROOT / site.config)
-            plugin = load_crawl_plugin(site.plugin)
-            package = plugin(
-                definition=definition,
-                config=definition.config,
-                output_path=output_path,
-                dry_run=args.dry_run,
+def _crawl_site(site: Any, args: argparse.Namespace) -> None:
+    output_path = package_path(args.packages_root, site.id)
+    if site.plugin:
+        definition = load_site_definition(ROOT / site.config)
+        plugin = load_crawl_plugin(site.plugin)
+        package = plugin(
+            definition=definition,
+            config=definition.config,
+            output_path=output_path,
+            dry_run=args.dry_run,
+            incremental=args.incremental,
+        )
+        if package is not None:
+            write_site_package(
+                package,
+                output_path,
                 incremental=args.incremental,
             )
-            if package is not None:
-                write_site_package(
-                    package,
-                    output_path,
-                    incremental=args.incremental,
-                )
-            continue
-        command = [
-            sys.executable,
-            "-m",
-            "sitegraph.cli",
-            "crawl-site",
-            site.config,
-            "--out",
-            str(output_path),
-        ]
-        if args.dry_run:
-            command.append("--dry-run")
-        if args.incremental:
-            command.append("--incremental")
-        run(command)
+        return
+    command = [
+        sys.executable,
+        "-m",
+        "sitegraph.cli",
+        "crawl-site",
+        site.config,
+        "--out",
+        str(output_path),
+    ]
+    if args.dry_run:
+        command.append("--dry-run")
+    if args.incremental:
+        command.append("--incremental")
+    run(command)
+
+
+def crawl(args: argparse.Namespace) -> None:
+    sites = load_site_registry(REGISTRY_PATH, args.include)
+    workers = min(args.jobs, len(sites))
+    if workers == 1:
+        for site in sites:
+            _crawl_site(site, args)
+        return
+    with ThreadPoolExecutor(max_workers=workers, thread_name_prefix="site-crawl") as executor:
+        list(executor.map(lambda site: _crawl_site(site, args), sites))
 
 
 def _read_json_lines(path: Path) -> list[dict[str, Any]]:
@@ -159,6 +170,7 @@ def main() -> int:
             required=True,
         )
         crawl_parser.add_argument("--incremental", action="store_true")
+        crawl_parser.add_argument("--jobs", type=int, choices=range(1, 16), default=1)
         crawl_parser.set_defaults(func=crawl, dry_run=dry_run)
 
     validate_package_parser = commands.add_parser("validate-packages")

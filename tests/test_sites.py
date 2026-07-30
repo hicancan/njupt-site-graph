@@ -2,7 +2,10 @@ from __future__ import annotations
 
 import json
 import sys
+import threading
+import time
 from pathlib import Path
+from types import SimpleNamespace
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
@@ -11,6 +14,7 @@ from sites.plugins import job91
 from sites.registry import load_site_registry
 from sitegraph.config import load_site_definition
 from sitegraph.package import write_site_package
+from ops import njupt
 
 
 def test_registry_points_to_owned_site_configs() -> None:
@@ -21,6 +25,44 @@ def test_registry_points_to_owned_site_configs() -> None:
         ids.add(site.id)
         assert site.config == f"sites/{site.id}/site.yaml"
         assert (ROOT / site.config).is_file()
+
+
+def test_crawl_runs_each_site_with_bounded_parallelism(
+    tmp_path: Path, monkeypatch
+) -> None:
+    sites = [
+        SimpleNamespace(id=f"site-{index}", config="", plugin=None)
+        for index in range(5)
+    ]
+    lock = threading.Lock()
+    active = 0
+    maximum_active = 0
+    completed: list[str] = []
+
+    def fake_crawl_site(site, _args) -> None:
+        nonlocal active, maximum_active
+        with lock:
+            active += 1
+            maximum_active = max(maximum_active, active)
+        time.sleep(0.01)
+        with lock:
+            active -= 1
+            completed.append(site.id)
+
+    monkeypatch.setattr(njupt, "load_site_registry", lambda *_args: sites)
+    monkeypatch.setattr(njupt, "_crawl_site", fake_crawl_site)
+    njupt.crawl(
+        SimpleNamespace(
+            include=None,
+            packages_root=tmp_path,
+            dry_run=False,
+            incremental=True,
+            jobs=2,
+        )
+    )
+
+    assert set(completed) == {site.id for site in sites}
+    assert maximum_active == 2
 
 
 def test_job91_plugin_produces_a_site_package(

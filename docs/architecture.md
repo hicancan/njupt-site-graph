@@ -64,6 +64,7 @@ page counts, empty bodies and timestamps remain ordinary diagnostics in a
 Cloud publication preserves the same boundary. Each corpus release carries the
 validated SitePackages that produced it. A scheduled run restores the newest
 immutable SitePackages asset and passes that explicit root to `crawl
---incremental`; if no such asset exists, the run reports and performs the one
+--incremental` with bounded concurrency across independent sites; if no such
+asset exists, the run reports and performs the one
 bootstrap crawl. The resulting corpus is published once and dispatches only
 its URL, snapshot identity and archive hash to the search repository.
