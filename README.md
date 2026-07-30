@@ -55,6 +55,7 @@ Run one real crawl or every configured crawl:
 ```powershell
 uv run python ops/njupt.py crawl --include job91 --packages-root D:\Data\njupt-site-packages
 uv run python ops/njupt.py crawl --packages-root D:\Data\njupt-site-packages
+uv run python ops/njupt.py crawl --packages-root D:\Data\njupt-site-packages --incremental
 ```
 
 Export the only downstream artifact:
@@ -78,12 +79,19 @@ or update a search checkout implicitly.
 
 The snapshot contains `manifest.json`, `documents.jsonl.zst`,
 `attachments.jsonl.zst` and `links.jsonl.zst`. It is immutable and identified by
-the content identity in its manifest. A document contains exactly `id`, `source`,
-`url`, `title`, `content`, `published_at`, `updated_at`, `section`, `kind`, `tags`
-and `attachments`; source display names are stored once in the manifest.
-`attachments.jsonl.zst` is the canonical relationship table. A document's
-`attachments` value is the exact minimal search-facing projection
-`id/url/name/extension`, and validation requires both representations to match.
-`links.jsonl.zst` preserves site relationships; only explicitly labelled
-external links become searchable external documents. Search does not index the
-link table directly.
+the format, source metadata, counts and artifact identities in its manifest. A
+document contains exactly `id`, `source`, `url`, `title`, `content`,
+`published_at`, `updated_at`, `section`, `kind`, `tags` and `attachment_ids`;
+source display names are stored once in the manifest.
+`attachments.jsonl.zst` is the only authority for attachment metadata and parent
+relationships. Documents reference it by ID. `links.jsonl.zst` preserves site
+relationships; only explicitly labelled external links become searchable
+external documents. Search verifies the link artifact identity but does not
+decompress or interpret it.
+
+The scheduled `Publish NJUPT Corpus` workflow stores the complete SitePackages
+beside every immutable corpus release. The next run restores and validates that
+single prior package set before invoking the crawler with `--incremental`.
+Only the first run without any prior package asset performs an explicit
+bootstrap crawl. A successful corpus release dispatches its URL, identity and
+archive SHA-256 to `njupt-search`; no source branch or data lock is rewritten.

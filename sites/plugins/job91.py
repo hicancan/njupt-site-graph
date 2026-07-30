@@ -4,7 +4,7 @@ import json
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
-from urllib.parse import quote, urlencode
+from urllib.parse import quote, unquote, urlencode, urlparse
 
 import requests
 from sitegraph import SiteDefinition, SitePackage
@@ -83,7 +83,12 @@ def _item_key(item: dict[str, Any]) -> str:
 
 
 def _pages(
-    client: Client, *, category: str, page_size: int, maximum: int
+    client: Client,
+    *,
+    category: str,
+    page_size: int,
+    maximum: int,
+    known_keys: set[str],
 ) -> tuple[list[tuple[int, list[dict[str, Any]]]], dict[str, Any]]:
     pages: list[tuple[int, list[dict[str, Any]]]] = []
     seen: set[tuple[str, ...]] = set()
@@ -103,9 +108,36 @@ def _pages(
             return pages, {"reason": "duplicate_page", "last_page": page_number - 1}
         pages.append((page_number, values))
         seen.add(keys)
+        if known_keys and all(key in known_keys for key in keys):
+            return pages, {"reason": "known_page", "last_page": page_number}
         if len(values) < page_size:
             return pages, {"reason": "short_page", "last_page": page_number}
     return pages, {"reason": "page_limit", "last_page": maximum}
+
+
+def _read_rows(path: Path) -> list[dict[str, Any]]:
+    if not path.is_file():
+        return []
+    return [
+        json.loads(line)
+        for line in path.read_text(encoding="utf-8").splitlines()
+        if line.strip()
+    ]
+
+
+def _known_item_keys(output_path: Path) -> set[str]:
+    keys: set[str] = set()
+    for row in _read_rows(output_path / "detail_pages.jsonl"):
+        url = str(row.get("url") or "")
+        parsed = urlparse(url)
+        identifier = unquote(parsed.path.rstrip("/").rsplit("/", 1)[-1])
+        if not identifier:
+            continue
+        if "/job-fair/" in parsed.path:
+            keys.add(f"zphid:{identifier}")
+        elif "/news/" in parsed.path:
+            keys.add(f"xwid:{identifier}")
+    return keys
 
 
 def _record(
@@ -176,9 +208,6 @@ def crawl(
     dry_run: bool,
     incremental: bool,
 ) -> SitePackage | None:
-    del output_path
-    if incremental:
-        raise RuntimeError("91job plugin does not support incremental crawling")
     site_id = definition.id
     base_url = definition.base_url.rstrip("/")
     policy = config.get("crawl_policy", {})
@@ -195,6 +224,7 @@ def crawl(
         return
 
     started_at = now_iso()
+    known_keys = _known_item_keys(output_path) if incremental else set()
     client = Client(base_url, timeout)
     website_id = _text(
         client.get(
@@ -212,9 +242,30 @@ def crawl(
 
     columns = _columns(raw_columns)
     sections: list[dict[str, Any]] = []
-    list_pages: list[dict[str, Any]] = []
-    detail_by_url: dict[str, dict[str, Any]] = {}
-    edges: list[dict[str, Any]] = []
+    list_pages_by_url = (
+        {
+            row["url"]: row
+            for row in _read_rows(output_path / "list_pages.jsonl")
+        }
+        if incremental
+        else {}
+    )
+    detail_by_url = (
+        {
+            row["url"]: row
+            for row in _read_rows(output_path / "detail_pages.jsonl")
+        }
+        if incremental
+        else {}
+    )
+    edges_by_id = (
+        {
+            row["edge_id"]: row
+            for row in _read_rows(output_path / "edges.jsonl")
+        }
+        if incremental
+        else {}
+    )
     errors: list[dict[str, Any]] = []
     for column in columns:
         section_id = f"{site_id}_{stable_id(column['id'], length=12)}"
@@ -239,6 +290,7 @@ def crawl(
             category=column["id"],
             page_size=page_size,
             maximum=maximum,
+            known_keys=known_keys,
         )
         if stop["reason"] == "page_limit":
             errors.append(
@@ -254,19 +306,17 @@ def crawl(
                 if page_number == 1
                 else f"{section_url}?page={page_number}"
             )
-            list_pages.append(
-                {
-                    "page_id": stable_id(site_id, list_url),
-                    "site_id": site_id,
-                    "section_id": section_id,
-                    "url": list_url,
-                    "page_type": "section_list_page",
-                    "status": "ok",
-                    "page_index": page_number,
-                    "item_count": len(items),
-                    "fetched_at": now_iso(),
-                }
-            )
+            list_pages_by_url[list_url] = {
+                "page_id": stable_id(site_id, list_url),
+                "site_id": site_id,
+                "section_id": section_id,
+                "url": list_url,
+                "page_type": "section_list_page",
+                "status": "ok",
+                "page_index": page_number,
+                "item_count": len(items),
+                "fetched_at": now_iso(),
+            }
             for index, item in enumerate(items):
                 record = _record(
                     base_url=base_url,
@@ -275,18 +325,17 @@ def crawl(
                     item=item,
                     index=(page_number - 1) * page_size + index,
                 )
-                detail_by_url.setdefault(record["url"], record)
-                edges.append(
-                    {
-                        "edge_id": stable_id(list_url, record["url"]),
-                        "from_url": list_url,
-                        "to_url": record["url"],
-                        "anchor_text": record["title"],
-                        "edge_type": "api_list_item",
-                        "target_type": "detail_article_page",
-                        "same_domain": True,
-                    }
-                )
+                detail_by_url[record["url"]] = record
+                edge = {
+                    "edge_id": stable_id(list_url, record["url"]),
+                    "from_url": list_url,
+                    "to_url": record["url"],
+                    "anchor_text": record["title"],
+                    "edge_type": "api_list_item",
+                    "target_type": "detail_article_page",
+                    "same_domain": True,
+                }
+                edges_by_id[edge["edge_id"]] = edge
 
     nav_nodes = [
         {
@@ -315,17 +364,16 @@ def crawl(
         }
         for position, column in enumerate(columns)
     ]
-    details = list(detail_by_url.values())
     return SitePackage(
         definition=definition,
         started_at=started_at,
         nav_nodes=nav_nodes,
         homepage_modules=modules,
         sections=sections,
-        list_pages_by_url={item["url"]: item for item in list_pages},
-        detail_pages_by_url={item["url"]: item for item in details},
+        list_pages_by_url=list_pages_by_url,
+        detail_pages_by_url=detail_by_url,
         attachments_by_id={},
         external_links_by_id={},
-        edges_by_id={item["edge_id"]: item for item in edges},
+        edges_by_id=edges_by_id,
         errors=errors,
     )

@@ -35,10 +35,45 @@ jobs:
           uv pip install -e _framework/static-site-graph zstandard
           uv pip install --no-deps -e .
 
+      - name: Restore the latest immutable SitePackages
+        id: previous
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          mkdir -p artifact
+          mapfile -t assets < <(
+            gh api --paginate "repos/$GITHUB_REPOSITORY/releases?per_page=100" \
+              --jq '.[] | select(.draft == false) | . as $release | .assets[]? | select(.name | startswith("njupt-site-packages-")) | [$release.tag_name, .name] | @tsv'
+          )
+          if [ "${#assets[@]}" -eq 0 ]; then
+            echo "mode=full" >> "$GITHUB_OUTPUT"
+            echo "No prior SitePackages release exists; this run is the explicit bootstrap crawl."
+            exit 0
+          fi
+
+          IFS=$'\t' read -r release_tag asset_name <<< "${assets[0]}"
+          gh release download "$release_tag" \
+            --pattern "$asset_name" \
+            --dir artifact
+          mkdir artifact/site-packages
+          tar --zstd -xf "artifact/$asset_name" -C artifact/site-packages
+          .venv/bin/python ops/njupt.py validate-packages \
+            --packages-root artifact/site-packages
+          echo "mode=incremental" >> "$GITHUB_OUTPUT"
+          echo "Restored $asset_name from $release_tag for incremental crawling."
+
       - name: Crawl and export one immutable snapshot
         run: |
           set -euo pipefail
-          .venv/bin/python ops/njupt.py crawl --packages-root artifact/site-packages
+          if [ "${{ steps.previous.outputs.mode }}" = "incremental" ]; then
+            .venv/bin/python ops/njupt.py crawl \
+              --packages-root artifact/site-packages \
+              --incremental
+          else
+            .venv/bin/python ops/njupt.py crawl \
+              --packages-root artifact/site-packages
+          fi
           .venv/bin/python ops/njupt.py validate-packages --packages-root artifact/site-packages
           .venv/bin/python ops/njupt.py summary --packages-root artifact/site-packages
           .venv/bin/python ops/njupt.py export-corpus \
@@ -53,11 +88,15 @@ jobs:
           archive="njupt-corpus-${corpus_id}.tar.zst"
           tar --sort=name --mtime=@0 --owner=0 --group=0 --numeric-owner \
             --zstd -cf "$archive" -C artifact/corpus .
+          packages_archive="njupt-site-packages-${corpus_id}.tar.zst"
+          tar --sort=name --mtime=@0 --owner=0 --group=0 --numeric-owner \
+            --zstd -cf "$packages_archive" -C artifact/site-packages .
           archive_sha256="$(sha256sum "$archive" | cut -d' ' -f1)"
           release_tag="corpus-${corpus_id}"
           corpus_url="https://github.com/${GITHUB_REPOSITORY}/releases/download/${release_tag}/${archive}"
           echo "corpus_id=$corpus_id" >> "$GITHUB_OUTPUT"
           echo "archive=$archive" >> "$GITHUB_OUTPUT"
+          echo "packages_archive=$packages_archive" >> "$GITHUB_OUTPUT"
           echo "archive_sha256=$archive_sha256" >> "$GITHUB_OUTPUT"
           echo "release_tag=$release_tag" >> "$GITHUB_OUTPUT"
           echo "corpus_url=$corpus_url" >> "$GITHUB_OUTPUT"
@@ -66,21 +105,30 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           ARCHIVE: ${{ steps.corpus.outputs.archive }}
+          PACKAGES_ARCHIVE: ${{ steps.corpus.outputs.packages_archive }}
           RELEASE_TAG: ${{ steps.corpus.outputs.release_tag }}
           CORPUS_ID: ${{ steps.corpus.outputs.corpus_id }}
         run: |
           set -euo pipefail
           if ! gh release view "$RELEASE_TAG" >/dev/null 2>&1; then
-            gh release create "$RELEASE_TAG" "$ARCHIVE" \
+            gh release create "$RELEASE_TAG" "$ARCHIVE" "$PACKAGES_ARCHIVE" \
               --title "NJUPT corpus $CORPUS_ID" \
-              --notes "Immutable NjuptCorpusSnapshot $CORPUS_ID"
+              --notes "Immutable NjuptCorpusSnapshot and source SitePackages for $CORPUS_ID"
           else
             mkdir published
-            gh release download "$RELEASE_TAG" --pattern "$ARCHIVE" --dir published
-            cmp --silent "$ARCHIVE" "published/$ARCHIVE" || {
-              echo "::error::Existing immutable corpus asset differs from this build"
-              exit 1
-            }
+            for asset in "$ARCHIVE" "$PACKAGES_ARCHIVE"; do
+              if gh release view "$RELEASE_TAG" --json assets \
+                --jq ".assets[] | select(.name == \"$asset\") | .name" \
+                | grep -Fx "$asset" >/dev/null; then
+                gh release download "$RELEASE_TAG" --pattern "$asset" --dir published
+                cmp --silent "$asset" "published/$asset" || {
+                  echo "::error::Existing immutable asset differs: $asset"
+                  exit 1
+                }
+              else
+                gh release upload "$RELEASE_TAG" "$asset"
+              fi
+            done
           fi
 
       - name: Trigger the search build with the artifact identity

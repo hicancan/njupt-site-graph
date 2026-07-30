@@ -267,7 +267,7 @@ def test_export_corpus_snapshot(tmp_path: Path) -> None:
     attachments = _read_zstd_jsonl(output / "attachments.jsonl.zst")
     links = _read_zstd_jsonl(output / "links.jsonl.zst")
 
-    assert manifest["format"] == "njupt-corpus-snapshot-v2"
+    assert manifest["format"] == "njupt-corpus-snapshot"
     assert manifest["counts"] == {
         "sites": 1,
         "documents": 6,
@@ -288,15 +288,9 @@ def test_export_corpus_snapshot(tmp_path: Path) -> None:
         "section",
         "kind",
         "tags",
-        "attachments",
+        "attachment_ids",
     }
     assert notice_document["content"] == "正文 内容"
-    assert set(notice_document["attachments"][0]) == {
-        "id",
-        "url",
-        "name",
-        "extension",
-    }
     notice_attachment = next(
         attachment
         for attachment in attachments
@@ -304,14 +298,7 @@ def test_export_corpus_snapshot(tmp_path: Path) -> None:
     )
     assert notice_attachment["parent_id"] == notice_document["id"]
     assert notice_attachment["name"] == "完整附件名称.pdf"
-    assert notice_document["attachments"] == [
-        {
-            "id": notice_attachment["id"],
-            "url": notice_attachment["url"],
-            "name": notice_attachment["name"],
-            "extension": notice_attachment["extension"],
-        }
-    ]
+    assert notice_document["attachment_ids"] == [notice_attachment["id"]]
     alias_document = next(
         document for document in documents if document["title"] == "别名通知"
     )

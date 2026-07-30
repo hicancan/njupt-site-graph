@@ -46,17 +46,6 @@
         "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" }
       }
     },
-    "documentAttachment": {
-      "type": "object",
-      "additionalProperties": false,
-      "required": ["id", "url", "name", "extension"],
-      "properties": {
-        "id": { "type": "string", "minLength": 1 },
-        "url": { "type": "string", "minLength": 1 },
-        "name": { "type": "string", "minLength": 1 },
-        "extension": { "type": ["string", "null"] }
-      }
-    },
     "njuptDocument": {
       "type": "object",
       "additionalProperties": false,
@@ -71,7 +60,7 @@
         "section",
         "kind",
         "tags",
-        "attachments"
+        "attachment_ids"
       ],
       "properties": {
         "id": { "type": "string", "minLength": 1 },
@@ -84,9 +73,10 @@
         "section": { "type": ["string", "null"] },
         "kind": { "type": "string", "minLength": 1 },
         "tags": { "type": "array", "items": { "type": "string" } },
-        "attachments": {
+        "attachment_ids": {
           "type": "array",
-          "items": { "$ref": "#/$defs/documentAttachment" }
+          "items": { "type": "string", "minLength": 1 },
+          "uniqueItems": true
         }
       }
     },
@@ -139,7 +129,7 @@
   },
   "required": ["format", "snapshot_id", "counts", "sources", "artifacts"],
   "properties": {
-    "format": { "const": "njupt-corpus-snapshot-v2" },
+    "format": { "const": "njupt-corpus-snapshot" },
     "snapshot_id": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
     "counts": { "$ref": "#/$defs/corpusCounts" },
     "sources": {

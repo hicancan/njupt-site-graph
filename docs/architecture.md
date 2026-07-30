@@ -30,13 +30,13 @@ links.jsonl.zst
 ```
 
 Each `NjuptDocument` contains exactly `id`, `source`, `url`, `title`, `content`,
-`published_at`, `updated_at`, `section`, `kind`, `tags` and `attachments`.
+`published_at`, `updated_at`, `section`, `kind`, `tags` and `attachment_ids`.
 Human-readable source names live once in `manifest.json.sources`; they are not
 repeated in every document.
 
-The attachment table is authoritative for attachment identity and parent
-relationships. Nested document attachments are a deliberately repeated,
-minimal projection used by search; the producer validates exact equality.
+The attachment table is the only authority for attachment identity, metadata
+and parent relationships. Documents contain only attachment IDs; consumers that
+need display metadata join the table explicitly.
 The link table preserves discovered relationships and provenance. It is not a
 search input by itself; labelled external links are materialized as ordinary
 `kind=external` documents, while missing labels remain `null` rather than being
@@ -50,15 +50,20 @@ semantics are equal. Attachments are remapped to the selected canonical parent.
 Conflicting aliases and merely similar bodies remain separate; there is no
 content-based or guessed deduplication.
 
-The snapshot identity hashes all three compressed row artifacts. Consequently a
-links-only change changes the snapshot identity and triggers a deterministic
-SearchBundle rebuild even though the search reader only maps document rows.
-This keeps one explicit corpus identity instead of introducing a second search
-input identity. The SearchBundle has its own identity over the corpus identity
-and all emitted search artifacts.
+The snapshot identity covers the current format, canonical source metadata,
+counts and all three compressed row artifacts. A links-only change therefore
+changes corpus provenance. SearchBundle identity is independent and covers only
+its own output artifacts, so identical search bytes retain the same identity.
 
 The snapshot is immutable and addressed by its content identity. Crawl,
 validation and export commands receive one explicit external SitePackage root;
 the registry never selects a data directory. HTTP failures, parsing failures,
 page counts, empty bodies and timestamps remain ordinary diagnostics in a
 `SitePackage`; they do not change the exported data contract.
+
+Cloud publication preserves the same boundary. Each corpus release carries the
+validated SitePackages that produced it. A scheduled run restores the newest
+immutable SitePackages asset and passes that explicit root to `crawl
+--incremental`; if no such asset exists, the run reports and performs the one
+bootstrap crawl. The resulting corpus is published once and dispatches only
+its URL, snapshot identity and archive hash to the search repository.

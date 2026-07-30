@@ -14,7 +14,7 @@ from sitegraph.package import validate_site_package
 from sites.registry import SiteRegistration, load_site_registry
 
 
-FORMAT = "njupt-corpus-snapshot-v2"
+FORMAT = "njupt-corpus-snapshot"
 REGISTRY_RELATIVE_PATH = Path("sites/registry.json")
 ARTIFACT_NAMES = ("documents.jsonl.zst", "attachments.jsonl.zst", "links.jsonl.zst")
 WEBPLUS_ARTICLE_PATH = re.compile(
@@ -209,15 +209,6 @@ def _attachment_record(
     }
 
 
-def _document_attachment(record: dict[str, Any]) -> dict[str, Any]:
-    return {
-        "id": record["id"],
-        "url": record["url"],
-        "name": record["name"],
-        "extension": record["extension"],
-    }
-
-
 def _link_record(source_id: str, item: dict[str, Any], kind: str) -> dict[str, Any]:
     url = _canonical_url(item.get("url") or item.get("to_url"))
     label = _clean_text(item.get("label") or item.get("anchor_text")) or None
@@ -264,6 +255,26 @@ def _unique_rows(rows: list[dict[str, Any]], label: str) -> dict[str, dict[str, 
     return by_id
 
 
+def _snapshot_id(
+    counts: dict[str, int],
+    sources: list[dict[str, Any]],
+    artifacts: dict[str, dict[str, Any]],
+) -> str:
+    identity = {
+        "format": FORMAT,
+        "counts": counts,
+        "sources": sources,
+        "artifacts": artifacts,
+    }
+    encoded = json.dumps(
+        identity,
+        ensure_ascii=False,
+        sort_keys=True,
+        separators=(",", ":"),
+    ).encode("utf-8")
+    return hashlib.sha256(encoded).hexdigest()
+
+
 def validate_corpus_snapshot(root: Path) -> dict[str, Any]:
     expected_files = {*ARTIFACT_NAMES, "manifest.json"}
     present_files = {path.name for path in root.iterdir() if path.is_file()}
@@ -287,7 +298,6 @@ def validate_corpus_snapshot(root: Path) -> dict[str, Any]:
     ):
         raise ValueError("incompatible NjuptCorpusSnapshot manifest")
 
-    identity = hashlib.sha256()
     for name in ARTIFACT_NAMES:
         artifact = manifest["artifacts"][name]
         if (
@@ -299,9 +309,11 @@ def validate_corpus_snapshot(root: Path) -> dict[str, Any]:
         actual = _artifact(root / name)
         if artifact != actual:
             raise ValueError(f"corpus artifact identity mismatch: {name}")
-        identity.update(name.encode("utf-8"))
-        identity.update(bytes.fromhex(actual["sha256"]))
-    if manifest.get("snapshot_id") != identity.hexdigest():
+    if manifest.get("snapshot_id") != _snapshot_id(
+        manifest["counts"],
+        manifest["sources"],
+        manifest["artifacts"],
+    ):
         raise ValueError("corpus snapshot identity mismatch")
 
     source_rows = manifest["sources"]
@@ -344,7 +356,7 @@ def validate_corpus_snapshot(root: Path) -> dict[str, Any]:
         "section",
         "kind",
         "tags",
-        "attachments",
+        "attachment_ids",
     }
     attachment_fields = {
         "id",
@@ -365,9 +377,8 @@ def validate_corpus_snapshot(root: Path) -> dict[str, Any]:
         "from_url",
         "category",
     }
-    attachment_projection_fields = {"id", "url", "name", "extension"}
     document_keys: set[tuple[str, str, str]] = set()
-    nested_attachments: dict[str, tuple[str, dict[str, Any]]] = {}
+    document_attachment_ids: dict[str, str] = {}
     actual_counts = {
         source_id: {"documents": 0, "attachments": 0, "links": 0}
         for source_id in source_names
@@ -388,7 +399,7 @@ def validate_corpus_snapshot(root: Path) -> dict[str, Any]:
             or kind not in {"page", "attachment", "external"}
             or not isinstance(document.get("content"), str)
             or not isinstance(document.get("tags"), list)
-            or not isinstance(document.get("attachments"), list)
+            or not isinstance(document.get("attachment_ids"), list)
             or any(
                 value is not None and not isinstance(value, str)
                 for value in (
@@ -426,25 +437,14 @@ def validate_corpus_snapshot(root: Path) -> dict[str, Any]:
             raise ValueError(f"duplicate document source/kind/url: {document_key}")
         document_keys.add(document_key)
         actual_counts[source_id]["documents"] += 1
-        for summary in document["attachments"]:
+        for attachment_id in document["attachment_ids"]:
             if (
-                not isinstance(summary, dict)
-                or set(summary) != attachment_projection_fields
-                or not _clean_text(summary.get("id"))
-                or _canonical_url(summary.get("url")) != summary.get("url")
-                or not _clean_text(summary.get("name"))
-                or (
-                    summary.get("extension") is not None
-                    and (
-                        not isinstance(summary["extension"], str)
-                        or summary["extension"] != summary["extension"].lower()
-                    )
-                )
+                not isinstance(attachment_id, str)
+                or not attachment_id
+                or attachment_id in document_attachment_ids
             ):
-                raise ValueError(f"invalid document attachment: {document['id']}")
-            if summary["id"] in nested_attachments:
-                raise ValueError(f"attachment is nested more than once: {summary['id']}")
-            nested_attachments[summary["id"]] = (document["id"], summary)
+                raise ValueError(f"invalid document attachment id: {document['id']}")
+            document_attachment_ids[attachment_id] = document["id"]
 
     for attachment in attachments:
         if set(attachment) != attachment_fields:
@@ -476,9 +476,9 @@ def validate_corpus_snapshot(root: Path) -> dict[str, Any]:
         )
         if attachment["id"] != expected_attachment_id:
             raise ValueError(f"invalid attachment identity: {attachment['id']}")
-        nested = nested_attachments.get(attachment["id"])
-        if nested is None or nested[1] != _document_attachment(attachment):
-            raise ValueError(f"attachment projection mismatch: {attachment['id']}")
+        owner_id = document_attachment_ids.get(attachment["id"])
+        if owner_id is None:
+            raise ValueError(f"attachment is not referenced by a document: {attachment['id']}")
         parent_id = attachment.get("parent_id")
         if parent_id is None:
             owner = documents_by_id.get(attachment["id"])
@@ -486,7 +486,7 @@ def validate_corpus_snapshot(root: Path) -> dict[str, Any]:
                 owner is None
                 or owner["kind"] != "attachment"
                 or owner["url"] != attachment["url"]
-                or nested[0] != owner["id"]
+                or owner_id != owner["id"]
                 or attachment.get("parent_url") is not None
             ):
                 raise ValueError(f"orphan attachment document mismatch: {attachment['id']}")
@@ -495,14 +495,14 @@ def validate_corpus_snapshot(root: Path) -> dict[str, Any]:
             if (
                 parent is None
                 or parent["kind"] != "page"
-                or nested[0] != parent_id
+                or owner_id != parent_id
                 or attachment.get("parent_url") != parent["url"]
             ):
                 raise ValueError(f"attachment parent mismatch: {attachment['id']}")
         actual_counts[source_id]["attachments"] += 1
 
-    if set(nested_attachments) != set(attachments_by_id):
-        raise ValueError("document attachment projections do not match attachment rows")
+    if set(document_attachment_ids) != set(attachments_by_id):
+        raise ValueError("document attachment ids do not match attachment rows")
 
     for link in links:
         if set(link) != link_fields:
@@ -633,7 +633,7 @@ def export_corpus_snapshot(
                     "section": section,
                     "kind": "page",
                     "tags": tags,
-                    "attachments": [],
+                    "attachment_ids": [],
                 }
             webplus_aliases: dict[str, list[dict[str, Any]]] = {}
             for document_id, document in page_documents.items():
@@ -707,11 +707,9 @@ def export_corpus_snapshot(
             for attachment in attachment_rows.values():
                 parent_id = attachment["parent_id"]
                 if parent_id is not None:
-                    page_documents[parent_id]["attachments"].append(
-                        _document_attachment(attachment)
-                    )
+                    page_documents[parent_id]["attachment_ids"].append(attachment["id"])
             for document in page_documents.values():
-                document["attachments"].sort(key=lambda item: item["id"])
+                document["attachment_ids"].sort()
 
             orphan_documents: dict[str, dict[str, Any]] = {}
             for attachment in attachment_rows.values():
@@ -728,7 +726,7 @@ def export_corpus_snapshot(
                     "section": attachment["section"],
                     "kind": "attachment",
                     "tags": [attachment["extension"]] if attachment["extension"] else [],
-                    "attachments": [_document_attachment(attachment)],
+                    "attachment_ids": [attachment["id"]],
                 }
 
             link_rows: dict[str, dict[str, Any]] = {}
@@ -777,7 +775,7 @@ def export_corpus_snapshot(
                     "section": None,
                     "kind": "external",
                     "tags": sorted(categories),
-                    "attachments": [],
+                    "attachment_ids": [],
                 }
 
             documents = sorted(
@@ -810,13 +808,9 @@ def export_corpus_snapshot(
             )
 
     artifacts = {name: _artifact(output / name) for name in ARTIFACT_NAMES}
-    identity = hashlib.sha256()
-    for name in ARTIFACT_NAMES:
-        identity.update(name.encode("utf-8"))
-        identity.update(bytes.fromhex(artifacts[name]["sha256"]))
     manifest = {
         "format": FORMAT,
-        "snapshot_id": identity.hexdigest(),
+        "snapshot_id": _snapshot_id(counts, source_rows, artifacts),
         "counts": counts,
         "sources": source_rows,
         "artifacts": artifacts,

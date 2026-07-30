@@ -12,5 +12,5 @@
 - HTTP errors, parse errors, page counts, empty content and timestamps are
   diagnostics, not release states.
 - Support only the current snapshot format. Missing or incompatible input fails.
-- Delete replaced code and tests immediately; do not add migration readers,
-  compatibility aliases, governance state machines or source-to-search coupling.
+- Delete replaced code and tests immediately; do not add alternate-format readers,
+  path aliases, governance state machines or source-to-search coupling.
