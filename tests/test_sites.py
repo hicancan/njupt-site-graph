@@ -65,6 +65,78 @@ def test_crawl_runs_each_site_with_bounded_parallelism(
     assert maximum_active == 2
 
 
+def test_job91_maps_current_lecture_and_position_shapes() -> None:
+    lecture = {
+        "xjhid": "lecture-1",
+        "xjhmc": "春季校园宣讲会",
+        "jbrq": "2026-04-24",
+        "jbdd": "教2-117",
+        "xjxx": "南京邮电大学",
+        "kssj": None,
+    }
+    assert job91._item_key(lecture) == "xjhid:lecture-1"
+    lecture_records = job91._records(
+        base_url="https://njupt.91job.org.cn",
+        site_id="job91",
+        section_id="lectures",
+        item=lecture,
+        index=0,
+    )
+    assert len(lecture_records) == 1
+    assert lecture_records[0]["title"] == "春季校园宣讲会"
+    assert lecture_records[0]["published_at"] == "2026-04-24"
+    assert lecture_records[0]["source_keys"] == ["xjhid:lecture-1"]
+    assert (
+        lecture_records[0]["url"]
+        == "https://njupt.91job.org.cn/sub-station/lectureDetail"
+        "?xjhid=lecture-1&xxdm=10293"
+    )
+
+    company = {
+        "dwid": "company-1",
+        "dwmc": "测试企业",
+        "zzshsj": "2026-06-12",
+        "zpzw": [
+            {
+                "zpgwid": "position-1",
+                "zwmc": "开发工程师",
+                "gzdd": "南京市",
+                "xlyq": "本科",
+                "yjnx": "20",
+                "zprs": "2",
+            },
+            {
+                "zpgwid": "position-2",
+                "zwmc": "算法工程师",
+                "gzdd": "南京市",
+                "xlyq": "硕士",
+                "yjnx": "25",
+                "zprs": "1",
+            },
+        ],
+    }
+    assert job91._item_key(company) == "dwid:company-1"
+    position_records = job91._records(
+        base_url="https://njupt.91job.org.cn",
+        site_id="job91",
+        section_id="positions",
+        item=company,
+        index=0,
+    )
+    assert [record["title"] for record in position_records] == [
+        "开发工程师",
+        "算法工程师",
+    ]
+    assert all("测试企业" in record["content_text"] for record in position_records)
+    assert position_records[0]["url"].endswith(
+        "jobDetails?zpgwid=position-1&dwid=company-1&xxdm=10293"
+    )
+    assert position_records[0]["source_keys"] == [
+        "dwid:company-1",
+        "zpgwid:position-1",
+    ]
+
+
 def test_job91_plugin_produces_a_site_package(
     tmp_path: Path, monkeypatch
 ) -> None:

@@ -10,6 +10,7 @@ crawl_policy:
   max_pages_safety: 40
   job91_max_pages_per_section: 40
   job91_items_per_section: 120
+  job91_category_workers: 3
   same_domain_only_for_content: true
   external_link_policy: record_only
   attachment_policy: metadata_only

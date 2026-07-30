@@ -1,10 +1,11 @@
 from __future__ import annotations
 
 import json
+from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
-from urllib.parse import quote, unquote, urlencode, urlparse
+from urllib.parse import parse_qs, quote, unquote, urlencode, urlparse
 
 import requests
 from sitegraph import SiteDefinition, SitePackage
@@ -76,7 +77,7 @@ def _columns(
 
 
 def _item_key(item: dict[str, Any]) -> str:
-    for key in ("xwid", "zphid", "zwid", "companyId", "id"):
+    for key in ("xwid", "zphid", "xjhid", "dwid", "zwid", "companyId", "id"):
         if value := _text(item.get(key)):
             return f"{key}:{value}"
     raise RuntimeError("91job item has no stable business identity")
@@ -128,6 +129,13 @@ def _read_rows(path: Path) -> list[dict[str, Any]]:
 def _known_item_keys(output_path: Path) -> set[str]:
     keys: set[str] = set()
     for row in _read_rows(output_path / "detail_pages.jsonl"):
+        source_keys = row.get("source_keys")
+        if isinstance(source_keys, list):
+            keys.update(
+                key
+                for key in (_text(value) for value in source_keys)
+                if ":" in key
+            )
         url = str(row.get("url") or "")
         parsed = urlparse(url)
         identifier = unquote(parsed.path.rstrip("/").rsplit("/", 1)[-1])
@@ -137,47 +145,27 @@ def _known_item_keys(output_path: Path) -> set[str]:
             keys.add(f"zphid:{identifier}")
         elif "/news/" in parsed.path:
             keys.add(f"xwid:{identifier}")
+        query = parse_qs(parsed.query)
+        for name in ("xjhid", "dwid"):
+            if values := query.get(name):
+                if value := _text(values[0]):
+                    keys.add(f"{name}:{value}")
     return keys
 
 
 def _record(
-    *, base_url: str, site_id: str, section_id: str, item: dict[str, Any], index: int
+    *,
+    site_id: str,
+    section_id: str,
+    record_id: str,
+    url: str,
+    title: str,
+    content: str,
+    published_at: str | None,
+    publisher: str,
+    raw: dict[str, Any],
+    source_keys: tuple[str, ...],
 ) -> dict[str, Any]:
-    fair = "zphid" in item or "zphmc" in item
-    raw_id = _text(item.get("zphid" if fair else "xwid"))
-    title = _text(item.get("zphmc" if fair else "xwbt"))
-    if not raw_id or not title:
-        raise RuntimeError(
-            f"91job item {section_id}/{index} requires a stable id and title"
-        )
-    record_id = raw_id
-    if fair:
-        content = " ".join(
-            part
-            for part in (_text(item.get("gljg")), _text(item.get("jbcd")))
-            if part
-        )
-        url = f"{base_url}/sub-station/job-fair/{quote(record_id, safe='')}"
-        published_at = _text(item.get("jbkssj")) or None
-        publisher = _text(item.get("gljg")) or "南京邮电大学"
-    else:
-        content = " ".join(
-            part
-            for part in (
-                _text(item.get("xwfbt")),
-                _text(item.get("xwnr")),
-                _text(item.get("xwbq")),
-                _text(item.get("flbq")),
-                _text(item.get("hdsj")),
-                _text(item.get("hddd")),
-            )
-            if part
-        )
-        url = _text(item.get("tzljdz")) or (
-            f"{base_url}/sub-station/news/{quote(record_id, safe='')}"
-        )
-        published_at = _text(item.get("fbsj")) or None
-        publisher = "南京邮电大学就业信息网"
     return {
         "page_id": stable_id(site_id, record_id),
         "site_id": site_id,
@@ -189,7 +177,7 @@ def _record(
         "published_at": published_at,
         "updated_at": None,
         "content_text": content,
-        "content_hash": stable_id(json.dumps(item, ensure_ascii=False, sort_keys=True)),
+        "content_hash": stable_id(json.dumps(raw, ensure_ascii=False, sort_keys=True)),
         "status": "ok",
         "content_status": "normal_content" if content else "empty_content",
         "extraction_strategy": "job91_api",
@@ -197,7 +185,181 @@ def _record(
         "inline_links": [],
         "inline_images": [],
         "attachment_count": 0,
+        "source_keys": list(source_keys),
     }
+
+
+def _records(
+    *, base_url: str, site_id: str, section_id: str, item: dict[str, Any], index: int
+) -> list[dict[str, Any]]:
+    if "zphid" in item or "zphmc" in item:
+        record_id = _text(item.get("zphid"))
+        title = _text(item.get("zphmc"))
+        if not record_id or not title:
+            raise RuntimeError(
+                f"91job fair {section_id}/{index} requires zphid and zphmc"
+            )
+        content = " ".join(
+            part
+            for part in (_text(item.get("gljg")), _text(item.get("jbcd")))
+            if part
+        )
+        return [
+            _record(
+                site_id=site_id,
+                section_id=section_id,
+                record_id=record_id,
+                url=f"{base_url}/sub-station/job-fair/{quote(record_id, safe='')}",
+                title=title,
+                content=content,
+                published_at=_text(item.get("jbkssj")) or None,
+                publisher=_text(item.get("gljg")) or "南京邮电大学",
+                raw=item,
+                source_keys=(f"zphid:{record_id}",),
+            )
+        ]
+
+    if "xjhid" in item or "xjhmc" in item:
+        record_id = _text(item.get("xjhid"))
+        title = _text(item.get("xjhmc"))
+        if not record_id or not title:
+            raise RuntimeError(
+                f"91job lecture {section_id}/{index} requires xjhid and xjhmc"
+            )
+        content = " ".join(
+            part
+            for part in (
+                _text(item.get("xjxx")),
+                _text(item.get("jbrq")),
+                _text(item.get("kssj")),
+                _text(item.get("jbdd")),
+            )
+            if part
+        )
+        query = urlencode({"xjhid": record_id, "xxdm": SCHOOL_CODE})
+        return [
+            _record(
+                site_id=site_id,
+                section_id=section_id,
+                record_id=f"xjhid:{record_id}",
+                url=f"{base_url}/sub-station/lectureDetail?{query}",
+                title=title,
+                content=content,
+                published_at=_text(item.get("jbrq")) or None,
+                publisher=_text(item.get("xjxx")) or "南京邮电大学",
+                raw=item,
+                source_keys=(f"xjhid:{record_id}",),
+            )
+        ]
+
+    if "dwid" in item or "zpzw" in item:
+        company_id = _text(item.get("dwid"))
+        company_name = _text(item.get("dwmc"))
+        positions = item.get("zpzw")
+        if not company_id or not company_name or not isinstance(positions, list):
+            raise RuntimeError(
+                f"91job company {section_id}/{index} requires dwid, dwmc and zpzw"
+            )
+        if not positions:
+            query = urlencode({"dwid": company_id, "xxdm": SCHOOL_CODE})
+            return [
+                _record(
+                    site_id=site_id,
+                    section_id=section_id,
+                    record_id=f"dwid:{company_id}",
+                    url=f"{base_url}/sub-station/companyDetails?{query}",
+                    title=company_name,
+                    content=_text(item.get("zzshsj")),
+                    published_at=_text(item.get("zzshsj")) or None,
+                    publisher=company_name,
+                    raw=item,
+                    source_keys=(f"dwid:{company_id}",),
+                )
+            ]
+        records: list[dict[str, Any]] = []
+        company_facts = {key: value for key, value in item.items() if key != "zpzw"}
+        for position_index, position in enumerate(positions):
+            if not isinstance(position, dict):
+                raise RuntimeError(
+                    f"91job position {section_id}/{index}/{position_index} must be an object"
+                )
+            position_id = _text(position.get("zpgwid"))
+            title = _text(position.get("zwmc"))
+            if not position_id or not title:
+                raise RuntimeError(
+                    f"91job position {section_id}/{index}/{position_index} "
+                    "requires zpgwid and zwmc"
+                )
+            content = " ".join(
+                part
+                for part in (
+                    company_name,
+                    _text(position.get("gzdd")),
+                    _text(position.get("xlyq")),
+                    _text(position.get("yjnx")),
+                    _text(position.get("zprs")),
+                )
+                if part
+            )
+            query = urlencode(
+                {
+                    "zpgwid": position_id,
+                    "dwid": company_id,
+                    "xxdm": SCHOOL_CODE,
+                }
+            )
+            records.append(
+                _record(
+                    site_id=site_id,
+                    section_id=section_id,
+                    record_id=f"zpgwid:{position_id}",
+                    url=f"{base_url}/sub-station/jobDetails?{query}",
+                    title=title,
+                    content=content,
+                    published_at=_text(item.get("zzshsj")) or None,
+                    publisher=company_name,
+                    raw={"company": company_facts, "position": position},
+                    source_keys=(
+                        f"dwid:{company_id}",
+                        f"zpgwid:{position_id}",
+                    ),
+                )
+            )
+        return records
+
+    record_id = _text(item.get("xwid"))
+    title = _text(item.get("xwbt"))
+    if not record_id or not title:
+        raise RuntimeError(
+            f"91job news {section_id}/{index} requires xwid and xwbt"
+        )
+    content = " ".join(
+        part
+        for part in (
+            _text(item.get("xwfbt")),
+            _text(item.get("xwnr")),
+            _text(item.get("xwbq")),
+            _text(item.get("flbq")),
+            _text(item.get("hdsj")),
+            _text(item.get("hddd")),
+        )
+        if part
+    )
+    return [
+        _record(
+            site_id=site_id,
+            section_id=section_id,
+            record_id=record_id,
+            url=_text(item.get("tzljdz"))
+            or f"{base_url}/sub-station/news/{quote(record_id, safe='')}",
+            title=title,
+            content=content,
+            published_at=_text(item.get("fbsj")) or None,
+            publisher="南京邮电大学就业信息网",
+            raw=item,
+            source_keys=(f"xwid:{record_id}",),
+        )
+    ]
 
 
 def crawl(
@@ -214,6 +376,7 @@ def crawl(
     timeout = int(policy.get("timeout_seconds", 20))
     page_size = int(policy.get("job91_items_per_section", 120))
     maximum = int(policy.get("job91_max_pages_per_section", 40))
+    category_workers = int(policy.get("job91_category_workers", 3))
     if dry_run:
         print(
             json.dumps(
@@ -241,6 +404,26 @@ def crawl(
         raise RuntimeError("91job returned no categories")
 
     columns = _columns(raw_columns)
+    workers = min(max(1, category_workers), len(columns))
+
+    def fetch_category(column: dict[str, Any]):
+        return _pages(
+            client,
+            category=column["id"],
+            page_size=page_size,
+            maximum=maximum,
+            known_keys=known_keys,
+        )
+
+    if workers == 1:
+        category_pages = [fetch_category(column) for column in columns]
+    else:
+        with ThreadPoolExecutor(
+            max_workers=workers,
+            thread_name_prefix="job91-category",
+        ) as executor:
+            category_pages = list(executor.map(fetch_category, columns))
+
     sections: list[dict[str, Any]] = []
     list_pages_by_url = (
         {
@@ -267,7 +450,7 @@ def crawl(
         else {}
     )
     errors: list[dict[str, Any]] = []
-    for column in columns:
+    for column, (pages, stop) in zip(columns, category_pages, strict=True):
         section_id = f"{site_id}_{stable_id(column['id'], length=12)}"
         section_url = (
             f"{base_url}/sub-station/list/{quote(column['id'], safe='')}"
@@ -285,12 +468,18 @@ def crawl(
                 "source": "api_category",
             }
         )
-        pages, stop = _pages(
-            client,
-            category=column["id"],
-            page_size=page_size,
-            maximum=maximum,
-            known_keys=known_keys,
+        print(
+            json.dumps(
+                {
+                    "site_id": site_id,
+                    "section_id": section_id,
+                    "source_category_id": column["id"],
+                    "pages": len(pages),
+                    "termination": stop["reason"],
+                },
+                ensure_ascii=False,
+            ),
+            flush=True,
         )
         if stop["reason"] == "page_limit":
             errors.append(
@@ -318,24 +507,25 @@ def crawl(
                 "fetched_at": now_iso(),
             }
             for index, item in enumerate(items):
-                record = _record(
+                records = _records(
                     base_url=base_url,
                     site_id=site_id,
                     section_id=section_id,
                     item=item,
                     index=(page_number - 1) * page_size + index,
                 )
-                detail_by_url[record["url"]] = record
-                edge = {
-                    "edge_id": stable_id(list_url, record["url"]),
-                    "from_url": list_url,
-                    "to_url": record["url"],
-                    "anchor_text": record["title"],
-                    "edge_type": "api_list_item",
-                    "target_type": "detail_article_page",
-                    "same_domain": True,
-                }
-                edges_by_id[edge["edge_id"]] = edge
+                for record in records:
+                    detail_by_url[record["url"]] = record
+                    edge = {
+                        "edge_id": stable_id(list_url, record["url"]),
+                        "from_url": list_url,
+                        "to_url": record["url"],
+                        "anchor_text": record["title"],
+                        "edge_type": "api_list_item",
+                        "target_type": "detail_article_page",
+                        "same_domain": True,
+                    }
+                    edges_by_id[edge["edge_id"]] = edge
 
     nav_nodes = [
         {
