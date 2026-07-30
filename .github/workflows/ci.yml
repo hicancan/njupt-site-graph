@@ -38,6 +38,6 @@ jobs:
 
       - name: Run the network-free loop
         run: |
-          uv run pytest -q
-          uv run python ops/njupt.py validate-configs
-          uv run python ops/njupt.py dry-run --packages-root "$RUNNER_TEMP/site-packages"
+          .venv/bin/python -m pytest -q
+          .venv/bin/python ops/njupt.py validate-configs
+          .venv/bin/python ops/njupt.py dry-run --packages-root "$RUNNER_TEMP/site-packages"

@@ -38,10 +38,10 @@ jobs:
       - name: Crawl and export one immutable snapshot
         run: |
           set -euo pipefail
-          uv run python ops/njupt.py crawl --packages-root artifact/site-packages
-          uv run python ops/njupt.py validate-packages --packages-root artifact/site-packages
-          uv run python ops/njupt.py summary --packages-root artifact/site-packages
-          uv run python ops/njupt.py export-corpus \
+          .venv/bin/python ops/njupt.py crawl --packages-root artifact/site-packages
+          .venv/bin/python ops/njupt.py validate-packages --packages-root artifact/site-packages
+          .venv/bin/python ops/njupt.py summary --packages-root artifact/site-packages
+          .venv/bin/python ops/njupt.py export-corpus \
             --packages-root artifact/site-packages \
             --out artifact/corpus
 
