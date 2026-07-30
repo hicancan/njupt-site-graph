@@ -1,9 +1,0 @@
-{
-  "site_id": "jwc",
-  "name": "本科生院 / 教务处",
-  "base_url": "https://jwc.njupt.edu.cn/",
-  "domain": "jwc.njupt.edu.cn",
-  "adapter": "njupt_wp",
-  "created_at": "2026-07-02T13:42:40.799712+00:00",
-  "notes": "First reference site for the static-site-graph modeling protocol."
-}

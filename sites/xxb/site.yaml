@@ -1,0 +1,59 @@
+site:
+  id: xxb
+  name: 信息化建设与管理办公室
+  base_url: https://xxb.njupt.edu.cn/
+  domain: xxb.njupt.edu.cn
+  owner_unit: 南京邮电大学信息化建设与管理办公室
+
+crawl_policy:
+  timeout_seconds: 20
+  max_pages_safety: 500
+  same_domain_only_for_content: true
+  external_link_policy: record_only
+  attachment_policy: metadata_only
+  auto_discover_sections_from_homepage: true
+
+selectors:
+  homepage:
+    nav: "#nav a, .wp-menu a, .wp_nav a, .nav a, a[href]"
+    module_links: "a[href]"
+    module_labels: [新闻动态, 工作通知, 常见问题, 服务指南, 下载中心, 智慧校园, VPN, 校园网]
+  list:
+    item_container: ".news_list.list2, .news_list2.list2, .col_news_con .news_list, .col_news_list .news_list"
+    pagination_next_text: "下一页"
+  detail:
+    title_candidates: [".arti_title", ".articleTitle", ".col_title", ".news_title", "h1", "title"]
+    meta_text: "body"
+    content_candidates: [".wp_articlecontent", ".article", ".entry", ".read", ".article_content", ".news_content", ".v_news_content", "#wp_content_w6_0", ".col_news_con", ".content", "main", "body"]
+    attachments: "a[href]"
+
+page_classification:
+  list_patterns: ["/list.htm", "/list[0-9]+.htm", "/list.psp", "/list[0-9]+.psp"]
+  detail_patterns: ["/20*/**/page.htm", "/20*/**/page.psp"]
+  attachment_extensions: [pdf, doc, docx, xls, xlsx, ppt, pptx, zip, rar]
+
+link_classification:
+  external_system_labels: [智慧校园, 正版软件, 校园网, VPN, 办事大厅, 南邮云盘, 南邮邮箱, AI, 问答机器人, 统一身份认证]
+  external_policy_domains: [moe.gov.cn, gov.cn, jiangsu.gov.cn, jyt.jiangsu.gov.cn]
+
+sections:
+  - section_id: xxb_service_guide
+    site_id: xxb
+    name: 服务指南
+    url: https://xxb.njupt.edu.cn/fwznnew/list.htm
+    section_type: list
+    nav_path: [服务指南]
+    crawlable: true
+    business_tags: [workflow, it_service]
+    pagination: {type: next_link, max_pages_safety: 500}
+    item_container_selector: ".news_list.list2, .news_list2.list2"
+  - section_id: xxb_faq
+    site_id: xxb
+    name: 常见问题
+    url: https://xxb.njupt.edu.cn/cjwt/list.htm
+    section_type: list
+    nav_path: [常见问题]
+    crawlable: true
+    business_tags: [faq, it_service]
+    pagination: {type: next_link, max_pages_safety: 500}
+    item_container_selector: ".news_list.list2, .news_list2.list2"

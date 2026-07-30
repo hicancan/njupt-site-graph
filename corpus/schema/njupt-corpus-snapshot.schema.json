@@ -1,0 +1,161 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://hicancan.github.io/njupt-site-graph/njupt-corpus-snapshot.schema.json",
+  "title": "NjuptCorpusSnapshot manifest",
+  "type": "object",
+  "additionalProperties": false,
+  "$defs": {
+    "corpusCounts": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["sites", "documents", "attachments", "links"],
+      "properties": {
+        "sites": { "type": "integer", "minimum": 1 },
+        "documents": { "type": "integer", "minimum": 1 },
+        "attachments": { "type": "integer", "minimum": 0 },
+        "links": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "sourceCounts": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["documents", "attachments", "links"],
+      "properties": {
+        "documents": { "type": "integer", "minimum": 0 },
+        "attachments": { "type": "integer", "minimum": 0 },
+        "links": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "name", "counts"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "name": { "type": "string", "minLength": 1 },
+        "counts": { "$ref": "#/$defs/sourceCounts" }
+      }
+    },
+    "artifact": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["path", "bytes", "sha256"],
+      "properties": {
+        "path": { "type": "string", "minLength": 1 },
+        "bytes": { "type": "integer", "minimum": 1 },
+        "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" }
+      }
+    },
+    "documentAttachment": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "url", "name", "extension"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "url": { "type": "string", "minLength": 1 },
+        "name": { "type": "string", "minLength": 1 },
+        "extension": { "type": ["string", "null"] }
+      }
+    },
+    "njuptDocument": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "source",
+        "url",
+        "title",
+        "content",
+        "published_at",
+        "updated_at",
+        "section",
+        "kind",
+        "tags",
+        "attachments"
+      ],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "source": { "type": "string", "minLength": 1 },
+        "url": { "type": "string", "minLength": 1 },
+        "title": { "type": "string", "minLength": 1 },
+        "content": { "type": "string" },
+        "published_at": { "type": ["string", "null"] },
+        "updated_at": { "type": ["string", "null"] },
+        "section": { "type": ["string", "null"] },
+        "kind": { "type": "string", "minLength": 1 },
+        "tags": { "type": "array", "items": { "type": "string" } },
+        "attachments": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/documentAttachment" }
+        }
+      }
+    },
+    "njuptAttachment": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "source",
+        "url",
+        "name",
+        "extension",
+        "parent_id",
+        "parent_url",
+        "section"
+      ],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "source": { "type": "string", "minLength": 1 },
+        "url": { "type": "string", "minLength": 1 },
+        "name": { "type": "string", "minLength": 1 },
+        "extension": { "type": ["string", "null"] },
+        "parent_id": { "type": ["string", "null"] },
+        "parent_url": { "type": ["string", "null"] },
+        "section": { "type": ["string", "null"] }
+      }
+    },
+    "njuptLink": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "source",
+        "url",
+        "label",
+        "kind",
+        "from_url",
+        "category"
+      ],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "source": { "type": "string", "minLength": 1 },
+        "url": { "type": "string", "minLength": 1 },
+        "label": { "type": ["string", "null"] },
+        "kind": { "enum": ["external", "edge"] },
+        "from_url": { "type": ["string", "null"] },
+        "category": { "type": ["string", "null"] }
+      }
+    }
+  },
+  "required": ["format", "snapshot_id", "counts", "sources", "artifacts"],
+  "properties": {
+    "format": { "const": "njupt-corpus-snapshot-v2" },
+    "snapshot_id": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+    "counts": { "$ref": "#/$defs/corpusCounts" },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/source" }
+    },
+    "artifacts": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["documents.jsonl.zst", "attachments.jsonl.zst", "links.jsonl.zst"],
+      "properties": {
+        "documents.jsonl.zst": { "$ref": "#/$defs/artifact" },
+        "attachments.jsonl.zst": { "$ref": "#/$defs/artifact" },
+        "links.jsonl.zst": { "$ref": "#/$defs/artifact" }
+      }
+    }
+  }
+}

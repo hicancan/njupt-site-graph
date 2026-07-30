@@ -8,15 +8,5 @@ __pycache__/
 .coverage
 htmlcov/
 
-# Local-only planning, docs, reports, and agent configuration.
-/AGENTS.md
-/CLAUDE.md
-/.agents/
-/.claude/
-/docs/
-/prompts/
-/reports/
-/data/sites/*/reports/*
-!/data/sites/*/reports/
-!/data/sites/*/reports/audit_evidence.md
-!/data/sites/*/reports/audit_evidence.json
+# Local crawl packages. They can be exported to an immutable corpus snapshot.
+/.data/

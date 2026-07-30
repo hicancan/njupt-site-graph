@@ -1,9 +1,0 @@
-{
-  "site_id": "fwlc",
-  "name": "南京邮电大学服务流程",
-  "base_url": "https://fwlc.njupt.edu.cn/",
-  "domain": "fwlc.njupt.edu.cn",
-  "adapter": "njupt_wp",
-  "created_at": "2026-06-08T05:53:03.323711+00:00",
-  "notes": "Chrome DevTools audited main.psp WebPlus source for campus service workflows."
-}

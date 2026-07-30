@@ -1,0 +1,99 @@
+name: Publish NJUPT Corpus
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-njupt-corpus
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/checkout@v6
+        with:
+          repository: hicancan/static-site-graph
+          path: _framework/static-site-graph
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - uses: astral-sh/setup-uv@v8.2.0
+
+      - name: Install the two producer layers
+        run: |
+          uv venv
+          uv pip install -e _framework/static-site-graph
+          uv pip install -e .
+
+      - name: Crawl and export one immutable snapshot
+        run: |
+          set -euo pipefail
+          uv run python ops/njupt.py crawl --packages-root artifact/site-packages
+          uv run python ops/njupt.py validate-packages --packages-root artifact/site-packages
+          uv run python ops/njupt.py summary --packages-root artifact/site-packages
+          uv run python ops/njupt.py export-corpus \
+            --packages-root artifact/site-packages \
+            --out artifact/corpus
+
+      - name: Package and identify the corpus
+        id: corpus
+        run: |
+          set -euo pipefail
+          corpus_id="$(python -c 'import json; print(json.load(open("artifact/corpus/manifest.json", encoding="utf-8"))["snapshot_id"])')"
+          archive="njupt-corpus-${corpus_id}.tar.zst"
+          tar --sort=name --mtime=@0 --owner=0 --group=0 --numeric-owner \
+            --zstd -cf "$archive" -C artifact/corpus .
+          archive_sha256="$(sha256sum "$archive" | cut -d' ' -f1)"
+          release_tag="corpus-${corpus_id}"
+          corpus_url="https://github.com/${GITHUB_REPOSITORY}/releases/download/${release_tag}/${archive}"
+          echo "corpus_id=$corpus_id" >> "$GITHUB_OUTPUT"
+          echo "archive=$archive" >> "$GITHUB_OUTPUT"
+          echo "archive_sha256=$archive_sha256" >> "$GITHUB_OUTPUT"
+          echo "release_tag=$release_tag" >> "$GITHUB_OUTPUT"
+          echo "corpus_url=$corpus_url" >> "$GITHUB_OUTPUT"
+
+      - name: Publish the immutable release asset
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ARCHIVE: ${{ steps.corpus.outputs.archive }}
+          RELEASE_TAG: ${{ steps.corpus.outputs.release_tag }}
+          CORPUS_ID: ${{ steps.corpus.outputs.corpus_id }}
+        run: |
+          set -euo pipefail
+          if ! gh release view "$RELEASE_TAG" >/dev/null 2>&1; then
+            gh release create "$RELEASE_TAG" "$ARCHIVE" \
+              --title "NJUPT corpus $CORPUS_ID" \
+              --notes "Immutable NjuptCorpusSnapshot $CORPUS_ID"
+          else
+            mkdir published
+            gh release download "$RELEASE_TAG" --pattern "$ARCHIVE" --dir published
+            cmp --silent "$ARCHIVE" "published/$ARCHIVE" || {
+              echo "::error::Existing immutable corpus asset differs from this build"
+              exit 1
+            }
+          fi
+
+      - name: Trigger the search build with the artifact identity
+        env:
+          GH_TOKEN: ${{ secrets.NJUPT_SEARCH_DISPATCH_TOKEN }}
+          CORPUS_URL: ${{ steps.corpus.outputs.corpus_url }}
+          CORPUS_ID: ${{ steps.corpus.outputs.corpus_id }}
+          CORPUS_SHA256: ${{ steps.corpus.outputs.archive_sha256 }}
+        run: |
+          set -euo pipefail
+          : "${GH_TOKEN:?NJUPT_SEARCH_DISPATCH_TOKEN is required}"
+          gh api repos/hicancan/njupt-search/dispatches \
+            -f event_type=njupt-corpus-published \
+            -F client_payload[corpus_url]="$CORPUS_URL" \
+            -F client_payload[corpus_id]="$CORPUS_ID" \
+            -F client_payload[corpus_sha256]="$CORPUS_SHA256"

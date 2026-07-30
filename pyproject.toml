@@ -1,10 +1,21 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "njupt-site-graph"
 version = "0.1.0"
 description = "NJUPT instance project for static-site-graph"
-license = { file = "LICENSE" }
+license = "AGPL-3.0-only"
+license-files = ["LICENSE"]
 requires-python = ">=3.10"
-dependencies = []
+dependencies = [
+  "static-site-graph>=0.1,<0.2",
+  "zstandard>=0.23,<1",
+]
+
+[project.scripts]
+njupt-sitegraph = "njupt_site_graph.cli:main"
 
 [project.optional-dependencies]
 dev = ["pytest>=8.0"]
@@ -12,5 +23,9 @@ dev = ["pytest>=8.0"]
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 
-[tool.setuptools]
-py-modules = []
+[tool.uv.sources]
+static-site-graph = { path = "../static-site-graph", editable = true }
+
+[tool.setuptools.packages.find]
+where = [".", "corpus/src"]
+include = ["njupt_site_graph*", "sites*"]

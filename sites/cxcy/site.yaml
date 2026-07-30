@@ -1,0 +1,112 @@
+site:
+  id: cxcy
+  name: 创新创业教育学院
+  base_url: https://cxcy.njupt.edu.cn/
+  domain: cxcy.njupt.edu.cn
+  owner_unit: 南京邮电大学创新创业教育学院
+
+crawl_policy:
+  timeout_seconds: 20
+  max_pages_safety: 500
+  same_domain_only_for_content: true
+  external_link_policy: record_only
+  attachment_policy: metadata_only
+  auto_discover_sections_from_homepage: true
+
+selectors:
+  homepage:
+    nav: "#nav a, .wp-menu a"
+    module_links: "a[href]"
+    module_labels:
+      - 新闻资讯
+      - 通知公告
+      - 双创项目
+      - 竞赛成果
+      - 友情链接
+      - 联系我们
+    module_container_selectors:
+      - ".post-21"
+      - ".post-23"
+      - ".post-244"
+      - ".post-26"
+      - ".link-lang"
+      - ".footer"
+  list:
+    item_container: ".news_list.list2, .news_list2.list2"
+    item: null
+    title: null
+    date: null
+    link: null
+    pagination_next_text: "下一页"
+  detail:
+    title_candidates: [".arti_title", ".articleTitle", ".news_title", "h1", "title"]
+    meta_text: "body"
+    content_candidates: [".wp_articlecontent", ".article", ".entry", ".read", ".article_content", ".news_content", ".v_news_content", "#wp_content_w6_0", ".content", "main", "body"]
+    attachments: "a[href]"
+
+page_classification:
+  list_patterns:
+    - "/list.htm"
+    - "/list[0-9]+.htm"
+    - "/list.psp"
+    - "/list[0-9]+.psp"
+  detail_patterns:
+    - "/20*/**/page.htm"
+    - "/20*/**/page.psp"
+  attachment_extensions: [pdf, doc, docx, xls, xlsx, ppt, pptx, zip, rar]
+
+link_classification:
+  external_system_labels:
+    - 江苏省大学生创新创业平台
+    - 双创信息管理系统
+  external_policy_domains:
+    - moe.gov.cn
+    - gov.cn
+    - jiangsu.gov.cn
+    - jyt.jiangsu.gov.cn
+    - ec.js.edu.cn
+
+homepage_modules:
+  - name: 新闻资讯
+    list_url: https://cxcy.njupt.edu.cn/xwzx/list.htm
+    container_selector: ".post-21"
+    source: declared
+  - name: 通知公告
+    list_url: https://cxcy.njupt.edu.cn/tzgg/list.htm
+    container_selector: ".post-23"
+    source: declared
+  - name: 双创项目
+    list_url: https://cxcy.njupt.edu.cn/scxm/list.htm
+    container_selector: ".post-244"
+    source: declared
+  - name: 竞赛成果
+    list_url: https://cxcy.njupt.edu.cn/jscx/list.htm
+    container_selector: ".post-26"
+    source: declared
+
+sections:
+  - section_id: cxcy_download_center
+    site_id: cxcy
+    name: 下载中心
+    url: https://cxcy.njupt.edu.cn/15468/list.htm
+    section_type: resource_list
+    nav_path: [下载中心]
+    crawlable: true
+    business_tags: [resource, download, forms]
+    pagination:
+      type: next_link
+      max_pages_safety: 500
+    item_container_selector: ".news_list.list2, .news_list2.list2"
+
+  - section_id: cxcy_competition_notices
+    site_id: cxcy
+    name: 学科竞赛相关通知
+    url: https://cxcy.njupt.edu.cn/15495/list.htm
+    section_type: list
+    nav_path: [双创项目, 学科竞赛, 相关通知]
+    crawlable: true
+    business_tags: [competition, notice]
+    pagination:
+      type: next_link
+      max_pages_safety: 500
+    item_container_selector: ".news_list.list2, .news_list2.list2"

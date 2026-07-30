@@ -1,0 +1,20 @@
+{
+  "version": "njupt-site-registry-v1",
+  "sites": [
+    {"id": "jwc", "config": "sites/jwc/site.yaml"},
+    {"id": "xsc", "config": "sites/xsc/site.yaml"},
+    {"id": "cxcy", "config": "sites/cxcy/site.yaml"},
+    {"id": "lib", "config": "sites/lib/site.yaml"},
+    {"id": "xxb", "config": "sites/xxb/site.yaml"},
+    {"id": "www", "config": "sites/www/site.yaml"},
+    {"id": "job91", "config": "sites/job91/site.yaml", "plugin": "sites.plugins.job91:crawl"},
+    {"id": "tyb", "config": "sites/tyb/site.yaml"},
+    {"id": "bwc", "config": "sites/bwc/site.yaml"},
+    {"id": "fwlc", "config": "sites/fwlc/site.yaml"},
+    {"id": "gzzd", "config": "sites/gzzd/site.yaml"},
+    {"id": "xxgk", "config": "sites/xxgk/site.yaml"},
+    {"id": "cs", "config": "sites/cs/site.yaml"},
+    {"id": "scie", "config": "sites/scie/site.yaml"},
+    {"id": "bhs", "config": "sites/bhs/site.yaml"}
+  ]
+}

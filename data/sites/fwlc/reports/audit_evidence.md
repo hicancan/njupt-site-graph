@@ -1,7 +1,0 @@
-# fwlc audit evidence
-
-- Site: 服务流程, https://fwlc.njupt.edu.cn/
-- Model: WebPlus-style public portal for workflow/service pages. Homepage navigation and modules expose list/detail pages; attachments are captured as metadata only.
-- Pagination: next-link pagination. Terminal pages are proved by `data/sites/fwlc/index/coverage_report.json`.
-- Scope exclusions: login-only systems, third-party bodies, and binary attachment bodies are not crawled; external destinations are recorded as outcomes.
-- Reproduce: open the homepage and representative list/detail pages with Chrome DevTools MCP, inspect anchors/network/console, then run `python scripts/sitegraph_registry.py crawl --include fwlc` and validate the coverage report.

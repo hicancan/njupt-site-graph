@@ -1,9 +1,0 @@
-{
-  "site_id": "bhs",
-  "name": "贝尔英才学院",
-  "base_url": "https://bhs.njupt.edu.cn/",
-  "domain": "bhs.njupt.edu.cn",
-  "adapter": "njupt_wp",
-  "created_at": "2026-06-08T05:59:57.888251+00:00",
-  "notes": "Chrome DevTools audited WebPlus source for Bell Honors School."
-}

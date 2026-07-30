@@ -1,9 +1,0 @@
-{
-  "site_id": "www",
-  "name": "南京邮电大学主站",
-  "base_url": "https://www.njupt.edu.cn/",
-  "domain": "www.njupt.edu.cn",
-  "adapter": "njupt_wp",
-  "created_at": "2026-07-02T10:25:24.498912+00:00",
-  "notes": "Chrome DevTools audited main university portal."
-}
