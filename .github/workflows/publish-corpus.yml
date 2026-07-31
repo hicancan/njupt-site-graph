@@ -119,6 +119,7 @@ jobs:
           echo "archive=$archive" >> "$GITHUB_OUTPUT"
           echo "packages_archive=$packages_archive" >> "$GITHUB_OUTPUT"
           echo "archive_sha256=$archive_sha256" >> "$GITHUB_OUTPUT"
+          echo "packages_sha256=$packages_sha256" >> "$GITHUB_OUTPUT"
           echo "artifact_id=$artifact_id" >> "$GITHUB_OUTPUT"
 
       - name: Publish the corpus artifact
@@ -126,17 +127,29 @@ jobs:
         env:
           ARCHIVE: ${{ steps.corpus.outputs.archive }}
           PACKAGES_ARCHIVE: ${{ steps.corpus.outputs.packages_archive }}
+          ARCHIVE_SHA256: ${{ steps.corpus.outputs.archive_sha256 }}
+          PACKAGES_SHA256: ${{ steps.corpus.outputs.packages_sha256 }}
           ARTIFACT_ID: ${{ steps.corpus.outputs.artifact_id }}
         run: |
           set -euo pipefail
           registry="ghcr.io/${GITHUB_REPOSITORY_OWNER}/njupt-corpus"
-          oras push \
-            --artifact-type application/vnd.njupt.corpus \
-            --annotation "org.opencontainers.image.source=${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}" \
-            "$registry:$ARTIFACT_ID,current" \
-            "$ARCHIVE:application/vnd.njupt.corpus+zstd" \
-            "$PACKAGES_ARCHIVE:application/vnd.njupt.site-packages+zstd"
-          digest="$(oras resolve "$registry:$ARTIFACT_ID")"
+          if digest="$(oras resolve "$registry:$ARTIFACT_ID" 2>/dev/null)"; then
+            mkdir published
+            oras pull "$registry@$digest" --output published
+            printf '%s  %s\n' "$ARCHIVE_SHA256" "published/$ARCHIVE" \
+              | sha256sum --check -
+            printf '%s  %s\n' "$PACKAGES_SHA256" "published/$PACKAGES_ARCHIVE" \
+              | sha256sum --check -
+          else
+            oras push \
+              --artifact-type application/vnd.njupt.corpus \
+              --annotation "org.opencontainers.image.source=${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}" \
+              "$registry:$ARTIFACT_ID" \
+              "$ARCHIVE:application/vnd.njupt.corpus+zstd" \
+              "$PACKAGES_ARCHIVE:application/vnd.njupt.site-packages+zstd"
+            digest="$(oras resolve "$registry:$ARTIFACT_ID")"
+          fi
+          oras tag "$registry@$digest" current
           test "$(oras resolve "$registry:current")" = "$digest"
           echo "corpus_ref=$registry@$digest" >> "$GITHUB_OUTPUT"
 
