@@ -33,7 +33,8 @@ jobs:
 
       - uses: oras-project/setup-oras@v1
         with:
-          version: 1.3.3
+          url: https://github.com/oras-project/oras/releases/download/v1.3.3/oras_1.3.3_linux_amd64.tar.gz
+          checksum: 9ce999f8d2de03fc03968b29d743077a58783e545e5eaa53917ca177352d0e59
 
       - name: Install the two producer layers
         run: |
