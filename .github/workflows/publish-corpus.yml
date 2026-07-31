@@ -6,7 +6,8 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
+  packages: write
 
 concurrency:
   group: publish-njupt-corpus
@@ -30,39 +31,52 @@ jobs:
 
       - uses: astral-sh/setup-uv@v8.2.0
 
+      - uses: oras-project/setup-oras@v1
+        with:
+          version: 1.3.3
+
       - name: Install the two producer layers
         run: |
           uv venv
           uv pip install -e _framework/static-site-graph zstandard
           uv pip install --no-deps -e .
 
-      - name: Restore the latest immutable SitePackages
-        id: previous
+      - name: Sign in to the artifact registry
         env:
-          GH_TOKEN: ${{ github.token }}
+          REGISTRY_TOKEN: ${{ github.token }}
+        run: |
+          printf '%s' "$REGISTRY_TOKEN" \
+            | oras login ghcr.io --username "$GITHUB_ACTOR" --password-stdin
+
+      - name: Restore the current SitePackages
+        id: previous
         run: |
           set -euo pipefail
           mkdir -p artifact
-          mapfile -t assets < <(
-            gh api --paginate "repos/$GITHUB_REPOSITORY/releases?per_page=100" \
-              --jq '.[] | select(.draft == false) | . as $release | .assets[]? | select(.name | startswith("njupt-site-packages-")) | [$release.tag_name, .name] | @tsv'
-          )
-          if [ "${#assets[@]}" -eq 0 ]; then
+          registry="ghcr.io/${GITHUB_REPOSITORY_OWNER}/njupt-corpus"
+          if ! oras resolve "$registry:current" >/dev/null 2>&1; then
             echo "mode=full" >> "$GITHUB_OUTPUT"
-            echo "No prior SitePackages release exists; this run is the explicit bootstrap crawl."
+            echo "No current corpus artifact exists; this run is the explicit bootstrap crawl."
             exit 0
           fi
 
-          IFS=$'\t' read -r release_tag asset_name <<< "${assets[0]}"
-          gh release download "$release_tag" \
-            --pattern "$asset_name" \
-            --dir artifact
+          mkdir artifact/previous
+          oras pull "$registry:current" --output artifact/previous
+          mapfile -t packages_archives < <(
+            find artifact/previous -maxdepth 1 -type f \
+              -name 'njupt-site-packages-*.tar.zst' -printf '%f\n'
+          )
+          if [ "${#packages_archives[@]}" -ne 1 ]; then
+            echo "::error::The current corpus artifact must contain exactly one SitePackages archive"
+            exit 1
+          fi
+          asset_name="${packages_archives[0]}"
           mkdir artifact/site-packages
-          tar --zstd -xf "artifact/$asset_name" -C artifact/site-packages
+          tar --zstd -xf "artifact/previous/$asset_name" -C artifact/site-packages
           .venv/bin/python ops/njupt.py validate-packages \
             --packages-root artifact/site-packages
           echo "mode=incremental" >> "$GITHUB_OUTPUT"
-          echo "Restored $asset_name from $release_tag for incremental crawling."
+          echo "Restored $asset_name from the current OCI artifact for incremental crawling."
 
       - name: Crawl and export one immutable snapshot
         run: |
@@ -95,56 +109,49 @@ jobs:
           tar --sort=name --mtime=@0 --owner=0 --group=0 --numeric-owner \
             --zstd -cf "$packages_archive" -C artifact/site-packages .
           archive_sha256="$(sha256sum "$archive" | cut -d' ' -f1)"
-          release_tag="corpus-${corpus_id}"
-          corpus_url="https://github.com/${GITHUB_REPOSITORY}/releases/download/${release_tag}/${archive}"
+          packages_sha256="$(sha256sum "$packages_archive" | cut -d' ' -f1)"
+          artifact_id="$(
+            printf '%s\0%s' "$archive_sha256" "$packages_sha256" \
+              | sha256sum | cut -d' ' -f1
+          )"
           echo "corpus_id=$corpus_id" >> "$GITHUB_OUTPUT"
           echo "archive=$archive" >> "$GITHUB_OUTPUT"
           echo "packages_archive=$packages_archive" >> "$GITHUB_OUTPUT"
           echo "archive_sha256=$archive_sha256" >> "$GITHUB_OUTPUT"
-          echo "release_tag=$release_tag" >> "$GITHUB_OUTPUT"
-          echo "corpus_url=$corpus_url" >> "$GITHUB_OUTPUT"
+          echo "artifact_id=$artifact_id" >> "$GITHUB_OUTPUT"
 
-      - name: Publish the immutable release asset
+      - name: Publish the corpus artifact
+        id: publish
         env:
-          GH_TOKEN: ${{ github.token }}
           ARCHIVE: ${{ steps.corpus.outputs.archive }}
           PACKAGES_ARCHIVE: ${{ steps.corpus.outputs.packages_archive }}
-          RELEASE_TAG: ${{ steps.corpus.outputs.release_tag }}
-          CORPUS_ID: ${{ steps.corpus.outputs.corpus_id }}
+          ARTIFACT_ID: ${{ steps.corpus.outputs.artifact_id }}
         run: |
           set -euo pipefail
-          if ! gh release view "$RELEASE_TAG" >/dev/null 2>&1; then
-            gh release create "$RELEASE_TAG" "$ARCHIVE" "$PACKAGES_ARCHIVE" \
-              --title "NJUPT corpus $CORPUS_ID" \
-              --notes "Immutable NjuptCorpusSnapshot and source SitePackages for $CORPUS_ID"
-          else
-            mkdir published
-            for asset in "$ARCHIVE" "$PACKAGES_ARCHIVE"; do
-              if gh release view "$RELEASE_TAG" --json assets \
-                --jq ".assets[] | select(.name == \"$asset\") | .name" \
-                | grep -Fx "$asset" >/dev/null; then
-                gh release download "$RELEASE_TAG" --pattern "$asset" --dir published
-                cmp --silent "$asset" "published/$asset" || {
-                  echo "::error::Existing immutable asset differs: $asset"
-                  exit 1
-                }
-              else
-                gh release upload "$RELEASE_TAG" "$asset"
-              fi
-            done
-          fi
+          registry="ghcr.io/${GITHUB_REPOSITORY_OWNER}/njupt-corpus"
+          oras push \
+            --artifact-type application/vnd.njupt.corpus \
+            --annotation "org.opencontainers.image.source=${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}" \
+            "$registry:$ARTIFACT_ID,current" \
+            "$ARCHIVE:application/vnd.njupt.corpus+zstd" \
+            "$PACKAGES_ARCHIVE:application/vnd.njupt.site-packages+zstd"
+          digest="$(oras resolve "$registry:$ARTIFACT_ID")"
+          test "$(oras resolve "$registry:current")" = "$digest"
+          echo "corpus_ref=$registry@$digest" >> "$GITHUB_OUTPUT"
 
       - name: Trigger the search build with the artifact identity
         env:
           GH_TOKEN: ${{ secrets.NJUPT_SEARCH_DISPATCH_TOKEN }}
-          CORPUS_URL: ${{ steps.corpus.outputs.corpus_url }}
+          CORPUS_REF: ${{ steps.publish.outputs.corpus_ref }}
           CORPUS_ID: ${{ steps.corpus.outputs.corpus_id }}
+          CORPUS_ARCHIVE: ${{ steps.corpus.outputs.archive }}
           CORPUS_SHA256: ${{ steps.corpus.outputs.archive_sha256 }}
         run: |
           set -euo pipefail
           : "${GH_TOKEN:?NJUPT_SEARCH_DISPATCH_TOKEN is required}"
           gh api repos/hicancan/njupt-search/dispatches \
             -f event_type=njupt-corpus-published \
-            -F client_payload[corpus_url]="$CORPUS_URL" \
+            -F client_payload[corpus_ref]="$CORPUS_REF" \
             -F client_payload[corpus_id]="$CORPUS_ID" \
+            -F client_payload[corpus_archive]="$CORPUS_ARCHIVE" \
             -F client_payload[corpus_sha256]="$CORPUS_SHA256"

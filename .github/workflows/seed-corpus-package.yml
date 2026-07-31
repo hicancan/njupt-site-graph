@@ -1,0 +1,77 @@
+name: Seed Corpus Package
+
+on:
+  workflow_dispatch:
+    inputs:
+      release_tag:
+        description: Existing corpus Release tag used once to seed the OCI artifact
+        required: true
+        type: string
+        default: corpus-f930b2fb2676212fb19efe29286717b4329e91dd140f84d3bc87971af0da76ee
+
+permissions:
+  contents: read
+  packages: write
+
+jobs:
+  seed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: oras-project/setup-oras@v1
+        with:
+          version: 1.3.3
+
+      - name: Download the recoverable source artifacts
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ inputs.release_tag }}
+        run: |
+          set -euo pipefail
+          mkdir seed
+          gh release download "$RELEASE_TAG" \
+            --pattern 'njupt-corpus-*.tar.zst' \
+            --pattern 'njupt-site-packages-*.tar.zst' \
+            --dir seed
+          test "$(find seed -maxdepth 1 -type f -name 'njupt-corpus-*.tar.zst' | wc -l)" -eq 1
+          test "$(find seed -maxdepth 1 -type f -name 'njupt-site-packages-*.tar.zst' | wc -l)" -eq 1
+
+      - name: Publish and verify the OCI artifact
+        env:
+          REGISTRY_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          printf '%s' "$REGISTRY_TOKEN" \
+            | oras login ghcr.io --username "$GITHUB_ACTOR" --password-stdin
+
+          corpus_archive="$(find seed -maxdepth 1 -type f -name 'njupt-corpus-*.tar.zst' -printf '%f\n')"
+          packages_archive="$(find seed -maxdepth 1 -type f -name 'njupt-site-packages-*.tar.zst' -printf '%f\n')"
+          corpus_sha256="$(sha256sum "seed/$corpus_archive" | cut -d' ' -f1)"
+          packages_sha256="$(sha256sum "seed/$packages_archive" | cut -d' ' -f1)"
+          artifact_id="$(
+            printf '%s\0%s' "$corpus_sha256" "$packages_sha256" \
+              | sha256sum | cut -d' ' -f1
+          )"
+          registry="ghcr.io/${GITHUB_REPOSITORY_OWNER}/njupt-corpus"
+
+          pushd seed
+          oras push \
+            --artifact-type application/vnd.njupt.corpus \
+            --annotation "org.opencontainers.image.source=${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}" \
+            "$registry:$artifact_id,current" \
+            "$corpus_archive:application/vnd.njupt.corpus+zstd" \
+            "$packages_archive:application/vnd.njupt.site-packages+zstd"
+          popd
+
+          digest="$(oras resolve "$registry:$artifact_id")"
+          test "$(oras resolve "$registry:current")" = "$digest"
+          mkdir verify
+          oras pull "$registry@$digest" --output verify
+          printf '%s  %s\n' "$corpus_sha256" "verify/$corpus_archive" | sha256sum --check -
+          printf '%s  %s\n' "$packages_sha256" "verify/$packages_archive" | sha256sum --check -
+          {
+            echo "### Corpus package seeded"
+            echo
+            echo "- Reference: \`$registry@$digest\`"
+            echo "- Corpus archive: \`$corpus_archive\`"
+            echo "- SitePackages archive: \`$packages_archive\`"
+          } >> "$GITHUB_STEP_SUMMARY"
