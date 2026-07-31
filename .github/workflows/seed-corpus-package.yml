@@ -25,6 +25,7 @@ jobs:
       - name: Download the recoverable source artifacts
         env:
           GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
           RELEASE_TAG: ${{ inputs.release_tag }}
         run: |
           set -euo pipefail
