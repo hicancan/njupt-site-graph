@@ -91,10 +91,12 @@ external documents. Search verifies the link artifact identity but does not
 decompress or interpret it.
 
 The scheduled `Publish NJUPT Corpus` workflow stores the complete SitePackages
-beside every immutable corpus release. The next run restores and validates that
-single prior package set before invoking the crawler with `--incremental`.
+beside every immutable corpus archive in one content-addressed OCI artifact.
+The next run restores and validates the `current` artifact before invoking the
+crawler with `--incremental`.
 Independent sites run with bounded concurrency; each site's discovery and
 incremental merge semantics remain sequential and unchanged.
-Only the first run without any prior package asset performs an explicit
-bootstrap crawl. A successful corpus release dispatches its URL, identity and
-archive SHA-256 to `njupt-search`; no source branch or data lock is rewritten.
+Only the first run without a prior artifact performs an explicit bootstrap
+crawl. A successful publication dispatches its digest-addressed OCI reference,
+identity, archive name and SHA-256 to `njupt-search`; no source branch, Git tag,
+GitHub Release or data lock is rewritten.

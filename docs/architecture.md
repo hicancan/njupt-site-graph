@@ -61,10 +61,12 @@ the registry never selects a data directory. HTTP failures, parsing failures,
 page counts, empty bodies and timestamps remain ordinary diagnostics in a
 `SitePackage`; they do not change the exported data contract.
 
-Cloud publication preserves the same boundary. Each corpus release carries the
-validated SitePackages that produced it. A scheduled run restores the newest
-immutable SitePackages asset and passes that explicit root to `crawl
---incremental` with bounded concurrency across independent sites; if no such
-asset exists, the run reports and performs the one
-bootstrap crawl. The resulting corpus is published once and dispatches only
-its URL, snapshot identity and archive hash to the search repository.
+Cloud publication preserves the same boundary. Each content-addressed OCI
+artifact carries the corpus archive and the validated SitePackages that
+produced it. A scheduled run restores the `current` artifact and passes that
+explicit package root to `crawl --incremental` with bounded concurrency across
+independent sites; if no artifact exists, the run reports and performs the one
+bootstrap crawl. The resulting artifact is addressed by its OCI manifest
+digest and dispatches only that reference, snapshot identity, archive name and
+archive hash to the search repository. Rolling data never creates Git tags or
+GitHub Releases.
