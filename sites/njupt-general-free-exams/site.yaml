@@ -1,0 +1,40 @@
+site:
+  id: njupt-general-free-exams
+  name: 南邮历年资料
+  base_url: https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams
+  domain: github.com
+  owner_unit: NJUPTFreeExams
+
+github_repository:
+  owner: NJUPTFreeExams
+  repository: NJUPT-General-Free-Exams
+  ref: master
+  article_roots:
+    - src/content/docs
+    - public
+  attachment_roots:
+    - public
+  article_extensions:
+    - md
+    - mdx
+  excluded_paths:
+    - src/content/docs/404.md
+  excluded_attachment_paths:
+    - public/favicon.svg
+  section_labels:
+    _root: 资料说明
+    Economics: 经济学
+    Management: 管理学
+    communications-and-information-engineering: 通信与信息工程
+    computer-science: 计算机
+    education-and-technology: 教育科学与技术
+    foreign-languages: 外语
+    guides: 使用指南
+    integrated-circuit-science-and-engineering: 集成电路
+    intro: 项目介绍
+    marxism: 思政课程
+    others: 其他课程
+    reserved: 复习资料
+    science: 理工基础
+    sociology-and-population-studies: 社会与人口
+  max_article_bytes: 1048576

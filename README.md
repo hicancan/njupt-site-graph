@@ -16,6 +16,13 @@ njupt-search
 This repository contains no search ranking, inverted index, WASM or search
 sharding code.
 
+The registry also includes two public GitHub-native sources. The community
+source converts the current Markdown/MDX articles from `NJUPT-Survival-Guide`
+into ordinary page records. The materials source converts its Markdown/MDX
+guides into pages and the files below `public/` into metadata-only attachments;
+the multi-gigabyte PDFs and Office files remain in the upstream repository and
+are never copied into the corpus artifact.
+
 ```text
 njupt-site-graph/
 ├─ sites/       # NJUPT SiteDefinition files and NJUPT-only plugins
@@ -54,6 +61,8 @@ Run one real crawl or every configured crawl:
 
 ```powershell
 uv run python ops/njupt.py crawl --include job91 --packages-root D:\Data\njupt-site-packages
+uv run python ops/njupt.py crawl --include njupt-survival-guide --packages-root D:\Data\njupt-site-packages
+uv run python ops/njupt.py crawl --include njupt-general-free-exams --packages-root D:\Data\njupt-site-packages
 uv run python ops/njupt.py crawl --packages-root D:\Data\njupt-site-packages
 uv run python ops/njupt.py crawl --packages-root D:\Data\njupt-site-packages --incremental
 uv run python ops/njupt.py crawl --packages-root D:\Data\njupt-site-packages --incremental --jobs 4
@@ -96,6 +105,9 @@ The next run restores and validates the `current` artifact before invoking the
 crawler with `--incremental`.
 Independent sites run with bounded concurrency; each site's discovery and
 incremental merge semantics remain sequential and unchanged.
+Restored packages are validated before crawling; newly registered sources may
+be absent from the previous archive and must be created by the same run before
+the final strict all-source validation succeeds.
 Only the first run without a prior artifact performs an explicit bootstrap
 crawl. A successful publication dispatches its digest-addressed OCI reference,
 identity, archive name and SHA-256 to `njupt-search`; no source branch, Git tag,

@@ -93,21 +93,44 @@ def _read_json_lines(path: Path) -> list[dict[str, Any]]:
     return rows
 
 
+def _validate_package(packages_root: Path, site: Any) -> None:
+    root = package_path(packages_root, site.id)
+    try:
+        validate_site_package(root, expected_site_id=site.id)
+    except (ValueError, TypeError) as error:
+        raise SystemExit(f"{site.id}: {error}") from error
+    details = _read_json_lines(root / "detail_pages.jsonl")
+    attachments = _read_json_lines(root / "attachments.jsonl")
+    for row in details:
+        if not str(row.get("url") or "").strip() or not str(row.get("title") or "").strip():
+            raise SystemExit(f"{site.id} has a detail row without url/title")
+    for row in attachments:
+        if not str(row.get("url") or "").strip():
+            raise SystemExit(f"{site.id} has an attachment row without url")
+
+
 def validate_packages(args: argparse.Namespace) -> None:
     for site in load_site_registry(REGISTRY_PATH, args.include):
-        root = package_path(args.packages_root, site.id)
-        try:
-            validate_site_package(root, expected_site_id=site.id)
-        except (ValueError, TypeError) as error:
-            raise SystemExit(f"{site.id}: {error}") from error
-        details = _read_json_lines(root / "detail_pages.jsonl")
-        attachments = _read_json_lines(root / "attachments.jsonl")
-        for row in details:
-            if not str(row.get("url") or "").strip() or not str(row.get("title") or "").strip():
-                raise SystemExit(f"{site.id} has a detail row without url/title")
-        for row in attachments:
-            if not str(row.get("url") or "").strip():
-                raise SystemExit(f"{site.id} has an attachment row without url")
+        _validate_package(args.packages_root, site)
+
+
+def validate_restored_packages(args: argparse.Namespace) -> None:
+    registrations = load_site_registry(REGISTRY_PATH, None)
+    by_id = {site.id: site for site in registrations}
+    present = {
+        path.name
+        for path in args.packages_root.iterdir()
+        if path.is_dir()
+    }
+    unknown = sorted(present - set(by_id))
+    if unknown:
+        raise SystemExit(
+            "restored SitePackages contain unregistered sources: " + ", ".join(unknown)
+        )
+    if not present:
+        raise SystemExit("restored SitePackages are empty")
+    for site_id in sorted(present):
+        _validate_package(args.packages_root, by_id[site_id])
 
 
 def summary(args: argparse.Namespace) -> None:
@@ -181,6 +204,14 @@ def main() -> int:
         required=True,
     )
     validate_package_parser.set_defaults(func=validate_packages)
+
+    validate_restored_parser = commands.add_parser("validate-restored-packages")
+    validate_restored_parser.add_argument(
+        "--packages-root",
+        type=Path,
+        required=True,
+    )
+    validate_restored_parser.set_defaults(func=validate_restored_packages)
 
     summary_parser = commands.add_parser("summary")
     summary_parser.add_argument("--include")

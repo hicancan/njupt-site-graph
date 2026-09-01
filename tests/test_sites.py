@@ -7,10 +7,12 @@ import time
 from pathlib import Path
 from types import SimpleNamespace
 
+import pytest
+
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
-from sites.plugins import job91
+from sites.plugins import github_repository, job91
 from sites.registry import load_site_registry
 from sitegraph.config import load_site_definition
 from sitegraph.package import write_site_package
@@ -280,3 +282,180 @@ def test_job91_incremental_stops_at_known_page_and_keeps_prior_facts(
     ]
     assert calls == [1, 2]
     assert {row["title"] for row in rows} == {"已有通知", "新增通知"}
+
+
+def test_github_repository_maps_articles_and_material_attachments(
+    tmp_path: Path, monkeypatch
+) -> None:
+    trees = {
+        "NJUPT-Survival-Guide": {
+            "sha": "guide-tree",
+            "truncated": False,
+            "tree": [
+                {
+                    "type": "blob",
+                    "path": "src/content/docs/life/network/router.mdx",
+                    "sha": "guide-router",
+                    "size": 162,
+                },
+                {
+                    "type": "blob",
+                    "path": "src/content/docs/index_bar_fixme.mdx",
+                    "sha": "guide-excluded",
+                    "size": 4,
+                },
+                {
+                    "type": "blob",
+                    "path": "src/assets/router.png",
+                    "sha": "guide-image",
+                    "size": 128,
+                },
+            ],
+        },
+        "NJUPT-General-Free-Exams": {
+            "sha": "materials-tree",
+            "truncated": False,
+            "tree": [
+                {
+                    "type": "blob",
+                    "path": "public/高等数学A（上）/2025期末试卷.pdf",
+                    "sha": "materials-pdf",
+                    "size": 4096,
+                },
+                {
+                    "type": "blob",
+                    "path": "src/content/docs/science/高等数学A（上）.md",
+                    "sha": "materials-article",
+                    "size": 51,
+                },
+                {
+                    "type": "blob",
+                    "path": "public/favicon.svg",
+                    "sha": "materials-favicon",
+                    "size": 40,
+                },
+            ],
+        },
+    }
+    blobs = {
+        "guide-router": (
+            "---\ntitle: 校园网路由器\ndescription: 校园网使用指南\n---\n"
+            "import { Card } from '@astrojs/starlight/components';\n"
+            "# 配置方法\n<Card title=\"提示\">请先认证网络</Card>\n"
+        ).encode(),
+        "materials-article": "# 高等数学A（上）\n历年试卷与课程资料。\n".encode(),
+    }
+    for tree in trees.values():
+        for item in tree["tree"]:
+            if item["sha"] in blobs:
+                item["size"] = len(blobs[item["sha"]])
+
+    class FakeClient:
+        requested_blobs: list[str] = []
+
+        def tree(self, settings):
+            return trees[settings.repository]
+
+        def blob(self, _settings, sha: str) -> bytes:
+            self.requested_blobs.append(sha)
+            return blobs[sha]
+
+    monkeypatch.setattr(github_repository, "GitHubClient", FakeClient)
+
+    guide_output = tmp_path / "guide"
+    guide_definition = load_site_definition(
+        ROOT / "sites/njupt-survival-guide/site.yaml"
+    )
+    guide = github_repository.crawl(
+        definition=guide_definition,
+        config=guide_definition.config,
+        output_path=guide_output,
+        dry_run=False,
+        incremental=False,
+    )
+    assert guide is not None
+    write_site_package(guide, guide_output, incremental=False)
+    guide_rows = [
+        json.loads(line)
+        for line in (guide_output / "detail_pages.jsonl")
+        .read_text(encoding="utf-8")
+        .splitlines()
+    ]
+    assert [row["title"] for row in guide_rows] == ["校园网路由器"]
+    assert "校园网使用指南" in guide_rows[0]["content_text"]
+    assert "请先认证网络" in guide_rows[0]["content_text"]
+    assert "import" not in guide_rows[0]["content_text"]
+    assert guide_rows[0]["url"].endswith(
+        "/blob/main/src/content/docs/life/network/router.mdx"
+    )
+
+    materials_output = tmp_path / "materials"
+    materials_definition = load_site_definition(
+        ROOT / "sites/njupt-general-free-exams/site.yaml"
+    )
+    materials = github_repository.crawl(
+        definition=materials_definition,
+        config=materials_definition.config,
+        output_path=materials_output,
+        dry_run=False,
+        incremental=False,
+    )
+    assert materials is not None
+    write_site_package(materials, materials_output, incremental=False)
+    attachment_rows = [
+        json.loads(line)
+        for line in (materials_output / "attachments.jsonl")
+        .read_text(encoding="utf-8")
+        .splitlines()
+    ]
+    assert len(attachment_rows) == 1
+    assert attachment_rows[0]["name"] == "高等数学A（上） · 2025期末试卷.pdf"
+    assert attachment_rows[0]["extension"] == "pdf"
+    assert attachment_rows[0]["bytes"] == 4096
+    assert set(FakeClient.requested_blobs) == {"guide-router", "materials-article"}
+
+
+def test_github_repository_rejects_truncated_tree(monkeypatch) -> None:
+    class FakeClient:
+        def tree(self, _settings):
+            return {"sha": "tree", "truncated": True, "tree": []}
+
+    monkeypatch.setattr(github_repository, "GitHubClient", FakeClient)
+    definition = load_site_definition(ROOT / "sites/njupt-survival-guide/site.yaml")
+    with pytest.raises(RuntimeError, match="missing or truncated"):
+        github_repository.crawl(
+            definition=definition,
+            config=definition.config,
+            output_path=Path("unused"),
+            dry_run=False,
+            incremental=False,
+        )
+
+
+def test_validate_restored_packages_allows_new_registered_sources(
+    tmp_path: Path, monkeypatch
+) -> None:
+    sites = [SimpleNamespace(id="existing"), SimpleNamespace(id="new-source")]
+    (tmp_path / "existing").mkdir()
+    validated: list[str] = []
+    monkeypatch.setattr(njupt, "load_site_registry", lambda *_args: sites)
+    monkeypatch.setattr(
+        njupt,
+        "_validate_package",
+        lambda _root, site: validated.append(site.id),
+    )
+    njupt.validate_restored_packages(SimpleNamespace(packages_root=tmp_path))
+    assert validated == ["existing"]
+
+
+def test_validate_restored_packages_rejects_unregistered_source(
+    tmp_path: Path, monkeypatch
+) -> None:
+    (tmp_path / "retired").mkdir()
+    monkeypatch.setattr(
+        njupt,
+        "load_site_registry",
+        lambda *_args: [SimpleNamespace(id="current")],
+    )
+    with pytest.raises(SystemExit, match="unregistered sources: retired"):
+        njupt.validate_restored_packages(SimpleNamespace(packages_root=tmp_path))

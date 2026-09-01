@@ -74,12 +74,14 @@ jobs:
           asset_name="${packages_archives[0]}"
           mkdir artifact/site-packages
           tar --zstd -xf "artifact/previous/$asset_name" -C artifact/site-packages
-          .venv/bin/python ops/njupt.py validate-packages \
+          .venv/bin/python ops/njupt.py validate-restored-packages \
             --packages-root artifact/site-packages
           echo "mode=incremental" >> "$GITHUB_OUTPUT"
           echo "Restored $asset_name from the current OCI artifact for incremental crawling."
 
       - name: Crawl and export one immutable snapshot
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
           if [ "${{ steps.previous.outputs.mode }}" = "incremental" ]; then

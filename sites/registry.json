@@ -7,6 +7,8 @@
     {"id": "lib", "config": "sites/lib/site.yaml"},
     {"id": "xxb", "config": "sites/xxb/site.yaml"},
     {"id": "www", "config": "sites/www/site.yaml"},
+    {"id": "njupt-survival-guide", "config": "sites/njupt-survival-guide/site.yaml", "plugin": "sites.plugins.github_repository:crawl"},
+    {"id": "njupt-general-free-exams", "config": "sites/njupt-general-free-exams/site.yaml", "plugin": "sites.plugins.github_repository:crawl"},
     {"id": "job91", "config": "sites/job91/site.yaml", "plugin": "sites.plugins.job91:crawl"},
     {"id": "tyb", "config": "sites/tyb/site.yaml"},
     {"id": "bwc", "config": "sites/bwc/site.yaml"},

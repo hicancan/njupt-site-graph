@@ -1,0 +1,30 @@
+site:
+  id: njupt-survival-guide
+  name: 南邮生存手册
+  base_url: https://github.com/NJUPT-NAVI/NJUPT-Survival-Guide
+  domain: github.com
+  owner_unit: NJUPT-NAVI
+
+github_repository:
+  owner: NJUPT-NAVI
+  repository: NJUPT-Survival-Guide
+  ref: main
+  article_roots:
+    - src/content/docs
+  attachment_roots: []
+  article_extensions:
+    - md
+    - mdx
+  excluded_paths:
+    - src/content/docs/index_bar_fixme.mdx
+  excluded_attachment_paths: []
+  section_labels:
+    _root: 首页
+    contribution: 共建指南
+    entertainment: 校园娱乐
+    freshman: 新生指南
+    guides: 阅读指南
+    learn: 学习指南
+    license: 许可说明
+    life: 校园生活
+  max_article_bytes: 1048576

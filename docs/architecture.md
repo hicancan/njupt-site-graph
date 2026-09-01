@@ -11,7 +11,7 @@ sites/* SiteDefinition
 ```
 
 `sites` contains NJUPT configuration and exceptional integrations such as the
-91job API. `corpus` owns the only downstream contract. `ops` composes crawl,
+91job API and public GitHub repositories. `corpus` owns the only downstream contract. `ops` composes crawl,
 validation, export and publication commands without implementing extraction or
 search.
 
@@ -42,6 +42,16 @@ search input by itself; labelled external links are materialized as ordinary
 `kind=external` documents, while missing labels remain `null` rather than being
 invented from a URL.
 
+The GitHub repository integration consumes the recursive Git tree as the
+complete current source. It downloads only configured UTF-8 Markdown/MDX blobs.
+For the course-materials repository, every other file below `public/` becomes
+an attachment whose searchable name preserves the full course directory path,
+extension, blob identity and byte count. File bodies are not downloaded or
+republished. Stable branch URLs keep document identity stable while Git blob
+SHA values make changed content explicit. Truncated trees, oversized articles,
+invalid UTF-8, missing blob identities and unknown plugin configuration fail
+the crawl.
+
 The corpus exporter removes only aliases that it can prove are the same
 upstream object: WebPlus article URLs with the same source article identifier
 are merged only when title, body, dates, kind and tags are equal, and repeated
@@ -70,3 +80,8 @@ bootstrap crawl. The resulting artifact is addressed by its OCI manifest
 digest and dispatches only that reference, snapshot identity, archive name and
 archive hash to the search repository. Rolling data never creates Git tags or
 GitHub Releases.
+When the registry gains a source, restore validation checks every package that
+actually exists and rejects unknown retired directories; the crawl must then
+materialize the new source, after which the ordinary strict validator requires
+the complete registry. This is a publication bootstrap rule, not an alternate
+package format or a missing-source fallback in the exported corpus.
